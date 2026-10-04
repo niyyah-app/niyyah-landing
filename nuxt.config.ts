@@ -129,6 +129,7 @@ export default defineNuxtConfig({
       { code: 'ta', language: 'ta', name: 'தமிழ்' },
       { code: 'tl', language: 'tl', name: 'Filipino' },
       { code: 'ku', language: 'ku', name: 'Kurdî' },
+      { code: 'ky', language: 'ky', name: 'Кыргызча' },
       { code: 'ha', language: 'ha', name: 'Hausa' },
       { code: 'ps', language: 'ps', name: 'پښتو', dir: 'rtl' },
       { code: 'jv', language: 'jv', name: 'Basa Jawa' },

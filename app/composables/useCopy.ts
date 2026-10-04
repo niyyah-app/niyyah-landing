@@ -17,6 +17,7 @@ import { it } from '~/content/it'
 import { jv } from '~/content/jv'
 import { kk } from '~/content/kk'
 import { ku } from '~/content/ku'
+import { ky } from '~/content/ky'
 import { ml } from '~/content/ml'
 import { ms } from '~/content/ms'
 import { nl } from '~/content/nl'
@@ -68,6 +69,7 @@ const byLocale: Record<string, Copy> = {
   jv,
   kk,
   ku,
+  ky,
   ml,
   ms,
   nl,
