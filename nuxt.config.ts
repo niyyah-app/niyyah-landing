@@ -1,6 +1,19 @@
 import { existsSync } from 'node:fs'
 
-const siteUrl = 'https://www.niyyahmarriage.com'
+// Bez `www.` — to je ono što `CNAME` stvarno poslužuje, a `www.` se samo
+// preusmjerava na njega.
+//
+// Odavde ide sve što stranica tvrdi o sebi: `canonical`, `og:url`, svih
+// 41 `hreflang`, i sitemap. Dok je ovdje stajao `www.`, svaka od tih
+// adresa je pokazivala na host koji vraća 301 na pravi. Google traži da
+// `hreflang` veze idu na kanonske adrese do kojih se stiže bez
+// preusmjerenja i da budu uzajamne; kad nisu, cijelu grupu jezika
+// odbacuje. To znači da četrdeset prijevoda — malajski, indonežanski,
+// turski, arapski — nikad nije ni bilo povezano kao verzije iste
+// stranice, pa ih pretraga nema razloga ponuditi nikome ko traži na tom
+// jeziku. Sitemap je uz to bio „cross-submission": na jednom hostu, a
+// nabraja adrese drugog.
+const siteUrl = 'https://niyyahmarriage.com'
 
 // Linkovi na Niyyah u trgovinama, npr.
 //   https://apps.apple.com/app/niyyah/id1234567890
