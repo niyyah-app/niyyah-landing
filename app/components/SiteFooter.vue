@@ -98,8 +98,11 @@ const guide = computed(() => (isGuideLocale(locale.value) ? guideUi[locale.value
   text-underline-offset: 3px;
 }
 
+/* Četrdeset i jedan jezik ne staje u red: bez prelamanja je većina bila
+   odsječena desno od ekrana, vidljiva samo tražilici. */
 .ftr__langs {
   display: flex;
+  flex-wrap: wrap;
   gap: 0.5rem;
 }
 

@@ -26,6 +26,8 @@ const current = computed(() => locales.value.find((l) => l.code === locale.value
 
 /** Kratka oznaka na dugmetu: „BS", „EN", „SQ". */
 const short = computed(() => locale.value.slice(0, 2).toUpperCase())
+// Ime dugmeta počinje onim što piše na njemu („BS · Jezik"): čitač ekrana i
+// glasovna komanda „klikni BS" moraju se slagati s onim što se vidi.
 
 function close() {
   open.value = false
@@ -60,7 +62,7 @@ onBeforeUnmount(() => {
       class="lang__btn"
       :aria-expanded="open"
       aria-haspopup="true"
-      :aria-label="c.nav.language"
+      :aria-label="`${props.variant === 'mobile' ? (current?.name ?? short) : short} · ${c.nav.language}`"
       @click="open = !open"
     >
       <Icon name="globe" :size="17" />
