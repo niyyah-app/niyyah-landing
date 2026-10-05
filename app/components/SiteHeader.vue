@@ -24,7 +24,7 @@ watch(open, (v) => document.documentElement.classList.toggle('menu-open', v))
   <header class="hdr" :class="{ 'is-solid': scrolled || open }">
     <div class="wrap hdr__row">
       <NuxtLink :to="localePath('/')" class="hdr__brand" :aria-label="c.nav.home">
-        <img src="/logo.webp" alt="Niyyah" width="1323" height="1189" />
+        <img src="/logo-372.webp" alt="Niyyah" width="414" height="372" />
       </NuxtLink>
 
       <nav class="hdr__nav" :aria-label="c.nav.label">

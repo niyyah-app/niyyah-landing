@@ -57,3 +57,12 @@ Trenutni `public/logo.png` na dnu piše „HALAL DATING APP", a brief kaže da s
 riječ „dating" ne koristi. Ako postoji verzija bez tog teksta, zamijeni
 `public/logo.png` (kvadrat, najmanje 480 × 480 px, providna pozadina) i
 `public/favicon-512.jpg`.
+
+Stranica ne prikazuje `logo.webp` (1323 × 1189, 314 KB) nego njegovu umanjenu
+kopiju `public/logo-372.webp` (visina 372 px, ~45 KB): zaglavlje i podnožje
+ga pokazuju najviše 124 px visoko, pa je to dovoljno i za ekrane 3×. Kad se
+logo zamijeni, napravi kopiju ponovo:
+
+```bash
+cwebp -resize 0 372 -q 80 -alpha_q 90 public/logo.webp -o public/logo-372.webp
+```

@@ -11,10 +11,10 @@ const { reopen } = useConsent()
     <div class="wrap ftr__row">
       <div class="ftr__brand">
         <img
-          src="/logo.webp"
+          src="/logo-372.webp"
           alt="Niyyah"
-          width="1323"
-          height="1189"
+          width="414"
+          height="372"
           loading="lazy"
         />
         <div>
