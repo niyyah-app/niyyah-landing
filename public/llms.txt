@@ -1,0 +1,35 @@
+# Niyyah
+
+> Niyyah is a mobile app (iOS and Android) for Muslims who are looking for a spouse, built around Islamic limits: only the opposite gender, messages open only on mutual interest, an optional mahram (family member) in the conversation, and a moderated community. Made in Bosnia and Herzegovina. Tagline: "Brak, tražen s namjerom." (Marriage, sought with intention.)
+
+Niyyah means "intention". The app is built for marriage, not for browsing. It is not yet in the App Store or Google Play; the site has a waitlist.
+
+## What the app does
+
+- Discover shows only the opposite gender. This is a server rule, not a filter.
+- Messages open only when both people like each other. One short introductory message can be sent from Discover, but it waits and is delivered only after a match.
+- Mahram portal: a woman can turn on "Require a mahram" and invite up to three people (father, brother, uncle, guardian or another mahram) by email. They see her conversations and matches in a read-only portal; they cannot write and do not use the app to meet anyone. One mahram can look after several people. Available on women's profiles.
+- Questions before chatting: a user sets up to three questions; after a match the other person answers first, and the user decides whether the conversation opens.
+- Profiles include relationship with faith, prayer, madhhab, hijab, timeframe for marriage, willingness to move, children, and answers to "Situations" in seven areas (marriage, communication, conflict, family, faith, finances, parenting).
+- Safety: exact location is never shown; photos are checked on upload and EXIF/GPS data is removed; phone or email verification before Discover; optional Verified badge; reports are read by real moderators; blocking works both ways; Discover can be paused.
+- Community: moderated posts (every post is reviewed before it appears), separate spaces visible to one gender only, anonymous questions.
+- Languages: the app is in 9 languages — Bosnian, English, German, Turkish, Arabic, Indonesian, Urdu, Malay and French.
+- Free: profile, Discover, 20 likes a day, 1 introductory message a day, unlimited chat with matches, mahram, questions before chatting, community. Premium adds seeing who liked you, unlimited likes and introductory messages, extra filters, and replying to stories.
+
+Niyyah does not issue fatwas and does not claim approval from any religious institution.
+
+## Pages
+
+- [Niyyah (Bosnian)](https://niyyahmarriage.com/): main page
+- [Niyyah (English)](https://niyyahmarriage.com/en): main page in English
+- [Niyyah (Deutsch)](https://niyyahmarriage.com/de): main page in German
+- [Niyyah (Türkçe)](https://niyyahmarriage.com/tr): main page in Turkish
+
+## Guide
+
+- [Who is a mahram](https://niyyahmarriage.com/en/guide/who-is-a-mahram): who counts as a mahram, how a mahram differs from a wali, and the mahram's role when looking for a spouse
+- [Is it halal to look for a spouse through an app?](https://niyyahmarriage.com/en/guide/is-a-muslim-marriage-app-halal): what Islam asks of people getting to know each other for marriage
+- [Questions to ask before marriage](https://niyyahmarriage.com/en/guide/questions-to-ask-before-marriage): faith, children, moving, money, family
+- [Vodič (Bosnian guide)](https://niyyahmarriage.com/vodic): also covers nikah conditions, wali and mahr; how to look for a spouse in Islam; a guide for parents
+- [Ratgeber (German guide)](https://niyyahmarriage.com/de/ratgeber)
+- [Rehber (Turkish guide)](https://niyyahmarriage.com/tr/rehber)
