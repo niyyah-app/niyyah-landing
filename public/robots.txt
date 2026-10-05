@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.niyyahmarriage.com/sitemap_index.xml
+Sitemap: https://niyyahmarriage.com/sitemap_index.xml

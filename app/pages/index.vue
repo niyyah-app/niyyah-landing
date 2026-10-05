@@ -1,6 +1,6 @@
 <script setup lang="ts">
 const c = useCopy()
-const { locale } = useI18n()
+const { locale, locales } = useI18n()
 const { siteUrl, ogImage, appLaunched, appStoreUrl, googlePlayUrl } = useRuntimeConfig().public
 const storeLinks = appLaunched ? [appStoreUrl, googlePlayUrl].filter(Boolean) : []
 // Safari na iPhoneu prikazuje traku "Otvori / Preuzmi" iznad stranice.
@@ -47,7 +47,7 @@ useHead(() => ({
             '@id': `${siteUrl}/#website`,
             url: siteUrl,
             name: 'Niyyah',
-            inLanguage: ['bs', 'en'],
+            inLanguage: locales.value.map((l) => l.language ?? l.code),
             publisher: { '@id': `${siteUrl}/#org` },
           },
           {

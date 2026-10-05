@@ -1,6 +1,6 @@
 # Niyyah — landing stranica
 
-Marketinška stranica za [niyyahmarriage.com](https://www.niyyahmarriage.com).
+Marketinška stranica za [niyyahmarriage.com](https://niyyahmarriage.com).
 Nuxt 4, statički generisana, bosanski (`/`) i engleski (`/en`).
 
 Sadržaj i tvrdnje: `CLAUDE.md` (izvor istine). Slike: `SLIKE.md`.

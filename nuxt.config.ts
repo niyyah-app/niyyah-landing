@@ -196,6 +196,10 @@ export default defineNuxtConfig({
 
   nitro: {
     prerender: {
+      // `/de` se piše kao de.html, ne de/index.html. Iz podfoldera hosting
+      // vraća /de → 308 → /de/, a canonical i hreflang kažu /de — Google bi
+      // tako na svakom jeziku dobio adresu koja se preusmjerava.
+      autoSubfolderIndex: false,
       routes: ['/', '/en'],
       crawlLinks: true,
     },
