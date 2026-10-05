@@ -19,6 +19,9 @@ useSeoMeta({
   ogUrl: () => pageUrl.value,
   ogImage: image,
   ogImageAlt: () => c.value.meta.ogAlt,
+  // Facebook i WhatsApp s dimenzijama prikažu sliku odmah, bez čekanja da je skinu.
+  ogImageWidth: ogImage === '/og-image.jpg' ? 1200 : 512,
+  ogImageHeight: ogImage === '/og-image.jpg' ? 630 : 512,
   twitterCard: 'summary_large_image',
   twitterTitle: () => c.value.meta.title,
   twitterDescription: () => c.value.meta.description,
