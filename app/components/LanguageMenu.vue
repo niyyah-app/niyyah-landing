@@ -15,7 +15,7 @@ const props = withDefaults(defineProps<{ variant?: 'header' | 'mobile' }>(), {
 
 const c = useCopy()
 const { locale, locales } = useI18n()
-const switchLocalePath = useSwitchLocalePath()
+const languageLink = useLanguageLink()
 
 const open = ref(false)
 const root = ref<HTMLElement | null>(null)
@@ -71,7 +71,7 @@ onBeforeUnmount(() => {
     <ul v-show="open" class="lang__list" :aria-label="c.nav.language">
       <li v-for="l in locales" :key="l.code">
         <NuxtLink
-          :to="switchLocalePath(l.code)"
+          :to="languageLink(l.code)"
           :hreflang="l.language ?? l.code"
           :lang="l.language ?? l.code"
           :dir="l.dir"

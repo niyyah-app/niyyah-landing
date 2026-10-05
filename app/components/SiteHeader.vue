@@ -3,6 +3,14 @@ const c = useCopy()
 const localePath = useLocalePath()
 const { appLaunched } = useRuntimeConfig().public
 
+// Sidra (#mahrem, #pridruzi…) žive na početnoj. S članka vodiča vode
+// nazad na nju; dugme za prijavu ostaje na mjestu, jer članak ima svoj
+// završni poziv s istim sidrom.
+const route = useRoute()
+const home = computed(() => localePath('/'))
+const onHome = computed(() => route.path === home.value)
+const anchor = (href: string) => (onHome.value ? href : `${home.value}${href}`)
+
 const scrolled = ref(false)
 const open = ref(false)
 
@@ -21,14 +29,14 @@ watch(open, (v) => document.documentElement.classList.toggle('menu-open', v))
 
 <template>
   <a class="skip" href="#sadrzaj">{{ c.nav.skip }}</a>
-  <header class="hdr" :class="{ 'is-solid': scrolled || open }">
+  <header class="hdr" :class="{ 'is-solid': scrolled || open || !onHome }">
     <div class="wrap hdr__row">
       <NuxtLink :to="localePath('/')" class="hdr__brand" :aria-label="c.nav.home">
         <img src="/logo-372.webp" alt="Niyyah" width="414" height="372" />
       </NuxtLink>
 
       <nav class="hdr__nav" :aria-label="c.nav.label">
-        <a v-for="l in c.nav.links" :key="l.href" :href="l.href">{{ l.label }}</a>
+        <a v-for="l in c.nav.links" :key="l.href" :href="anchor(l.href)">{{ l.label }}</a>
       </nav>
 
       <!-- Na telefonu je ovo redom kojim se i vidi: dugme, meni, jezik. Na
@@ -55,7 +63,7 @@ watch(open, (v) => document.documentElement.classList.toggle('menu-open', v))
 
     <nav id="mob-nav" class="mob" :class="{ 'is-open': open }" :aria-label="c.nav.label" :inert="!open || undefined">
       <div class="mob__in">
-        <a v-for="l in c.nav.links" :key="l.href" :href="l.href" @click="open = false">{{ l.label }}</a>
+        <a v-for="l in c.nav.links" :key="l.href" :href="anchor(l.href)" @click="open = false">{{ l.label }}</a>
         <LanguageMenu variant="mobile" />
       </div>
     </nav>

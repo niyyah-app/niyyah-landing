@@ -96,6 +96,7 @@ useHead(() => ({
       <LanguagesSection />
       <PricingSection />
       <AboutSection />
+      <GuideSection />
       <FaqSection />
       <FinalCta />
     </main>

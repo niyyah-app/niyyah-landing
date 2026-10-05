@@ -1,9 +1,13 @@
 <script setup lang="ts">
+import { guideUi, isGuideLocale } from '~/guide/registry'
+
 const c = useCopy()
+const localePath = useLocalePath()
 const { locale, locales } = useI18n()
-const switchLocalePath = useSwitchLocalePath()
+const languageLink = useLanguageLink()
 const year = new Date().getFullYear()
 const { reopen } = useConsent()
+const guide = computed(() => (isGuideLocale(locale.value) ? guideUi[locale.value] : null))
 </script>
 
 <template>
@@ -19,6 +23,7 @@ const { reopen } = useConsent()
         />
         <div>
           <p>{{ c.footer.tagline }}</p>
+          <NuxtLink v-if="guide" :to="localePath('/vodic')" class="ftr__guide">{{ guide.title }}</NuxtLink>
         </div>
       </div>
 
@@ -26,7 +31,7 @@ const { reopen } = useConsent()
         <NuxtLink
           v-for="l in locales"
           :key="l.code"
-          :to="switchLocalePath(l.code)"
+          :to="languageLink(l.code)"
           :hreflang="l.language ?? l.code"
           :lang="l.language ?? l.code"
           :aria-current="l.code === locale ? 'true' : undefined"
@@ -84,6 +89,13 @@ const { reopen } = useConsent()
 .ftr__brand img {
   width: auto;
   height: 124px;
+}
+
+.ftr__guide {
+  display: inline-block;
+  margin-top: 0.5rem;
+  color: var(--gold);
+  text-underline-offset: 3px;
 }
 
 .ftr__langs {
