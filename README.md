@@ -1,9 +1,10 @@
 # Niyyah — landing stranica
 
-Marketinška stranica za [niyyahmarriage.com](https://www.niyyahmarriage.com).
-Nuxt 4, statički generisana, bosanski (`/`) i engleski (`/en`).
+Marketinška stranica za [niyyahmarriage.com](https://niyyahmarriage.com).
+Nuxt 4, statički generisana, na 41 jeziku (bosanski na `/`, ostali na `/<kod>`),
+s vodičem na bosanskom, engleskom, njemačkom i turskom.
 
-Sadržaj i tvrdnje: `CLAUDE.md` (izvor istine). Slike: `SLIKE.md`.
+Sadržaj i tvrdnje: `CLAUDE.md` (izvor istine). Slike: `SLIKE.md`. SEO: `SEO.md`.
 
 ## Pokretanje
 
@@ -15,7 +16,8 @@ npm run generate   # statički build u .output/public
 
 ## Gdje je šta
 
-- `app/content/bs.ts`, `app/content/en.ts` — sav tekst stranice (en mora imati iste ključeve kao bs)
+- `app/content/<jezik>.ts` — sav tekst landinga; tip `Copy` iz `bs.ts` traži da svaki jezik ima sve ključeve
+- `app/guide/` — članci vodiča (markdown po jeziku) i `registry.ts` s njihovim podacima
 - `app/components/` — sekcije stranice, redom kako ih slaže `app/pages/index.vue`
 - `app/components/mock/` — HTML makete ekrana dok nema screenshotova
 - `app/assets/images/` — screenshotovi (prepoznaju se po imenu, vidi `SLIKE.md`)

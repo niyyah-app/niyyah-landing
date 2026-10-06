@@ -1,6 +1,6 @@
 <script setup lang="ts">
 const c = useCopy()
-const { locale } = useI18n()
+const { locale, locales } = useI18n()
 const { siteUrl, ogImage, appLaunched, appStoreUrl, googlePlayUrl } = useRuntimeConfig().public
 const storeLinks = appLaunched ? [appStoreUrl, googlePlayUrl].filter(Boolean) : []
 // Safari na iPhoneu prikazuje traku "Otvori / Preuzmi" iznad stranice.
@@ -19,6 +19,9 @@ useSeoMeta({
   ogUrl: () => pageUrl.value,
   ogImage: image,
   ogImageAlt: () => c.value.meta.ogAlt,
+  // Facebook i WhatsApp s dimenzijama prikažu sliku odmah, bez čekanja da je skinu.
+  ogImageWidth: ogImage === '/og-image.jpg' ? 1200 : 512,
+  ogImageHeight: ogImage === '/og-image.jpg' ? 630 : 512,
   twitterCard: 'summary_large_image',
   twitterTitle: () => c.value.meta.title,
   twitterDescription: () => c.value.meta.description,
@@ -47,7 +50,7 @@ useHead(() => ({
             '@id': `${siteUrl}/#website`,
             url: siteUrl,
             name: 'Niyyah',
-            inLanguage: ['bs', 'en'],
+            inLanguage: locales.value.map((l) => l.language ?? l.code),
             publisher: { '@id': `${siteUrl}/#org` },
           },
           {
@@ -96,6 +99,7 @@ useHead(() => ({
       <LanguagesSection />
       <PricingSection />
       <AboutSection />
+      <GuideSection />
       <FaqSection />
       <FinalCta />
     </main>

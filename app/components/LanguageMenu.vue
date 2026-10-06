@@ -15,7 +15,7 @@ const props = withDefaults(defineProps<{ variant?: 'header' | 'mobile' }>(), {
 
 const c = useCopy()
 const { locale, locales } = useI18n()
-const switchLocalePath = useSwitchLocalePath()
+const languageLink = useLanguageLink()
 
 const open = ref(false)
 const root = ref<HTMLElement | null>(null)
@@ -26,6 +26,8 @@ const current = computed(() => locales.value.find((l) => l.code === locale.value
 
 /** Kratka oznaka na dugmetu: „BS", „EN", „SQ". */
 const short = computed(() => locale.value.slice(0, 2).toUpperCase())
+// Ime dugmeta počinje onim što piše na njemu („BS · Jezik"): čitač ekrana i
+// glasovna komanda „klikni BS" moraju se slagati s onim što se vidi.
 
 function close() {
   open.value = false
@@ -60,7 +62,7 @@ onBeforeUnmount(() => {
       class="lang__btn"
       :aria-expanded="open"
       aria-haspopup="true"
-      :aria-label="c.nav.language"
+      :aria-label="`${props.variant === 'mobile' ? (current?.name ?? short) : short} · ${c.nav.language}`"
       @click="open = !open"
     >
       <Icon name="globe" :size="17" />
@@ -71,7 +73,7 @@ onBeforeUnmount(() => {
     <ul v-show="open" class="lang__list" :aria-label="c.nav.language">
       <li v-for="l in locales" :key="l.code">
         <NuxtLink
-          :to="switchLocalePath(l.code)"
+          :to="languageLink(l.code)"
           :hreflang="l.language ?? l.code"
           :lang="l.language ?? l.code"
           :dir="l.dir"

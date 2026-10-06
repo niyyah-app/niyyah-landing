@@ -172,7 +172,9 @@ export default defineNuxtConfig({
       subsets: ['latin', 'latin-ext'],
     },
     families: [
-      { name: 'Gloock', provider: 'google', weights: [400] },
+      // Naslov u heru je najveći element prvog ekrana (LCP), pa njegov font
+      // kreće odmah, ne tek kad pregledač pročita CSS.
+      { name: 'Gloock', provider: 'google', weights: [400], preload: true },
       // Jost nosi i ćirilicu; bez tog podskupa ruski bi pao na sistemski font
       // i stranica bi na ruskom izgledala kao tuđa.
       { name: 'Jost', provider: 'google', weights: [400, 500], subsets: ['latin', 'latin-ext', 'cyrillic', 'cyrillic-ext'] },
@@ -190,12 +192,25 @@ export default defineNuxtConfig({
     ],
   },
 
+  hooks: {
+    // Bez unaprijednog dohvatanja. Nuxt bi inače odmah po učitavanju skidao
+    // tekst svih jezika i velike slike iz donjih sekcija — na mobilnom to
+    // otima mrežu od prvog ekrana, a posjetilac od toga koristi jedan jezik.
+    'build:manifest': (manifest) => {
+      for (const chunk of Object.values(manifest)) chunk.prefetch = false
+    },
+  },
+
   sitemap: {
     autoI18n: true,
   },
 
   nitro: {
     prerender: {
+      // `/de` se piše kao de.html, ne de/index.html. Iz podfoldera hosting
+      // vraća /de → 308 → /de/, a canonical i hreflang kažu /de — Google bi
+      // tako na svakom jeziku dobio adresu koja se preusmjerava.
+      autoSubfolderIndex: false,
       routes: ['/', '/en'],
       crawlLinks: true,
     },
