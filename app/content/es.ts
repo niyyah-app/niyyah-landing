@@ -312,30 +312,34 @@ export const es: Copy = {
 
 
   pricing: {
-    kicker: 'Gratis y Premium',
+    kicker: 'Gratis y monedas',
     title: 'Lo que te protege es gratis.',
-    lead: 'El mahram, las preguntas antes de hablar, el chat cerrado y la moderación están para todos. No cobramos por la seguridad. Premium solo acelera.',
+    lead: 'El mahram, las preguntas antes de hablar, el chat cerrado y la moderación están para todos. No cobramos por la seguridad. Las monedas solo aceleran — y no hay suscripción.',
     freeTitle: 'Gratis, para cualquiera',
     free: [
-      'Perfil y Descubrir',
+      'Un perfil y 30 perfiles al día en Descubrir',
       '20 «me gusta» al día',
       '1 mensaje de presentación al día',
       'Coincidencias y conversación sin límite con ellas',
       'Un mahram en la conversación',
       'Preguntas antes de hablar',
       'Comunidad, relatos y Pregunta del día',
+      'Monedas gratis cada día',
     ],
-    premiumTitle: 'Premium, cuando quieras más',
+    premiumTitle: 'Monedas, cuando quieras más',
     premium: [
       'Ve quién te ha dado «me gusta»',
-      '«Me gusta» sin límite',
-      'Mensajes de presentación sin límite desde Descubrir',
-      'Filtros adicionales',
+      'Un super «me gusta» que abre la conversación al instante',
+      'Mensajes de presentación extra',
+      'Más «me gusta» y perfiles para hoy',
+      'Recupera un perfil que pasaste',
       'Responder a los relatos de la comunidad',
+      'Boost: tu perfil primero en Descubrir',
     ],
     extra:
-      'Una sola vez, si quieres: el distintivo Verificado y Boost, que pone tu perfil primero en Descubrir durante un tiempo determinado.',
+      'Las monedas también las ganas gratis: cada día, por siete días seguidos, por completar tu perfil y por invitar a amigos. Las compras solo si quieres, una sola vez, en el App Store o Google Play — sin suscripción ni renovación automática.',
   },
+
 
   about: {
     kicker: 'Sobre nosotros',
@@ -371,11 +375,11 @@ export const es: Copy = {
       },
       {
         q: '¿Cómo protegéis de los perfiles falsos?',
-        a: 'Cada foto se revisa al subirla: un rostro claro, una sola persona, no borrosa ni tapada. Antes de Descubrir confirmas tu teléfono con un código SMS, o tu correo. El distintivo Verificado significa que la persona ha pasado una comprobación breve de que es la de las fotos. Las denuncias las leen moderadores de verdad, que pueden suspender o vetar perfiles, y el bloqueo va en los dos sentidos.',
+        a: 'El distintivo Verificado significa que la persona ha pasado una comprobación facial: se comparó una foto suya en directo con las imágenes de su perfil. Las denuncias las leen moderadores de verdad, que pueden suspender o vetar un perfil, y el bloqueo va en los dos sentidos. Una cuenta vetada no puede volver sin más con un correo nuevo.',
       },
       {
-        q: '¿Qué es gratis y qué es Premium? ¿Cómo lo cancelo?',
-        a: 'Todo lo que te protege es gratis: el mahram, las preguntas antes de hablar, el chat cerrado y la moderación, además de 20 «me gusta» y un mensaje de presentación al día y conversación sin límite con tus coincidencias. Premium añade ver quién te ha dado «me gusta», «me gusta» y mensajes de presentación sin límite, filtros adicionales y respuestas a los relatos. Premium se cancela en los ajustes de suscripciones de tu teléfono, en App Store o Google Play.',
+        q: '¿Qué es gratis y qué cuesta monedas?',
+        a: 'Todo lo que te protege es gratis: el mahram, las preguntas antes de hablar, el chat cerrado y la moderación, además de 20 «me gusta» y un mensaje de presentación al día y conversación sin límite con tus coincidencias. Con monedas puedes ver quién te ha dado «me gusta», enviar un super «me gusta» o un mensaje de presentación extra, conseguir más perfiles y «me gusta» para ese día y responder a los relatos. Ganas monedas gratis cada día, y también puedes comprarlas una sola vez. No hay suscripción, así que no hay nada que cancelar.',
       },
       {
         q: '¿Puedo ocultar mi perfil un tiempo?',

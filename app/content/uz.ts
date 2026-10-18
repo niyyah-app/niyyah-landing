@@ -312,30 +312,34 @@ export const uz: Copy = {
 
 
   pricing: {
-    kicker: 'Bepul va Premium',
+    kicker: 'Bepul va tangalar',
     title: 'Sizni asraydigan narsa bepul.',
-    lead: 'Mahram, suhbatdan oldin savollar, yopiq suhbat va nazorat hammaga ochiq. Xavfsizlik uchun pul olmaymiz. Premium faqat tezlashtiradi.',
+    lead: 'Mahram, suhbatdan oldin savollar, yopiq suhbat va nazorat hammaga ochiq. Xavfsizlik uchun pul olmaymiz. Tangalar faqat tezlashtiradi — va obuna yo‘q.',
     freeTitle: 'Bepul, hamma uchun',
     free: [
-      'Profil va Kashf',
+      'Profil va Kashfda kuniga 30 ta profil',
       'Kuniga 20 yoqtirish',
       'Kuniga 1 tanishuv xabari',
       'Mosliklar va ular bilan cheksiz suhbat',
       'Suhbatda mahram',
       'Suhbatdan oldin savollar',
       'Jamoa, hikoyalar va Kun savoli',
+      'Har kuni bepul tangalar',
     ],
-    premiumTitle: 'Premium, ko‘proq xohlaganingizda',
+    premiumTitle: 'Tangalar, ko‘proq xohlaganingizda',
     premium: [
       'Kim sizni yoqtirganini ko‘ring',
-      'Cheksiz yoqtirish',
-      'Kashfdan cheksiz tanishuv xabarlari',
-      'Qo‘shimcha filtrlar',
-      'Jamoa hikoyalariga javob',
+      'Suhbatni darhol ochadigan super yoqtirish',
+      'Qo‘shimcha tanishuv xabarlari',
+      'Bugun uchun ko‘proq yoqtirish va profil',
+      'O‘tkazib yuborgan profilingizni qaytaring',
+      'Jamoadagi hikoyalarga javob',
+      'Boost: profilingiz Kashfda birinchi',
     ],
     extra:
-      'Bir martalik, xohlaganingizda: Tasdiqlangan belgisi va profilingizni belgilangan vaqtga Kashfda birinchi qo‘yadigan Boost.',
+      'Tangalarni bepul ham olasiz: har kuni, ketma-ket yetti kun uchun, to‘ldirilgan profil uchun va taklif qilgan do‘stlaringiz uchun. Ularni faqat xohlasangiz, bir martalik to‘lov bilan App Store yoki Google Play’da sotib olasiz — obunasiz va avtomatik yangilanishsiz.',
   },
+
 
   about: {
     kicker: 'Biz haqimizda',
@@ -371,11 +375,11 @@ export const uz: Copy = {
       },
       {
         q: 'Yolg‘on profillardan qanday himoya qilasiz?',
-        a: 'Har rasm yuklanganda tekshiriladi: aniq chehra, bir kishi, xira emas va yopilmagan. Kashfdan oldin telefon raqamini SMS kodi bilan yoki e-pochtani tasdiqlaysiz. Tasdiqlangan belgisi odam rasmdagi odam ekanligining qisqa tekshiruvidan o‘tganini bildiradi. Shikoyatlarni profillarni to‘xtatib yoki taqiqlab oladigan haqiqiy moderatorlar o‘qiydi, bloklash esa ikki tomonga ishlaydi.',
+        a: 'Tasdiqlangan belgisi odam yuz tekshiruvidan o‘tganini bildiradi: uning jonli olingan surati profildagi rasmlar bilan solishtirilgan. Shikoyatlarni profilni to‘xtatib qo‘yishi yoki taqiqlashi mumkin bo‘lgan haqiqiy moderatorlar o‘qiydi, bloklash esa ikki tomonga ishlaydi. Taqiqlangan hisob shunchaki yangi e-pochta manzili bilan qaytib kela olmaydi.',
       },
       {
-        q: 'Nima bepul va nima Premium? Qanday bekor qilaman?',
-        a: 'Sizni asraydigan hamma narsa bepul: mahram, suhbatdan oldin savollar, yopiq suhbat va nazorat, shuningdek kuniga 20 yoqtirish va bitta tanishuv xabari hamda mosliklar bilan cheksiz suhbat. Premium kim sizni yoqtirganini ko‘rishni, cheksiz yoqtirish va tanishuv xabarlarini, qo‘shimcha filtrlarni va hikoyalarga javobni qo‘shadi. Premium’ni telefoningizning obuna sozlamalarida, App Store yoki Google Play’da bekor qilasiz.',
+        q: 'Nima bepul, nima uchun tanga kerak?',
+        a: 'Sizni asraydigan hamma narsa bepul: mahram, suhbatdan oldin savollar, yopiq suhbat va nazorat, shuningdek kuniga 20 yoqtirish va bitta tanishuv xabari hamda mosliklar bilan cheksiz suhbat. Tangalar bilan kim sizni yoqtirganini ko‘rishingiz, super yoqtirish yoki qo‘shimcha tanishuv xabari yuborishingiz, o‘sha kun uchun ko‘proq profil va yoqtirish olishingiz hamda hikoyalarga javob berishingiz mumkin. Tangalarni har kuni bepul olasiz, ularni bir martalik to‘lov bilan sotib olsangiz ham bo‘ladi. Obuna yo‘q, shuning uchun bekor qiladigan narsa ham yo‘q.',
       },
       {
         q: 'Profilimni vaqtincha yashira olamanmi?',

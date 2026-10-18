@@ -311,30 +311,34 @@ export const su: Copy = {
   },
 
   pricing: {
-    kicker: 'Gratis jeung Premium',
+    kicker: 'Gratis jeung koin',
     title: 'Nu ngajaga anjeun téh gratis.',
-    lead: 'Mahram, patarosan saméméh ngobrol, obrolan konci jeung pangawasan muka pikeun sadayana. Urang teu narik bayaran pikeun kaamanan. Premium ngan nyepetan.',
+    lead: 'Mahram, patarosan saméméh ngobrol, obrolan konci jeung pangawasan muka pikeun sadayana. Urang teu narik bayaran pikeun kaamanan. Koin ngan nyepetan — sarta teu aya langganan.',
     freeTitle: 'Gratis, pikeun saha waé',
     free: [
-      'Profil jeung Téangan',
+      'Profil jeung 30 profil sapoé dina Téangan',
       '20 resep sapoé',
       '1 pesen panganteur sapoé',
       'Nu cocog jeung obrolan tanpa wates jeung maranéhna',
       'Mahram dina obrolan',
       'Patarosan saméméh ngobrol',
       'Komunitas, carita jeung Patarosan poé ieu',
+      'Koin gratis unggal poé',
     ],
-    premiumTitle: 'Premium, lamun hayang leuwih',
+    premiumTitle: 'Koin, lamun hayang leuwih',
     premium: [
       'Tingali saha nu resep ka anjeun',
-      'Resep tanpa wates',
-      'Pesen panganteur tanpa wates ti Téangan',
-      'Saringan tambahan',
+      'Super resep nu langsung muka obrolan',
+      'Pesen panganteur tambahan',
+      'Leuwih loba resep jeung profil keur poé ieu',
+      'Balikkeun profil nu ku anjeun diliwat',
       'Ngajawab carita di komunitas',
+      'Boost: profil anjeun pangheulana dina Téangan',
     ],
     extra:
-      'Sakali, lamun hayang: tanda Diverifikasi, jeung Boost nu nempatkeun profil anjeun pangheulana dina Téangan salila waktu nu ditangtukeun.',
+      'Koin ogé bisa anjeun meunangkeun gratis: unggal poé, tujuh poé berturut-turut, pikeun ngalengkepan profil jeung pikeun ngondang babaturan. Anjeun meuli ngan lamun hayang, sakali, di App Store atawa Google Play — tanpa langganan jeung tanpa perpanjangan otomatis.',
   },
+
 
   about: {
     kicker: 'Ngeunaan urang',
@@ -370,11 +374,11 @@ export const su: Copy = {
       },
       {
         q: 'Kumaha anjeun ngajaga tina profil palsu?',
-        a: 'Unggal poto dipariksa waktu diunggah: beungeut nu écés, hiji jalma, teu mabur jeung teu katutupan. Saméméh Téangan anjeun ngonfirmasi nomer telepon ku kode SMS, atawa surélék. Tanda Diverifikasi hartina jalma éta lulus pamariksaan singget yén manéhna mémang nu aya dina poto. Laporan dibaca ku moderator anu enya nu bisa ngeureunkeun atawa ngalarang profil, sarta meungpeuk jalan dua arah.',
+        a: 'Tanda Diverifikasi hartina jalma éta lulus pamariksaan beungeut: poto langsungna dibandingkeun jeung gambar-gambar dina profilna. Laporan dibaca ku moderator anu enya nu bisa ngeureunkeun atawa ngalarang profil, sarta meungpeuk jalan dua arah. Akun nu dilarang teu bisa kitu waé balik deui ku alamat surélék anyar.',
       },
       {
-        q: 'Naon nu gratis jeung naon nu Premium? Kumaha ngabatalkeunana?',
-        a: 'Sagala nu ngajaga anjeun téh gratis: mahram, patarosan saméméh ngobrol, obrolan konci jeung pangawasan, ditambah 20 resep jeung hiji pesen panganteur sapoé sarta obrolan tanpa wates jeung nu cocog. Premium nambahan ningali saha nu resep ka anjeun, resep jeung pesen panganteur tanpa wates, saringan tambahan jeung ngajawab carita. Premium dibatalkeun dina setélan langganan dina telepon anjeun, di App Store atawa Google Play.',
+        q: 'Naon nu gratis, jeung naon nu dibayar ku koin?',
+        a: 'Sagala nu ngajaga anjeun téh gratis: mahram, patarosan saméméh ngobrol, obrolan konci jeung pangawasan, ditambah 20 resep jeung hiji pesen panganteur sapoé sarta obrolan tanpa wates jeung nu cocog. Ku koin anjeun bisa ningali saha nu resep ka anjeun, ngirim super resep atawa pesen panganteur tambahan, meunang leuwih loba profil jeung resep keur poé éta, sarta ngajawab carita. Koin anjeun meunangkeun gratis unggal poé, sarta ogé bisa dibeuli sakali. Teu aya langganan, jadi teu aya nu kudu dibatalkeun.',
       },
       {
         q: 'Naha kuring bisa nyumputkeun profil sawatara waktu?',

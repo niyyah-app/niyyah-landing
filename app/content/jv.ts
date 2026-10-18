@@ -311,30 +311,34 @@ export const jv: Copy = {
   },
 
   pricing: {
-    kicker: 'Gratis lan Premium',
+    kicker: 'Gratis lan koin',
     title: 'Sing njaga sampeyan kuwi gratis.',
-    lead: 'Mahram, pitakonan sadurunge pirembugan, obrolan kakunci lan pangawasan kabukak kanggo kabeh. Awake dhewe ora njaluk bayaran kanggo keamanan. Premium mung nggawe luwih cepet.',
+    lead: 'Mahram, pitakonan sadurunge pirembugan, obrolan kakunci lan pangawasan kabukak kanggo kabeh. Awake dhewe ora njaluk bayaran kanggo keamanan. Koin mung nggawe luwih cepet — lan ora ana langganan.',
     freeTitle: 'Gratis, kanggo sapa wae',
     free: [
-      'Profil lan Golek',
+      'Profil lan 30 profil saben dina ing Golek',
       '20 seneng saben dina',
       '1 pesen kenalan saben dina',
       'Kecocokan lan pirembugan tanpa wates karo dheweke',
       'Mahram ing pirembugan',
       'Pitakonan sadurunge pirembugan',
       'Komunitas, crita lan Pitakonan dina iki',
+      'Koin gratis saben dina',
     ],
-    premiumTitle: 'Premium, yen kepengin luwih',
+    premiumTitle: 'Koin, yen kepengin luwih',
     premium: [
       'Ndeleng sapa sing seneng sampeyan',
-      'Seneng tanpa wates',
-      'Pesen kenalan tanpa wates saka Golek',
-      'Saringan tambahan',
+      'Super seneng sing langsung mbukak pirembugan',
+      'Pesen kenalan tambahan',
+      'Luwih akeh seneng lan profil kanggo dina iki',
+      'Mbalekake profil sing sampeyan liwati',
       'Mangsuli crita ing komunitas',
+      'Boost: profil sampeyan paling ngarep ing Golek',
     ],
     extra:
-      'Sepisan, yen kepengin: tandha Diverifikasi, lan Boost sing nyelehake profil sampeyan ing ngarep Golek sajroning wektu tartamtu.',
+      'Koin uga bisa sampeyan entuk gratis: saben dina, pitung dina terus-terusan, amarga ngganepi profil lan ngundang kanca. Sampeyan tuku mung yen kepengin, sepisan, ing App Store utawa Google Play — tanpa langganan lan tanpa perpanjangan otomatis.',
   },
+
 
   about: {
     kicker: 'Bab awake dhewe',
@@ -370,11 +374,11 @@ export const jv: Copy = {
       },
       {
         q: 'Kepriye anggonmu njaga saka profil palsu?',
-        a: 'Saben foto dipriksa nalika diunggah: rai sing cetha, siji wong, ora buram lan ora ketutup. Sadurunge Golek sampeyan ngonfirmasi nomer telpon nganggo kode SMS, utawa email. Tandha Diverifikasi tegese wong kuwi lulus priksa cendhak yen dheweke pancen wong ing foto. Laporan diwaca moderator tenan sing bisa nyetop utawa nglarang profil, lan mblokir mlaku rong arah.',
+        a: 'Tandha Diverifikasi tegese wong kuwi lulus priksa rai: foto langsunge dibandhingake karo gambar-gambar ing profile. Laporan diwaca moderator tenan sing bisa nyetop utawa nglarang profil, lan mblokir mlaku rong arah. Akun sing dilarang ora bisa bali mung nganggo alamat email anyar.',
       },
       {
-        q: 'Apa sing gratis lan apa sing Premium? Carane mbatalake?',
-        a: 'Kabeh sing njaga sampeyan kuwi gratis: mahram, pitakonan sadurunge pirembugan, obrolan kakunci lan pangawasan, ditambah 20 seneng lan siji pesen kenalan saben dina sarta pirembugan tanpa wates karo kecocokan sampeyan. Premium nambahake ndeleng sapa sing seneng sampeyan, seneng lan pesen kenalan tanpa wates, saringan tambahan lan mangsuli crita. Premium dibatalake ing setelan langganan ing telpon sampeyan, ing App Store utawa Google Play.',
+        q: 'Apa sing gratis, lan apa sing dibayar nganggo koin?',
+        a: 'Kabeh sing njaga sampeyan kuwi gratis: mahram, pitakonan sadurunge pirembugan, obrolan kakunci lan pangawasan, ditambah 20 seneng lan siji pesen kenalan saben dina sarta pirembugan tanpa wates karo kecocokan sampeyan. Nganggo koin sampeyan bisa ndeleng sapa sing seneng sampeyan, ngirim super seneng utawa pesen kenalan tambahan, entuk profil lan seneng luwih akeh kanggo dina kuwi, lan mangsuli crita. Koin sampeyan entuk gratis saben dina, lan uga bisa dituku sepisan. Ora ana langganan, dadi ora ana sing kudu dibatalake.',
       },
       {
         q: 'Apa aku bisa ndhelikake profil sawetara wektu?',

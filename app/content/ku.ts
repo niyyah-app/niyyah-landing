@@ -311,30 +311,34 @@ export const ku: Copy = {
   },
 
   pricing: {
-    kicker: 'Belaş û Premium',
+    kicker: 'Belaş û coin',
     title: 'Ya ku te diparêze belaş e.',
-    lead: 'Mehrem, pirsên berî axaftinê, axaftina girtî û çavdêrî ji her kesî re vekirî ne. Em ji bo ewlehiyê pere nastînin. Premium tenê lez dike.',
+    lead: 'Mehrem, pirsên berî axaftinê, axaftina girtî û çavdêrî ji her kesî re vekirî ne. Em ji bo ewlehiyê pere nastînin. Coin tenê tiştan bilez dikin — û abonetî tune ye.',
     freeTitle: 'Belaş, ji her kesî re',
     free: [
-      'Profîl û Keşf',
+      'Profîl û rojê 30 profîl di Keşfê de',
       'Rojê 20 ecibandin',
       'Rojê 1 peyama nasînê',
       'Lihevhatin û axaftina bêsînor bi wan re',
       'Mehrem di axaftinê de',
       'Pirs berî axaftinê',
       'Civak, çîrok û Pirsa rojê',
+      'Her roj coinên belaş',
     ],
-    premiumTitle: 'Premium, dema bêtir bixwazî',
+    premiumTitle: 'Coin, dema bêtir bixwazî',
     premium: [
       'Bibîne kê tu ecibandî',
-      'Ecibandinên bêsînor',
-      'Peyamên nasînê yên bêsînor ji Keşfê',
-      'Parzûnên zêde',
+      'Super ecibandinek ku axaftinê yekser vedike',
+      'Peyamên nasînê yên zêde',
+      'Ji bo îro bêtir ecibandin û profîl',
+      'Profîleke ku te derbas kiribû vegerîne',
       'Bersiv li çîrokên civakê',
+      'Boost: profîla te di Keşfê de yekem',
     ],
     extra:
-      'Carekê, dema bixwazî: nîşana Pejirandî, û Boost ku profîla te ji bo demeke diyar di Keşfê de yekem datîne.',
+      'Tu coinan belaş jî distînî: her roj, ji bo heft rojên li pey hev, ji bo temamkirina profîla xwe û ji bo vexwendina hevalan. Tu wan tenê heke bixwazî dikirî, carekê, li App Store an Google Play — bê abonetî û bê nûkirina otomatîk.',
   },
+
 
   about: {
     kicker: 'Derbarê me de',
@@ -370,11 +374,11 @@ export const ku: Copy = {
       },
       {
         q: 'Hûn çawa li hember profîlên derewîn diparêzin?',
-        a: 'Her wêne dema barkirinê tê kontrolkirin: rûyekî zelal, kesek, ne reş û ne girtî. Berî Keşfê tu hejmara telefonê bi koda SMSê, an e-nameya xwe piştrast dikî. Nîşana Pejirandî tê wê wateyê ku kes kontroleke kurt derbas kiriye ku ew kesê di wêneyan de ye. Gilîyan çavdêrên rastîn dixwînin ku dikarin profîlan rawestînin an qedexe bikin, û astengkirin bi herdu aliyan dixebite.',
+        a: 'Nîşana Pejirandî tê wê wateyê ku kes kontrola rû derbas kiriye: wêneyekî wî yê zindî bi wêneyên li ser profîla wî re hatiye berhevkirin. Gilîyan çavdêrên rastîn dixwînin ku dikarin profîlan rawestînin an qedexe bikin, û astengkirin bi herdu aliyan dixebite. Hesabekî qedexekirî nikare bi hêsanî bi navnîşaneke e-nameyê ya nû vegere.',
       },
       {
-        q: 'Çi belaş e û çi Premium e? Ez çawa betal dikim?',
-        a: 'Her tiştê ku te diparêze belaş e: mehrem, pirsên berî axaftinê, axaftina girtî û çavdêrî, digel rojê 20 ecibandin û peyameke nasînê û axaftina bêsînor bi lihevhatinên te re. Premium lê zêde dike: dîtina kê tu ecibandî, ecibandin û peyamên nasînê yên bêsînor, parzûnên zêde û bersiv li çîrokan. Premium di sazkariyên abonetiyê yên telefona xwe de, li App Store an Google Play betal dikî.',
+        q: 'Çi belaş e, û çi bi coinan tê dayîn?',
+        a: 'Her tiştê ku te diparêze belaş e: mehrem, pirsên berî axaftinê, axaftina girtî û çavdêrî, digel rojê 20 ecibandin û peyameke nasînê û axaftina bêsînor bi lihevhatinên te re. Bi coinan tu dikarî bibînî kê tu ecibandî, super ecibandinek an peyameke nasînê ya zêde bişînî, ji bo wê rojê bêtir profîl û ecibandin bistînî û bersiv li çîrokan bidî. Tu her roj coinan belaş distînî, û dikarî wan carekê bikirî jî. Abonetî tune ye, loma tiştek tune ku tu betal bikî.',
       },
       {
         q: 'Ma ez dikarim profîla xwe demekê veşêrim?',

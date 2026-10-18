@@ -312,30 +312,34 @@ export const sq: Copy = {
 
 
   pricing: {
-    kicker: 'Falas dhe Premium',
+    kicker: 'Falas dhe monedha',
     title: 'Ajo që të ruan është falas.',
-    lead: 'Mahremi, pyetjet para bisedës, chati i kyçur dhe moderimi janë për të gjithë. Për sigurinë nuk marrim para. Premium vetëm e shpejton.',
+    lead: 'Mahremi, pyetjet para bisedës, chati i kyçur dhe moderimi janë për të gjithë. Për sigurinë nuk marrim para. Monedhat vetëm e shpejtojnë — dhe nuk ka abonim.',
     freeTitle: 'Falas, për të gjithë',
     free: [
-      'Profili dhe Zbulo',
+      'Profili dhe 30 profile në ditë në Zbulo',
       '20 pëlqime në ditë',
       '1 mesazh hyrës në ditë',
-      'Përputhjet dhe bisedë e pakufizuar me ata',
+      'Përputhjet dhe bisedë e pakufizuar me ta',
       'Mahrem në bisedë',
       'Pyetje para bisedës',
       'Komuniteti, rrëfimet dhe Pyetja e ditës',
+      'Monedha falas çdo ditë',
     ],
-    premiumTitle: 'Premium, kur dëshiron më shumë',
+    premiumTitle: 'Monedha, kur dëshiron më shumë',
     premium: [
       'Shiko kush të ka pëlqyer',
-      'Pëlqime të pakufizuara',
-      'Mesazhe hyrëse të pakufizuara nga Zbulo',
-      'Filtra shtesë',
-      'Përgjigje në rrëfimet e komunitetit',
+      'Super pëlqim që e hap bisedën menjëherë',
+      'Mesazhe hyrëse shtesë',
+      'Më shumë pëlqime dhe profile për sot',
+      'Ktheje një profil që e kalove',
+      'Përgjigju rrëfimeve në komunitet',
+      'Boost: profili yt i pari në Zbulo',
     ],
     extra:
-      'Një herë, kur dëshiron: shenja Verifikuar dhe Boost, që e vendos profilin tënd i pari në Zbulo për një kohë të caktuar.',
+      'Monedha fiton edhe falas: çdo ditë, për shtatë ditë rresht, për profilin e plotësuar dhe për miqtë që fton. I blen vetëm nëse do, me një pagesë të vetme, në App Store ose Google Play — pa abonim dhe pa rinovim automatik.',
   },
+
 
   about: {
     kicker: 'Për ne',
@@ -371,11 +375,11 @@ export const sq: Copy = {
       },
       {
         q: 'Si mbroheni nga profilet e rreme?',
-        a: 'Çdo foto kontrollohet gjatë ngarkimit: fytyrë e qartë, një person, pa turbullime dhe pa mbulesa. Para Zbulo vërteton numrin e telefonit me kod SMS, ose email-in. Shenja Verifikuar do të thotë se personi kaloi një kontroll të shkurtër që është ai nga fotot. Raportimet lexojnë moderatorë të vërtetë që mund të pezullojnë ose të ndalojnë profile, dhe blokimi vlen në të dyja anët.',
+        a: 'Shenja Verifikuar do të thotë se personi kaloi kontrollin e fytyrës: një foto e tij e bërë drejtpërdrejt u krahasua me fotot në profil. Raportimet i lexojnë moderatorë të vërtetë që mund të pezullojnë ose të ndalojnë një profil, dhe blokimi vlen në të dyja anët. Një llogari e ndaluar nuk mund të kthehet thjesht me një adresë të re emaili.',
       },
       {
-        q: 'Çfarë është falas dhe çfarë Premium? Si e anuloj?',
-        a: 'Falas është çdo gjë që të ruan: mahremi, pyetjet para bisedës, chati i kyçur dhe moderimi, plus 20 pëlqime dhe një mesazh hyrës në ditë dhe bisedë e pakufizuar me përputhjet. Premium shton: të shohësh kush të ka pëlqyer, pëlqime dhe mesazhe hyrëse të pakufizuara, filtra shtesë dhe përgjigje në rrëfime. Premium e anulon në cilësimet e abonimeve në telefonin tënd, në App Store ose Google Play.',
+        q: 'Çfarë është falas dhe çfarë kushton monedha?',
+        a: 'Falas është çdo gjë që të ruan: mahremi, pyetjet para bisedës, chati i kyçur dhe moderimi, plus 20 pëlqime dhe një mesazh hyrës në ditë dhe bisedë e pakufizuar me përputhjet. Me monedha mund të shohësh kush të ka pëlqyer, të dërgosh një super pëlqim ose një mesazh hyrës shtesë, të marrësh më shumë profile dhe pëlqime për atë ditë dhe t’u përgjigjesh rrëfimeve. Monedha fiton falas çdo ditë, dhe mund t’i blesh edhe me një pagesë të vetme. Nuk ka abonim, kështu që nuk ke asgjë për të anuluar.',
       },
       {
         q: 'A mund të fsheh profilin përkohësisht?',

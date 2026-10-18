@@ -9,7 +9,7 @@ export const privacy: Record<string, LegalSection[]> = {
   "en": [
     {
       "h": "Who is responsible",
-      "b": "Niyyah is run by Orhan Bajramović, who is the controller of your personal data. For anything in this policy, write to orio6165@gmail.com."
+      "b": "Niyyah is run by Orhan Bajramović, who is the controller of your personal data. For anything in this policy, write to support@niyyahmarriage.com."
     },
     {
       "h": "What we collect",
@@ -45,7 +45,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Your rights",
-      "b": "You can get a copy of your data (Settings sends it to your email), correct what is wrong, delete your account, object to a particular use of your information, and withdraw consent for the face check. For anything else write to orio6165@gmail.com — you will get an answer within 30 days. You also have the right to complain to the data protection authority: in Bosnia and Herzegovina the Personal Data Protection Agency, in the EU your national authority."
+      "b": "You can get a copy of your data (Settings sends it to your email), correct what is wrong, delete your account, object to a particular use of your information, and withdraw consent for the face check. For anything else write to support@niyyahmarriage.com — you will get an answer within 30 days. You also have the right to complain to the data protection authority: in Bosnia and Herzegovina the Personal Data Protection Agency, in the EU your national authority."
     },
     {
       "h": "Security, minors and changes",
@@ -55,7 +55,7 @@ export const privacy: Record<string, LegalSection[]> = {
   "bs": [
     {
       "h": "Ko je odgovoran",
-      "b": "Niyyah vodi Orhan Bajramović, koji je rukovalac tvojih ličnih podataka. Za sve iz ove politike piši na orio6165@gmail.com."
+      "b": "Niyyah vodi Orhan Bajramović, koji je rukovalac tvojih ličnih podataka. Za sve iz ove politike piši na support@niyyahmarriage.com."
     },
     {
       "h": "Šta prikupljamo",
@@ -91,7 +91,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Tvoja prava",
-      "b": "Možeš dobiti kopiju svojih podataka (Postavke je šalju na tvoj e-mail), ispraviti ono što nije tačno, obrisati nalog, usprotiviti se određenoj upotrebi podataka i povući pristanak za provjeru lica. Za sve ostalo piši na orio6165@gmail.com — odgovor stiže u roku od 30 dana. Imaš i pravo na pritužbu nadležnom tijelu: u Bosni i Hercegovini Agenciji za zaštitu ličnih podataka, u EU svom nacionalnom tijelu."
+      "b": "Možeš dobiti kopiju svojih podataka (Postavke je šalju na tvoj e-mail), ispraviti ono što nije tačno, obrisati nalog, usprotiviti se određenoj upotrebi podataka i povući pristanak za provjeru lica. Za sve ostalo piši na support@niyyahmarriage.com — odgovor stiže u roku od 30 dana. Imaš i pravo na pritužbu nadležnom tijelu: u Bosni i Hercegovini Agenciji za zaštitu ličnih podataka, u EU svom nacionalnom tijelu."
     },
     {
       "h": "Sigurnost, maloljetnici i izmjene",
@@ -101,7 +101,7 @@ export const privacy: Record<string, LegalSection[]> = {
   "de": [
     {
       "h": "Wer verantwortlich ist",
-      "b": "Niyyah wird von Orhan Bajramović betrieben, der Verantwortlicher für deine personenbezogenen Daten ist. Für alles in dieser Erklärung schreib an orio6165@gmail.com."
+      "b": "Niyyah wird von Orhan Bajramović betrieben, der Verantwortlicher für deine personenbezogenen Daten ist. Für alles in dieser Erklärung schreib an support@niyyahmarriage.com."
     },
     {
       "h": "Was wir erheben",
@@ -137,7 +137,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Deine Rechte",
-      "b": "Du kannst eine Kopie deiner Daten erhalten (die Einstellungen senden sie an deine E-Mail), Falsches berichtigen, dein Konto löschen, einer bestimmten Nutzung widersprechen und die Einwilligung zur Gesichtsprüfung widerrufen. Für alles Weitere schreib an orio6165@gmail.com — du bekommst innerhalb von 30 Tagen eine Antwort. Du hast außerdem das Recht, dich bei der Datenschutzbehörde zu beschweren: in Bosnien und Herzegowina bei der Agentur für den Schutz personenbezogener Daten, in der EU bei deiner nationalen Behörde."
+      "b": "Du kannst eine Kopie deiner Daten erhalten (die Einstellungen senden sie an deine E-Mail), Falsches berichtigen, dein Konto löschen, einer bestimmten Nutzung widersprechen und die Einwilligung zur Gesichtsprüfung widerrufen. Für alles Weitere schreib an support@niyyahmarriage.com — du bekommst innerhalb von 30 Tagen eine Antwort. Du hast außerdem das Recht, dich bei der Datenschutzbehörde zu beschweren: in Bosnien und Herzegowina bei der Agentur für den Schutz personenbezogener Daten, in der EU bei deiner nationalen Behörde."
     },
     {
       "h": "Sicherheit, Minderjährige und Änderungen",
@@ -147,7 +147,7 @@ export const privacy: Record<string, LegalSection[]> = {
   "tr": [
     {
       "h": "Kim sorumlu",
-      "b": "Niyyah, kişisel verilerinin sorumlusu olan Orhan Bajramović tarafından işletilir. Bu politikayla ilgili her şey için orio6165@gmail.com adresine yaz."
+      "b": "Niyyah, kişisel verilerinin sorumlusu olan Orhan Bajramović tarafından işletilir. Bu politikayla ilgili her şey için support@niyyahmarriage.com adresine yaz."
     },
     {
       "h": "Ne topluyoruz",
@@ -183,7 +183,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Hakların",
-      "b": "Verilerinin bir kopyasını alabilir (Ayarlar e-postana gönderir), yanlış olanı düzeltebilir, hesabını silebilir, belirli bir kullanıma itiraz edebilir ve yüz doğrulaması için verdiğin onayı geri alabilirsin. Diğer her şey için orio6165@gmail.com adresine yaz — 30 gün içinde cevap alırsın. Ayrıca veri koruma otoritesine şikâyet hakkın var: Bosna-Hersek’te Kişisel Verileri Koruma Ajansı, AB’de ulusal otoriten."
+      "b": "Verilerinin bir kopyasını alabilir (Ayarlar e-postana gönderir), yanlış olanı düzeltebilir, hesabını silebilir, belirli bir kullanıma itiraz edebilir ve yüz doğrulaması için verdiğin onayı geri alabilirsin. Diğer her şey için support@niyyahmarriage.com adresine yaz — 30 gün içinde cevap alırsın. Ayrıca veri koruma otoritesine şikâyet hakkın var: Bosna-Hersek’te Kişisel Verileri Koruma Ajansı, AB’de ulusal otoriten."
     },
     {
       "h": "Güvenlik, reşit olmayanlar ve değişiklikler",
@@ -193,7 +193,7 @@ export const privacy: Record<string, LegalSection[]> = {
   "ar": [
     {
       "h": "من المسؤول",
-      "b": "يدير Niyyah Orhan Bajramović، وهو المسؤول عن بياناتك الشخصية. لأي أمر في هذه السياسة اكتب إلى orio6165@gmail.com."
+      "b": "يدير Niyyah Orhan Bajramović، وهو المسؤول عن بياناتك الشخصية. لأي أمر في هذه السياسة اكتب إلى support@niyyahmarriage.com."
     },
     {
       "h": "ما الذي نجمعه",
@@ -229,7 +229,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "حقوقك",
-      "b": "يمكنك الحصول على نسخة من بياناتك (ترسلها الإعدادات إلى بريدك)، وتصحيح الخطأ، وحذف حسابك، والاعتراض على استخدام معيّن، وسحب موافقتك على التحقق من الوجه. لأي أمر آخر اكتب إلى orio6165@gmail.com، وستصلك إجابة خلال 30 يومًا. ولك الحق في الشكوى إلى سلطة حماية البيانات: في البوسنة والهرسك وكالة حماية البيانات الشخصية، وفي الاتحاد الأوروبي سلطتك الوطنية."
+      "b": "يمكنك الحصول على نسخة من بياناتك (ترسلها الإعدادات إلى بريدك)، وتصحيح الخطأ، وحذف حسابك، والاعتراض على استخدام معيّن، وسحب موافقتك على التحقق من الوجه. لأي أمر آخر اكتب إلى support@niyyahmarriage.com، وستصلك إجابة خلال 30 يومًا. ولك الحق في الشكوى إلى سلطة حماية البيانات: في البوسنة والهرسك وكالة حماية البيانات الشخصية، وفي الاتحاد الأوروبي سلطتك الوطنية."
     },
     {
       "h": "الأمان والقاصرون والتغييرات",
@@ -239,7 +239,7 @@ export const privacy: Record<string, LegalSection[]> = {
   "id": [
     {
       "h": "Siapa yang bertanggung jawab",
-      "b": "Niyyah dijalankan oleh Orhan Bajramović, pengendali data pribadimu. Untuk apa pun dalam kebijakan ini, tulis ke orio6165@gmail.com."
+      "b": "Niyyah dijalankan oleh Orhan Bajramović, pengendali data pribadimu. Untuk apa pun dalam kebijakan ini, tulis ke support@niyyahmarriage.com."
     },
     {
       "h": "Apa yang kami kumpulkan",
@@ -275,7 +275,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Hak-hakmu",
-      "b": "Kamu dapat memperoleh salinan datamu (Pengaturan mengirimkannya ke emailmu), memperbaiki yang salah, menghapus akun, menolak penggunaan tertentu, dan menarik persetujuan pemeriksaan wajah. Untuk hal lain, tulis ke orio6165@gmail.com — jawaban dalam 30 hari. Kamu juga berhak mengadu ke otoritas perlindungan data: di Bosnia dan Herzegovina ke Badan Perlindungan Data Pribadi, di UE ke otoritas nasionalmu."
+      "b": "Kamu dapat memperoleh salinan datamu (Pengaturan mengirimkannya ke emailmu), memperbaiki yang salah, menghapus akun, menolak penggunaan tertentu, dan menarik persetujuan pemeriksaan wajah. Untuk hal lain, tulis ke support@niyyahmarriage.com — jawaban dalam 30 hari. Kamu juga berhak mengadu ke otoritas perlindungan data: di Bosnia dan Herzegovina ke Badan Perlindungan Data Pribadi, di UE ke otoritas nasionalmu."
     },
     {
       "h": "Keamanan, anak di bawah umur, dan perubahan",
@@ -285,7 +285,7 @@ export const privacy: Record<string, LegalSection[]> = {
   "ur": [
     {
       "h": "ذمہ دار کون ہے",
-      "b": "Niyyah کو Orhan Bajramović چلاتے ہیں، جو آپ کے ذاتی ڈیٹا کے کنٹرولر ہیں۔ اس پالیسی سے متعلق کسی بھی بات کے لیے orio6165@gmail.com پر لکھیں۔"
+      "b": "Niyyah کو Orhan Bajramović چلاتے ہیں، جو آپ کے ذاتی ڈیٹا کے کنٹرولر ہیں۔ اس پالیسی سے متعلق کسی بھی بات کے لیے support@niyyahmarriage.com پر لکھیں۔"
     },
     {
       "h": "ہم کیا جمع کرتے ہیں",
@@ -321,7 +321,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "آپ کے حقوق",
-      "b": "آپ اپنے ڈیٹا کی کاپی لے سکتے ہیں (سیٹنگز اسے آپ کی ای میل پر بھیجتی ہیں)، غلط کو درست کر سکتے ہیں، اکاؤنٹ حذف کر سکتے ہیں، کسی خاص استعمال پر اعتراض کر سکتے ہیں اور چہرے کی تصدیق کی رضامندی واپس لے سکتے ہیں۔ باقی ہر چیز کے لیے orio6165@gmail.com پر لکھیں — 30 دن میں جواب ملے گا۔ آپ کو ڈیٹا تحفظ اتھارٹی سے شکایت کا حق بھی ہے: بوسنیا و ہرزیگووینا میں ذاتی ڈیٹا کے تحفظ کی ایجنسی، یورپی یونین میں آپ کی قومی اتھارٹی۔"
+      "b": "آپ اپنے ڈیٹا کی کاپی لے سکتے ہیں (سیٹنگز اسے آپ کی ای میل پر بھیجتی ہیں)، غلط کو درست کر سکتے ہیں، اکاؤنٹ حذف کر سکتے ہیں، کسی خاص استعمال پر اعتراض کر سکتے ہیں اور چہرے کی تصدیق کی رضامندی واپس لے سکتے ہیں۔ باقی ہر چیز کے لیے support@niyyahmarriage.com پر لکھیں — 30 دن میں جواب ملے گا۔ آپ کو ڈیٹا تحفظ اتھارٹی سے شکایت کا حق بھی ہے: بوسنیا و ہرزیگووینا میں ذاتی ڈیٹا کے تحفظ کی ایجنسی، یورپی یونین میں آپ کی قومی اتھارٹی۔"
     },
     {
       "h": "حفاظت، نابالغ اور تبدیلیاں",
@@ -331,7 +331,7 @@ export const privacy: Record<string, LegalSection[]> = {
   "ms": [
     {
       "h": "Siapa yang bertanggungjawab",
-      "b": "Niyyah dikendalikan oleh Orhan Bajramović, pengawal data peribadi anda. Untuk apa-apa dalam dasar ini, tulis kepada orio6165@gmail.com."
+      "b": "Niyyah dikendalikan oleh Orhan Bajramović, pengawal data peribadi anda. Untuk apa-apa dalam dasar ini, tulis kepada support@niyyahmarriage.com."
     },
     {
       "h": "Apa yang kami kumpul",
@@ -367,7 +367,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Hak anda",
-      "b": "Anda boleh mendapatkan salinan data anda (Tetapan menghantarnya ke e-mel anda), membetulkan yang salah, memadam akaun, membantah penggunaan tertentu dan menarik balik persetujuan semakan wajah. Untuk perkara lain, tulis kepada orio6165@gmail.com — jawapan dalam 30 hari. Anda juga berhak membuat aduan kepada pihak berkuasa perlindungan data: di Bosnia dan Herzegovina kepada Agensi Perlindungan Data Peribadi, di EU kepada pihak berkuasa negara anda."
+      "b": "Anda boleh mendapatkan salinan data anda (Tetapan menghantarnya ke e-mel anda), membetulkan yang salah, memadam akaun, membantah penggunaan tertentu dan menarik balik persetujuan semakan wajah. Untuk perkara lain, tulis kepada support@niyyahmarriage.com — jawapan dalam 30 hari. Anda juga berhak membuat aduan kepada pihak berkuasa perlindungan data: di Bosnia dan Herzegovina kepada Agensi Perlindungan Data Peribadi, di EU kepada pihak berkuasa negara anda."
     },
     {
       "h": "Keselamatan, bawah umur dan perubahan",
@@ -377,7 +377,7 @@ export const privacy: Record<string, LegalSection[]> = {
   "fr": [
     {
       "h": "Qui est responsable",
-      "b": "Niyyah est géré par Orhan Bajramović, responsable du traitement de tes données personnelles. Pour toute question sur cette politique, écris à orio6165@gmail.com."
+      "b": "Niyyah est géré par Orhan Bajramović, responsable du traitement de tes données personnelles. Pour toute question sur cette politique, écris à support@niyyahmarriage.com."
     },
     {
       "h": "Ce que nous collectons",
@@ -413,7 +413,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Tes droits",
-      "b": "Tu peux obtenir une copie de tes données (les Réglages l’envoient à ton e-mail), corriger ce qui est faux, supprimer ton compte, t’opposer à un usage particulier et retirer ton consentement à la vérification du visage. Pour le reste, écris à orio6165@gmail.com — réponse sous 30 jours. Tu peux aussi porter plainte auprès de l’autorité de protection des données : en Bosnie-Herzégovine l’Agence pour la protection des données personnelles, dans l’UE ton autorité nationale."
+      "b": "Tu peux obtenir une copie de tes données (les Réglages l’envoient à ton e-mail), corriger ce qui est faux, supprimer ton compte, t’opposer à un usage particulier et retirer ton consentement à la vérification du visage. Pour le reste, écris à support@niyyahmarriage.com — réponse sous 30 jours. Tu peux aussi porter plainte auprès de l’autorité de protection des données : en Bosnie-Herzégovine l’Agence pour la protection des données personnelles, dans l’UE ton autorité nationale."
     },
     {
       "h": "Sécurité, mineurs et modifications",

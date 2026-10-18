@@ -312,30 +312,34 @@ export const nl: Copy = {
 
 
   pricing: {
-    kicker: 'Gratis en Premium',
+    kicker: 'Gratis en munten',
     title: 'Wat je beschermt is gratis.',
-    lead: 'De mahram, vragen voor het gesprek, de gesloten chat en de moderatie zijn er voor iedereen. Voor veiligheid rekenen we niets. Premium versnelt het alleen.',
+    lead: 'De mahram, vragen voor het gesprek, de gesloten chat en de moderatie zijn er voor iedereen. Voor veiligheid rekenen we niets. Munten versnellen het alleen — en er is geen abonnement.',
     freeTitle: 'Gratis, voor iedereen',
     free: [
-      'Profiel en Ontdekken',
+      'Een profiel en 30 profielen per dag in Ontdekken',
       '20 likes per dag',
       '1 introductiebericht per dag',
       'Overeenkomsten en onbeperkt gesprek met hen',
       'Een mahram in het gesprek',
       'Vragen voor het gesprek',
       'Gemeenschap, verhalen en Vraag van de dag',
+      'Elke dag gratis munten',
     ],
-    premiumTitle: 'Premium, als je meer wil',
+    premiumTitle: 'Munten, als je meer wil',
     premium: [
       'Zie wie je geliked heeft',
-      'Onbeperkt likes',
-      'Onbeperkt introductieberichten uit Ontdekken',
-      'Extra filters',
+      'Een superlike die het gesprek meteen opent',
+      'Extra introductieberichten',
+      'Meer likes en profielen voor vandaag',
+      'Haal een overgeslagen profiel terug',
       'Reageren op verhalen in de gemeenschap',
+      'Boost: je profiel vooraan in Ontdekken',
     ],
     extra:
-      'Eenmalig, als je wil: het Geverifieerd-label en Boost, die je profiel een bepaalde tijd vooraan in Ontdekken zet.',
+      'Munten krijg je ook gratis: elke dag, voor zeven dagen op rij, voor een volledig profiel en voor vrienden die je uitnodigt. Je koopt ze alleen als je wil, eenmalig, in de App Store of Google Play — zonder abonnement en zonder automatische verlenging.',
   },
+
 
   about: {
     kicker: 'Over ons',
@@ -371,11 +375,11 @@ export const nl: Copy = {
       },
       {
         q: 'Hoe beschermen jullie tegen nepprofielen?',
-        a: 'Elke foto wordt bij het uploaden gecontroleerd: een duidelijk gezicht, één persoon, niet vaag en niet bedekt. Voor Ontdekken bevestig je je telefoonnummer met een sms-code, of je e-mail. Het Geverifieerd-label betekent dat iemand een korte controle heeft doorstaan dat hij of zij degene op de foto’s is. Meldingen worden gelezen door echte moderatoren die profielen kunnen schorsen of verbannen, en blokkeren werkt in beide richtingen.',
+        a: 'Het Geverifieerd-label betekent dat iemand een gezichtscontrole heeft doorstaan: een live foto van hem of haar is vergeleken met de foto’s op het profiel. Meldingen worden gelezen door echte moderatoren die een profiel kunnen schorsen of verbannen, en blokkeren werkt in beide richtingen. Een verbannen account kan niet zomaar terugkomen met een nieuw e-mailadres.',
       },
       {
-        q: 'Wat is gratis en wat is Premium? Hoe zeg ik op?',
-        a: 'Alles wat je beschermt is gratis: de mahram, vragen voor het gesprek, de gesloten chat en de moderatie, plus 20 likes en één introductiebericht per dag en onbeperkt gesprek met je overeenkomsten. Premium voegt daaraan toe: zien wie je geliked heeft, onbeperkt likes en introductieberichten, extra filters en reacties op verhalen. Premium zeg je op in de abonnementsinstellingen van je telefoon, in de App Store of Google Play.',
+        q: 'Wat is gratis, en wat kost munten?',
+        a: 'Alles wat je beschermt is gratis: de mahram, vragen voor het gesprek, de gesloten chat en de moderatie, plus 20 likes en één introductiebericht per dag en onbeperkt gesprek met je overeenkomsten. Met munten zie je wie je geliked heeft, stuur je een superlike of een extra introductiebericht, krijg je meer profielen en likes voor die dag en reageer je op verhalen. Munten krijg je elke dag gratis, en je kunt ze ook eenmalig kopen. Er is geen abonnement, dus er valt ook niets op te zeggen.',
       },
       {
         q: 'Kan ik mijn profiel tijdelijk verbergen?',

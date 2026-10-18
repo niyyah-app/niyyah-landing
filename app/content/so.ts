@@ -312,30 +312,34 @@ export const so: Copy = {
 
 
   pricing: {
-    kicker: 'Bilaash iyo Premium',
+    kicker: 'Bilaash iyo qadaadiic',
     title: 'Waxa ku ilaaliya waa bilaash.',
-    lead: 'Maxram, su’aalaha wadahadalka ka hor, chat-ka xidhan iyo kormeerka waxay u furan yihiin qof walba. Badbaadada lacag kama qaadno. Premium wuxuu kaliya dedejiyaa.',
+    lead: 'Maxram, su’aalaha wadahadalka ka hor, chat-ka xidhan iyo kormeerka waxay u furan yihiin qof walba. Badbaadada lacag kama qaadno. Qadaadiicdu waxay kaliya dedejiyaan — mana jirto rukummo.',
     freeTitle: 'Bilaash, qof walba',
     free: [
-      'Profile iyo Baadigoob',
+      'Profile iyo 30 profile maalintii Baadigoob',
       '20 jeclaysi maalintii',
       '1 fariin is-barasho maalintii',
       'Isku-ekaanshooyin iyo wadahadal aan xadidnayn oo iyaga la leh',
       'Maxram wadahadalka ku jira',
       'Su’aalo wadahadalka ka hor',
       'Bulsho, sheekooyin iyo Su’aasha maanta',
+      'Qadaadiic bilaash ah maalin kasta',
     ],
-    premiumTitle: 'Premium, marka aad wax dheeraad doonto',
+    premiumTitle: 'Qadaadiic, marka aad wax dheeraad doonto',
     premium: [
       'Arag cidda ku jeclaatay',
-      'Jeclaysi aan xadidnayn',
-      'Fariimo is-barasho aan xadidnayn oo Baadigoob ah',
-      'Shaandho dheeraad ah',
-      'Ka jawaabidda sheekooyinka bulshada',
+      'Super jeclaysi oo wadahadalka isla markiiba fura',
+      'Fariimo is-barasho dheeraad ah',
+      'Jeclaysi iyo profile dheeraad ah maanta',
+      'Soo celi profile aad ka boodday',
+      'Ka jawaab sheekooyinka bulshada',
+      'Boost: profile-kaaga ugu horreeya Baadigoob',
     ],
     extra:
-      'Hal mar, marka aad doonto: calaamadda La xaqiijiyay, iyo Boost oo profile-kaaga Baadigoob hore u dhigaya muddo go’an.',
+      'Qadaadiicda sidoo kale bilaash ayaad ku heshaa: maalin kasta, toddoba maalmood oo isku xiga, markaad dhammaystirto profile-kaaga iyo markaad saaxiibo casuunto. Waxaad iibsataa kaliya haddii aad doonto, hal mar, App Store ama Google Play — rukummo iyo cusboonaysiin toos ah midna ma jiraan.',
   },
+
 
   about: {
     kicker: 'Nagu saabsan',
@@ -371,11 +375,11 @@ export const so: Copy = {
       },
       {
         q: 'Sidee ka ilaalisaan profile-yada beenta ah?',
-        a: 'Sawir kasta waa la hubiyaa marka la soo geliyo: waji cad, hal qof, aan madoobayn oo aan daboolnayn. Baadigoob ka hor waxaad xaqiijisaa nambarka telefoonka koodh SMS ah, ama iimaylka. Calaamadda La xaqiijiyay waxay macnaheeda ah in qofku helay hubin gaaban in isagu yahay kan sawirrada. Cabashooyinka waxaa akhriya kormeerayaal dhab ah oo profile joojin ama mamnuucid kara, xannibaaddana labada dhinac ayay shaqaysaa.',
+        a: 'Calaamadda La xaqiijiyay waxay ka dhigan tahay in qofku ka gudbay hubinta wajiga: sawir toos ah oo isaga ah ayaa la barbardhigay sawirrada profile-kiisa. Cabashooyinka waxaa akhriya kormeerayaal dhab ah oo profile joojin ama mamnuucid kara, xannibaaddana labada dhinac ayay shaqaysaa. Akoon la mamnuucay si fudud ugama soo laaban karo iimayl cusub.',
       },
       {
-        q: 'Maxay bilaash tahay, maxayna Premium tahay? Sidee joojiyaa?',
-        a: 'Wax walba oo ku ilaaliya waa bilaash: maxram, su’aalaha wadahadalka ka hor, chat-ka xidhan iyo kormeerka, iyo 20 jeclaysi iyo hal fariin is-barasho maalintii iyo wadahadal aan xadidnayn oo isku-ekaanshooyinkaada. Premium wuxuu ku daraa inaad aragto cidda ku jeclaatay, jeclaysi iyo fariimo is-barasho aan xadidnayn, shaandho dheeraad ah iyo ka jawaabidda sheekooyinka. Premium waxaad joojisaa dejimaha rukummada telefoonkaaga, App Store ama Google Play.',
+        q: 'Maxaa bilaash ah, maxaase qadaadiic lagu bixiyaa?',
+        a: 'Wax walba oo ku ilaaliya waa bilaash: maxram, su’aalaha wadahadalka ka hor, chat-ka xidhan iyo kormeerka, iyo 20 jeclaysi iyo hal fariin is-barasho maalintii iyo wadahadal aan xadidnayn oo isku-ekaanshooyinkaada. Qadaadiic waxaad ku arki kartaa cidda ku jeclaatay, waxaad ku diri kartaa super jeclaysi ama fariin is-barasho dheeraad ah, waxaad ku heli kartaa profile iyo jeclaysi dheeraad ah maalintaas, waxaadna uga jawaabi kartaa sheekooyinka. Qadaadiic bilaash ah ayaad heshaa maalin kasta, waxaadna sidoo kale iibsan kartaa hal mar. Rukummo ma jirto, sidaas darteed ma jiro wax aad joojiso.',
       },
       {
         q: 'Profile-kayga ma qarin karaa muddo?',

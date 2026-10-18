@@ -311,30 +311,34 @@ export const ha: Copy = {
   },
 
   pricing: {
-    kicker: 'Kyauta da Premium',
+    kicker: 'Kyauta da coins',
     title: 'Abin da ke kiyaye ka kyauta ne.',
-    lead: 'Mahram, tambayoyi kafin tattaunawa, hirar da aka kulle da kuma kulawa suna buɗe ga kowa. Ba ma karɓar kuɗi don tsaro. Premium kawai yana saurin abubuwa.',
+    lead: 'Mahram, tambayoyi kafin tattaunawa, hirar da aka kulle da kuma kulawa suna buɗe ga kowa. Ba ma karɓar kuɗi don tsaro. Coins kawai suna saurin abubuwa — kuma babu biyan kuɗi na kowane wata.',
     freeTitle: 'Kyauta, ga kowa',
     free: [
-      'Bayanin martaba da Bincike',
+      'Bayanin martaba da bayanan martaba 30 kowace rana a Bincike',
       'Son 20 kowace rana',
       'Saƙon gabatarwa 1 kowace rana',
       'Daidaito da tattaunawa marar iyaka da su',
       'Mahram cikin tattaunawa',
       'Tambayoyi kafin tattaunawa',
       'Al’umma, labarai da Tambayar yau',
+      'Coins kyauta kowace rana',
     ],
-    premiumTitle: 'Premium, idan kana son ƙari',
+    premiumTitle: 'Coins, idan kana son ƙari',
     premium: [
       'Ka ga wanda ya so ka',
-      'Son marar iyaka',
-      'Saƙonnin gabatarwa marasa iyaka daga Bincike',
-      'Ƙarin tacewa',
-      'Amsa labaran al’umma',
+      'Babban so wanda ke buɗe tattaunawa nan take',
+      'Ƙarin saƙonnin gabatarwa',
+      'Ƙarin son da bayanan martaba na yau',
+      'Dawo da bayanin martabar da ka tsallake',
+      'Amsa labarai a cikin al’umma',
+      'Boost: bayanin martabarka na farko a Bincike',
     ],
     extra:
-      'Sau ɗaya, idan kana so: alamar Tabbatarwa, da Boost wanda ke sanya bayanin martabarka a gaba a Bincike na wani lokaci.',
+      'Kana kuma samun coins kyauta: kowace rana, don kwana bakwai a jere, don cika bayanin martabarka da kuma don gayyatar abokai. Kana saya su ne kawai idan kana so, sau ɗaya, a App Store ko Google Play — babu biyan kuɗi na kowane wata kuma babu sabuntawa ta atomatik.',
   },
+
 
   about: {
     kicker: 'Game da mu',
@@ -370,11 +374,11 @@ export const ha: Copy = {
       },
       {
         q: 'Yaya kuke kariya daga bayanan martaba na ƙarya?',
-        a: 'Ana duba kowane hoto yayin ɗorawa: fuska bayyananna, mutum ɗaya, ba mai duhu ba kuma ba rufaffe ba. Kafin Bincike kana tabbatar da lambar waya da lambar SMS, ko imel. Alamar Tabbatarwa tana nufin mutumin ya wuce gajeren duba cewa shi ne na hotunan. Ƙorafe-ƙorafe masu kula na gaske ke karantawa, suna iya dakatarwa ko hana bayanan martaba, kuma toshewa tana aiki a bangarorin biyu.',
+        a: 'Alamar Tabbatarwa tana nufin mutumin ya wuce duba fuska: an kwatanta hotonsa da aka ɗauka kai tsaye da hotunan da ke bayanin martabarsa. Ƙorafe-ƙorafe masu kula na gaske ke karantawa, suna iya dakatarwa ko hana bayanin martaba, kuma toshewa tana aiki a bangarorin biyu. Asusun da aka hana ba zai iya dawowa kawai da sabon adireshin imel ba.',
       },
       {
-        q: 'Me ke kyauta kuma me ke Premium? Yaya zan soke?',
-        a: 'Duk abin da ke kiyaye ka kyauta ne: mahram, tambayoyi kafin tattaunawa, hirar da aka kulle da kulawa, tare da son 20 da saƙon gabatarwa ɗaya kowace rana da tattaunawa marar iyaka da daidaiton ka. Premium yana ƙara ganin wanda ya so ka, son marar iyaka da saƙonnin gabatarwa, ƙarin tacewa da amsa labarai. Kana soke Premium a saitunan biyan kuɗi na wayarka, a App Store ko Google Play.',
+        q: 'Me ke kyauta, kuma me ake biya da coins?',
+        a: 'Duk abin da ke kiyaye ka kyauta ne: mahram, tambayoyi kafin tattaunawa, hirar da aka kulle da kulawa, tare da son 20 da saƙon gabatarwa ɗaya kowace rana da tattaunawa marar iyaka da daidaiton ka. Da coins za ka iya ganin wanda ya so ka, aika babban so ko ƙarin saƙon gabatarwa, samun ƙarin bayanan martaba da son na wannan rana, da kuma amsa labarai. Kana samun coins kyauta kowace rana, kuma za ka iya saya su sau ɗaya. Babu biyan kuɗi na kowane wata, don haka babu abin da za ka soke.',
       },
       {
         q: 'Zan iya ɓoye bayanin martabana na ɗan lokaci?',

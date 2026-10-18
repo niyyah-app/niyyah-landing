@@ -311,30 +311,34 @@ export const de: Copy = {
   },
 
   pricing: {
-    kicker: 'Kostenlos und Premium',
+    kicker: 'Kostenlos und Coins',
     title: 'Was dich schützt, ist kostenlos.',
-    lead: 'Mahram, Fragen vor dem Gespräch, der verschlossene Chat und die Moderation stehen allen offen. Für Sicherheit zahlt man bei uns nicht. Premium macht es nur schneller.',
+    lead: 'Mahram, Fragen vor dem Gespräch, der verschlossene Chat und die Moderation stehen allen offen. Für Sicherheit zahlt man bei uns nicht. Coins machen es nur schneller — und es gibt kein Abo.',
     freeTitle: 'Kostenlos, für jeden',
     free: [
-      'Profil und Entdecken',
+      'Ein Profil und 30 Profile am Tag in Entdecken',
       '20 Likes am Tag',
       '1 Einstiegsnachricht am Tag',
       'Übereinstimmungen und unbegrenztes Gespräch mit ihnen',
       'Ein Mahram im Gespräch',
       'Fragen vor dem Gespräch',
       'Gemeinschaft, Geschichten und Frage des Tages',
+      'Jeden Tag kostenlose Coins',
     ],
-    premiumTitle: 'Premium, wenn du mehr willst',
+    premiumTitle: 'Coins, wenn du mehr willst',
     premium: [
       'Sieh, wer dich geliked hat',
-      'Unbegrenzte Likes',
-      'Unbegrenzte Einstiegsnachrichten aus Entdecken',
-      'Zusätzliche Filter',
+      'Ein Super-Like, der das Gespräch sofort öffnet',
+      'Zusätzliche Einstiegsnachrichten',
+      'Mehr Likes und Profile für heute',
+      'Hol ein übersprungenes Profil zurück',
       'Antworten auf Geschichten in der Gemeinschaft',
+      'Boost: dein Profil zuerst in Entdecken',
     ],
     extra:
-      'Einmalig, wenn du willst: das Verified-Abzeichen und Boost, der dein Profil für eine bestimmte Zeit zuerst in Entdecken zeigt.',
+      'Coins bekommst du auch kostenlos: jeden Tag, für sieben Tage in Folge, für ein vollständiges Profil und für eingeladene Freunde. Kaufen musst du sie nur, wenn du willst, einmalig im App Store oder bei Google Play — ohne Abo und ohne automatische Verlängerung.',
   },
+
 
   about: {
     kicker: 'Über uns',
@@ -370,11 +374,11 @@ export const de: Copy = {
       },
       {
         q: 'Wie schützt ihr vor falschen Profilen?',
-        a: 'Jedes Foto wird beim Hochladen geprüft: ein klares Gesicht, eine Person, nicht verschwommen und nicht verdeckt. Vor Entdecken bestätigst du deine Telefonnummer mit einem SMS-Code oder deine E-Mail. Das Verified-Abzeichen heißt, dass die Person eine kurze Prüfung bestanden hat, dass sie die auf den Bildern ist. Meldungen lesen echte Moderatoren, die Profile sperren oder verbannen können, und Blockieren wirkt in beide Richtungen.',
+        a: 'Das Verified-Abzeichen heißt, dass die Person eine Gesichtsprüfung bestanden hat: Ein Live-Foto von ihr wurde mit den Bildern in ihrem Profil verglichen. Meldungen lesen echte Moderatoren, die Profile sperren oder verbannen können, und Blockieren wirkt in beide Richtungen. Ein verbanntes Konto kann nicht einfach mit einer neuen E-Mail-Adresse zurückkommen.',
       },
       {
-        q: 'Was ist kostenlos und was Premium? Wie kündige ich?',
-        a: 'Kostenlos ist alles, was dich schützt: Mahram, Fragen vor dem Gespräch, der verschlossene Chat und die Moderation, dazu 20 Likes und eine Einstiegsnachricht am Tag sowie unbegrenztes Gespräch mit Übereinstimmungen. Premium ergänzt den Einblick, wer dich geliked hat, unbegrenzte Likes und Einstiegsnachrichten, zusätzliche Filter und Antworten auf Geschichten. Premium kündigst du in den Abo-Einstellungen deines Telefons, im App Store oder bei Google Play.',
+        q: 'Was ist kostenlos und was kostet Coins?',
+        a: 'Kostenlos ist alles, was dich schützt: Mahram, Fragen vor dem Gespräch, der verschlossene Chat und die Moderation, dazu 20 Likes und eine Einstiegsnachricht am Tag sowie unbegrenztes Gespräch mit Übereinstimmungen. Mit Coins siehst du, wer dich geliked hat, schickst einen Super-Like oder eine zusätzliche Einstiegsnachricht, bekommst mehr Profile und Likes für den Tag und antwortest auf Geschichten. Coins bekommst du jeden Tag kostenlos, und du kannst sie auch einmalig kaufen. Es gibt kein Abo, also gibt es auch nichts zu kündigen.',
       },
       {
         q: 'Kann ich mein Profil vorübergehend verbergen?',

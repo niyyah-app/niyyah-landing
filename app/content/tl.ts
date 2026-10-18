@@ -311,30 +311,34 @@ export const tl: Copy = {
   },
 
   pricing: {
-    kicker: 'Libre at Premium',
+    kicker: 'Libre at coins',
     title: 'Libre ang nagsasanggalang sa iyo.',
-    lead: 'Bukas sa lahat ang mahram, ang mga tanong bago mag-usap, ang nakakandadong chat at ang moderasyon. Hindi kami naniningil para sa kaligtasan. Pinapabilis lang ng Premium.',
+    lead: 'Bukas sa lahat ang mahram, ang mga tanong bago mag-usap, ang nakakandadong chat at ang moderasyon. Hindi kami naniningil para sa kaligtasan. Pinapabilis lang ng coins ang mga bagay — at walang subscription.',
     freeTitle: 'Libre, para sa lahat',
     free: [
-      'Profile at Tuklasin',
+      'Profile at 30 profile bawat araw sa Tuklasin',
       '20 like bawat araw',
       '1 pambungad na mensahe bawat araw',
       'Mga pagkakatugma at walang hangganang usapan sa kanila',
       'Mahram sa usapan',
       'Mga tanong bago mag-usap',
       'Komunidad, kuwento at Tanong ng araw',
+      'Libreng coins araw-araw',
     ],
-    premiumTitle: 'Premium, kapag gusto mo ng higit',
+    premiumTitle: 'Coins, kapag gusto mo ng higit',
     premium: [
       'Tingnan kung sino ang nag-like sa iyo',
-      'Walang hangganang like',
-      'Walang hangganang pambungad na mensahe mula sa Tuklasin',
-      'Karagdagang salaan',
-      'Pagsagot sa mga kuwento sa komunidad',
+      'Super like na agad nagbubukas ng usapan',
+      'Karagdagang pambungad na mensahe',
+      'Mas maraming like at profile para ngayong araw',
+      'Ibalik ang profile na nilaktawan mo',
+      'Sumagot sa mga kuwento sa komunidad',
+      'Boost: una ang profile mo sa Tuklasin',
     ],
     extra:
-      'Isang beses lang, kung gusto mo: ang tatak na Beripikado, at ang Boost na naglalagay sa profile mo sa unahan ng Tuklasin sa loob ng takdang panahon.',
+      'Nakakakuha ka rin ng coins nang libre: araw-araw, sa pitong sunod-sunod na araw, sa pagkumpleto ng profile mo at sa pag-imbita ng mga kaibigan. Bibili ka lang kung gusto mo, isang beses, sa App Store o Google Play — walang subscription at walang awtomatikong pag-renew.',
   },
+
 
   about: {
     kicker: 'Tungkol sa amin',
@@ -370,11 +374,11 @@ export const tl: Copy = {
       },
       {
         q: 'Paano ninyo hinaharang ang pekeng profile?',
-        a: 'Sinusuri ang bawat litrato habang ina-upload: malinaw na mukha, isang tao, hindi malabo at hindi natatakpan. Bago ang Tuklasin ay kinukumpirma mo ang numero ng telepono gamit ang SMS code, o ang email. Ang tatak na Beripikado ay nangangahulugang pumasa ang tao sa maikling pagsusuri na siya nga ang nasa litrato. Binabasa ang mga reklamo ng tunay na moderator na puwedeng magsuspinde o magbawal ng profile, at dalawang panig ang pag-block.',
+        a: 'Ang tatak na Beripikado ay nangangahulugang pumasa ang tao sa pagsusuri ng mukha: ikinumpara ang live niyang litrato sa mga larawan sa profile niya. Binabasa ang mga reklamo ng tunay na moderator na puwedeng magsuspinde o magbawal ng profile, at dalawang panig ang pag-block. Hindi basta makakabalik ang na-ban na account gamit ang bagong email address.',
       },
       {
-        q: 'Ano ang libre at ano ang Premium? Paano magkansela?',
-        a: 'Libre ang lahat ng nagsasanggalang sa iyo: mahram, mga tanong bago mag-usap, nakakandadong chat at moderasyon, kasama ang 20 like at isang pambungad na mensahe bawat araw at walang hangganang usapan sa mga pagkakatugma mo. Idinaragdag ng Premium ang pagtingin kung sino ang nag-like sa iyo, walang hangganang like at pambungad na mensahe, karagdagang salaan at pagsagot sa mga kuwento. Kinakansela ang Premium sa mga setting ng subscription sa telepono mo, sa App Store o Google Play.',
+        q: 'Ano ang libre, at ano ang binabayaran ng coins?',
+        a: 'Libre ang lahat ng nagsasanggalang sa iyo: mahram, mga tanong bago mag-usap, nakakandadong chat at moderasyon, kasama ang 20 like at isang pambungad na mensahe bawat araw at walang hangganang usapan sa mga pagkakatugma mo. Gamit ang coins, makikita mo kung sino ang nag-like sa iyo, makakapagpadala ka ng super like o karagdagang pambungad na mensahe, makakakuha ng mas maraming profile at like para sa araw na iyon, at makakasagot sa mga kuwento. Nakakakuha ka ng coins nang libre araw-araw, at puwede mo rin itong bilhin nang isang beses. Walang subscription, kaya wala ring kakanselahin.',
       },
       {
         q: 'Puwede ko bang itago ang profile ko nang pansamantala?',

@@ -311,30 +311,34 @@ export const wo: Copy = {
   },
 
   pricing: {
-    kicker: 'Dara du fay ak Premium',
+    kicker: 'Dara du fay ak coins',
     title: 'Li lay aar dara du fay.',
-    lead: 'Mahram, laaj yi laata waxtaan, waxtaan wu tëdd ak saytu ñépp a ko moom. Du ñu fay ci kaaraange. Premium dafay gaawal rekk.',
+    lead: 'Mahram, laaj yi laata waxtaan, waxtaan wu tëdd ak saytu ñépp a ko moom. Du ñu fay ci kaaraange. Coins yi dañuy gaawal rekk — te amul abonemaa.',
     freeTitle: 'Dara du fay, ngir ñépp',
     free: [
-      'Profil ak Seetlu',
+      'Profil ak 30 profil bés bu nekk ci Seetlu',
       '20 bëgg bés bu nekk',
       '1 bataaxal bu xamante bés bu nekk',
       'Màndargaayu yi ak waxtaan bu amul àpp ak ñoom',
       'Mahram ci waxtaan wi',
       'Laaj yi laata waxtaan',
       'Mbootaay, xalaat yi ak Laaju tey',
+      'Coins yu ñu lay may bés bu nekk',
     ],
-    premiumTitle: 'Premium, su nga bëggee lu gëna',
+    premiumTitle: 'Coins, su nga bëggee lu gëna',
     premium: [
       'Gisal kan la bëgg',
-      'Bëgg yu amul àpp',
-      'Bataaxal yu xamante yu amul àpp jële ci Seetlu',
-      'Tànneef yu yokk',
-      'Tontu xalaat yu mbootaay gi',
+      'Super bëgg bu ubbi waxtaan wi ci saa si',
+      'Bataaxal yu xamante yu yokk',
+      'Bëgg ak profil yu yokk ngir tey',
+      'Delloo profil bi nga wacc',
+      'Tontu xalaat yi ci mbootaay gi',
+      'Boost: sa profil moo jiitu ci Seetlu',
     ],
     extra:
-      'Benn yoon, su nga ko bëggee: màndargay Dëggal, ak Boost bi di teg sa profil ci kanam ci Seetlu ci ab diir.',
+      'Mën nga am coins it te doo fay dara: bés bu nekk, ci juróom-ñaari fan yu toppante, su nga matalee sa profil ak su nga wooyee say xarit. Doo leen jënd su dul nga bëgg, benn yoon, ci App Store walla Google Play — amul abonemaa te amul yeesal bu boppam.',
   },
+
 
   about: {
     kicker: 'Ci sunu mbir',
@@ -370,11 +374,11 @@ export const wo: Copy = {
       },
       {
         q: 'Naka ngeen di aare ci profil yu wor?',
-        a: 'Nataal bu nekk dañu koy saytu bu ñuy yeb: kanam gu leer, benn nit, du bu lëndëm walla bu ñu muur. Laata Seetlu dangay dëggal sa numero telefon ak kodu SMS, walla sa email. Màndargay Dëggal dafay tekki ne nit ki jaar na saytu bu gàtt ne moom moo di ki ci nataal yi. Ñaxtu yi saytukat yu dëggu ñoo leen di jàng, ñi mën tëj profil walla tere leen, te tëj dafay dox ci ñaari wet.',
+        a: 'Màndargay Dëggal dafay tekki ne nit ki jaar na saytu kanam: nataal bu ñu ko def ci saa si dañu ko méngale ak nataal yi ci profilam. Ñaxtu yi saytukat yu dëggu ñoo leen di jàng, ñi mën tëj profil walla tere ko, te tëj dafay dox ci ñaari wet. Kont bu ñu tere mënul a dellusi rekk ak email bu bees.',
       },
       {
-        q: 'Lan moo dara du fay te lan mooy Premium? Naka laay far?',
-        a: 'Lépp lu lay aar dara du fay: mahram, laaj yi laata waxtaan, waxtaan wu tëdd ak saytu, ak it 20 bëgg ak benn bataaxal bu xamante bés bu nekk ak waxtaan bu amul àpp ak say màndargaayu. Premium dafay yokk: gis kan la bëgg, bëgg ak bataaxal yu xamante yu amul àpp, tànneef yu yokk ak tontu xalaat yi. Premium dangay ko far ci tërale yu abonemaa ci sa telefon, ci App Store walla Google Play.',
+        q: 'Lan moo dara du fay te lan lañuy fay ak coins?',
+        a: 'Lépp lu lay aar dara du fay: mahram, laaj yi laata waxtaan, waxtaan wu tëdd ak saytu, ak it 20 bëgg ak benn bataaxal bu xamante bés bu nekk ak waxtaan bu amul àpp ak say màndargaayu. Ak coins mën nga gis kan la bëgg, yónne super bëgg walla bataaxal bu xamante bu yokk, am profil ak bëgg yu yokk ngir bés boobu, te tontu xalaat yi. Coins yi danga leen di am bés bu nekk te doo fay dara, te mën nga leen jënd it benn yoon. Amul abonemaa, kon amul dara lu nga war a far.',
       },
       {
         q: 'Ndax mën naa nëbb sama profil ci ab diir?',

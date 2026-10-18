@@ -312,30 +312,34 @@ export const sw: Copy = {
 
 
   pricing: {
-    kicker: 'Bila malipo na Premium',
+    kicker: 'Bila malipo na sarafu',
     title: 'Kinachokulinda ni bila malipo.',
-    lead: 'Mahramu, maswali kabla ya mazungumzo, gumzo lililofungwa na usimamizi yanapatikana kwa wote. Hatutozi kwa usalama. Premium inaongeza kasi tu.',
+    lead: 'Mahramu, maswali kabla ya mazungumzo, gumzo lililofungwa na usimamizi yanapatikana kwa wote. Hatutozi kwa usalama. Sarafu zinaongeza kasi tu — na hakuna usajili wa malipo.',
     freeTitle: 'Bila malipo, kwa kila mtu',
     free: [
-      'Wasifu na Gundua',
+      'Wasifu na wasifu 30 kwa siku kwenye Gundua',
       'Mapenzi 20 kwa siku',
       'Ujumbe 1 wa utambulisho kwa siku',
       'Mafanano na mazungumzo bila kikomo nao',
       'Mahramu ndani ya mazungumzo',
       'Maswali kabla ya mazungumzo',
       'Jumuiya, hadithi na Swali la siku',
+      'Sarafu bila malipo kila siku',
     ],
-    premiumTitle: 'Premium, unapotaka zaidi',
+    premiumTitle: 'Sarafu, unapotaka zaidi',
     premium: [
       'Ona ni nani aliyekupenda',
-      'Mapenzi bila kikomo',
-      'Ujumbe wa utambulisho bila kikomo kutoka Gundua',
-      'Vichujio vya ziada',
-      'Kujibu hadithi za jumuiya',
+      'Super like inayofungua mazungumzo papo hapo',
+      'Ujumbe wa ziada wa utambulisho',
+      'Mapenzi na wasifu zaidi kwa leo',
+      'Rudisha wasifu uliouruka',
+      'Jibu hadithi za jumuiya',
+      'Boost: wasifu wako wa kwanza kwenye Gundua',
     ],
     extra:
-      'Mara moja, unapotaka: alama ya Imethibitishwa, na Boost inayoweka wasifu wako mbele kwenye Gundua kwa muda uliopangwa.',
+      'Sarafu unazipata pia bila malipo: kila siku, kwa siku saba mfululizo, kwa kukamilisha wasifu wako na kwa kuwaalika marafiki. Unazinunua tu ukitaka, kwa malipo ya mara moja kwenye App Store au Google Play — bila usajili wa malipo na bila kujisasisha kiotomatiki.',
   },
+
 
   about: {
     kicker: 'Kutuhusu',
@@ -371,11 +375,11 @@ export const sw: Copy = {
       },
       {
         q: 'Mnajikinga vipi na wasifu wa kughushi?',
-        a: 'Kila picha inakaguliwa inapopakiwa: uso ulio wazi, mtu mmoja, bila ukungu na bila kufunikwa. Kabla ya Gundua unathibitisha namba ya simu kwa msimbo wa SMS, au barua pepe. Alama ya Imethibitishwa ina maana mtu alipita ukaguzi mfupi kwamba ndiye wa kwenye picha. Malalamiko yanasomwa na wasimamizi wa kweli wanaoweza kusimamisha au kuzuia wasifu, na kuzuia hufanya kazi pande zote mbili.',
+        a: 'Alama ya Imethibitishwa ina maana mtu alipita ukaguzi wa uso: picha yake ya papo hapo ililinganishwa na picha za kwenye wasifu wake. Malalamiko yanasomwa na wasimamizi wa kweli wanaoweza kusimamisha au kuzuia wasifu, na kuzuia hufanya kazi pande zote mbili. Akaunti iliyozuiwa haiwezi kurudi kirahisi kwa barua pepe mpya.',
       },
       {
-        q: 'Nini ni bila malipo na nini ni Premium? Naghairi vipi?',
-        a: 'Kila kinachokulinda ni bila malipo: mahramu, maswali kabla ya mazungumzo, gumzo lililofungwa na usimamizi, pamoja na mapenzi 20 na ujumbe mmoja wa utambulisho kwa siku na mazungumzo bila kikomo na mafanano yako. Premium inaongeza kuona ni nani aliyekupenda, mapenzi na ujumbe wa utambulisho bila kikomo, vichujio vya ziada na kujibu hadithi. Premium unaighairi katika mipangilio ya usajili kwenye simu yako, kwenye App Store au Google Play.',
+        q: 'Nini ni bila malipo, na nini kinalipiwa kwa sarafu?',
+        a: 'Kila kinachokulinda ni bila malipo: mahramu, maswali kabla ya mazungumzo, gumzo lililofungwa na usimamizi, pamoja na mapenzi 20 na ujumbe mmoja wa utambulisho kwa siku na mazungumzo bila kikomo na mafanano yako. Kwa sarafu unaweza kuona ni nani aliyekupenda, kutuma Super like au ujumbe wa ziada wa utambulisho, kupata wasifu na mapenzi zaidi kwa siku hiyo, na kujibu hadithi. Sarafu unazipata bila malipo kila siku, na unaweza pia kuzinunua kwa malipo ya mara moja. Hakuna usajili wa malipo, kwa hiyo hakuna cha kughairi.',
       },
       {
         q: 'Naweza kuficha wasifu kwa muda?',

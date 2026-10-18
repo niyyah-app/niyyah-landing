@@ -311,30 +311,34 @@ export const tr: Copy = {
   },
 
   pricing: {
-    kicker: 'Ücretsiz ve Premium',
+    kicker: 'Ücretsiz ve coin',
     title: 'Seni koruyan şey ücretsiz.',
-    lead: 'Mahrem, sohbetten önce sorular, kilitli sohbet ve denetim herkese açıktır. Güvenliğin parasını almayız. Premium yalnızca hızlandırır.',
+    lead: 'Mahrem, sohbetten önce sorular, kilitli sohbet ve denetim herkese açıktır. Güvenliğin parasını almayız. Coinler yalnızca hızlandırır — ve abonelik yok.',
     freeTitle: 'Ücretsiz, herkese',
     free: [
-      'Profil ve Keşfet',
+      'Profil ve Keşfet’te günde 30 profil',
       'Günde 20 beğeni',
       'Günde 1 tanışma mesajı',
       'Eşleşmeler ve onlarla sınırsız sohbet',
       'Sohbette mahrem',
       'Sohbetten önce sorular',
       'Topluluk, hikâyeler ve Günün sorusu',
+      'Her gün ücretsiz coin',
     ],
-    premiumTitle: 'Premium, daha fazlasını istediğinde',
+    premiumTitle: 'Coin, daha fazlasını istediğinde',
     premium: [
       'Seni kimin beğendiğini gör',
-      'Sınırsız beğeni',
-      'Keşfet’ten sınırsız tanışma mesajı',
-      'Ek süzgeçler',
+      'Sohbeti hemen açan süper beğeni',
+      'Ek tanışma mesajları',
+      'Bugün için daha fazla beğeni ve profil',
+      'Geçtiğin bir profili geri getir',
       'Toplulukta hikâyelere cevap',
+      'Boost: profilin Keşfet’te en önde',
     ],
     extra:
-      'İstediğinde tek seferlik: Verified işareti ve profilini belirli bir süre Keşfet’te öne çıkaran Boost.',
+      'Coinleri ücretsiz de kazanırsın: her gün, art arda yedi gün için, profilini tamamladığında ve arkadaşlarını davet ettiğinde. Yalnızca istersen satın alırsın, tek seferlik, App Store ya da Google Play’den — abonelik ve otomatik yenileme yok.',
   },
+
 
   about: {
     kicker: 'Hakkımızda',
@@ -370,11 +374,11 @@ export const tr: Copy = {
       },
       {
         q: 'Sahte profillere karşı nasıl koruyorsunuz?',
-        a: 'Her fotoğraf yüklenirken denetlenir: net bir yüz, tek kişi, bulanık ya da kapatılmış değil. Keşfet’ten önce telefon numaranı SMS koduyla ya da e-postanı doğrularsın. Verified işareti, kişinin fotoğraflardaki kişi olduğuna dair kısa bir denetimi geçtiği anlamına gelir. Bildirimleri, profilleri askıya alabilen ya da yasaklayabilen gerçek moderatörler okur, ve engelleme iki yönlü işler.',
+        a: 'Verified işareti, kişinin yüz denetiminden geçtiği anlamına gelir: anlık çekilen bir fotoğrafı profilindeki resimlerle karşılaştırıldı. Bildirimleri, profilleri askıya alabilen ya da yasaklayabilen gerçek moderatörler okur, ve engelleme iki yönlü işler. Yasaklanan bir hesap yeni bir e-posta adresiyle öylece geri dönemez.',
       },
       {
-        q: 'Ne ücretsiz, ne Premium? Nasıl iptal ederim?',
-        a: 'Seni koruyan her şey ücretsiz: mahrem, sohbetten önce sorular, kilitli sohbet ve denetim; ayrıca günde 20 beğeni, bir tanışma mesajı ve eşleşmelerle sınırsız sohbet. Premium, seni kimin beğendiğini görmeyi, sınırsız beğeni ve tanışma mesajını, ek süzgeçleri ve hikâyelere cevap vermeyi ekler. Premium’u telefonundaki abonelik ayarlarından, App Store ya da Google Play üzerinden iptal edersin.',
+        q: 'Ne ücretsiz, ne için coin gerekir?',
+        a: 'Seni koruyan her şey ücretsiz: mahrem, sohbetten önce sorular, kilitli sohbet ve denetim; ayrıca günde 20 beğeni, bir tanışma mesajı ve eşleşmelerle sınırsız sohbet. Coinle seni kimin beğendiğini görebilir, süper beğeni ya da ek tanışma mesajı gönderebilir, o gün için daha fazla profil ve beğeni alabilir ve hikâyelere cevap verebilirsin. Coinleri her gün ücretsiz kazanırsın, istersen tek seferlik satın da alabilirsin. Abonelik yok, yani iptal edecek bir şey de yok.',
       },
       {
         q: 'Profilimi bir süre gizleyebilir miyim?',

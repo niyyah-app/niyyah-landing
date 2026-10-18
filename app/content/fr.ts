@@ -311,30 +311,34 @@ export const fr: Copy = {
   },
 
   pricing: {
-    kicker: 'Gratuit et Premium',
+    kicker: 'Gratuit et coins',
     title: 'Ce qui te protège est gratuit.',
-    lead: 'Le mahram, les questions avant la conversation, le chat verrouillé et la modération sont accessibles à tous. Nous ne facturons pas la sécurité. Premium ne fait qu’accélérer.',
+    lead: 'Le mahram, les questions avant la conversation, le chat verrouillé et la modération sont accessibles à tous. Nous ne facturons pas la sécurité. Les coins ne font qu’accélérer — et il n’y a pas d’abonnement.',
     freeTitle: 'Gratuit, pour tous',
     free: [
-      'Profil et Découvrir',
+      'Un profil et 30 profils par jour dans Découvrir',
       '20 likes par jour',
       '1 message d’introduction par jour',
       'Correspondances et conversation illimitée avec elles',
       'Un mahram dans la conversation',
       'Questions avant la conversation',
       'Communauté, récits et Question du jour',
+      'Des coins gratuits chaque jour',
     ],
-    premiumTitle: 'Premium, quand tu veux plus',
+    premiumTitle: 'Des coins, quand tu veux plus',
     premium: [
       'Vois qui t’a liké',
-      'Likes illimités',
-      'Messages d’introduction illimités depuis Découvrir',
-      'Filtres supplémentaires',
+      'Un super like qui ouvre la conversation tout de suite',
+      'Des messages d’introduction en plus',
+      'Plus de likes et de profils pour aujourd’hui',
+      'Retrouve un profil que tu as passé',
       'Répondre aux récits de la communauté',
+      'Boost : ton profil en premier dans Découvrir',
     ],
     extra:
-      'Ponctuellement, si tu le souhaites : le badge Verified et Boost, qui place ton profil en premier dans Découvrir pendant un temps donné.',
+      'Tu gagnes aussi des coins gratuitement : chaque jour, pour sept jours d’affilée, pour un profil complet et pour les amis invités. Tu ne les achètes que si tu le veux, en une fois, sur l’App Store ou Google Play — sans abonnement ni renouvellement automatique.',
   },
+
 
   about: {
     kicker: 'À propos',
@@ -370,11 +374,11 @@ export const fr: Copy = {
       },
       {
         q: 'Comment vous protégez-vous des faux profils ?',
-        a: 'Chaque photo est vérifiée à l’envoi : un visage net, une seule personne, ni flou ni masqué. Avant Découvrir, tu confirmes ton numéro de téléphone par code SMS, ou ton e-mail. Le badge Verified signifie que la personne a passé une courte vérification attestant qu’elle est bien celle des photos. Les signalements sont lus par de vrais modérateurs, qui peuvent suspendre ou bannir des profils, et le blocage va dans les deux sens.',
+        a: 'Le badge Verified signifie que la personne a passé une vérification du visage : une photo prise en direct a été comparée aux images de son profil. Les signalements sont lus par de vrais modérateurs, qui peuvent suspendre ou bannir un profil, et le blocage va dans les deux sens. Un compte banni ne peut pas simplement revenir avec une nouvelle adresse e-mail.',
       },
       {
-        q: 'Qu’est-ce qui est gratuit et qu’est-ce qui est Premium ? Comment résilier ?',
-        a: 'Tout ce qui te protège est gratuit : le mahram, les questions avant la conversation, le chat verrouillé et la modération, avec 20 likes et un message d’introduction par jour, et une conversation illimitée avec tes correspondances. Premium ajoute de voir qui t’a liké, des likes et des messages d’introduction illimités, des filtres supplémentaires et les réponses aux récits. Premium se résilie dans les réglages d’abonnement de ton téléphone, sur l’App Store ou Google Play.',
+        q: 'Qu’est-ce qui est gratuit, et qu’est-ce qui coûte des coins ?',
+        a: 'Tout ce qui te protège est gratuit : le mahram, les questions avant la conversation, le chat verrouillé et la modération, avec 20 likes et un message d’introduction par jour, et une conversation illimitée avec tes correspondances. Avec des coins, tu peux voir qui t’a liké, envoyer un super like ou un message d’introduction en plus, obtenir plus de profils et de likes pour la journée, et répondre aux récits. Tu gagnes des coins gratuitement chaque jour, et tu peux aussi les acheter en une fois. Il n’y a pas d’abonnement, donc rien à résilier.',
       },
       {
         q: 'Puis-je masquer mon profil temporairement ?',

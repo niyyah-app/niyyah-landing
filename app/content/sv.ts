@@ -312,30 +312,34 @@ export const sv: Copy = {
 
 
   pricing: {
-    kicker: 'Gratis och Premium',
+    kicker: 'Gratis och mynt',
     title: 'Det som skyddar dig är gratis.',
-    lead: 'Mahram, frågor före samtalet, den låsta chatten och modereringen är öppna för alla. Vi tar inte betalt för säkerhet. Premium gör det bara snabbare.',
+    lead: 'Mahram, frågor före samtalet, den låsta chatten och modereringen är öppna för alla. Vi tar inte betalt för säkerhet. Mynt gör det bara snabbare — och det finns ingen prenumeration.',
     freeTitle: 'Gratis, för alla',
     free: [
-      'Profil och Upptäck',
+      'En profil och 30 profiler om dagen i Upptäck',
       '20 gillanden om dagen',
       '1 introduktionsmeddelande om dagen',
       'Matchningar och obegränsat samtal med dem',
       'En mahram i samtalet',
       'Frågor före samtalet',
       'Gemenskap, berättelser och Dagens fråga',
+      'Gratis mynt varje dag',
     ],
-    premiumTitle: 'Premium, när du vill mer',
+    premiumTitle: 'Mynt, när du vill mer',
     premium: [
       'Se vem som gillat dig',
-      'Obegränsade gillanden',
-      'Obegränsade introduktionsmeddelanden från Upptäck',
-      'Fler filter',
+      'Ett supergillande som öppnar samtalet direkt',
+      'Extra introduktionsmeddelanden',
+      'Fler gillanden och profiler för i dag',
+      'Ta tillbaka en profil du hoppade över',
       'Svara på berättelser i gemenskapen',
+      'Boost: din profil först i Upptäck',
     ],
     extra:
-      'En gång, när du vill: Verifierad-märket och Boost, som lägger din profil först i Upptäck under en bestämd tid.',
+      'Du får också mynt gratis: varje dag, för sju dagar i rad, för en ifylld profil och för vänner du bjuder in. Du köper dem bara om du vill, som engångsköp i App Store eller Google Play — ingen prenumeration och ingen automatisk förnyelse.',
   },
+
 
   about: {
     kicker: 'Om oss',
@@ -371,11 +375,11 @@ export const sv: Copy = {
       },
       {
         q: 'Hur skyddar ni mot falska profiler?',
-        a: 'Varje foto granskas vid uppladdning: ett tydligt ansikte, en person, inte suddigt och inte övertäckt. Före Upptäck bekräftar du ditt telefonnummer med en SMS-kod, eller din e-post. Verifierad-märket betyder att personen klarat en kort kontroll att hen är den på bilderna. Anmälningar läses av riktiga moderatorer som kan stänga av eller blockera profiler, och blockering gäller i båda riktningar.',
+        a: 'Verifierad-märket betyder att personen klarat en ansiktskontroll: ett foto av hen taget i stunden jämfördes med bilderna på profilen. Anmälningar läses av riktiga moderatorer som kan stänga av eller spärra en profil, och blockering gäller i båda riktningar. Ett spärrat konto kan inte bara komma tillbaka med en ny e-postadress.',
       },
       {
-        q: 'Vad är gratis och vad är Premium? Hur avslutar jag?',
-        a: 'Allt som skyddar dig är gratis: mahram, frågor före samtalet, den låsta chatten och modereringen, plus 20 gillanden och ett introduktionsmeddelande om dagen och obegränsat samtal med dina matchningar. Premium lägger till att se vem som gillat dig, obegränsade gillanden och introduktionsmeddelanden, fler filter och svar på berättelser. Premium avslutar du i telefonens prenumerationsinställningar, i App Store eller Google Play.',
+        q: 'Vad är gratis, och vad kostar mynt?',
+        a: 'Allt som skyddar dig är gratis: mahram, frågor före samtalet, den låsta chatten och modereringen, plus 20 gillanden och ett introduktionsmeddelande om dagen och obegränsat samtal med dina matchningar. Med mynt kan du se vem som gillat dig, skicka ett supergillande eller ett extra introduktionsmeddelande, få fler profiler och gillanden för dagen och svara på berättelser. Du får mynt gratis varje dag, och du kan också köpa dem som engångsköp. Det finns ingen prenumeration, så det finns inget att säga upp.',
       },
       {
         q: 'Kan jag gömma profilen en tid?',

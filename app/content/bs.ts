@@ -310,30 +310,34 @@ export const bs = {
   },
 
   pricing: {
-    kicker: 'Besplatno i Premium',
+    kicker: 'Besplatno i coinsi',
     title: 'Ono što te čuva je besplatno.',
-    lead: 'Mahrem, pitanja prije razgovora, zaključan chat i moderacija dostupni su svima. Ne naplaćujemo sigurnost. Premium samo ubrzava.',
+    lead: 'Mahrem, pitanja prije razgovora, zaključan chat i moderacija dostupni su svima. Ne naplaćujemo sigurnost. Coinsi samo ubrzavaju — i nema pretplate.',
     freeTitle: 'Besplatno, za svakoga',
     free: [
-      'Profil i Otkrivaj',
+      'Profil i 30 profila dnevno u Otkrivaj',
       '20 lajkova dnevno',
       '1 uvodna poruka dnevno',
       'Podudaranja i neograničen razgovor s njima',
       'Mahrem u razgovoru',
       'Pitanja prije razgovora',
       'Zajednica, priče i Pitanje dana',
+      'Besplatni coinsi svaki dan',
     ],
-    premiumTitle: 'Premium, kad poželiš više',
+    premiumTitle: 'Coinsi, kad poželiš više',
     premium: [
       'Vidi ko te lajkao',
-      'Neograničeni lajkovi',
-      'Neograničene uvodne poruke iz Otkrivaj',
-      'Dodatni filteri',
-      'Odgovaranje na priče u zajednici',
+      'Super lajk koji odmah otvara razgovor',
+      'Dodatne uvodne poruke',
+      'Još lajkova i profila za danas',
+      'Vrati profil koji si preskočio/la',
+      'Odgovori na priče u zajednici',
+      'Boost: tvoj profil prvi u Otkrivaj',
     ],
     extra:
-      'Jednokratno, kad želiš: Verified oznaka i Boost, koji tvoj profil stavlja prvi u Otkrivaj na određeno vrijeme.',
+      'Coinse dobijaš i besplatno: svaki dan, za sedam dana zaredom, za popunjen profil i za pozvane prijatelje. Kupuješ ih samo ako želiš, jednokratno u App Storeu ili Google Playu — bez pretplate i automatskog obnavljanja.',
   },
+
 
   about: {
     kicker: 'O nama',
@@ -369,11 +373,11 @@ export const bs = {
       },
       {
         q: 'Kako se štitite od lažnih profila?',
-        a: 'Svaka fotografija se provjerava pri uploadu: jasno lice, jedna osoba, nije mutna ni prekrivena. Prije Otkrivaj potvrđuješ broj telefona SMS kodom ili e-mail. Verified oznaka znači da je osoba prošla kratku provjeru da je ona sa slika. Prijave čitaju stvarni moderatori koji mogu suspendovati ili zabraniti profil, a blokiranje djeluje u oba smjera.',
+        a: 'Verified oznaka znači da je osoba prošla provjeru lica: njena fotografija uživo poređena je sa slikama na profilu. Prijave čitaju stvarni moderatori koji mogu suspendovati ili zabraniti profil, a blokiranje djeluje u oba smjera. Zabranjen nalog se ne može jednostavno vratiti s novom adresom.',
       },
       {
-        q: 'Šta je besplatno, a šta Premium? Kako otkazujem?',
-        a: 'Besplatno je sve što te čuva: mahrem, pitanja prije razgovora, zaključan chat i moderacija, uz 20 lajkova i jednu uvodnu poruku dnevno te neograničen razgovor s podudaranjima. Premium dodaje uvid u to ko te lajkao, neograničene lajkove i uvodne poruke, dodatne filtere i odgovaranje na priče. Premium otkazuješ u postavkama pretplata na telefonu, u App Storeu ili Google Playu.',
+        q: 'Šta je besplatno, a šta se plaća coinsima?',
+        a: 'Besplatno je sve što te čuva: mahrem, pitanja prije razgovora, zaključan chat i moderacija, uz 20 lajkova i jednu uvodnu poruku dnevno te neograničen razgovor s podudaranjima. Coinsima možeš vidjeti ko te lajkao, poslati super lajk ili dodatnu uvodnu poruku, dobiti još profila i lajkova za taj dan i odgovarati na priče. Coinse dobijaš besplatno svaki dan, a možeš ih i kupiti jednokratno. Nema pretplate, pa nema ni šta otkazivati.',
       },
       {
         q: 'Mogu li privremeno sakriti profil?',

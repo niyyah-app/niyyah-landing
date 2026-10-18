@@ -312,30 +312,34 @@ export const az: Copy = {
 
 
   pricing: {
-    kicker: 'Pulsuz və Premium',
+    kicker: 'Pulsuz və sikkələr',
     title: 'Sizi qoruyan şey pulsuzdur.',
-    lead: 'Məhrəm, söhbətdən əvvəl suallar, qapalı söhbət və nəzarət hamı üçündür. Təhlükəsizliyin pulunu almırıq. Premium yalnız sürətləndirir.',
+    lead: 'Məhrəm, söhbətdən əvvəl suallar, qapalı söhbət və nəzarət hamı üçündür. Təhlükəsizliyin pulunu almırıq. Sikkələr yalnız sürətləndirir — və abunə yoxdur.',
     freeTitle: 'Pulsuz, hamı üçün',
     free: [
-      'Profil və Kəşf',
+      'Profil və Kəşfdə gündə 30 profil',
       'Gündə 20 bəyənmə',
       'Gündə 1 tanışlıq mesajı',
       'Uyğunluqlar və onlarla hüdudsuz söhbət',
       'Söhbətdə məhrəm',
       'Söhbətdən əvvəl suallar',
       'İcma, hekayələr və Günün sualı',
+      'Hər gün pulsuz sikkələr',
     ],
-    premiumTitle: 'Premium, daha çoxunu istədikdə',
+    premiumTitle: 'Sikkələr, daha çoxunu istədikdə',
     premium: [
       'Kimin sizi bəyəndiyini görün',
-      'Hüdudsuz bəyənmə',
-      'Kəşfdən hüdudsuz tanışlıq mesajı',
-      'Əlavə süzgəclər',
+      'Söhbəti dərhal açan super bəyənmə',
+      'Əlavə tanışlıq mesajları',
+      'Bu gün üçün daha çox bəyənmə və profil',
+      'Keçdiyiniz profili geri qaytarın',
       'İcma hekayələrinə cavab',
+      'Boost: profiliniz Kəşfdə birinci',
     ],
     extra:
-      'Bir dəfəlik, istədikdə: Təsdiqlənmiş nişanı və profilinizi müəyyən müddət Kəşfdə öndə saxlayan Boost.',
+      'Sikkələri pulsuz da qazanırsınız: hər gün, ardıcıl yeddi gün üçün, doldurulmuş profil üçün və dəvət etdiyiniz dostlar üçün. Onları yalnız istəsəniz, birdəfəlik ödənişlə App Store ya Google Play-də alırsınız — abunəsiz və avtomatik yenilənməsiz.',
   },
+
 
   about: {
     kicker: 'Haqqımızda',
@@ -371,11 +375,11 @@ export const az: Copy = {
       },
       {
         q: 'Saxta profillərdən necə qoruyursunuz?',
-        a: 'Hər şəkil yükləndikdə yoxlanılır: aydın üz, bir nəfər, bulanıq və örtülü deyil. Kəşfdən əvvəl telefon nömrəsini SMS kodu ilə, ya e-poçtu təsdiqləyirsiniz. Təsdiqlənmiş nişanı şəxsin şəkillərdəki olduğunun qısa yoxlanmasından keçdiyini bildirir. Şikayətləri profilləri dayandıra ya qadağan edə bilən əsl moderatorlar oxuyur, bloklama isə iki tərəfə işləyir.',
+        a: 'Təsdiqlənmiş nişanı şəxsin üz yoxlamasından keçdiyini bildirir: onun canlı çəkilmiş şəkli profildəki şəkillərlə müqayisə olunub. Şikayətləri profili dayandıra ya qadağan edə bilən əsl moderatorlar oxuyur, bloklama isə iki tərəfə işləyir. Qadağan olunmuş hesab sadəcə yeni e-poçt ünvanı ilə geri qayıda bilməz.',
       },
       {
-        q: 'Nə pulsuzdur, nə Premium? Necə ləğv edirəm?',
-        a: 'Sizi qoruyan hər şey pulsuzdur: məhrəm, söhbətdən əvvəl suallar, qapalı söhbət və nəzarət, üstəlik gündə 20 bəyənmə və bir tanışlıq mesajı və uyğunluqlarla hüdudsuz söhbət. Premium kimin sizi bəyəndiyini görməyi, hüdudsuz bəyənmə və tanışlıq mesajlarını, əlavə süzgəcləri və hekayələrə cavabı əlavə edir. Premium-u telefonunuzun abunə tənzimlərində, App Store ya Google Play-də ləğv edirsiniz.',
+        q: 'Nə pulsuzdur, nəyə isə sikkə lazımdır?',
+        a: 'Sizi qoruyan hər şey pulsuzdur: məhrəm, söhbətdən əvvəl suallar, qapalı söhbət və nəzarət, üstəlik gündə 20 bəyənmə və bir tanışlıq mesajı və uyğunluqlarla hüdudsuz söhbət. Sikkələrlə kimin sizi bəyəndiyini görə, super bəyənmə ya əlavə tanışlıq mesajı göndərə, həmin gün üçün daha çox profil və bəyənmə ala və hekayələrə cavab verə bilərsiniz. Sikkələri hər gün pulsuz qazanırsınız, onları birdəfəlik ödənişlə ala da bilərsiniz. Abunə yoxdur, ona görə ləğv ediləsi heç nə də yoxdur.',
       },
       {
         q: 'Profilimi müvəqqəti gizlədə bilərəm?',

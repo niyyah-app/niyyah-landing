@@ -311,30 +311,34 @@ export const en: Copy = {
   },
 
   pricing: {
-    kicker: 'Free and Premium',
+    kicker: 'Free and coins',
     title: 'What keeps you safe is free.',
-    lead: 'The mahram feature, questions before chatting, the locked chat and moderation are available to everyone. We do not charge for safety. Premium only speeds things up.',
+    lead: 'Mahram, questions before chat, locked conversations and moderation are for everyone. We do not charge for safety. Coins only speed things up — and there is no subscription.',
     freeTitle: 'Free, for everyone',
     free: [
-      'Profile and Discover',
+      'A profile and 30 profiles a day in Discover',
       '20 likes a day',
       '1 intro message a day',
-      'Matches and unlimited chat with them',
+      'Matches, and unlimited conversation with them',
       'A mahram in the conversation',
-      'Questions before chatting',
-      'Community, stories and Question of the day',
+      'Questions before chat',
+      'Community, stories and the Question of the day',
+      'Free coins every day',
     ],
-    premiumTitle: 'Premium, when you want more',
+    premiumTitle: 'Coins, when you want more',
     premium: [
       'See who liked you',
-      'Unlimited likes',
-      'Unlimited intro messages from Discover',
-      'Extra filters',
+      'A super like that opens the conversation at once',
+      'Extra intro messages',
+      'More likes and profiles for today',
+      'Bring back a profile you skipped',
       'Reply to stories in the community',
+      'Boost: your profile first in Discover',
     ],
     extra:
-      'One-time, when you want them: the Verified badge, and Boost, which puts your profile first in Discover for a set time.',
+      'You also earn coins for free: every day, for seven days in a row, for completing your profile and for inviting friends. You buy them only if you want to, once, in the App Store or Google Play — no subscription and no automatic renewal.',
   },
+
 
   about: {
     kicker: 'About us',
@@ -370,11 +374,11 @@ export const en: Copy = {
       },
       {
         q: 'How do you protect against fake profiles?',
-        a: 'Every photo is checked on upload: a clear face, one person, not blurred or covered. Before Discover you confirm your phone number with an SMS code, or your email. The Verified badge means the person passed a short check that they are the one in the photos. Reports are read by real moderators who can suspend or ban profiles, and blocking works both ways.',
+        a: 'The verified badge means the person passed a face check: a live photo of them was compared with the pictures on their profile. Reports are read by real moderators who can suspend or ban a profile, and blocking works both ways. A banned account cannot simply come back with a new email address.',
       },
       {
-        q: 'What is free and what is Premium? How do I cancel?',
-        a: 'Everything that keeps you safe is free: the mahram feature, questions before chatting, the locked chat and moderation, along with 20 likes and one intro message a day and unlimited chat with your matches. Premium adds seeing who liked you, unlimited likes and intro messages, extra filters and replies to stories. You cancel Premium in your phone’s subscription settings, in the App Store or Google Play.',
+        q: 'What is free, and what costs coins?',
+        a: 'Everything that keeps you safe is free: mahram, questions before chat, locked conversations and moderation, plus 20 likes and one intro message a day and unlimited conversation with your matches. With coins you can see who liked you, send a super like or an extra intro message, get more profiles and likes for the day, and reply to stories. You earn coins for free every day, and you can also buy them once-off. There is no subscription, so there is nothing to cancel.',
       },
       {
         q: 'Can I hide my profile for a while?',

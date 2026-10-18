@@ -311,30 +311,34 @@ export const ms: Copy = {
   },
 
   pricing: {
-    kicker: 'Percuma dan Premium',
+    kicker: 'Percuma dan coin',
     title: 'Yang menjaga anda itu percuma.',
-    lead: 'Mahram, soalan sebelum perbualan, bual berkunci dan penyeliaan terbuka kepada semua. Kami tidak mengenakan bayaran untuk keselamatan. Premium hanya mempercepatkan.',
+    lead: 'Mahram, soalan sebelum perbualan, bual berkunci dan penyeliaan terbuka kepada semua. Kami tidak mengenakan bayaran untuk keselamatan. Coin hanya mempercepatkan — dan tiada langganan.',
     freeTitle: 'Percuma, untuk sesiapa',
     free: [
-      'Profil dan Terokai',
+      'Profil dan 30 profil sehari dalam Terokai',
       '20 suka sehari',
       '1 mesej perkenalan sehari',
       'Padanan dan perbualan tanpa had dengan mereka',
       'Mahram dalam perbualan',
       'Soalan sebelum perbualan',
       'Komuniti, cerita dan Soalan hari ini',
+      'Coin percuma setiap hari',
     ],
-    premiumTitle: 'Premium, apabila anda mahu lebih',
+    premiumTitle: 'Coin, apabila anda mahu lebih',
     premium: [
       'Lihat siapa yang menyukai anda',
-      'Suka tanpa had',
-      'Mesej perkenalan tanpa had dari Terokai',
-      'Penapis tambahan',
+      'Super suka yang terus membuka perbualan',
+      'Mesej perkenalan tambahan',
+      'Lebih banyak suka dan profil untuk hari ini',
+      'Kembalikan profil yang anda langkau',
       'Membalas cerita dalam komuniti',
+      'Boost: profil anda paling hadapan dalam Terokai',
     ],
     extra:
-      'Sekali bayar, apabila anda mahu: tanda Disahkan, dan Boost yang meletakkan profil anda paling hadapan dalam Terokai untuk tempoh tertentu.',
+      'Anda juga mendapat coin secara percuma: setiap hari, untuk tujuh hari berturut-turut, untuk profil yang lengkap dan untuk rakan yang anda jemput. Anda membelinya hanya jika mahu, sekali bayar, di App Store atau Google Play — tanpa langganan dan tanpa pembaharuan automatik.',
   },
+
 
   about: {
     kicker: 'Tentang kami',
@@ -370,11 +374,11 @@ export const ms: Copy = {
       },
       {
         q: 'Bagaimana anda melindungi daripada profil palsu?',
-        a: 'Setiap gambar disemak semasa dimuat naik: muka yang jelas, seorang sahaja, tidak kabur dan tidak tertutup. Sebelum Terokai, anda mengesahkan nombor telefon dengan kod SMS, atau e-mel. Tanda Disahkan bermaksud orang itu lulus pemeriksaan singkat bahawa dia memang orang dalam gambar. Laporan dibaca oleh moderator sebenar yang boleh menggantung atau melarang profil, dan sekatan berfungsi dua hala.',
+        a: 'Tanda Disahkan bermaksud orang itu lulus pemeriksaan wajah: gambar langsungnya dibandingkan dengan gambar dalam profilnya. Laporan dibaca oleh moderator sebenar yang boleh menggantung atau melarang profil, dan sekatan berfungsi dua hala. Akaun yang dilarang tidak boleh kembali begitu sahaja dengan alamat e-mel baharu.',
       },
       {
-        q: 'Apa yang percuma dan apa yang Premium? Bagaimana saya membatalkannya?',
-        a: 'Semua yang menjaga anda itu percuma: mahram, soalan sebelum perbualan, bual berkunci dan penyeliaan, berserta 20 suka dan satu mesej perkenalan sehari serta perbualan tanpa had dengan padanan anda. Premium menambah melihat siapa yang menyukai anda, suka dan mesej perkenalan tanpa had, penapis tambahan dan membalas cerita. Premium anda batalkan dalam tetapan langganan pada telefon anda, di App Store atau Google Play.',
+        q: 'Apa yang percuma, dan apa yang memerlukan coin?',
+        a: 'Semua yang menjaga anda itu percuma: mahram, soalan sebelum perbualan, bual berkunci dan penyeliaan, ditambah 20 suka dan satu mesej perkenalan sehari serta perbualan tanpa had dengan padanan anda. Dengan coin anda boleh melihat siapa yang menyukai anda, menghantar super suka atau mesej perkenalan tambahan, mendapat lebih banyak profil dan suka untuk hari itu, dan membalas cerita. Anda mendapat coin percuma setiap hari, dan anda juga boleh membelinya sekali bayar. Tiada langganan, jadi tiada apa yang perlu dibatalkan.',
       },
       {
         q: 'Bolehkah saya menyembunyikan profil untuk sementara?',

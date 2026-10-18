@@ -312,30 +312,34 @@ export const it: Copy = {
 
 
   pricing: {
-    kicker: 'Gratis e Premium',
+    kicker: 'Gratis e monete',
     title: 'Ciò che ti protegge è gratis.',
-    lead: 'Il mahram, le domande prima della conversazione, la chat chiusa e la moderazione sono per tutti. Per la sicurezza non facciamo pagare. Premium solo accelera.',
+    lead: 'Il mahram, le domande prima della conversazione, la chat chiusa e la moderazione sono per tutti. Per la sicurezza non facciamo pagare. Le monete accelerano soltanto — e non c’è abbonamento.',
     freeTitle: 'Gratis, per tutti',
     free: [
-      'Profilo e Scopri',
+      'Un profilo e 30 profili al giorno in Scopri',
       '20 «mi piace» al giorno',
       '1 messaggio di presentazione al giorno',
       'Corrispondenze e conversazione illimitata con loro',
       'Un mahram nella conversazione',
       'Domande prima della conversazione',
       'Comunità, racconti e Domanda del giorno',
+      'Monete gratis ogni giorno',
     ],
-    premiumTitle: 'Premium, quando vuoi di più',
+    premiumTitle: 'Monete, quando vuoi di più',
     premium: [
       'Vedi chi ti ha messo «mi piace»',
-      '«Mi piace» illimitati',
-      'Messaggi di presentazione illimitati da Scopri',
-      'Filtri aggiuntivi',
+      'Un super «mi piace» che apre subito la conversazione',
+      'Messaggi di presentazione in più',
+      'Più «mi piace» e profili per oggi',
+      'Recupera un profilo che hai saltato',
       'Rispondere ai racconti della comunità',
+      'Boost: il tuo profilo per primo in Scopri',
     ],
     extra:
-      'Una volta sola, se vuoi: il contrassegno Verificato e Boost, che mette il tuo profilo per primo in Scopri per un tempo stabilito.',
+      'Le monete le guadagni anche gratis: ogni giorno, per sette giorni di fila, per il profilo completato e per gli amici invitati. Le compri solo se vuoi, una volta sola, sull’App Store o su Google Play — senza abbonamento e senza rinnovo automatico.',
   },
+
 
   about: {
     kicker: 'Chi siamo',
@@ -371,11 +375,11 @@ export const it: Copy = {
       },
       {
         q: 'Come vi proteggete dai profili falsi?',
-        a: 'Ogni foto è controllata al caricamento: un volto chiaro, una sola persona, non sfocata e non coperta. Prima di Scopri confermi il numero di telefono con un codice SMS, o l’email. Il contrassegno Verificato significa che la persona ha superato un controllo breve di essere quella delle foto. Le segnalazioni le leggono moderatori veri, che possono sospendere o bandire profili, e il blocco vale nei due sensi.',
+        a: 'Il contrassegno Verificato significa che la persona ha superato un controllo del volto: una sua foto scattata dal vivo è stata confrontata con le immagini del profilo. Le segnalazioni le leggono moderatori veri, che possono sospendere o bandire un profilo, e il blocco vale nei due sensi. Un account bandito non può semplicemente tornare con un nuovo indirizzo email.',
       },
       {
-        q: 'Che cosa è gratis e che cosa è Premium? Come disdico?',
-        a: 'Tutto ciò che ti protegge è gratis: il mahram, le domande prima della conversazione, la chat chiusa e la moderazione, più 20 «mi piace» e un messaggio di presentazione al giorno e conversazione illimitata con le tue corrispondenze. Premium aggiunge vedere chi ti ha messo «mi piace», «mi piace» e messaggi di presentazione illimitati, filtri aggiuntivi e risposte ai racconti. Premium si disdice nelle impostazioni degli abbonamenti del tuo telefono, su App Store o Google Play.',
+        q: 'Che cosa è gratis e che cosa costa monete?',
+        a: 'Tutto ciò che ti protegge è gratis: il mahram, le domande prima della conversazione, la chat chiusa e la moderazione, più 20 «mi piace» e un messaggio di presentazione al giorno e una conversazione illimitata con le tue corrispondenze. Con le monete puoi vedere chi ti ha messo «mi piace», inviare un super «mi piace» o un messaggio di presentazione in più, avere più profili e «mi piace» per la giornata e rispondere ai racconti. Guadagni monete gratis ogni giorno, e puoi anche comprarle una volta sola. Non c’è abbonamento, quindi non c’è niente da disdire.',
       },
       {
         q: 'Posso nascondere il profilo per un po’?',

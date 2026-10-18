@@ -311,30 +311,34 @@ export const id: Copy = {
   },
 
   pricing: {
-    kicker: 'Gratis dan Premium',
+    kicker: 'Gratis dan koin',
     title: 'Yang menjagamu itu gratis.',
-    lead: 'Mahram, pertanyaan sebelum percakapan, obrolan terkunci dan moderasi tersedia untuk semua. Kami tidak menarik bayaran atas keamanan. Premium hanya mempercepat.',
+    lead: 'Mahram, pertanyaan sebelum percakapan, obrolan terkunci dan moderasi tersedia untuk semua. Kami tidak menarik bayaran atas keamanan. Koin hanya mempercepat — dan tidak ada langganan.',
     freeTitle: 'Gratis, untuk siapa saja',
     free: [
-      'Profil dan Jelajahi',
+      'Profil dan 30 profil per hari di Jelajahi',
       '20 suka per hari',
       '1 pesan perkenalan per hari',
       'Kecocokan dan percakapan tanpa batas dengan mereka',
       'Mahram dalam percakapan',
       'Pertanyaan sebelum percakapan',
       'Komunitas, cerita dan Pertanyaan hari ini',
+      'Koin gratis setiap hari',
     ],
-    premiumTitle: 'Premium, bila ingin lebih',
+    premiumTitle: 'Koin, bila ingin lebih',
     premium: [
       'Lihat siapa yang menyukaimu',
-      'Suka tanpa batas',
-      'Pesan perkenalan tanpa batas dari Jelajahi',
-      'Saringan tambahan',
+      'Super suka yang langsung membuka percakapan',
+      'Pesan perkenalan tambahan',
+      'Lebih banyak suka dan profil untuk hari ini',
+      'Kembalikan profil yang kamu lewati',
       'Menanggapi cerita di komunitas',
+      'Boost: profilmu paling depan di Jelajahi',
     ],
     extra:
-      'Sekali bayar, bila kamu mau: tanda Terverifikasi, dan Boost yang menempatkan profilmu paling depan di Jelajahi untuk waktu tertentu.',
+      'Koin juga kamu dapatkan gratis: setiap hari, untuk tujuh hari berturut-turut, untuk profil yang lengkap dan untuk teman yang kamu undang. Kamu membelinya hanya bila mau, sekali bayar, di App Store atau Google Play — tanpa langganan dan tanpa perpanjangan otomatis.',
   },
+
 
   about: {
     kicker: 'Tentang kami',
@@ -370,11 +374,11 @@ export const id: Copy = {
       },
       {
         q: 'Bagaimana kalian melindungi dari profil palsu?',
-        a: 'Setiap foto diperiksa saat diunggah: wajah jelas, satu orang, tidak kabur dan tidak tertutup. Sebelum Jelajahi, kamu mengonfirmasi nomor telepon dengan kode SMS, atau email. Tanda Terverifikasi berarti orang itu lulus pemeriksaan singkat bahwa ia memang yang ada di foto. Laporan dibaca moderator sungguhan yang dapat menangguhkan atau melarang profil, dan blokir berlaku dua arah.',
+        a: 'Tanda Terverifikasi berarti orang itu lulus pemeriksaan wajah: foto langsung dirinya dibandingkan dengan gambar di profilnya. Laporan dibaca moderator sungguhan yang dapat menangguhkan atau melarang profil, dan blokir berlaku dua arah. Akun yang dilarang tidak bisa begitu saja kembali dengan alamat email baru.',
       },
       {
-        q: 'Apa yang gratis dan apa yang Premium? Bagaimana membatalkannya?',
-        a: 'Semua yang menjagamu itu gratis: mahram, pertanyaan sebelum percakapan, obrolan terkunci dan moderasi, ditambah 20 suka dan satu pesan perkenalan per hari serta percakapan tanpa batas dengan kecocokanmu. Premium menambahkan melihat siapa yang menyukaimu, suka dan pesan perkenalan tanpa batas, saringan tambahan dan menanggapi cerita. Premium kamu batalkan di pengaturan langganan di ponselmu, di App Store atau Google Play.',
+        q: 'Apa yang gratis, dan apa yang memakai koin?',
+        a: 'Semua yang menjagamu itu gratis: mahram, pertanyaan sebelum percakapan, obrolan terkunci dan moderasi, ditambah 20 suka dan satu pesan perkenalan per hari serta percakapan tanpa batas dengan kecocokanmu. Dengan koin kamu bisa melihat siapa yang menyukaimu, mengirim super suka atau pesan perkenalan tambahan, mendapat lebih banyak profil dan suka untuk hari itu, dan menanggapi cerita. Koin kamu dapatkan gratis setiap hari, dan kamu juga bisa membelinya sekali bayar. Tidak ada langganan, jadi tidak ada yang perlu dibatalkan.',
       },
       {
         q: 'Bisakah saya menyembunyikan profil untuk sementara?',
