@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { guideUi, isGuideLocale } from '~/guide/registry'
+import { isLegalLocale, legalUi } from '~/legal/content'
 
 const c = useCopy()
 const localePath = useLocalePath()
@@ -8,6 +9,9 @@ const languageLink = useLanguageLink()
 const year = new Date().getFullYear()
 const { reopen } = useConsent()
 const guide = computed(() => (isGuideLocale(locale.value) ? guideUi[locale.value] : null))
+// Pravni tekst postoji na jezicima aplikacije; ostali jezici vode na engleski.
+const legalLang = computed(() => (isLegalLocale(locale.value) ? locale.value : 'en'))
+const legal = computed(() => legalUi[legalLang.value])
 </script>
 
 <template>
@@ -44,6 +48,8 @@ const guide = computed(() => (isGuideLocale(locale.value) ? guideUi[locale.value
       <p>{{ c.footer.made }}</p>
       <!-- Pristanak se mora moći povući isto tako lako kao što se daje. -->
       <button type="button" class="ftr__consent" @click="reopen">{{ c.consent.change }}</button>
+      <NuxtLink :to="localePath('/privatnost', legalLang)" class="ftr__consent">{{ legal.privacy }}</NuxtLink>
+      <NuxtLink :to="localePath('/uslovi', legalLang)" class="ftr__consent">{{ legal.terms }}</NuxtLink>
       <p>© {{ year }} {{ c.footer.rights }}</p>
     </div>
   </footer>
