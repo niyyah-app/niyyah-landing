@@ -131,7 +131,7 @@ export const tl: Copy = {
     ],
     parentsTitle: 'Mga magulang, para sa inyo ito.',
     parentsBody:
-      'Alam naming hindi tunog-angkop ang „dating app” para sa anak o kapatid ninyong babae. Sa Niyyah, puwede kayong nasa mga usapan niya at makita kung kanino at paano siya sumusulat, nang hindi kayo sumusulat ng kahit ano. Hindi man lang makakarating ang mensahe hangga’t hindi nagpapakita ng interes ang dalawang panig, at libre ang lahat ng ito.',
+      'Alam naming hindi tunog-angkop ang „dating app” para sa anak o kapatid ninyong babae. Sa Niyyah, puwede kayong nasa mga usapan niya at makita kung kanino at paano siya sumusulat, nang hindi kayo sumusulat ng kahit ano. Hindi man lang magbubukas ang usapan hangga’t hindi nagpapakita ng interes ang dalawang panig, at libre ang lahat ng ito.',
     share: 'Ipadala sa kanya ang pahinang ito',
     shareDone: 'Nakopya ang link',
     shareText: 'Niyyah: ang app para sa kasal kung saan puwedeng nasa usapan ang pamilya.',
@@ -319,7 +319,8 @@ export const tl: Copy = {
     free: [
       'Profile at 30 profile bawat araw sa Tuklasin',
       '20 like bawat araw',
-      '1 pambungad na mensahe bawat araw',
+      'Tingnan kung sino ang nag-like sa iyo: 1 tao bawat araw',
+      'Pagbasa ng lahat ng mensaheng ipinadala sa iyo',
       'Mga pagkakatugma at walang hangganang usapan sa kanila',
       'Mahram sa usapan',
       'Mga tanong bago mag-usap',
@@ -328,9 +329,9 @@ export const tl: Copy = {
     ],
     premiumTitle: 'Coins, kapag gusto mo ng higit',
     premium: [
-      'Tingnan kung sino ang nag-like sa iyo',
-      'Super like na agad nagbubukas ng usapan',
-      'Karagdagang pambungad na mensahe',
+      'Tingnan ang lahat ng nag-like sa iyo',
+      'Super like: nasa itaas ang like mo, kasama ang pangalan at larawan mo',
+      'Direktang mensahe (like na may kasamang mensahe)',
       'Mas maraming like at profile para ngayong araw',
       'Ibalik ang profile na nilaktawan mo',
       'Sumagot sa mga kuwento sa komunidad',
@@ -379,7 +380,7 @@ export const tl: Copy = {
       },
       {
         q: 'Ano ang libre, at ano ang binabayaran ng coins?',
-        a: 'Libre ang lahat ng nagsasanggalang sa iyo: mahram, mga tanong bago mag-usap, nakakandadong chat at moderasyon, kasama ang 20 like at isang pambungad na mensahe bawat araw at walang hangganang usapan sa mga pagkakatugma mo. Gamit ang coins, makikita mo kung sino ang nag-like sa iyo, makakapagpadala ka ng super like o karagdagang pambungad na mensahe, makakakuha ng mas maraming profile at like para sa araw na iyon, at makakasagot sa mga kuwento. Nakakakuha ka ng coins nang libre araw-araw, at puwede mo rin itong bilhin nang isang beses. Walang subscription, kaya wala ring kakanselahin.',
+        a: 'Libre ang lahat ng nagsasanggalang sa iyo: mahram, mga tanong bago mag-usap, nakakandadong chat at moderasyon, kasama ang 30 profile at 20 like bawat araw, isang tao bawat araw mula sa mga nag-like sa iyo, pagbasa ng lahat ng mensaheng ipinadala sa iyo, at walang hangganang usapan sa mga pagkakatugma mo. Gamit ang coins, makikita mo ang lahat ng nag-like sa iyo, makakapagpadala ka ng super like (nasa itaas ang like mo, naka-highlight, kasama ang pangalan at larawan mo) o direktang mensahe (like na may mensaheng libreng nababasa ng tumanggap), makakakuha ng mas maraming profile at like para sa araw na iyon, at makakasagot sa mga kuwento. Nagbubukas lang ang usapan kapag nag-like kayo sa isa’t isa. Nakakakuha ka ng coins nang libre araw-araw, at puwede mo rin itong bilhin nang isang beses. Walang subscription, kaya wala ring kakanselahin.',
       },
       {
         q: 'Puwede ko bang itago ang profile ko nang pansamantala?',

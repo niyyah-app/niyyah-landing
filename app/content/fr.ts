@@ -131,7 +131,7 @@ export const fr: Copy = {
     ],
     parentsTitle: 'Parents, ceci est pour vous.',
     parentsBody:
-      'Nous savons qu’« application de rencontre » ne sonne pas comme quelque chose pour votre fille ou votre sœur. Dans Niyyah, vous pouvez suivre ses conversations et voir avec qui elle écrit et comment, sans rien écrire vous-même. Un message ne peut même pas arriver avant que les deux côtés aient montré de l’intérêt, et tout cela est gratuit.',
+      'Nous savons qu’« application de rencontre » ne sonne pas comme quelque chose pour votre fille ou votre sœur. Dans Niyyah, vous pouvez suivre ses conversations et voir avec qui elle écrit et comment, sans rien écrire vous-même. Une conversation ne peut même pas s’ouvrir avant que les deux côtés aient montré de l’intérêt, et tout cela est gratuit.',
     share: 'Envoie-lui cette page',
     shareDone: 'Lien copié',
     shareText: 'Niyyah : une application pour le mariage où la famille peut suivre la conversation.',
@@ -319,7 +319,8 @@ export const fr: Copy = {
     free: [
       'Un profil et 30 profils par jour dans Découvrir',
       '20 likes par jour',
-      '1 message d’introduction par jour',
+      'Vois qui t’a liké : 1 personne par jour',
+      'Lire tous les messages qu’on t’envoie',
       'Correspondances et conversation illimitée avec elles',
       'Un mahram dans la conversation',
       'Questions avant la conversation',
@@ -328,9 +329,9 @@ export const fr: Copy = {
     ],
     premiumTitle: 'Des coins, quand tu veux plus',
     premium: [
-      'Vois qui t’a liké',
-      'Un super like qui ouvre la conversation tout de suite',
-      'Des messages d’introduction en plus',
+      'Vois tous ceux qui t’ont liké',
+      'Super like : ton like en tête, avec ton nom et ta photo',
+      'Messages directs (un like avec un message)',
       'Plus de likes et de profils pour aujourd’hui',
       'Retrouve un profil que tu as passé',
       'Répondre aux récits de la communauté',
@@ -379,7 +380,7 @@ export const fr: Copy = {
       },
       {
         q: 'Qu’est-ce qui est gratuit, et qu’est-ce qui coûte des coins ?',
-        a: 'Tout ce qui te protège est gratuit : le mahram, les questions avant la conversation, le chat verrouillé et la modération, avec 20 likes et un message d’introduction par jour, et une conversation illimitée avec tes correspondances. Avec des coins, tu peux voir qui t’a liké, envoyer un super like ou un message d’introduction en plus, obtenir plus de profils et de likes pour la journée, et répondre aux récits. Tu gagnes des coins gratuitement chaque jour, et tu peux aussi les acheter en une fois. Il n’y a pas d’abonnement, donc rien à résilier.',
+        a: 'Tout ce qui te protège est gratuit : le mahram, les questions avant la conversation, le chat verrouillé et la modération, avec 30 profils et 20 likes par jour, une personne par jour parmi celles qui t’ont liké, la lecture de tous les messages qu’on t’envoie, et une conversation illimitée avec tes correspondances. Avec des coins, tu peux voir tous ceux qui t’ont liké, envoyer un super like (ton like en tête, mis en avant, avec ton nom et ta photo) ou un message direct (un like avec un message, que l’autre lit gratuitement), obtenir plus de profils et de likes pour la journée, et répondre aux récits. Une conversation ne s’ouvre que lorsque vous vous likez tous les deux. Tu gagnes des coins gratuitement chaque jour, et tu peux aussi les acheter en une fois. Il n’y a pas d’abonnement, donc rien à résilier.',
       },
       {
         q: 'Puis-je masquer mon profil temporairement ?',

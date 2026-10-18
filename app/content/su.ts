@@ -131,7 +131,7 @@ export const su: Copy = {
     ],
     parentsTitle: 'Kolot, ieu pikeun anjeun.',
     parentsBody:
-      'Urang apal yén „aplikasi pacaran" teu kadéngé cocog pikeun putri atawa adi awéwé anjeun. Dina Niyyah anjeun bisa aya dina obrolanana sarta ningali jeung saha sarta kumaha manéhna nulis, tanpa anjeun nulis nanaon. Pesen teu bisa nepi saméméh dua pihak némbongkeun resep, sarta ieu kabéh gratis.',
+      'Urang apal yén „aplikasi pacaran" teu kadéngé cocog pikeun putri atawa adi awéwé anjeun. Dina Niyyah anjeun bisa aya dina obrolanana sarta ningali jeung saha sarta kumaha manéhna nulis, tanpa anjeun nulis nanaon. Obrolan teu bisa muka saméméh dua pihak némbongkeun resep, sarta ieu kabéh gratis.',
     share: 'Kirimkeun kaca ieu ka manéhna',
     shareDone: 'Tutumbu geus disalin',
     shareText: 'Niyyah: aplikasi nikah nu kulawargana bisa aya dina obrolan.',
@@ -319,7 +319,8 @@ export const su: Copy = {
     free: [
       'Profil jeung 30 profil sapoé dina Téangan',
       '20 resep sapoé',
-      '1 pesen panganteur sapoé',
+      'Tingali saha nu resep ka anjeun: 1 jalma sapoé',
+      'Maca sakabéh pesen nu dikirim ka anjeun',
       'Nu cocog jeung obrolan tanpa wates jeung maranéhna',
       'Mahram dina obrolan',
       'Patarosan saméméh ngobrol',
@@ -328,9 +329,9 @@ export const su: Copy = {
     ],
     premiumTitle: 'Koin, lamun hayang leuwih',
     premium: [
-      'Tingali saha nu resep ka anjeun',
-      'Super resep nu langsung muka obrolan',
-      'Pesen panganteur tambahan',
+      'Tingali sakabéh nu resep ka anjeun',
+      'Super resep: resep anjeun di pangluhurna, kalayan ngaran jeung poto anjeun',
+      'Pesen langsung (resep dibarengan pesen)',
       'Leuwih loba resep jeung profil keur poé ieu',
       'Balikkeun profil nu ku anjeun diliwat',
       'Ngajawab carita di komunitas',
@@ -379,7 +380,7 @@ export const su: Copy = {
       },
       {
         q: 'Naon nu gratis, jeung naon nu dibayar ku koin?',
-        a: 'Sagala nu ngajaga anjeun téh gratis: mahram, patarosan saméméh ngobrol, obrolan konci jeung pangawasan, ditambah 20 resep jeung hiji pesen panganteur sapoé sarta obrolan tanpa wates jeung nu cocog. Ku koin anjeun bisa ningali saha nu resep ka anjeun, ngirim super resep atawa pesen panganteur tambahan, meunang leuwih loba profil jeung resep keur poé éta, sarta ngajawab carita. Koin anjeun meunangkeun gratis unggal poé, sarta ogé bisa dibeuli sakali. Teu aya langganan, jadi teu aya nu kudu dibatalkeun.',
+        a: 'Sagala nu ngajaga anjeun téh gratis: mahram, patarosan saméméh ngobrol, obrolan konci jeung pangawasan, ditambah 30 profil jeung 20 resep sapoé, hiji jalma sapoé ti nu resep ka anjeun, maca sakabéh pesen nu dikirim ka anjeun, sarta obrolan tanpa wates jeung nu cocog. Ku koin anjeun bisa ningali sakabéh nu resep ka anjeun, ngirim super resep (resep anjeun di pangluhurna, disorot, kalayan ngaran jeung poto) atawa pesen langsung (resep dibarengan pesen nu dibaca gratis ku nu narima), meunang leuwih loba profil jeung resep keur poé éta, sarta ngajawab carita. Obrolan ngan muka lamun aranjeun duaan silih resep. Koin anjeun meunangkeun gratis unggal poé, sarta ogé bisa dibeuli sakali. Teu aya langganan, jadi teu aya nu kudu dibatalkeun.',
       },
       {
         q: 'Naha kuring bisa nyumputkeun profil sawatara waktu?',

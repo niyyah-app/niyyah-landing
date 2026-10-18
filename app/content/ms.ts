@@ -131,7 +131,7 @@ export const ms: Copy = {
     ],
     parentsTitle: 'Ibu bapa, ini untuk anda.',
     parentsBody:
-      'Kami tahu „aplikasi pertemuan“ tidak kedengaran seperti sesuatu untuk anak atau saudara perempuan anda. Dalam Niyyah, anda boleh berada dalam perbualannya dan melihat dengan siapa serta bagaimana dia menulis, tanpa anda menulis apa-apa. Mesej pun tidak boleh sampai sebelum kedua-dua pihak menunjukkan minat, dan semua ini percuma.',
+      'Kami tahu „aplikasi pertemuan“ tidak kedengaran seperti sesuatu untuk anak atau saudara perempuan anda. Dalam Niyyah, anda boleh berada dalam perbualannya dan melihat dengan siapa serta bagaimana dia menulis, tanpa anda menulis apa-apa. Perbualan pun tidak boleh dibuka sebelum kedua-dua pihak menunjukkan minat, dan semua ini percuma.',
     share: 'Hantarkan halaman ini kepadanya',
     shareDone: 'Pautan disalin',
     shareText: 'Niyyah: aplikasi perkahwinan yang keluarganya boleh berada dalam perbualan.',
@@ -319,7 +319,8 @@ export const ms: Copy = {
     free: [
       'Profil dan 30 profil sehari dalam Terokai',
       '20 suka sehari',
-      '1 mesej perkenalan sehari',
+      'Lihat siapa yang menyukai anda: 1 orang sehari',
+      'Membaca semua mesej yang dihantar kepada anda',
       'Padanan dan perbualan tanpa had dengan mereka',
       'Mahram dalam perbualan',
       'Soalan sebelum perbualan',
@@ -328,9 +329,9 @@ export const ms: Copy = {
     ],
     premiumTitle: 'Coin, apabila anda mahu lebih',
     premium: [
-      'Lihat siapa yang menyukai anda',
-      'Super suka yang terus membuka perbualan',
-      'Mesej perkenalan tambahan',
+      'Lihat semua yang menyukai anda',
+      'Super suka: suka anda di bahagian teratas, dengan nama dan foto anda',
+      'Mesej terus (suka bersama mesej)',
       'Lebih banyak suka dan profil untuk hari ini',
       'Kembalikan profil yang anda langkau',
       'Membalas cerita dalam komuniti',
@@ -379,7 +380,7 @@ export const ms: Copy = {
       },
       {
         q: 'Apa yang percuma, dan apa yang memerlukan coin?',
-        a: 'Semua yang menjaga anda itu percuma: mahram, soalan sebelum perbualan, bual berkunci dan penyeliaan, ditambah 20 suka dan satu mesej perkenalan sehari serta perbualan tanpa had dengan padanan anda. Dengan coin anda boleh melihat siapa yang menyukai anda, menghantar super suka atau mesej perkenalan tambahan, mendapat lebih banyak profil dan suka untuk hari itu, dan membalas cerita. Anda mendapat coin percuma setiap hari, dan anda juga boleh membelinya sekali bayar. Tiada langganan, jadi tiada apa yang perlu dibatalkan.',
+        a: 'Semua yang menjaga anda itu percuma: mahram, soalan sebelum perbualan, bual berkunci dan penyeliaan, ditambah 30 profil dan 20 suka sehari, seorang sehari daripada mereka yang menyukai anda, membaca semua mesej yang dihantar kepada anda, serta perbualan tanpa had dengan padanan anda. Dengan coin anda boleh melihat semua yang menyukai anda, menghantar super suka (suka anda di bahagian teratas, diserlahkan, dengan nama dan foto anda) atau mesej terus (suka bersama mesej yang dibaca percuma oleh penerima), mendapat lebih banyak profil dan suka untuk hari itu, dan membalas cerita. Perbualan hanya terbuka apabila anda berdua saling menyukai. Anda mendapat coin percuma setiap hari, dan anda juga boleh membelinya sekali bayar. Tiada langganan, jadi tiada apa yang perlu dibatalkan.',
       },
       {
         q: 'Bolehkah saya menyembunyikan profil untuk sementara?',

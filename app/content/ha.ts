@@ -131,7 +131,7 @@ export const ha: Copy = {
     ],
     parentsTitle: 'Iyaye, wannan naku ne.',
     parentsBody:
-      'Mun san „manhajar neman soyayya" ba ta jin kamar abin da ya dace da ’yarku ko ’yar’uwarku. A Niyyah kuna iya kasancewa cikin tattaunawarta ku kuma ga da wa take rubutu da yadda take yi — ba tare da ku rubuta kome ba. Saƙo ba zai ma iso ba sai bangarorin biyu sun nuna sha’awa, kuma duk wannan kyauta ne.',
+      'Mun san „manhajar neman soyayya" ba ta jin kamar abin da ya dace da ’yarku ko ’yar’uwarku. A Niyyah kuna iya kasancewa cikin tattaunawarta ku kuma ga da wa take rubutu da yadda take yi — ba tare da ku rubuta kome ba. Tattaunawa ba za ta ma buɗe ba sai bangarorin biyu sun nuna sha’awa, kuma duk wannan kyauta ne.',
     share: 'Aika mata wannan shafin',
     shareDone: 'An kwafi hanyar haɗi',
     shareText: 'Niyyah: manhajar aure inda iyali za su iya kasancewa cikin tattaunawa.',
@@ -319,7 +319,8 @@ export const ha: Copy = {
     free: [
       'Bayanin martaba da bayanan martaba 30 kowace rana a Bincike',
       'Son 20 kowace rana',
-      'Saƙon gabatarwa 1 kowace rana',
+      'Ka ga wanda ya so ka: mutum 1 kowace rana',
+      'Karanta duk saƙonnin da aka aiko maka',
       'Daidaito da tattaunawa marar iyaka da su',
       'Mahram cikin tattaunawa',
       'Tambayoyi kafin tattaunawa',
@@ -328,9 +329,9 @@ export const ha: Copy = {
     ],
     premiumTitle: 'Coins, idan kana son ƙari',
     premium: [
-      'Ka ga wanda ya so ka',
-      'Babban so wanda ke buɗe tattaunawa nan take',
-      'Ƙarin saƙonnin gabatarwa',
+      'Ka ga duk waɗanda suka so ka',
+      'Babban so: sonka a saman jerin, tare da sunanka da hotonka',
+      'Saƙonni kai tsaye (so tare da saƙo)',
       'Ƙarin son da bayanan martaba na yau',
       'Dawo da bayanin martabar da ka tsallake',
       'Amsa labarai a cikin al’umma',
@@ -379,7 +380,7 @@ export const ha: Copy = {
       },
       {
         q: 'Me ke kyauta, kuma me ake biya da coins?',
-        a: 'Duk abin da ke kiyaye ka kyauta ne: mahram, tambayoyi kafin tattaunawa, hirar da aka kulle da kulawa, tare da son 20 da saƙon gabatarwa ɗaya kowace rana da tattaunawa marar iyaka da daidaiton ka. Da coins za ka iya ganin wanda ya so ka, aika babban so ko ƙarin saƙon gabatarwa, samun ƙarin bayanan martaba da son na wannan rana, da kuma amsa labarai. Kana samun coins kyauta kowace rana, kuma za ka iya saya su sau ɗaya. Babu biyan kuɗi na kowane wata, don haka babu abin da za ka soke.',
+        a: 'Duk abin da ke kiyaye ka kyauta ne: mahram, tambayoyi kafin tattaunawa, hirar da aka kulle da kulawa, tare da bayanan martaba 30 da son 20 kowace rana, mutum ɗaya kowace rana daga waɗanda suka so ka, karanta duk saƙonnin da aka aiko maka, da tattaunawa marar iyaka da daidaiton ka. Da coins za ka iya ganin duk waɗanda suka so ka, aika babban so (sonka a saman jerin, a haskake, tare da sunanka da hotonka) ko saƙo kai tsaye (so tare da saƙon da mai karɓa ke karantawa kyauta), samun ƙarin bayanan martaba da son na wannan rana, da kuma amsa labarai. Tattaunawa tana buɗewa ne kawai idan kun so juna duka biyu. Kana samun coins kyauta kowace rana, kuma za ka iya saya su sau ɗaya. Babu biyan kuɗi na kowane wata, don haka babu abin da za ka soke.',
       },
       {
         q: 'Zan iya ɓoye bayanin martabana na ɗan lokaci?',

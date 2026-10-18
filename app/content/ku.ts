@@ -131,7 +131,7 @@ export const ku: Copy = {
     ],
     parentsTitle: 'Dêûbav, ev ji we re ye.',
     parentsBody:
-      'Em dizanin ku „sepana nasînê" wek tiştekî guncaw ji keça we an xwişka we re nayê bihîstin. Di Niyyah de hûn dikarin di axaftinên wê de bin û bibînin ew bi kê re û çawa dinivîse, bêyî ku hûn bi xwe tiştekî binivîsin. Heta herdu alî eleqe nîşan nedin peyam nagihîje jî, û ev hemû belaş e.',
+      'Em dizanin ku „sepana nasînê" wek tiştekî guncaw ji keça we an xwişka we re nayê bihîstin. Di Niyyah de hûn dikarin di axaftinên wê de bin û bibînin ew bi kê re û çawa dinivîse, bêyî ku hûn bi xwe tiştekî binivîsin. Heta herdu alî eleqe nîşan nedin axaftin venabe jî, û ev hemû belaş e.',
     share: 'Vê rûpelê jê re bişîne',
     shareDone: 'Girêdan hat kopîkirin',
     shareText: 'Niyyah: sepana zewacê ku malbat dikare di axaftinê de be.',
@@ -319,7 +319,8 @@ export const ku: Copy = {
     free: [
       'Profîl û rojê 30 profîl di Keşfê de',
       'Rojê 20 ecibandin',
-      'Rojê 1 peyama nasînê',
+      'Bibîne kê tu ecibandî: rojê 1 kes',
+      'Xwendina hemû peyamên ku ji te re têne şandin',
       'Lihevhatin û axaftina bêsînor bi wan re',
       'Mehrem di axaftinê de',
       'Pirs berî axaftinê',
@@ -328,9 +329,9 @@ export const ku: Copy = {
     ],
     premiumTitle: 'Coin, dema bêtir bixwazî',
     premium: [
-      'Bibîne kê tu ecibandî',
-      'Super ecibandinek ku axaftinê yekser vedike',
-      'Peyamên nasînê yên zêde',
+      'Hemû kesên ku tu ecibandî bibîne',
+      'Super ecibandin: ecibandina te li jor, bi nav û wêneyê te',
+      'Peyamên rasterast (ecibandinek bi peyamê re)',
       'Ji bo îro bêtir ecibandin û profîl',
       'Profîleke ku te derbas kiribû vegerîne',
       'Bersiv li çîrokên civakê',
@@ -379,7 +380,7 @@ export const ku: Copy = {
       },
       {
         q: 'Çi belaş e, û çi bi coinan tê dayîn?',
-        a: 'Her tiştê ku te diparêze belaş e: mehrem, pirsên berî axaftinê, axaftina girtî û çavdêrî, digel rojê 20 ecibandin û peyameke nasînê û axaftina bêsînor bi lihevhatinên te re. Bi coinan tu dikarî bibînî kê tu ecibandî, super ecibandinek an peyameke nasînê ya zêde bişînî, ji bo wê rojê bêtir profîl û ecibandin bistînî û bersiv li çîrokan bidî. Tu her roj coinan belaş distînî, û dikarî wan carekê bikirî jî. Abonetî tune ye, loma tiştek tune ku tu betal bikî.',
+        a: 'Her tiştê ku te diparêze belaş e: mehrem, pirsên berî axaftinê, axaftina girtî û çavdêrî, digel rojê 30 profîl û 20 ecibandin, rojê kesek ji wan ên ku tu ecibandî, xwendina hemû peyamên ku ji te re têne şandin û axaftina bêsînor bi lihevhatinên te re. Bi coinan tu dikarî hemû kesên ku tu ecibandî bibînî, super ecibandinek (ecibandina te li jor, berçav, bi nav û wêne) an peyameke rasterast (ecibandinek bi peyamê re, ku aliyê din belaş dixwîne) bişînî, ji bo wê rojê bêtir profîl û ecibandin bistînî û bersiv li çîrokan bidî. Axaftin tenê dema ku hûn herdu hevdu biecibînin vedibe. Tu her roj coinan belaş distînî, û dikarî wan carekê bikirî jî. Abonetî tune ye, loma tiştek tune ku tu betal bikî.',
       },
       {
         q: 'Ma ez dikarim profîla xwe demekê veşêrim?',

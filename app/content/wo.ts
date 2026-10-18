@@ -131,7 +131,7 @@ export const wo: Copy = {
     ],
     parentsTitle: 'Waajur yi, lii ngir yéen la.',
     parentsBody:
-      'Xam nañu ne «app bu xamante» déggoowul ni lu war sa doom ju jigéen walla sa rakk. Ci Niyyah mën ngeen nekk ci ay waxtaanam te gis ak kan la bind ak naka — te binduleen dara. Bataaxal mënul agsi su ñaari wet yi wonewul bëgg-bëgg, te lii lépp dara du fay.',
+      'Xam nañu ne «app bu xamante» déggoowul ni lu war sa doom ju jigéen walla sa rakk. Ci Niyyah mën ngeen nekk ci ay waxtaanam te gis ak kan la bind ak naka — te binduleen dara. Waxtaan mënul ubbiku su ñaari wet yi wonewul bëgg-bëgg, te lii lépp dara du fay.',
     share: 'Yónnee ko xët wii',
     shareDone: 'Lëkkalekaay bi ñu ko nataal',
     shareText: 'Niyyah: app bu takk bu njaboot mën nekk ci waxtaan wi.',
@@ -319,7 +319,8 @@ export const wo: Copy = {
     free: [
       'Profil ak 30 profil bés bu nekk ci Seetlu',
       '20 bëgg bés bu nekk',
-      '1 bataaxal bu xamante bés bu nekk',
+      'Gisal kan la bëgg: 1 nit bés bu nekk',
+      'Jàng bataaxal yépp yi ñu la yónne',
       'Màndargaayu yi ak waxtaan bu amul àpp ak ñoom',
       'Mahram ci waxtaan wi',
       'Laaj yi laata waxtaan',
@@ -328,9 +329,9 @@ export const wo: Copy = {
     ],
     premiumTitle: 'Coins, su nga bëggee lu gëna',
     premium: [
-      'Gisal kan la bëgg',
-      'Super bëgg bu ubbi waxtaan wi ci saa si',
-      'Bataaxal yu xamante yu yokk',
+      'Gisal ñépp ñi la bëgg',
+      'Super bëgg: sa bëgg mooy jiitu, ak sa tur ak sa nataal',
+      'Bataaxal yu jub (bëgg ak bataaxal)',
       'Bëgg ak profil yu yokk ngir tey',
       'Delloo profil bi nga wacc',
       'Tontu xalaat yi ci mbootaay gi',
@@ -379,7 +380,7 @@ export const wo: Copy = {
       },
       {
         q: 'Lan moo dara du fay te lan lañuy fay ak coins?',
-        a: 'Lépp lu lay aar dara du fay: mahram, laaj yi laata waxtaan, waxtaan wu tëdd ak saytu, ak it 20 bëgg ak benn bataaxal bu xamante bés bu nekk ak waxtaan bu amul àpp ak say màndargaayu. Ak coins mën nga gis kan la bëgg, yónne super bëgg walla bataaxal bu xamante bu yokk, am profil ak bëgg yu yokk ngir bés boobu, te tontu xalaat yi. Coins yi danga leen di am bés bu nekk te doo fay dara, te mën nga leen jënd it benn yoon. Amul abonemaa, kon amul dara lu nga war a far.',
+        a: 'Lépp lu lay aar dara du fay: mahram, laaj yi laata waxtaan, waxtaan wu tëdd ak saytu, ak it 30 profil ak 20 bëgg bés bu nekk, benn nit bés bu nekk ci ñi la bëgg, jàng bataaxal yépp yi ñu la yónne, ak waxtaan bu amul àpp ak say màndargaayu. Ak coins mën nga gis ñépp ñi la bëgg, yónne super bëgg (sa bëgg mooy jiitu, feeñ bu baax, ak sa tur ak sa nataal) walla bataaxal bu jub (bëgg ak bataaxal bu ki ko jot di jàng te du fay dara), am profil ak bëgg yu yokk ngir bés boobu, te tontu xalaat yi. Waxtaan wi day ubbiku rekk su ngeen ñaar bëggante. Coins yi danga leen di am bés bu nekk te doo fay dara, te mën nga leen jënd it benn yoon. Amul abonemaa, kon amul dara lu nga war a far.',
       },
       {
         q: 'Ndax mën naa nëbb sama profil ci ab diir?',

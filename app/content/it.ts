@@ -131,7 +131,7 @@ export const it: Copy = {
     ],
     parentsTitle: 'Genitori, questo è per voi.',
     parentsBody:
-      'Sappiamo che «app di incontri» non suona come qualcosa per vostra figlia o vostra sorella. In Niyyah potete essere nelle sue conversazioni e vedere con chi scrive e come, senza scrivere nulla voi. Un messaggio non può nemmeno arrivare prima che entrambe le parti mostrino interesse, e tutto questo è gratis.',
+      'Sappiamo che «app di incontri» non suona come qualcosa per vostra figlia o vostra sorella. In Niyyah potete essere nelle sue conversazioni e vedere con chi scrive e come, senza scrivere nulla voi. Una conversazione non può nemmeno aprirsi prima che entrambe le parti mostrino interesse, e tutto questo è gratis.',
     share: 'Mandale questa pagina',
     shareDone: 'Link copiato',
     shareText: 'Niyyah: l’app per il matrimonio in cui la famiglia può essere nella conversazione.',
@@ -320,7 +320,8 @@ export const it: Copy = {
     free: [
       'Un profilo e 30 profili al giorno in Scopri',
       '20 «mi piace» al giorno',
-      '1 messaggio di presentazione al giorno',
+      'Vedi chi ti ha messo «mi piace»: 1 persona al giorno',
+      'Leggere tutti i messaggi che ti inviano',
       'Corrispondenze e conversazione illimitata con loro',
       'Un mahram nella conversazione',
       'Domande prima della conversazione',
@@ -329,9 +330,9 @@ export const it: Copy = {
     ],
     premiumTitle: 'Monete, quando vuoi di più',
     premium: [
-      'Vedi chi ti ha messo «mi piace»',
-      'Un super «mi piace» che apre subito la conversazione',
-      'Messaggi di presentazione in più',
+      'Vedi tutti quelli che ti hanno messo «mi piace»',
+      'Super «mi piace»: il tuo «mi piace» in cima, con nome e foto',
+      'Messaggi diretti (un «mi piace» con messaggio)',
       'Più «mi piace» e profili per oggi',
       'Recupera un profilo che hai saltato',
       'Rispondere ai racconti della comunità',
@@ -380,7 +381,7 @@ export const it: Copy = {
       },
       {
         q: 'Che cosa è gratis e che cosa costa monete?',
-        a: 'Tutto ciò che ti protegge è gratis: il mahram, le domande prima della conversazione, la chat chiusa e la moderazione, più 20 «mi piace» e un messaggio di presentazione al giorno e una conversazione illimitata con le tue corrispondenze. Con le monete puoi vedere chi ti ha messo «mi piace», inviare un super «mi piace» o un messaggio di presentazione in più, avere più profili e «mi piace» per la giornata e rispondere ai racconti. Guadagni monete gratis ogni giorno, e puoi anche comprarle una volta sola. Non c’è abbonamento, quindi non c’è niente da disdire.',
+        a: 'Tutto ciò che ti protegge è gratis: il mahram, le domande prima della conversazione, la chat chiusa e la moderazione, più 30 profili e 20 «mi piace» al giorno, una persona al giorno tra quelle che ti hanno messo «mi piace», la lettura di tutti i messaggi che ti inviano e una conversazione illimitata con le tue corrispondenze. Con le monete puoi vedere tutti quelli che ti hanno messo «mi piace», inviare un super «mi piace» (il tuo «mi piace» in cima, in evidenza, con nome e foto) o un messaggio diretto (un «mi piace» con messaggio, che l’altra persona legge gratis), avere più profili e «mi piace» per la giornata e rispondere ai racconti. La conversazione si apre solo quando vi piacete a vicenda. Guadagni monete gratis ogni giorno, e puoi anche comprarle una volta sola. Non c’è abbonamento, quindi non c’è niente da disdire.',
       },
       {
         q: 'Posso nascondere il profilo per un po’?',

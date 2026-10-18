@@ -131,7 +131,7 @@ export const sv: Copy = {
     ],
     parentsTitle: 'Föräldrar, detta är till er.',
     parentsBody:
-      'Vi vet att ”dejtingapp” inte låter som något för er dotter eller syster. I Niyyah kan ni vara med i hennes samtal och se med vem och hur hon skriver, utan att själva skriva något. Ett meddelande kan inte ens komma fram förrän båda sidor visat intresse, och allt detta är gratis.',
+      'Vi vet att ”dejtingapp” inte låter som något för er dotter eller syster. I Niyyah kan ni vara med i hennes samtal och se med vem och hur hon skriver, utan att själva skriva något. Ett samtal kan inte ens öppnas förrän båda sidor visat intresse, och allt detta är gratis.',
     share: 'Skicka den här sidan till henne',
     shareDone: 'Länken är kopierad',
     shareText: 'Niyyah: appen för äktenskap där familjen kan vara med i samtalet.',
@@ -320,7 +320,8 @@ export const sv: Copy = {
     free: [
       'En profil och 30 profiler om dagen i Upptäck',
       '20 gillanden om dagen',
-      '1 introduktionsmeddelande om dagen',
+      'Se vem som gillat dig: 1 person om dagen',
+      'Läsa alla meddelanden du får',
       'Matchningar och obegränsat samtal med dem',
       'En mahram i samtalet',
       'Frågor före samtalet',
@@ -329,9 +330,9 @@ export const sv: Copy = {
     ],
     premiumTitle: 'Mynt, när du vill mer',
     premium: [
-      'Se vem som gillat dig',
-      'Ett supergillande som öppnar samtalet direkt',
-      'Extra introduktionsmeddelanden',
+      'Se alla som gillat dig',
+      'Supergillande: ditt gillande överst, med namn och bild',
+      'Direktmeddelanden (ett gillande med meddelande)',
       'Fler gillanden och profiler för i dag',
       'Ta tillbaka en profil du hoppade över',
       'Svara på berättelser i gemenskapen',
@@ -380,7 +381,7 @@ export const sv: Copy = {
       },
       {
         q: 'Vad är gratis, och vad kostar mynt?',
-        a: 'Allt som skyddar dig är gratis: mahram, frågor före samtalet, den låsta chatten och modereringen, plus 20 gillanden och ett introduktionsmeddelande om dagen och obegränsat samtal med dina matchningar. Med mynt kan du se vem som gillat dig, skicka ett supergillande eller ett extra introduktionsmeddelande, få fler profiler och gillanden för dagen och svara på berättelser. Du får mynt gratis varje dag, och du kan också köpa dem som engångsköp. Det finns ingen prenumeration, så det finns inget att säga upp.',
+        a: 'Allt som skyddar dig är gratis: mahram, frågor före samtalet, den låsta chatten och modereringen, plus 30 profiler och 20 gillanden om dagen, en person om dagen av dem som gillat dig, att läsa alla meddelanden du får och obegränsat samtal med dina matchningar. Med mynt kan du se alla som gillat dig, skicka ett supergillande (ditt gillande överst, framhävt, med namn och bild) eller ett direktmeddelande (ett gillande med ett meddelande som den andra läser gratis), få fler profiler och gillanden för dagen och svara på berättelser. Ett samtal öppnas först när ni båda gillar varandra. Du får mynt gratis varje dag, och du kan också köpa dem som engångsköp. Det finns ingen prenumeration, så det finns inget att säga upp.',
       },
       {
         q: 'Kan jag gömma profilen en tid?',

@@ -131,7 +131,7 @@ export const tr: Copy = {
     ],
     parentsTitle: 'Anne babalar, bu size.',
     parentsBody:
-      '„Tanışma uygulaması“ kızınız ya da kız kardeşiniz için uygun bir şey gibi gelmiyor, biliyoruz. Niyyah’ta onun sohbetlerinde bulunabilir, kiminle ve nasıl yazıştığını görebilirsiniz; kendiniz bir şey yazmadan. İki taraf da ilgi göstermeden mesaj hiç ulaşamaz, ve bunların tümü ücretsizdir.',
+      '„Tanışma uygulaması“ kızınız ya da kız kardeşiniz için uygun bir şey gibi gelmiyor, biliyoruz. Niyyah’ta onun sohbetlerinde bulunabilir, kiminle ve nasıl yazıştığını görebilirsiniz; kendiniz bir şey yazmadan. İki taraf da ilgi göstermeden sohbet hiç açılamaz, ve bunların tümü ücretsizdir.',
     share: 'Bu sayfayı ona gönder',
     shareDone: 'Bağlantı kopyalandı',
     shareText: 'Niyyah: ailenin sohbette bulunabildiği evlilik uygulaması.',
@@ -319,7 +319,8 @@ export const tr: Copy = {
     free: [
       'Profil ve Keşfet’te günde 30 profil',
       'Günde 20 beğeni',
-      'Günde 1 tanışma mesajı',
+      'Seni kimin beğendiğini gör: günde 1 kişi',
+      'Sana gönderilen tüm mesajları okumak',
       'Eşleşmeler ve onlarla sınırsız sohbet',
       'Sohbette mahrem',
       'Sohbetten önce sorular',
@@ -328,9 +329,9 @@ export const tr: Copy = {
     ],
     premiumTitle: 'Coin, daha fazlasını istediğinde',
     premium: [
-      'Seni kimin beğendiğini gör',
-      'Sohbeti hemen açan süper beğeni',
-      'Ek tanışma mesajları',
+      'Seni beğenen herkesi gör',
+      'Süper beğeni: beğenin en üstte, adın ve fotoğrafınla',
+      'Doğrudan mesajlar (mesajlı beğeni)',
       'Bugün için daha fazla beğeni ve profil',
       'Geçtiğin bir profili geri getir',
       'Toplulukta hikâyelere cevap',
@@ -379,7 +380,7 @@ export const tr: Copy = {
       },
       {
         q: 'Ne ücretsiz, ne için coin gerekir?',
-        a: 'Seni koruyan her şey ücretsiz: mahrem, sohbetten önce sorular, kilitli sohbet ve denetim; ayrıca günde 20 beğeni, bir tanışma mesajı ve eşleşmelerle sınırsız sohbet. Coinle seni kimin beğendiğini görebilir, süper beğeni ya da ek tanışma mesajı gönderebilir, o gün için daha fazla profil ve beğeni alabilir ve hikâyelere cevap verebilirsin. Coinleri her gün ücretsiz kazanırsın, istersen tek seferlik satın da alabilirsin. Abonelik yok, yani iptal edecek bir şey de yok.',
+        a: 'Seni koruyan her şey ücretsiz: mahrem, sohbetten önce sorular, kilitli sohbet ve denetim; ayrıca günde 30 profil ve 20 beğeni, seni beğenenlerden günde bir kişi, sana gönderilen tüm mesajları okumak ve eşleşmelerle sınırsız sohbet. Coinle seni beğenen herkesi görebilir, süper beğeni (beğenin en üstte, öne çıkarılmış, adın ve fotoğrafınla) ya da doğrudan mesaj (karşı tarafın ücretsiz okuduğu mesajlı bir beğeni) gönderebilir, o gün için daha fazla profil ve beğeni alabilir ve hikâyelere cevap verebilirsin. Sohbet ancak ikiniz de birbirinizi beğendiğinizde açılır. Coinleri her gün ücretsiz kazanırsın, istersen tek seferlik satın da alabilirsin. Abonelik yok, yani iptal edecek bir şey de yok.',
       },
       {
         q: 'Profilimi bir süre gizleyebilir miyim?',

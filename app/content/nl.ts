@@ -131,7 +131,7 @@ export const nl: Copy = {
     ],
     parentsTitle: 'Ouders, dit is voor u.',
     parentsBody:
-      'We weten dat „datingapp” niet klinkt als iets voor uw dochter of zuster. In Niyyah kunt u in haar gesprekken meelezen en zien met wie en hoe ze schrijft, zonder zelf iets te schrijven. Een bericht kan niet eens aankomen voordat beide kanten interesse hebben laten zien, en dit alles is gratis.',
+      'We weten dat „datingapp” niet klinkt als iets voor uw dochter of zuster. In Niyyah kunt u in haar gesprekken meelezen en zien met wie en hoe ze schrijft, zonder zelf iets te schrijven. Een gesprek kan niet eens opengaan voordat beide kanten interesse hebben laten zien, en dit alles is gratis.',
     share: 'Stuur haar deze pagina',
     shareDone: 'Link gekopieerd',
     shareText: 'Niyyah: de app voor het huwelijk waarin de familie in het gesprek kan meelezen.',
@@ -320,7 +320,8 @@ export const nl: Copy = {
     free: [
       'Een profiel en 30 profielen per dag in Ontdekken',
       '20 likes per dag',
-      '1 introductiebericht per dag',
+      'Zie wie je geliked heeft: 1 persoon per dag',
+      'Alle berichten lezen die je krijgt',
       'Overeenkomsten en onbeperkt gesprek met hen',
       'Een mahram in het gesprek',
       'Vragen voor het gesprek',
@@ -329,9 +330,9 @@ export const nl: Copy = {
     ],
     premiumTitle: 'Munten, als je meer wil',
     premium: [
-      'Zie wie je geliked heeft',
-      'Een superlike die het gesprek meteen opent',
-      'Extra introductieberichten',
+      'Zie iedereen die je geliked heeft',
+      'Superlike: je like bovenaan, met je naam en foto',
+      'Directe berichten (een like met een bericht)',
       'Meer likes en profielen voor vandaag',
       'Haal een overgeslagen profiel terug',
       'Reageren op verhalen in de gemeenschap',
@@ -380,7 +381,7 @@ export const nl: Copy = {
       },
       {
         q: 'Wat is gratis, en wat kost munten?',
-        a: 'Alles wat je beschermt is gratis: de mahram, vragen voor het gesprek, de gesloten chat en de moderatie, plus 20 likes en één introductiebericht per dag en onbeperkt gesprek met je overeenkomsten. Met munten zie je wie je geliked heeft, stuur je een superlike of een extra introductiebericht, krijg je meer profielen en likes voor die dag en reageer je op verhalen. Munten krijg je elke dag gratis, en je kunt ze ook eenmalig kopen. Er is geen abonnement, dus er valt ook niets op te zeggen.',
+        a: 'Alles wat je beschermt is gratis: de mahram, vragen voor het gesprek, de gesloten chat en de moderatie, plus 30 profielen en 20 likes per dag, elke dag één persoon die je geliked heeft, alle berichten lezen die je krijgt en onbeperkt gesprek met je overeenkomsten. Met munten zie je iedereen die je geliked heeft, stuur je een superlike (je like bovenaan, uitgelicht, met je naam en foto) of een direct bericht (een like met een bericht, dat de ander gratis leest), krijg je meer profielen en likes voor die dag en reageer je op verhalen. Een gesprek gaat pas open als jullie elkaar allebei liken. Munten krijg je elke dag gratis, en je kunt ze ook eenmalig kopen. Er is geen abonnement, dus er valt ook niets op te zeggen.',
       },
       {
         q: 'Kan ik mijn profiel tijdelijk verbergen?',

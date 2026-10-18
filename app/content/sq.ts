@@ -131,7 +131,7 @@ export const sq: Copy = {
     ],
     parentsTitle: 'Prindër, kjo është për ju.',
     parentsBody:
-      'E dimë se „aplikacion i njohjeve“ nuk tingëllon si gjë për vajzën ose motrën tuaj. Në Niyyah mund të jeni në bisedat e saj dhe të shihni me kë dhe si shkruan, pa shkruar asgjë vetë. Mesazhi nuk mund as të mbërrijë derisa të dyja anët të shprehin interes, dhe e gjitha kjo është falas.',
+      'E dimë se „aplikacion i njohjeve“ nuk tingëllon si gjë për vajzën ose motrën tuaj. Në Niyyah mund të jeni në bisedat e saj dhe të shihni me kë dhe si shkruan, pa shkruar asgjë vetë. Biseda nuk mund as të hapet derisa të dyja anët të shprehin interes, dhe e gjitha kjo është falas.',
     share: 'Dërgoja këtë faqe',
     shareDone: 'Lidhja u kopjua',
     shareText: 'Niyyah: aplikacioni për martesë ku familja mund të jetë në bisedë.',
@@ -320,7 +320,8 @@ export const sq: Copy = {
     free: [
       'Profili dhe 30 profile në ditë në Zbulo',
       '20 pëlqime në ditë',
-      '1 mesazh hyrës në ditë',
+      'Shiko kush të ka pëlqyer: 1 person në ditë',
+      'Leximi i të gjitha mesazheve që të dërgojnë',
       'Përputhjet dhe bisedë e pakufizuar me ta',
       'Mahrem në bisedë',
       'Pyetje para bisedës',
@@ -329,9 +330,9 @@ export const sq: Copy = {
     ],
     premiumTitle: 'Monedha, kur dëshiron më shumë',
     premium: [
-      'Shiko kush të ka pëlqyer',
-      'Super pëlqim që e hap bisedën menjëherë',
-      'Mesazhe hyrëse shtesë',
+      'Shiko të gjithë ata që të kanë pëlqyer',
+      'Super pëlqim: pëlqimi yt në krye, me emrin dhe foton tënde',
+      'Mesazhe direkte (pëlqim me mesazh)',
       'Më shumë pëlqime dhe profile për sot',
       'Ktheje një profil që e kalove',
       'Përgjigju rrëfimeve në komunitet',
@@ -380,7 +381,7 @@ export const sq: Copy = {
       },
       {
         q: 'Çfarë është falas dhe çfarë kushton monedha?',
-        a: 'Falas është çdo gjë që të ruan: mahremi, pyetjet para bisedës, chati i kyçur dhe moderimi, plus 20 pëlqime dhe një mesazh hyrës në ditë dhe bisedë e pakufizuar me përputhjet. Me monedha mund të shohësh kush të ka pëlqyer, të dërgosh një super pëlqim ose një mesazh hyrës shtesë, të marrësh më shumë profile dhe pëlqime për atë ditë dhe t’u përgjigjesh rrëfimeve. Monedha fiton falas çdo ditë, dhe mund t’i blesh edhe me një pagesë të vetme. Nuk ka abonim, kështu që nuk ke asgjë për të anuluar.',
+        a: 'Falas është çdo gjë që të ruan: mahremi, pyetjet para bisedës, chati i kyçur dhe moderimi, plus 30 profile dhe 20 pëlqime në ditë, një person në ditë nga ata që të kanë pëlqyer, leximi i të gjitha mesazheve që të dërgojnë dhe bisedë e pakufizuar me përputhjet. Me monedha mund të shohësh të gjithë ata që të kanë pëlqyer, të dërgosh një super pëlqim (pëlqimi yt në krye, i theksuar, me emrin dhe foton tënde) ose një mesazh direkt (pëlqim me mesazh që tjetri e lexon falas), të marrësh më shumë profile dhe pëlqime për atë ditë dhe t’u përgjigjesh rrëfimeve. Biseda hapet vetëm kur pëlqeni njëri-tjetrin. Monedha fiton falas çdo ditë, dhe mund t’i blesh edhe me një pagesë të vetme. Nuk ka abonim, kështu që nuk ke asgjë për të anuluar.',
       },
       {
         q: 'A mund të fsheh profilin përkohësisht?',

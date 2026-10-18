@@ -131,7 +131,7 @@ export const es: Copy = {
     ],
     parentsTitle: 'Padres, esto es para ustedes.',
     parentsBody:
-      'Sabemos que «app de citas» no suena a algo para su hija o su hermana. En Niyyah pueden estar en sus conversaciones y ver con quién escribe y cómo, sin escribir nada ustedes. Un mensaje no puede ni llegar hasta que ambas partes muestren interés, y todo esto es gratis.',
+      'Sabemos que «app de citas» no suena a algo para su hija o su hermana. En Niyyah pueden estar en sus conversaciones y ver con quién escribe y cómo, sin escribir nada ustedes. Una conversación no puede ni abrirse hasta que ambas partes muestren interés, y todo esto es gratis.',
     share: 'Envíale esta página',
     shareDone: 'Enlace copiado',
     shareText: 'Niyyah: la app de matrimonio donde la familia puede estar en la conversación.',
@@ -320,7 +320,8 @@ export const es: Copy = {
     free: [
       'Un perfil y 30 perfiles al día en Descubrir',
       '20 «me gusta» al día',
-      '1 mensaje de presentación al día',
+      'Ve quién te ha dado «me gusta»: 1 persona al día',
+      'Leer todos los mensajes que te envíen',
       'Coincidencias y conversación sin límite con ellas',
       'Un mahram en la conversación',
       'Preguntas antes de hablar',
@@ -329,9 +330,9 @@ export const es: Copy = {
     ],
     premiumTitle: 'Monedas, cuando quieras más',
     premium: [
-      'Ve quién te ha dado «me gusta»',
-      'Un super «me gusta» que abre la conversación al instante',
-      'Mensajes de presentación extra',
+      'Ve a todos los que te han dado «me gusta»',
+      'Super «me gusta»: tu «me gusta» arriba del todo, con tu nombre y foto',
+      'Mensajes directos (un «me gusta» con mensaje)',
       'Más «me gusta» y perfiles para hoy',
       'Recupera un perfil que pasaste',
       'Responder a los relatos de la comunidad',
@@ -380,7 +381,7 @@ export const es: Copy = {
       },
       {
         q: '¿Qué es gratis y qué cuesta monedas?',
-        a: 'Todo lo que te protege es gratis: el mahram, las preguntas antes de hablar, el chat cerrado y la moderación, además de 20 «me gusta» y un mensaje de presentación al día y conversación sin límite con tus coincidencias. Con monedas puedes ver quién te ha dado «me gusta», enviar un super «me gusta» o un mensaje de presentación extra, conseguir más perfiles y «me gusta» para ese día y responder a los relatos. Ganas monedas gratis cada día, y también puedes comprarlas una sola vez. No hay suscripción, así que no hay nada que cancelar.',
+        a: 'Todo lo que te protege es gratis: el mahram, las preguntas antes de hablar, el chat cerrado y la moderación, además de 30 perfiles y 20 «me gusta» al día, una persona al día de quienes te han dado «me gusta», leer todos los mensajes que te envíen y conversación sin límite con tus coincidencias. Con monedas puedes ver a todos los que te han dado «me gusta», enviar un super «me gusta» (tu «me gusta» arriba del todo, destacado, con tu nombre y foto) o un mensaje directo (un «me gusta» con mensaje, que la otra persona lee gratis), conseguir más perfiles y «me gusta» para ese día y responder a los relatos. La conversación solo se abre cuando los dos se dan «me gusta». Ganas monedas gratis cada día, y también puedes comprarlas una sola vez. No hay suscripción, así que no hay nada que cancelar.',
       },
       {
         q: '¿Puedo ocultar mi perfil un tiempo?',

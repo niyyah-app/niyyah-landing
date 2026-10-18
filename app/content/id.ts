@@ -131,7 +131,7 @@ export const id: Copy = {
     ],
     parentsTitle: 'Orang tua, ini untuk Anda.',
     parentsBody:
-      'Kami tahu „aplikasi pacaran“ tidak terdengar seperti sesuatu untuk anak atau saudara perempuan Anda. Di Niyyah, Anda bisa hadir dalam percakapannya dan melihat dengan siapa serta bagaimana ia menulis, tanpa Anda menulis apa pun. Pesan bahkan tidak bisa sampai sebelum kedua pihak menunjukkan ketertarikan, dan semua ini gratis.',
+      'Kami tahu „aplikasi pacaran“ tidak terdengar seperti sesuatu untuk anak atau saudara perempuan Anda. Di Niyyah, Anda bisa hadir dalam percakapannya dan melihat dengan siapa serta bagaimana ia menulis, tanpa Anda menulis apa pun. Percakapan bahkan tidak bisa terbuka sebelum kedua pihak menunjukkan ketertarikan, dan semua ini gratis.',
     share: 'Kirimkan halaman ini kepadanya',
     shareDone: 'Tautan disalin',
     shareText: 'Niyyah: aplikasi pernikahan yang keluarganya bisa hadir dalam percakapan.',
@@ -319,7 +319,8 @@ export const id: Copy = {
     free: [
       'Profil dan 30 profil per hari di Jelajahi',
       '20 suka per hari',
-      '1 pesan perkenalan per hari',
+      'Lihat siapa yang menyukaimu: 1 orang per hari',
+      'Membaca semua pesan yang dikirim kepadamu',
       'Kecocokan dan percakapan tanpa batas dengan mereka',
       'Mahram dalam percakapan',
       'Pertanyaan sebelum percakapan',
@@ -328,9 +329,9 @@ export const id: Copy = {
     ],
     premiumTitle: 'Koin, bila ingin lebih',
     premium: [
-      'Lihat siapa yang menyukaimu',
-      'Super suka yang langsung membuka percakapan',
-      'Pesan perkenalan tambahan',
+      'Lihat semua yang menyukaimu',
+      'Super suka: suka-mu di urutan teratas, dengan nama dan fotomu',
+      'Pesan langsung (suka disertai pesan)',
       'Lebih banyak suka dan profil untuk hari ini',
       'Kembalikan profil yang kamu lewati',
       'Menanggapi cerita di komunitas',
@@ -379,7 +380,7 @@ export const id: Copy = {
       },
       {
         q: 'Apa yang gratis, dan apa yang memakai koin?',
-        a: 'Semua yang menjagamu itu gratis: mahram, pertanyaan sebelum percakapan, obrolan terkunci dan moderasi, ditambah 20 suka dan satu pesan perkenalan per hari serta percakapan tanpa batas dengan kecocokanmu. Dengan koin kamu bisa melihat siapa yang menyukaimu, mengirim super suka atau pesan perkenalan tambahan, mendapat lebih banyak profil dan suka untuk hari itu, dan menanggapi cerita. Koin kamu dapatkan gratis setiap hari, dan kamu juga bisa membelinya sekali bayar. Tidak ada langganan, jadi tidak ada yang perlu dibatalkan.',
+        a: 'Semua yang menjagamu itu gratis: mahram, pertanyaan sebelum percakapan, obrolan terkunci dan moderasi, ditambah 30 profil dan 20 suka per hari, satu orang per hari dari mereka yang menyukaimu, membaca semua pesan yang dikirim kepadamu, serta percakapan tanpa batas dengan kecocokanmu. Dengan koin kamu bisa melihat semua yang menyukaimu, mengirim super suka (suka-mu tampil paling atas dan disorot, dengan nama dan fotomu) atau pesan langsung (suka disertai pesan yang dibaca gratis oleh penerimanya), mendapat lebih banyak profil dan suka untuk hari itu, dan menanggapi cerita. Percakapan baru terbuka bila kalian saling menyukai. Koin kamu dapatkan gratis setiap hari, dan kamu juga bisa membelinya sekali bayar. Tidak ada langganan, jadi tidak ada yang perlu dibatalkan.',
       },
       {
         q: 'Bisakah saya menyembunyikan profil untuk sementara?',

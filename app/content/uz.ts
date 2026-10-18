@@ -131,7 +131,7 @@ export const uz: Copy = {
     ],
     parentsTitle: 'Ota-onalar, bu siz uchun.',
     parentsBody:
-      'Bilamiz, „tanishuv ilovasi“ qizingiz yoki singlingizga mos narsa kabi eshitilmaydi. Niyyah’da uning suhbatlarida bo‘lishingiz va kim bilan, qanday yozayotganini ko‘rishingiz mumkin — o‘zingiz hech narsa yozmasdan. Ikki tomon qiziqish bildirmaguncha xabar yetib ham kelmaydi, va bularning hammasi bepul.',
+      'Bilamiz, „tanishuv ilovasi“ qizingiz yoki singlingizga mos narsa kabi eshitilmaydi. Niyyah’da uning suhbatlarida bo‘lishingiz va kim bilan, qanday yozayotganini ko‘rishingiz mumkin — o‘zingiz hech narsa yozmasdan. Ikki tomon qiziqish bildirmaguncha suhbat ochilmaydi ham, va bularning hammasi bepul.',
     share: 'Bu sahifani unga yuboring',
     shareDone: 'Havola ko‘chirildi',
     shareText: 'Niyyah: oila suhbatda bo‘la oladigan nikoh ilovasi.',
@@ -320,7 +320,8 @@ export const uz: Copy = {
     free: [
       'Profil va Kashfda kuniga 30 ta profil',
       'Kuniga 20 yoqtirish',
-      'Kuniga 1 tanishuv xabari',
+      'Kim sizni yoqtirganini ko‘ring: kuniga 1 kishi',
+      'Sizga yuborilgan barcha xabarlarni o‘qish',
       'Mosliklar va ular bilan cheksiz suhbat',
       'Suhbatda mahram',
       'Suhbatdan oldin savollar',
@@ -329,9 +330,9 @@ export const uz: Copy = {
     ],
     premiumTitle: 'Tangalar, ko‘proq xohlaganingizda',
     premium: [
-      'Kim sizni yoqtirganini ko‘ring',
-      'Suhbatni darhol ochadigan super yoqtirish',
-      'Qo‘shimcha tanishuv xabarlari',
+      'Sizni yoqtirganlarning hammasini ko‘ring',
+      'Super yoqtirish: yoqtirishingiz eng tepada, ismingiz va rasmingiz bilan',
+      'To‘g‘ridan-to‘g‘ri xabarlar (xabarli yoqtirish)',
       'Bugun uchun ko‘proq yoqtirish va profil',
       'O‘tkazib yuborgan profilingizni qaytaring',
       'Jamoadagi hikoyalarga javob',
@@ -380,7 +381,7 @@ export const uz: Copy = {
       },
       {
         q: 'Nima bepul, nima uchun tanga kerak?',
-        a: 'Sizni asraydigan hamma narsa bepul: mahram, suhbatdan oldin savollar, yopiq suhbat va nazorat, shuningdek kuniga 20 yoqtirish va bitta tanishuv xabari hamda mosliklar bilan cheksiz suhbat. Tangalar bilan kim sizni yoqtirganini ko‘rishingiz, super yoqtirish yoki qo‘shimcha tanishuv xabari yuborishingiz, o‘sha kun uchun ko‘proq profil va yoqtirish olishingiz hamda hikoyalarga javob berishingiz mumkin. Tangalarni har kuni bepul olasiz, ularni bir martalik to‘lov bilan sotib olsangiz ham bo‘ladi. Obuna yo‘q, shuning uchun bekor qiladigan narsa ham yo‘q.',
+        a: 'Sizni asraydigan hamma narsa bepul: mahram, suhbatdan oldin savollar, yopiq suhbat va nazorat, shuningdek kuniga 30 ta profil va 20 yoqtirish, sizni yoqtirganlardan kuniga bir kishi, sizga yuborilgan barcha xabarlarni o‘qish hamda mosliklar bilan cheksiz suhbat. Tangalar bilan sizni yoqtirganlarning hammasini ko‘rishingiz, super yoqtirish (yoqtirishingiz eng tepada, ajralib turadi, ismingiz va rasmingiz bilan) yoki to‘g‘ridan-to‘g‘ri xabar (qarshi tomon bepul o‘qiydigan xabarli yoqtirish) yuborishingiz, o‘sha kun uchun ko‘proq profil va yoqtirish olishingiz hamda hikoyalarga javob berishingiz mumkin. Suhbat faqat ikkalangiz bir-biringizni yoqtirganingizda ochiladi. Tangalarni har kuni bepul olasiz, ularni bir martalik to‘lov bilan sotib olsangiz ham bo‘ladi. Obuna yo‘q, shuning uchun bekor qiladigan narsa ham yo‘q.',
       },
       {
         q: 'Profilimni vaqtincha yashira olamanmi?',

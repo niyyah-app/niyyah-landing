@@ -130,7 +130,7 @@ export const bs = {
     ],
     parentsTitle: 'Roditelji, ovo je za vas.',
     parentsBody:
-      'Znamo da „aplikacija za upoznavanje“ ne zvuči kao nešto za vašu kćerku ili sestru. U Niyyah možete biti u njenim razgovorima i vidjeti s kim se dopisuje i kako, bez da išta pišete. Poruka ne može ni stići dok oboje ne pokažu interes, a sve ovo je besplatno.',
+      'Znamo da „aplikacija za upoznavanje“ ne zvuči kao nešto za vašu kćerku ili sestru. U Niyyah možete biti u njenim razgovorima i vidjeti s kim se dopisuje i kako, bez da išta pišete. Razgovor se ne može ni otvoriti dok oboje ne pokažu interes, a sve ovo je besplatno.',
     share: 'Pošalji joj ovu stranicu',
     shareDone: 'Link je kopiran',
     shareText: 'Niyyah: aplikacija za brak u kojoj porodica može biti u razgovoru.',
@@ -318,7 +318,8 @@ export const bs = {
     free: [
       'Profil i 30 profila dnevno u Otkrivaj',
       '20 lajkova dnevno',
-      '1 uvodna poruka dnevno',
+      'Vidi ko te lajkao: 1 osoba dnevno',
+      'Čitanje svih poruka koje ti pošalju',
       'Podudaranja i neograničen razgovor s njima',
       'Mahrem u razgovoru',
       'Pitanja prije razgovora',
@@ -327,9 +328,9 @@ export const bs = {
     ],
     premiumTitle: 'Coinsi, kad poželiš više',
     premium: [
-      'Vidi ko te lajkao',
-      'Super lajk koji odmah otvara razgovor',
-      'Dodatne uvodne poruke',
+      'Vidi sve koji su te lajkali',
+      'Super lajk: tvoj lajk na vrhu, s tvojim imenom i slikom',
+      'Direktne poruke (lajk s porukom)',
       'Još lajkova i profila za danas',
       'Vrati profil koji si preskočio/la',
       'Odgovori na priče u zajednici',
@@ -378,7 +379,7 @@ export const bs = {
       },
       {
         q: 'Šta je besplatno, a šta se plaća coinsima?',
-        a: 'Besplatno je sve što te čuva: mahrem, pitanja prije razgovora, zaključan chat i moderacija, uz 20 lajkova i jednu uvodnu poruku dnevno te neograničen razgovor s podudaranjima. Coinsima možeš vidjeti ko te lajkao, poslati super lajk ili dodatnu uvodnu poruku, dobiti još profila i lajkova za taj dan i odgovarati na priče. Coinse dobijaš besplatno svaki dan, a možeš ih i kupiti jednokratno. Nema pretplate, pa nema ni šta otkazivati.',
+        a: 'Besplatno je sve što te čuva: mahrem, pitanja prije razgovora, zaključan chat i moderacija, uz 30 profila i 20 lajkova dnevno, jednu osobu dnevno od onih koji su te lajkali, čitanje svih poruka koje ti pošalju i neograničen razgovor s podudaranjima. Coinsima možeš vidjeti sve koji su te lajkali, poslati super lajk (tvoj lajk stoji na vrhu, istaknut, s tvojim imenom i slikom) ili direktnu poruku (lajk s porukom koju druga osoba čita besplatno), dobiti još profila i lajkova za taj dan i odgovarati na priče. Razgovor se otvara tek kad se oboje lajkate. Coinse dobijaš besplatno svaki dan, a možeš ih i kupiti jednokratno. Nema pretplate, pa nema ni šta otkazivati.',
       },
       {
         q: 'Mogu li privremeno sakriti profil?',

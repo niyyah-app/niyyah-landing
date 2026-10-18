@@ -131,7 +131,7 @@ export const az: Copy = {
     ],
     parentsTitle: 'Valideynlər, bu sizin üçündür.',
     parentsBody:
-      'Bilirik ki, „tanışlıq tətbiqi“ qızınıza və ya bacınıza yaraşan bir şey kimi səslənmir. Niyyah-da onun söhbətlərində ola, kimlə və necə yazdığını görə bilərsiniz — özünüz heç nə yazmadan. İki tərəf maraq göstərməyincə mesaj heç çatmır da, və bütün bunlar pulsuzdur.',
+      'Bilirik ki, „tanışlıq tətbiqi“ qızınıza və ya bacınıza yaraşan bir şey kimi səslənmir. Niyyah-da onun söhbətlərində ola, kimlə və necə yazdığını görə bilərsiniz — özünüz heç nə yazmadan. İki tərəf maraq göstərməyincə söhbət heç açılmır da, və bütün bunlar pulsuzdur.',
     share: 'Bu səhifəni ona göndərin',
     shareDone: 'Keçid kopyalandı',
     shareText: 'Niyyah: ailənin söhbətdə ola bildiyi evlilik tətbiqi.',
@@ -320,7 +320,8 @@ export const az: Copy = {
     free: [
       'Profil və Kəşfdə gündə 30 profil',
       'Gündə 20 bəyənmə',
-      'Gündə 1 tanışlıq mesajı',
+      'Kimin sizi bəyəndiyini görün: gündə 1 nəfər',
+      'Sizə göndərilən bütün mesajları oxumaq',
       'Uyğunluqlar və onlarla hüdudsuz söhbət',
       'Söhbətdə məhrəm',
       'Söhbətdən əvvəl suallar',
@@ -329,9 +330,9 @@ export const az: Copy = {
     ],
     premiumTitle: 'Sikkələr, daha çoxunu istədikdə',
     premium: [
-      'Kimin sizi bəyəndiyini görün',
-      'Söhbəti dərhal açan super bəyənmə',
-      'Əlavə tanışlıq mesajları',
+      'Sizi bəyənən hər kəsi görün',
+      'Super bəyənmə: bəyənməniz ən yuxarıda, adınız və şəklinizlə',
+      'Birbaşa mesajlar (mesajlı bəyənmə)',
       'Bu gün üçün daha çox bəyənmə və profil',
       'Keçdiyiniz profili geri qaytarın',
       'İcma hekayələrinə cavab',
@@ -380,7 +381,7 @@ export const az: Copy = {
       },
       {
         q: 'Nə pulsuzdur, nəyə isə sikkə lazımdır?',
-        a: 'Sizi qoruyan hər şey pulsuzdur: məhrəm, söhbətdən əvvəl suallar, qapalı söhbət və nəzarət, üstəlik gündə 20 bəyənmə və bir tanışlıq mesajı və uyğunluqlarla hüdudsuz söhbət. Sikkələrlə kimin sizi bəyəndiyini görə, super bəyənmə ya əlavə tanışlıq mesajı göndərə, həmin gün üçün daha çox profil və bəyənmə ala və hekayələrə cavab verə bilərsiniz. Sikkələri hər gün pulsuz qazanırsınız, onları birdəfəlik ödənişlə ala da bilərsiniz. Abunə yoxdur, ona görə ləğv ediləsi heç nə də yoxdur.',
+        a: 'Sizi qoruyan hər şey pulsuzdur: məhrəm, söhbətdən əvvəl suallar, qapalı söhbət və nəzarət, üstəlik gündə 30 profil və 20 bəyənmə, sizi bəyənənlərdən gündə bir nəfər, sizə göndərilən bütün mesajları oxumaq və uyğunluqlarla hüdudsuz söhbət. Sikkələrlə sizi bəyənən hər kəsi görə, super bəyənmə (bəyənməniz ən yuxarıda, seçilmiş, adınız və şəklinizlə) ya birbaşa mesaj (qarşı tərəfin pulsuz oxuduğu mesajlı bəyənmə) göndərə, həmin gün üçün daha çox profil və bəyənmə ala və hekayələrə cavab verə bilərsiniz. Söhbət yalnız ikiniz də bir-birinizi bəyəndikdə açılır. Sikkələri hər gün pulsuz qazanırsınız, onları birdəfəlik ödənişlə ala da bilərsiniz. Abunə yoxdur, ona görə ləğv ediləsi heç nə də yoxdur.',
       },
       {
         q: 'Profilimi müvəqqəti gizlədə bilərəm?',

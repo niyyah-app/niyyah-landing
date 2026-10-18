@@ -131,7 +131,7 @@ export const de: Copy = {
     ],
     parentsTitle: 'Eltern, das ist für Sie.',
     parentsBody:
-      'Wir wissen, dass „Dating-App“ nicht nach etwas für Ihre Tochter oder Schwester klingt. In Niyyah können Sie in ihren Gesprächen sein und sehen, mit wem sie schreibt und wie — ohne selbst etwas zu schreiben. Eine Nachricht kann gar nicht ankommen, bevor beide Interesse zeigen, und all das ist kostenlos.',
+      'Wir wissen, dass „Dating-App“ nicht nach etwas für Ihre Tochter oder Schwester klingt. In Niyyah können Sie in ihren Gesprächen sein und sehen, mit wem sie schreibt und wie — ohne selbst etwas zu schreiben. Ein Gespräch kann sich gar nicht öffnen, bevor beide Interesse zeigen, und all das ist kostenlos.',
     share: 'Schick ihr diese Seite',
     shareDone: 'Link kopiert',
     shareText: 'Niyyah: eine App für die Ehe, in der die Familie im Gespräch sein kann.',
@@ -319,7 +319,8 @@ export const de: Copy = {
     free: [
       'Ein Profil und 30 Profile am Tag in Entdecken',
       '20 Likes am Tag',
-      '1 Einstiegsnachricht am Tag',
+      'Sieh, wer dich geliked hat: 1 Person am Tag',
+      'Alle Nachrichten lesen, die man dir schickt',
       'Übereinstimmungen und unbegrenztes Gespräch mit ihnen',
       'Ein Mahram im Gespräch',
       'Fragen vor dem Gespräch',
@@ -328,9 +329,9 @@ export const de: Copy = {
     ],
     premiumTitle: 'Coins, wenn du mehr willst',
     premium: [
-      'Sieh, wer dich geliked hat',
-      'Ein Super-Like, der das Gespräch sofort öffnet',
-      'Zusätzliche Einstiegsnachrichten',
+      'Sieh alle, die dich geliked haben',
+      'Super-Like: dein Like ganz oben, mit Namen und Foto',
+      'Direktnachrichten (ein Like mit Nachricht)',
       'Mehr Likes und Profile für heute',
       'Hol ein übersprungenes Profil zurück',
       'Antworten auf Geschichten in der Gemeinschaft',
@@ -379,7 +380,7 @@ export const de: Copy = {
       },
       {
         q: 'Was ist kostenlos und was kostet Coins?',
-        a: 'Kostenlos ist alles, was dich schützt: Mahram, Fragen vor dem Gespräch, der verschlossene Chat und die Moderation, dazu 20 Likes und eine Einstiegsnachricht am Tag sowie unbegrenztes Gespräch mit Übereinstimmungen. Mit Coins siehst du, wer dich geliked hat, schickst einen Super-Like oder eine zusätzliche Einstiegsnachricht, bekommst mehr Profile und Likes für den Tag und antwortest auf Geschichten. Coins bekommst du jeden Tag kostenlos, und du kannst sie auch einmalig kaufen. Es gibt kein Abo, also gibt es auch nichts zu kündigen.',
+        a: 'Kostenlos ist alles, was dich schützt: Mahram, Fragen vor dem Gespräch, der verschlossene Chat und die Moderation, dazu 30 Profile und 20 Likes am Tag, jeden Tag eine Person von denen, die dich geliked haben, das Lesen aller Nachrichten, die man dir schickt, sowie unbegrenztes Gespräch mit Übereinstimmungen. Mit Coins siehst du alle, die dich geliked haben, schickst einen Super-Like (dein Like ganz oben, hervorgehoben, mit Namen und Foto) oder eine Direktnachricht (ein Like mit Nachricht, die die andere Person kostenlos liest), bekommst mehr Profile und Likes für den Tag und antwortest auf Geschichten. Ein Gespräch öffnet sich erst, wenn ihr euch beide geliked habt. Coins bekommst du jeden Tag kostenlos, und du kannst sie auch einmalig kaufen. Es gibt kein Abo, also gibt es auch nichts zu kündigen.',
       },
       {
         q: 'Kann ich mein Profil vorübergehend verbergen?',

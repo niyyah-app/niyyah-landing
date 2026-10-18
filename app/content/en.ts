@@ -131,7 +131,7 @@ export const en: Copy = {
     ],
     parentsTitle: 'Parents, this is for you.',
     parentsBody:
-      'We know a “dating app” does not sound like something for your daughter or sister. In Niyyah you can be in her conversations and see who she is writing to and how, without writing anything yourself. A message cannot even arrive until both sides show interest, and all of this is free.',
+      'We know a “dating app” does not sound like something for your daughter or sister. In Niyyah you can be in her conversations and see who she is writing to and how, without writing anything yourself. A conversation cannot even open until both sides show interest, and all of this is free.',
     share: 'Send her this page',
     shareDone: 'Link copied',
     shareText: 'Niyyah: a marriage app where family can be part of the conversation.',
@@ -319,7 +319,8 @@ export const en: Copy = {
     free: [
       'A profile and 30 profiles a day in Discover',
       '20 likes a day',
-      '1 intro message a day',
+      'See who liked you: 1 person a day',
+      'Reading every message sent to you',
       'Matches, and unlimited conversation with them',
       'A mahram in the conversation',
       'Questions before chat',
@@ -328,9 +329,9 @@ export const en: Copy = {
     ],
     premiumTitle: 'Coins, when you want more',
     premium: [
-      'See who liked you',
-      'A super like that opens the conversation at once',
-      'Extra intro messages',
+      'See everyone who liked you',
+      'Super like: your like on top, with your name and photo',
+      'Direct messages (a like with a message)',
       'More likes and profiles for today',
       'Bring back a profile you skipped',
       'Reply to stories in the community',
@@ -379,7 +380,7 @@ export const en: Copy = {
       },
       {
         q: 'What is free, and what costs coins?',
-        a: 'Everything that keeps you safe is free: mahram, questions before chat, locked conversations and moderation, plus 20 likes and one intro message a day and unlimited conversation with your matches. With coins you can see who liked you, send a super like or an extra intro message, get more profiles and likes for the day, and reply to stories. You earn coins for free every day, and you can also buy them once-off. There is no subscription, so there is nothing to cancel.',
+        a: 'Everything that keeps you safe is free: mahram, questions before chat, locked conversations and moderation, plus 30 profiles and 20 likes a day, one person a day from those who liked you, reading every message sent to you, and unlimited conversation with your matches. With coins you can see everyone who liked you, send a super like (your like shown at the top, highlighted, with your name and photo) or a direct message (a like with a message, which they read for free), get more profiles and likes for the day, and reply to stories. A conversation opens only when you both like each other. You earn coins for free every day, and you can also buy them once-off. There is no subscription, so there is nothing to cancel.',
       },
       {
         q: 'Can I hide my profile for a while?',

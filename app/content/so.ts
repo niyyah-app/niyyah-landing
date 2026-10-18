@@ -131,7 +131,7 @@ export const so: Copy = {
     ],
     parentsTitle: 'Waalidiin, kani waa idinka.',
     parentsBody:
-      'Waan ognahay in „ab shukaansi“ aan u ekayn wax u qalma gabadhiinna ama walaashiinna. Niyyah dhexdeeda waad ka qayb qaadan kartaan wadahadalladeeda oo waad arki kartaan cidda ay la qoraysa iyo sida, idinkoo aanad waxba qorin. Fariin ma gaadho ilaa labada dhinac ay xiiso muujiyaan, waxaas oo dhanna waa bilaash.',
+      'Waan ognahay in „ab shukaansi“ aan u ekayn wax u qalma gabadhiinna ama walaashiinna. Niyyah dhexdeeda waad ka qayb qaadan kartaan wadahadalladeeda oo waad arki kartaan cidda ay la qoraysa iyo sida, idinkoo aanad waxba qorin. Wadahadal ma furmo ilaa labada dhinac ay xiiso muujiyaan, waxaas oo dhanna waa bilaash.',
     share: 'U dir bogggan',
     shareDone: 'Xidhiidhka waa la koobiyeeyay',
     shareText: 'Niyyah: abka guurka oo qoysku ku jiri karo wadahadalka.',
@@ -320,7 +320,8 @@ export const so: Copy = {
     free: [
       'Profile iyo 30 profile maalintii Baadigoob',
       '20 jeclaysi maalintii',
-      '1 fariin is-barasho maalintii',
+      'Arag cidda ku jeclaatay: 1 qof maalintii',
+      'Akhrinta dhammaan fariimaha laguu soo diro',
       'Isku-ekaanshooyin iyo wadahadal aan xadidnayn oo iyaga la leh',
       'Maxram wadahadalka ku jira',
       'Su’aalo wadahadalka ka hor',
@@ -329,9 +330,9 @@ export const so: Copy = {
     ],
     premiumTitle: 'Qadaadiic, marka aad wax dheeraad doonto',
     premium: [
-      'Arag cidda ku jeclaatay',
-      'Super jeclaysi oo wadahadalka isla markiiba fura',
-      'Fariimo is-barasho dheeraad ah',
+      'Arag dhammaan inta ku jeclaatay',
+      'Super jeclaysi: jeclaysigaaga oo ugu sarreeya, magacaaga iyo sawirkaaga',
+      'Fariimo toos ah (jeclaysi fariin wata)',
       'Jeclaysi iyo profile dheeraad ah maanta',
       'Soo celi profile aad ka boodday',
       'Ka jawaab sheekooyinka bulshada',
@@ -380,7 +381,7 @@ export const so: Copy = {
       },
       {
         q: 'Maxaa bilaash ah, maxaase qadaadiic lagu bixiyaa?',
-        a: 'Wax walba oo ku ilaaliya waa bilaash: maxram, su’aalaha wadahadalka ka hor, chat-ka xidhan iyo kormeerka, iyo 20 jeclaysi iyo hal fariin is-barasho maalintii iyo wadahadal aan xadidnayn oo isku-ekaanshooyinkaada. Qadaadiic waxaad ku arki kartaa cidda ku jeclaatay, waxaad ku diri kartaa super jeclaysi ama fariin is-barasho dheeraad ah, waxaad ku heli kartaa profile iyo jeclaysi dheeraad ah maalintaas, waxaadna uga jawaabi kartaa sheekooyinka. Qadaadiic bilaash ah ayaad heshaa maalin kasta, waxaadna sidoo kale iibsan kartaa hal mar. Rukummo ma jirto, sidaas darteed ma jiro wax aad joojiso.',
+        a: 'Wax walba oo ku ilaaliya waa bilaash: maxram, su’aalaha wadahadalka ka hor, chat-ka xidhan iyo kormeerka, iyo 30 profile iyo 20 jeclaysi maalintii, hal qof maalintii oo ka mid ah inta ku jeclaatay, akhrinta dhammaan fariimaha laguu soo diro iyo wadahadal aan xadidnayn oo isku-ekaanshooyinkaada. Qadaadiic waxaad ku arki kartaa dhammaan inta ku jeclaatay, waxaad ku diri kartaa super jeclaysi (jeclaysigaaga oo ugu sarreeya, la muujiyay, magacaaga iyo sawirkaaga) ama fariin toos ah (jeclaysi fariin wata oo qofka kale bilaash ku akhriyo), waxaad ku heli kartaa profile iyo jeclaysi dheeraad ah maalintaas, waxaadna uga jawaabi kartaa sheekooyinka. Wadahadalku wuxuu furmaa oo keliya marka aad labadiinuba is jeclaataan. Qadaadiic bilaash ah ayaad heshaa maalin kasta, waxaadna sidoo kale iibsan kartaa hal mar. Rukummo ma jirto, sidaas darteed ma jiro wax aad joojiso.',
       },
       {
         q: 'Profile-kayga ma qarin karaa muddo?',

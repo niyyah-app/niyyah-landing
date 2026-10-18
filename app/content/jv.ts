@@ -131,7 +131,7 @@ export const jv: Copy = {
     ],
     parentsTitle: 'Bapak lan ibu, iki kanggo panjenengan.',
     parentsBody:
-      'Awake dhewe ngerti yen „aplikasi pacaran" ora krungu kaya barang kanggo putri utawa adhine panjenengan. Ing Niyyah panjenengan bisa melu ing pirembugane lan ndeleng karo sapa lan kepriye dheweke nulis, tanpa panjenengan nulis apa-apa. Pesen ora bisa tekan sadurunge loro pihak nuduhake seneng, lan kabeh iki gratis.',
+      'Awake dhewe ngerti yen „aplikasi pacaran" ora krungu kaya barang kanggo putri utawa adhine panjenengan. Ing Niyyah panjenengan bisa melu ing pirembugane lan ndeleng karo sapa lan kepriye dheweke nulis, tanpa panjenengan nulis apa-apa. Pirembugan ora bisa kabukak sadurunge loro pihak nuduhake seneng, lan kabeh iki gratis.',
     share: 'Kirimake kaca iki marang dheweke',
     shareDone: 'Tautan wis disalin',
     shareText: 'Niyyah: aplikasi bebrayan sing kulawargane bisa melu ing pirembugan.',
@@ -319,7 +319,8 @@ export const jv: Copy = {
     free: [
       'Profil lan 30 profil saben dina ing Golek',
       '20 seneng saben dina',
-      '1 pesen kenalan saben dina',
+      'Ndeleng sapa sing seneng sampeyan: 1 wong saben dina',
+      'Maca kabeh pesen sing dikirim marang sampeyan',
       'Kecocokan lan pirembugan tanpa wates karo dheweke',
       'Mahram ing pirembugan',
       'Pitakonan sadurunge pirembugan',
@@ -328,9 +329,9 @@ export const jv: Copy = {
     ],
     premiumTitle: 'Koin, yen kepengin luwih',
     premium: [
-      'Ndeleng sapa sing seneng sampeyan',
-      'Super seneng sing langsung mbukak pirembugan',
-      'Pesen kenalan tambahan',
+      'Ndeleng kabeh sing seneng sampeyan',
+      'Super seneng: seneng sampeyan ing paling dhuwur, kanthi jeneng lan foto sampeyan',
+      'Pesen langsung (seneng karo pesen)',
       'Luwih akeh seneng lan profil kanggo dina iki',
       'Mbalekake profil sing sampeyan liwati',
       'Mangsuli crita ing komunitas',
@@ -379,7 +380,7 @@ export const jv: Copy = {
       },
       {
         q: 'Apa sing gratis, lan apa sing dibayar nganggo koin?',
-        a: 'Kabeh sing njaga sampeyan kuwi gratis: mahram, pitakonan sadurunge pirembugan, obrolan kakunci lan pangawasan, ditambah 20 seneng lan siji pesen kenalan saben dina sarta pirembugan tanpa wates karo kecocokan sampeyan. Nganggo koin sampeyan bisa ndeleng sapa sing seneng sampeyan, ngirim super seneng utawa pesen kenalan tambahan, entuk profil lan seneng luwih akeh kanggo dina kuwi, lan mangsuli crita. Koin sampeyan entuk gratis saben dina, lan uga bisa dituku sepisan. Ora ana langganan, dadi ora ana sing kudu dibatalake.',
+        a: 'Kabeh sing njaga sampeyan kuwi gratis: mahram, pitakonan sadurunge pirembugan, obrolan kakunci lan pangawasan, ditambah 30 profil lan 20 seneng saben dina, siji wong saben dina saka sing seneng sampeyan, maca kabeh pesen sing dikirim marang sampeyan, sarta pirembugan tanpa wates karo kecocokan sampeyan. Nganggo koin sampeyan bisa ndeleng kabeh sing seneng sampeyan, ngirim super seneng (seneng sampeyan ing paling dhuwur, disorot, kanthi jeneng lan foto) utawa pesen langsung (seneng karo pesen sing diwaca gratis dening sing nampa), entuk profil lan seneng luwih akeh kanggo dina kuwi, lan mangsuli crita. Pirembugan mung kabukak yen sampeyan loro padha seneng. Koin sampeyan entuk gratis saben dina, lan uga bisa dituku sepisan. Ora ana langganan, dadi ora ana sing kudu dibatalake.',
       },
       {
         q: 'Apa aku bisa ndhelikake profil sawetara wektu?',

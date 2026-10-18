@@ -131,7 +131,7 @@ export const sw: Copy = {
     ],
     parentsTitle: 'Wazazi, hii ni kwa ajili yenu.',
     parentsBody:
-      'Tunajua „programu ya uchumba“ haisikiki kama kitu kwa binti au dada yenu. Katika Niyyah mnaweza kuwa ndani ya mazungumzo yake na kuona anaandika na nani na vipi, bila nyinyi kuandika kitu. Ujumbe hauwezi hata kufika kabla pande zote mbili kuonyesha kupendezwa, na yote haya ni bila malipo.',
+      'Tunajua „programu ya uchumba“ haisikiki kama kitu kwa binti au dada yenu. Katika Niyyah mnaweza kuwa ndani ya mazungumzo yake na kuona anaandika na nani na vipi, bila nyinyi kuandika kitu. Mazungumzo hayawezi hata kufunguka kabla pande zote mbili kuonyesha kupendezwa, na yote haya ni bila malipo.',
     share: 'Mtumie ukurasa huu',
     shareDone: 'Kiungo kimenakiliwa',
     shareText: 'Niyyah: programu ya ndoa ambapo familia inaweza kuwa ndani ya mazungumzo.',
@@ -320,7 +320,8 @@ export const sw: Copy = {
     free: [
       'Wasifu na wasifu 30 kwa siku kwenye Gundua',
       'Mapenzi 20 kwa siku',
-      'Ujumbe 1 wa utambulisho kwa siku',
+      'Ona ni nani aliyekupenda: mtu 1 kwa siku',
+      'Kusoma ujumbe wote unaotumiwa',
       'Mafanano na mazungumzo bila kikomo nao',
       'Mahramu ndani ya mazungumzo',
       'Maswali kabla ya mazungumzo',
@@ -329,9 +330,9 @@ export const sw: Copy = {
     ],
     premiumTitle: 'Sarafu, unapotaka zaidi',
     premium: [
-      'Ona ni nani aliyekupenda',
-      'Super like inayofungua mazungumzo papo hapo',
-      'Ujumbe wa ziada wa utambulisho',
+      'Ona wote waliokupenda',
+      'Super like: pendo lako juu kabisa, pamoja na jina na picha yako',
+      'Ujumbe wa moja kwa moja (pendo pamoja na ujumbe)',
       'Mapenzi na wasifu zaidi kwa leo',
       'Rudisha wasifu uliouruka',
       'Jibu hadithi za jumuiya',
@@ -380,7 +381,7 @@ export const sw: Copy = {
       },
       {
         q: 'Nini ni bila malipo, na nini kinalipiwa kwa sarafu?',
-        a: 'Kila kinachokulinda ni bila malipo: mahramu, maswali kabla ya mazungumzo, gumzo lililofungwa na usimamizi, pamoja na mapenzi 20 na ujumbe mmoja wa utambulisho kwa siku na mazungumzo bila kikomo na mafanano yako. Kwa sarafu unaweza kuona ni nani aliyekupenda, kutuma Super like au ujumbe wa ziada wa utambulisho, kupata wasifu na mapenzi zaidi kwa siku hiyo, na kujibu hadithi. Sarafu unazipata bila malipo kila siku, na unaweza pia kuzinunua kwa malipo ya mara moja. Hakuna usajili wa malipo, kwa hiyo hakuna cha kughairi.',
+        a: 'Kila kinachokulinda ni bila malipo: mahramu, maswali kabla ya mazungumzo, gumzo lililofungwa na usimamizi, pamoja na wasifu 30 na mapenzi 20 kwa siku, mtu mmoja kwa siku kati ya waliokupenda, kusoma ujumbe wote unaotumiwa, na mazungumzo bila kikomo na mafanano yako. Kwa sarafu unaweza kuona wote waliokupenda, kutuma Super like (pendo lako juu kabisa, likiangaziwa, pamoja na jina na picha yako) au ujumbe wa moja kwa moja (pendo pamoja na ujumbe ambao mpokeaji anasoma bila malipo), kupata wasifu na mapenzi zaidi kwa siku hiyo, na kujibu hadithi. Mazungumzo hufunguka tu mnapopendana nyote wawili. Sarafu unazipata bila malipo kila siku, na unaweza pia kuzinunua kwa malipo ya mara moja. Hakuna usajili wa malipo, kwa hiyo hakuna cha kughairi.',
       },
       {
         q: 'Naweza kuficha wasifu kwa muda?',
