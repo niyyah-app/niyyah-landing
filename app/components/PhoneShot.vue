@@ -14,6 +14,11 @@ withDefaults(
   defineProps<{
     src: string
     alt: string
+    /** Stvarna veličina slike u pikselima — ide u width/height na <img>, pa
+     *  preglednik rezerviše mjesto prije nego se slika učita i stranica ne
+     *  skače. Prikazanu veličinu i dalje određuje `width` ispod (CSS). */
+    imgWidth: number
+    imgHeight: number
     width?: number
     eager?: boolean
     /** Topli oreol iza uređaja; hero ga ima, uže sekcije obično ne trebaju. */
@@ -33,6 +38,8 @@ withDefaults(
       class="shot__img"
       :src="src"
       :alt="alt"
+      :width="imgWidth"
+      :height="imgHeight"
       :loading="eager ? 'eager' : 'lazy'"
       :fetchpriority="eager ? 'high' : 'auto'"
       decoding="async"

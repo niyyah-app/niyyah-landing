@@ -26,7 +26,7 @@ const c = useCopy()
         </div>
 
         <div v-reveal="100" class="mahrem__visual">
-          <PhoneShot :src="mahremShot" :alt="c.mahrem.imageAlt" :width="500" />
+          <PhoneShot :src="mahremShot" :alt="c.mahrem.imageAlt" :img-width="1024" :img-height="1536" :width="500" />
         </div>
       </div>
 

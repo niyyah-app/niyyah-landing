@@ -7,7 +7,7 @@ const c = useCopy()
   <section class="section qs" aria-labelledby="qs-title">
     <div class="wrap qs__grid">
       <div v-reveal class="qs__visual">
-        <PhoneShot :src="questionsShot" :alt="c.questions.imageAlt" :width="380" />
+        <PhoneShot :src="questionsShot" :alt="c.questions.imageAlt" :img-width="979" :img-height="1606" :width="380" />
       </div>
 
       <div class="qs__text">

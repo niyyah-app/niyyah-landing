@@ -51,6 +51,8 @@ const title = computed(() => {
           class="hero__phone"
           :src="heroShot"
           :alt="c.hero.imageAlt"
+          :img-width="1024"
+          :img-height="1536"
           :width="420"
           eager
         />
@@ -60,6 +62,8 @@ const title = computed(() => {
           class="hero__reflection"
           :src="heroShot"
           alt=""
+          width="1024"
+          height="1536"
           aria-hidden="true"
           loading="lazy"
         />
@@ -193,6 +197,7 @@ const title = computed(() => {
   top: 50%;
   z-index: -1;
   width: min(112%, clamp(310px, 34vw, 580px));
+  height: auto;
   transform: translate(-50%, -48%) scale(1.04);
   opacity: 0.16;
   filter: blur(18px) saturate(0.6);

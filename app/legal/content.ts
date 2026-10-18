@@ -13,7 +13,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "What we collect",
-      "b": "What you give us: your name, date of birth, gender, email address, city, photos, and your answers on the profile (such as religious practice, marital status, children and plans for marriage). What arises as you use the app: likes, matches, messages and voice messages, community posts and comments, coin purchases, reports you file, and technical data such as your device type, app version and a notification token."
+      "b": "What you give us: your name, date of birth, gender, email address, city, photos, and your answers on the profile (such as religious practice, marital status, children and plans for marriage). What arises as you use the app: likes, matches, messages and voice messages, community posts and comments, coin purchases, reports you file, and technical data such as your device type, app version and a notification token. If you join the waitlist on our website, we keep only your email address and language: to tell you when Niyyah launches and to give you a welcome gift if you sign up with the same address. We delete it at the latest 12 months after the launch email."
     },
     {
       "h": "Why we use it",
@@ -59,7 +59,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Šta prikupljamo",
-      "b": "Ono što nam daš: ime, datum rođenja, spol, e-mail adresu, grad, fotografije i odgovore na profilu (npr. vjerska praksa, bračni status, djeca i planovi za brak). Ono što nastaje dok koristiš aplikaciju: lajkovi, podudaranja, poruke i glasovne poruke, objave i komentari u zajednici, kupovine coinsa, prijave koje podneseš, te tehnički podaci poput tipa uređaja, verzije aplikacije i oznake za obavijesti."
+      "b": "Ono što nam daš: ime, datum rođenja, spol, e-mail adresu, grad, fotografije i odgovore na profilu (npr. vjerska praksa, bračni status, djeca i planovi za brak). Ono što nastaje dok koristiš aplikaciju: lajkovi, podudaranja, poruke i glasovne poruke, objave i komentari u zajednici, kupovine coinsa, prijave koje podneseš, te tehnički podaci poput tipa uređaja, verzije aplikacije i oznake za obavijesti. Ako se upišeš na listu čekanja na našoj web stranici, čuvamo samo tvoju e-mail adresu i jezik: da ti javimo kad Niyyah krene i da te dočeka poklon dobrodošlice ako se prijaviš istom adresom. Brišemo je najkasnije 12 mjeseci nakon obavijesti o pokretanju."
     },
     {
       "h": "Zašto to koristimo",
@@ -105,7 +105,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Was wir erheben",
-      "b": "Was du uns gibst: Name, Geburtsdatum, Geschlecht, E-Mail-Adresse, Stadt, Fotos und deine Angaben im Profil (z. B. religiöse Praxis, Familienstand, Kinder und Heiratspläne). Was bei der Nutzung entsteht: Likes, Matches, Nachrichten und Sprachnachrichten, Beiträge und Kommentare in der Community, Coin-Käufe, Meldungen, die du einreichst, sowie technische Daten wie Gerätetyp, App-Version und ein Benachrichtigungs-Token."
+      "b": "Was du uns gibst: Name, Geburtsdatum, Geschlecht, E-Mail-Adresse, Stadt, Fotos und deine Angaben im Profil (z. B. religiöse Praxis, Familienstand, Kinder und Heiratspläne). Was bei der Nutzung entsteht: Likes, Matches, Nachrichten und Sprachnachrichten, Beiträge und Kommentare in der Community, Coin-Käufe, Meldungen, die du einreichst, sowie technische Daten wie Gerätetyp, App-Version und ein Benachrichtigungs-Token. Wenn du dich auf unserer Website in die Warteliste einträgst, speichern wir nur deine E-Mail-Adresse und Sprache: um dir zu sagen, wann Niyyah startet, und dir ein Willkommensgeschenk zu geben, wenn du dich mit derselben Adresse registrierst. Wir löschen sie spätestens 12 Monate nach der Start-E-Mail."
     },
     {
       "h": "Wozu wir sie nutzen",
@@ -151,7 +151,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Ne topluyoruz",
-      "b": "Bize verdiklerin: ad, doğum tarihi, cinsiyet, e-posta adresi, şehir, fotoğraflar ve profildeki cevapların (dini pratik, medeni durum, çocuklar, evlilik planları gibi). Kullanırken oluşanlar: beğeniler, eşleşmeler, mesajlar ve sesli mesajlar, topluluk gönderileri ve yorumları, coin satın alımları, yaptığın bildirimler ve cihaz türü, uygulama sürümü ve bildirim anahtarı gibi teknik veriler."
+      "b": "Bize verdiklerin: ad, doğum tarihi, cinsiyet, e-posta adresi, şehir, fotoğraflar ve profildeki cevapların (dini pratik, medeni durum, çocuklar, evlilik planları gibi). Kullanırken oluşanlar: beğeniler, eşleşmeler, mesajlar ve sesli mesajlar, topluluk gönderileri ve yorumları, coin satın alımları, yaptığın bildirimler ve cihaz türü, uygulama sürümü ve bildirim anahtarı gibi teknik veriler. Web sitemizde bekleme listesine katılırsan yalnızca e-posta adresini ve dilini saklarız: Niyyah başladığında sana haber vermek ve aynı adresle kaydolursan hoş geldin hediyesi vermek için. Başlangıç e-postasından en geç 12 ay sonra sileriz."
     },
     {
       "h": "Neden kullanıyoruz",
@@ -197,7 +197,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "ما الذي نجمعه",
-      "b": "ما تعطينا إياه: الاسم وتاريخ الميلاد والجنس والبريد الإلكتروني والمدينة والصور وإجاباتك في الملف الشخصي (مثل الممارسة الدينية والحالة الاجتماعية والأطفال وخطط الزواج). وما ينشأ أثناء الاستخدام: الإعجابات والتطابقات والرسائل والرسائل الصوتية ومنشورات المجتمع وتعليقاته وشراء العملات والبلاغات التي تقدمها، وبيانات تقنية مثل نوع الجهاز وإصدار التطبيق ورمز الإشعارات."
+      "b": "ما تعطينا إياه: الاسم وتاريخ الميلاد والجنس والبريد الإلكتروني والمدينة والصور وإجاباتك في الملف الشخصي (مثل الممارسة الدينية والحالة الاجتماعية والأطفال وخطط الزواج). وما ينشأ أثناء الاستخدام: الإعجابات والتطابقات والرسائل والرسائل الصوتية ومنشورات المجتمع وتعليقاته وشراء العملات والبلاغات التي تقدمها، وبيانات تقنية مثل نوع الجهاز وإصدار التطبيق ورمز الإشعارات. إذا انضممت إلى قائمة الانتظار على موقعنا، نحتفظ فقط بعنوان بريدك الإلكتروني ولغتك: لنخبرك عند إطلاق Niyyah ولنمنحك هدية ترحيب إن سجّلت بالعنوان نفسه. نحذفه في موعد أقصاه 12 شهرًا بعد رسالة الإطلاق."
     },
     {
       "h": "لماذا نستخدمها",
@@ -243,7 +243,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Apa yang kami kumpulkan",
-      "b": "Yang kamu berikan: nama, tanggal lahir, jenis kelamin, alamat email, kota, foto, dan jawabanmu di profil (seperti praktik agama, status pernikahan, anak, dan rencana menikah). Yang muncul saat kamu memakai aplikasi: suka, kecocokan, pesan dan pesan suara, postingan dan komentar komunitas, pembelian koin, laporan yang kamu buat, serta data teknis seperti jenis perangkat, versi aplikasi, dan token notifikasi."
+      "b": "Yang kamu berikan: nama, tanggal lahir, jenis kelamin, alamat email, kota, foto, dan jawabanmu di profil (seperti praktik agama, status pernikahan, anak, dan rencana menikah). Yang muncul saat kamu memakai aplikasi: suka, kecocokan, pesan dan pesan suara, postingan dan komentar komunitas, pembelian koin, laporan yang kamu buat, serta data teknis seperti jenis perangkat, versi aplikasi, dan token notifikasi. Jika kamu bergabung dengan daftar tunggu di situs web kami, kami hanya menyimpan alamat email dan bahasamu: untuk memberitahumu saat Niyyah diluncurkan dan memberimu hadiah sambutan jika kamu mendaftar dengan alamat yang sama. Kami menghapusnya paling lambat 12 bulan setelah email peluncuran."
     },
     {
       "h": "Untuk apa kami menggunakannya",
@@ -289,7 +289,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "ہم کیا جمع کرتے ہیں",
-      "b": "جو آپ ہمیں دیتے ہیں: نام، تاریخ پیدائش، جنس، ای میل، شہر، تصاویر اور پروفائل پر آپ کے جوابات (جیسے دینی عمل، ازدواجی حیثیت، بچے اور شادی کے منصوبے)۔ استعمال کے دوران جو بنتا ہے: پسندیدگیاں، میچز، پیغامات اور صوتی پیغامات، کمیونٹی پوسٹس اور تبصرے، کوائنز کی خریداری، آپ کی رپورٹس، اور تکنیکی ڈیٹا جیسے ڈیوائس کی قسم، ایپ ورژن اور اطلاعات کا ٹوکن۔"
+      "b": "جو آپ ہمیں دیتے ہیں: نام، تاریخ پیدائش، جنس، ای میل، شہر، تصاویر اور پروفائل پر آپ کے جوابات (جیسے دینی عمل، ازدواجی حیثیت، بچے اور شادی کے منصوبے)۔ استعمال کے دوران جو بنتا ہے: پسندیدگیاں، میچز، پیغامات اور صوتی پیغامات، کمیونٹی پوسٹس اور تبصرے، کوائنز کی خریداری، آپ کی رپورٹس، اور تکنیکی ڈیٹا جیسے ڈیوائس کی قسم، ایپ ورژن اور اطلاعات کا ٹوکن۔ اگر آپ ہماری ویب سائٹ پر انتظار کی فہرست میں شامل ہوتے ہیں تو ہم صرف آپ کا ای میل پتہ اور زبان رکھتے ہیں: تاکہ Niyyah شروع ہونے پر آپ کو بتائیں اور اگر آپ اسی پتے سے سائن اپ کریں تو خوش آمدید تحفہ دیں۔ ہم اسے لانچ کی ای میل کے زیادہ سے زیادہ 12 ماہ بعد حذف کر دیتے ہیں۔"
     },
     {
       "h": "ہم اسے کیوں استعمال کرتے ہیں",
@@ -335,7 +335,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Apa yang kami kumpul",
-      "b": "Apa yang anda berikan: nama, tarikh lahir, jantina, alamat e-mel, bandar, foto dan jawapan anda dalam profil (seperti amalan agama, status perkahwinan, anak dan rancangan berkahwin). Apa yang timbul semasa anda menggunakan aplikasi: suka, padanan, mesej dan mesej suara, hantaran dan komen komuniti, pembelian syiling, laporan yang anda buat, serta data teknikal seperti jenis peranti, versi aplikasi dan token pemberitahuan."
+      "b": "Apa yang anda berikan: nama, tarikh lahir, jantina, alamat e-mel, bandar, foto dan jawapan anda dalam profil (seperti amalan agama, status perkahwinan, anak dan rancangan berkahwin). Apa yang timbul semasa anda menggunakan aplikasi: suka, padanan, mesej dan mesej suara, hantaran dan komen komuniti, pembelian syiling, laporan yang anda buat, serta data teknikal seperti jenis peranti, versi aplikasi dan token pemberitahuan. Jika anda menyertai senarai menunggu di laman web kami, kami hanya menyimpan alamat e-mel dan bahasa anda: untuk memberitahu anda apabila Niyyah dilancarkan dan memberi anda hadiah aluan jika anda mendaftar dengan alamat yang sama. Kami memadamnya selewat-lewatnya 12 bulan selepas e-mel pelancaran."
     },
     {
       "h": "Mengapa kami menggunakannya",
@@ -381,7 +381,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Ce que nous collectons",
-      "b": "Ce que tu nous donnes : nom, date de naissance, genre, adresse e-mail, ville, photos et tes réponses sur le profil (pratique religieuse, situation matrimoniale, enfants, projets de mariage…). Ce qui naît de l’utilisation : likes, matchs, messages et messages vocaux, publications et commentaires dans la communauté, achats de coins, signalements que tu fais, et données techniques comme le type d’appareil, la version de l’app et un jeton de notification."
+      "b": "Ce que tu nous donnes : nom, date de naissance, genre, adresse e-mail, ville, photos et tes réponses sur le profil (pratique religieuse, situation matrimoniale, enfants, projets de mariage…). Ce qui naît de l’utilisation : likes, matchs, messages et messages vocaux, publications et commentaires dans la communauté, achats de coins, signalements que tu fais, et données techniques comme le type d’appareil, la version de l’app et un jeton de notification. Si tu t’inscris sur la liste d’attente de notre site, nous gardons seulement ton adresse e-mail et ta langue : pour te prévenir quand Niyyah sera lancé et t’offrir un cadeau de bienvenue si tu t’inscris avec la même adresse. Nous la supprimons au plus tard 12 mois après l’e-mail de lancement."
     },
     {
       "h": "Pourquoi nous les utilisons",

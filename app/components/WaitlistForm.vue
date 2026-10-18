@@ -46,9 +46,16 @@ async function submit() {
       'Lead',
       { content_name: 'waitlist', content_category: locale.value },
     )
-  } catch {
+  } catch (e) {
+    // Tri različita razloga, tri različita savjeta: loša adresa se ispravlja,
+    // previše pokušaja se čeka, a sve ostalo (mreža, server) se ponavlja.
+    const status = (e as { statusCode?: number; status?: number }).statusCode
+      ?? (e as { status?: number }).status
     state.value = 'error'
-    message.value = c.value.cta.error
+    message.value =
+      status === 422 ? c.value.cta.invalid
+      : status === 429 ? c.value.cta.tooMany
+      : c.value.cta.error
   }
 }
 </script>
