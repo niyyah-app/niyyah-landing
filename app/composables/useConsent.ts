@@ -14,13 +14,17 @@
  * morao biti pitan manja šteta od obrnutog.
  */
 
-/** EU i EEA, uz Britaniju i Švicarsku koje imaju svoja ista pravila. */
+/** EU i EEA, Britanija i Švicarska, te zapadni Balkan i Turska. */
 const ASKS_FIRST = new Set([
   'AT', 'BE', 'BG', 'HR', 'CY', 'CZ', 'DK', 'EE', 'FI', 'FR', 'DE', 'GR',
   'HU', 'IE', 'IT', 'LV', 'LT', 'LU', 'MT', 'NL', 'PL', 'PT', 'RO', 'SK',
   'SI', 'ES', 'SE',
   'IS', 'LI', 'NO',
   'GB', 'CH',
+  // Zapadni Balkan i Turska: glavno tržište, a zakoni o zaštiti podataka
+  // (BiH 2025, Srbija, Crna Gora, S. Makedonija, Albanija, Kosovo, KVKK)
+  // traže isti pristanak. Dotad su upravo oni dobijali pixel bez pitanja.
+  'BA', 'RS', 'ME', 'MK', 'AL', 'XK', 'TR',
 ])
 
 const KEY = 'niyyah_consent'

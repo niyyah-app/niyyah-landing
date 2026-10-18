@@ -74,15 +74,8 @@ export default defineNuxtConfig({
         { name: 'theme-color', content: '#12162b' },
         { name: 'format-detection', content: 'telephone=no' },
       ],
-      // Za posjetioce bez JavaScripta. Pixel se inače učitava iz dodatka,
-      // koji bez JS-a ne postoji; ova slika je jedino što od njega ostane.
-      noscript: [
-        {
-          innerHTML:
-            '<img height="1" width="1" style="display:none" alt="" src="https://www.facebook.com/tr?id=4603339379933380&ev=PageView&noscript=1">',
-          tagPosition: 'bodyClose',
-        },
-      ],
+      // Nema <noscript> pixela: slika se slala Meti bez ikakvog pristanka,
+      // a traka obećava da se bez „Prihvatam“ s Facebooka ništa ne učitava.
       link: [
         { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32.png' },
         { rel: 'apple-touch-icon', href: '/favicon-512.jpg' },
@@ -159,7 +152,6 @@ export default defineNuxtConfig({
     detectBrowserLanguage: {
       useCookie: true,
       cookieKey: 'niyyah_lang',
-      cookieCrossOrigin: true,
       redirectOn: 'root',
       alwaysRedirect: false,
       fallbackLocale: 'bs',
