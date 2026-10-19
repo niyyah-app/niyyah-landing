@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "Q735Z3AT6M.com.orhan.niyyah",
+        "appIDs": ["Q735Z3AT6M.com.orhan.niyyah"],
+        "paths": ["/i/*"],
+        "components": [
+          { "/": "/i/*", "comment": "Link pozivnice: niyyahmarriage.com/i/KOD otvara aplikaciju" }
+        ]
+      }
+    ]
+  }
+}

@@ -25,6 +25,9 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run generate
+      # v3 pakuje i skrivene fajlove (.well-known/ za Universal i App Links,
+      # .nojekyll). v4 ih po defaultu izostavlja — pri nadogradnji dodati
+      # `include-hidden-files: true`.
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .output/public

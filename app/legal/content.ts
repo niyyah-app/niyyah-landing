@@ -3,7 +3,7 @@
 
 export type LegalSection = { h: string; b: string }
 
-export const legalUpdated = "18.10.2026."
+export const legalUpdated = "19.10.2026."
 
 export const privacy: Record<string, LegalSection[]> = {
   "en": [
@@ -21,7 +21,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Photos and the face check",
-      "b": "Profile photos appear as soon as you add them; moderators remove photos that are reported and break the guidelines. For the face check you take a live photo, which a person at Niyyah compares with your profile photos. The live photo is never published. It is stored encrypted and kept only while your account carries the verified badge, so a later check has something to compare with; it is deleted when the check is rejected, when the badge is removed, or when you delete your account. Because a face is sensitive data, the check is your choice."
+      "b": "Profile photos appear as soon as you add them; moderators remove photos that are reported and break the guidelines. For the face check you take a live photo, which a person at Niyyah compares with your profile photos. The live photo is never published. It is stored encrypted and kept only while your account carries the verified badge, so a later check has something to compare with; it is deleted when the check is rejected, when the badge is removed, or when you delete your account. Because a face is sensitive data, the check is your choice. No automatic face recognition is used and no outside service receives the photo: the app itself only checks that it is sharp and large enough."
     },
     {
       "h": "Mahrem identity documents",
@@ -37,7 +37,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Who processes data for us",
-      "b": "Contabo (the servers the app runs on), Cloudflare (network protection), Google Firebase (push notifications), Apple and Google (sign-in and in-app purchases), RevenueCat (processing in-app purchases) and Resend (sending email). Each receives only what its part requires. We never see your card details — payments go through the App Store or Google Play. On our website, Meta (Facebook) measures visits only if you agree to it. We do not sell personal data, to anyone."
+      "b": "Contabo (the servers the app runs on), Cloudflare (network protection), Google Firebase (push notifications), Apple and Google (sign-in and in-app purchases), RevenueCat (processing in-app purchases) and Resend (sending email). Each receives only what its part requires. The OpenStreetMap Foundation's Nominatim service turns the city you type, or your phone's coordinates, into a city and its centre — our server sends only that, nothing that identifies you. Encrypted server backups are kept in Contabo Object Storage in the EU. We never see your card details — payments go through the App Store or Google Play. On our website, Meta (Facebook) measures visits only if you agree to it. We do not sell personal data, to anyone."
     },
     {
       "h": "How long we keep it",
@@ -67,7 +67,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Fotografije i provjera lica",
-      "b": "Profilne fotografije se vide čim ih dodaš; moderatori uklanjaju prijavljene fotografije koje krše pravila. Za provjeru lica snimaš fotografiju uživo, koju osoba iz Niyyah poredi s tvojim profilnim fotografijama. Fotografija uživo se nikad ne objavljuje. Čuva se šifrovana i samo dok tvoj nalog nosi oznaku provjere, da bi kasnija provjera imala s čim da se uporedi; briše se kad je provjera odbijena, kad se oznaka skine ili kad obrišeš nalog. Pošto je lice osjetljiv podatak, provjera je tvoj izbor."
+      "b": "Profilne fotografije se vide čim ih dodaš; moderatori uklanjaju prijavljene fotografije koje krše pravila. Za provjeru lica snimaš fotografiju uživo, koju osoba iz Niyyah poredi s tvojim profilnim fotografijama. Fotografija uživo se nikad ne objavljuje. Čuva se šifrovana i samo dok tvoj nalog nosi oznaku provjere, da bi kasnija provjera imala s čim da se uporedi; briše se kad je provjera odbijena, kad se oznaka skine ili kad obrišeš nalog. Pošto je lice osjetljiv podatak, provjera je tvoj izbor. Ne koristi se automatsko prepoznavanje lica i nijedna vanjska usluga ne dobija fotografiju: aplikacija sama provjerava samo da je oštra i dovoljno velika."
     },
     {
       "h": "Dokumenti mahrema",
@@ -83,7 +83,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Ko za nas obrađuje podatke",
-      "b": "Contabo (serveri na kojima aplikacija radi), Cloudflare (zaštita mreže), Google Firebase (push obavijesti), Apple i Google (prijava i kupovine u aplikaciji), RevenueCat (obrada kupovina u aplikaciji) i Resend (slanje e-maila). Svako dobija samo ono što mu treba za njegov dio. Podatke o kartici nikad ne vidimo — plaćanje ide preko App Store-a ili Google Play-a. Na našoj web stranici Meta (Facebook) mjeri posjete samo ako na to pristaneš. Lične podatke ne prodajemo, nikome."
+      "b": "Contabo (serveri na kojima aplikacija radi), Cloudflare (zaštita mreže), Google Firebase (push obavijesti), Apple i Google (prijava i kupovine u aplikaciji), RevenueCat (obrada kupovina u aplikaciji) i Resend (slanje e-maila). Svako dobija samo ono što mu treba za njegov dio. Usluga Nominatim fondacije OpenStreetMap pretvara grad koji upišeš, ili koordinate telefona, u grad i njegov centar — naš server šalje samo to, ništa po čemu bi se znalo ko si. Šifrovane rezervne kopije servera čuvaju se u Contabo Object Storageu u EU. Podatke o kartici nikad ne vidimo — plaćanje ide preko App Store-a ili Google Play-a. Na našoj web stranici Meta (Facebook) mjeri posjete samo ako na to pristaneš. Lične podatke ne prodajemo, nikome."
     },
     {
       "h": "Koliko dugo čuvamo",
@@ -113,7 +113,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Fotos und Gesichtsprüfung",
-      "b": "Profilfotos sind sichtbar, sobald du sie hinzufügst; Moderatoren entfernen gemeldete Fotos, die gegen die Regeln verstoßen. Für die Gesichtsprüfung machst du ein Live-Foto, das eine Person bei Niyyah mit deinen Profilfotos vergleicht. Das Live-Foto wird nie veröffentlicht. Es wird verschlüsselt gespeichert und nur so lange aufbewahrt, wie dein Konto das Verifiziert-Abzeichen trägt; es wird gelöscht, wenn die Prüfung abgelehnt, das Abzeichen entfernt oder dein Konto gelöscht wird. Da ein Gesicht ein sensibles Datum ist, ist die Prüfung freiwillig."
+      "b": "Profilfotos sind sichtbar, sobald du sie hinzufügst; Moderatoren entfernen gemeldete Fotos, die gegen die Regeln verstoßen. Für die Gesichtsprüfung machst du ein Live-Foto, das eine Person bei Niyyah mit deinen Profilfotos vergleicht. Das Live-Foto wird nie veröffentlicht. Es wird verschlüsselt gespeichert und nur so lange aufbewahrt, wie dein Konto das Verifiziert-Abzeichen trägt; es wird gelöscht, wenn die Prüfung abgelehnt, das Abzeichen entfernt oder dein Konto gelöscht wird. Da ein Gesicht ein sensibles Datum ist, ist die Prüfung freiwillig. Es wird keine automatische Gesichtserkennung eingesetzt, und kein externer Dienst erhält das Foto: Die App prüft selbst nur, ob es scharf und groß genug ist."
     },
     {
       "h": "Ausweisdokumente des Mahrem",
@@ -129,7 +129,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Wer Daten für uns verarbeitet",
-      "b": "Contabo (Server der App), Cloudflare (Netzwerkschutz), Google Firebase (Push-Benachrichtigungen), Apple und Google (Anmeldung und In-App-Käufe), RevenueCat (Abwicklung von In-App-Käufen) und Resend (E-Mail-Versand). Jeder erhält nur, was er für seinen Teil braucht. Kartendaten sehen wir nie — bezahlt wird über den App Store oder Google Play. Auf unserer Website misst Meta (Facebook) Besuche nur mit deiner Zustimmung. Wir verkaufen keine personenbezogenen Daten, an niemanden."
+      "b": "Contabo (Server der App), Cloudflare (Netzwerkschutz), Google Firebase (Push-Benachrichtigungen), Apple und Google (Anmeldung und In-App-Käufe), RevenueCat (Abwicklung von In-App-Käufen) und Resend (E-Mail-Versand). Jeder erhält nur, was er für seinen Teil braucht. Der Dienst Nominatim der OpenStreetMap Foundation macht aus der eingegebenen Stadt oder den Koordinaten deines Telefons eine Stadt und ihren Mittelpunkt — unser Server sendet nur das, nichts, was dich identifiziert. Verschlüsselte Server-Backups liegen im Contabo Object Storage in der EU. Kartendaten sehen wir nie — bezahlt wird über den App Store oder Google Play. Auf unserer Website misst Meta (Facebook) Besuche nur mit deiner Zustimmung. Wir verkaufen keine personenbezogenen Daten, an niemanden."
     },
     {
       "h": "Wie lange wir speichern",
@@ -159,7 +159,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Fotoğraflar ve yüz doğrulaması",
-      "b": "Profil fotoğrafları eklediğin anda görünür; moderatörler bildirilen ve kurallara aykırı fotoğrafları kaldırır. Yüz doğrulaması için canlı bir fotoğraf çekersin; Niyyah’tan bir kişi bunu profil fotoğraflarınla karşılaştırır. Canlı fotoğraf asla yayınlanmaz. Şifreli saklanır ve yalnızca hesabın doğrulama rozetini taşıdığı sürece tutulur; doğrulama reddedildiğinde, rozet kaldırıldığında veya hesabını sildiğinde silinir. Yüz hassas bir veri olduğundan doğrulama senin tercihindir."
+      "b": "Profil fotoğrafları eklediğin anda görünür; moderatörler bildirilen ve kurallara aykırı fotoğrafları kaldırır. Yüz doğrulaması için canlı bir fotoğraf çekersin; Niyyah’tan bir kişi bunu profil fotoğraflarınla karşılaştırır. Canlı fotoğraf asla yayınlanmaz. Şifreli saklanır ve yalnızca hesabın doğrulama rozetini taşıdığı sürece tutulur; doğrulama reddedildiğinde, rozet kaldırıldığında veya hesabını sildiğinde silinir. Yüz hassas bir veri olduğundan doğrulama senin tercihindir. Otomatik yüz tanıma kullanılmaz ve fotoğraf hiçbir dış hizmete gönderilmez: uygulama yalnızca fotoğrafın net ve yeterince büyük olup olmadığını kendisi kontrol eder."
     },
     {
       "h": "Mahrem kimlik belgeleri",
@@ -175,7 +175,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Verileri bizim için kim işler",
-      "b": "Contabo (uygulamanın sunucuları), Cloudflare (ağ koruması), Google Firebase (anlık bildirimler), Apple ve Google (giriş ve uygulama içi satın alımlar), RevenueCat (uygulama içi satın alımların işlenmesi) ve Resend (e-posta gönderimi). Her biri yalnızca kendi kısmı için gerekeni alır. Kart bilgilerini asla görmeyiz — ödeme App Store veya Google Play üzerinden yapılır. Web sitemizde Meta (Facebook) ziyaretleri yalnızca onay verirsen ölçer. Kişisel verileri kimseye satmayız."
+      "b": "Contabo (uygulamanın sunucuları), Cloudflare (ağ koruması), Google Firebase (anlık bildirimler), Apple ve Google (giriş ve uygulama içi satın alımlar), RevenueCat (uygulama içi satın alımların işlenmesi) ve Resend (e-posta gönderimi). Her biri yalnızca kendi kısmı için gerekeni alır. OpenStreetMap Vakfı'nın Nominatim hizmeti, yazdığın şehri veya telefonunun koordinatlarını bir şehre ve merkezine çevirir — sunucumuz yalnızca bunu gönderir, seni tanıtan hiçbir şeyi göndermez. Şifreli sunucu yedekleri, Contabo Object Storage'ın AB'deki deposunda tutulur. Kart bilgilerini asla görmeyiz — ödeme App Store veya Google Play üzerinden yapılır. Web sitemizde Meta (Facebook) ziyaretleri yalnızca onay verirsen ölçer. Kişisel verileri kimseye satmayız."
     },
     {
       "h": "Ne kadar saklıyoruz",
@@ -205,7 +205,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "الصور والتحقق من الوجه",
-      "b": "تظهر صور الملف فور إضافتها، ويزيل المشرفون الصور المبلَّغ عنها المخالفة للقواعد. للتحقق من الوجه تلتقط صورة مباشرة يقارنها شخص من Niyyah بصور ملفك. لا تُنشر الصورة المباشرة أبدًا، وتُحفظ مشفّرة ما دام حسابك يحمل شارة التحقق فقط، وتُحذف إذا رُفض التحقق أو أُزيلت الشارة أو حذفت حسابك. ولأن الوجه بيانات حساسة، فالتحقق اختيارك."
+      "b": "تظهر صور الملف فور إضافتها، ويزيل المشرفون الصور المبلَّغ عنها المخالفة للقواعد. للتحقق من الوجه تلتقط صورة مباشرة يقارنها شخص من Niyyah بصور ملفك. لا تُنشر الصورة المباشرة أبدًا، وتُحفظ مشفّرة ما دام حسابك يحمل شارة التحقق فقط، وتُحذف إذا رُفض التحقق أو أُزيلت الشارة أو حذفت حسابك. ولأن الوجه بيانات حساسة، فالتحقق اختيارك. لا نستخدم التعرّف الآلي على الوجه، ولا تتلقى أي خدمة خارجية الصورة: يتحقق التطبيق بنفسه فقط من أنها واضحة وكبيرة بما يكفي."
     },
     {
       "h": "وثائق هوية المحرم",
@@ -221,7 +221,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "من يعالج البيانات لنا",
-      "b": "Contabo (خوادم التطبيق)، Cloudflare (حماية الشبكة)، Google Firebase (الإشعارات)، Apple وGoogle (تسجيل الدخول والمشتريات داخل التطبيق)، RevenueCat (معالجة المشتريات داخل التطبيق)، وResend (إرسال البريد). يتلقى كل منهم ما يحتاجه لدوره فقط. لا نرى بيانات بطاقتك أبدًا، فالدفع يتم عبر App Store أو Google Play. على موقعنا تقيس Meta (فيسبوك) الزيارات فقط إذا وافقت. لا نبيع البيانات الشخصية لأحد."
+      "b": "Contabo (خوادم التطبيق)، Cloudflare (حماية الشبكة)، Google Firebase (الإشعارات)، Apple وGoogle (تسجيل الدخول والمشتريات داخل التطبيق)، RevenueCat (معالجة المشتريات داخل التطبيق)، وResend (إرسال البريد). يتلقى كل منهم ما يحتاجه لدوره فقط. تحوّل خدمة Nominatim التابعة لمؤسسة OpenStreetMap المدينةَ التي تكتبها، أو إحداثيات هاتفك، إلى مدينة ومركزها — يرسل خادمنا ذلك فقط، دون أي شيء يعرّف بك. تُحفظ النسخ الاحتياطية المشفّرة للخادم في خدمة Contabo Object Storage داخل الاتحاد الأوروبي. لا نرى بيانات بطاقتك أبدًا، فالدفع يتم عبر App Store أو Google Play. على موقعنا تقيس Meta (فيسبوك) الزيارات فقط إذا وافقت. لا نبيع البيانات الشخصية لأحد."
     },
     {
       "h": "مدة الاحتفاظ",
@@ -251,7 +251,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Foto dan pemeriksaan wajah",
-      "b": "Foto profil terlihat begitu kamu menambahkannya; moderator menghapus foto yang dilaporkan dan melanggar aturan. Untuk pemeriksaan wajah kamu mengambil foto langsung, yang dibandingkan oleh seseorang di Niyyah dengan foto profilmu. Foto langsung tidak pernah dipublikasikan. Foto disimpan terenkripsi dan hanya selama akunmu memiliki lencana terverifikasi; dihapus jika pemeriksaan ditolak, lencana dicabut, atau kamu menghapus akun. Karena wajah adalah data sensitif, pemeriksaan ini adalah pilihanmu."
+      "b": "Foto profil terlihat begitu kamu menambahkannya; moderator menghapus foto yang dilaporkan dan melanggar aturan. Untuk pemeriksaan wajah kamu mengambil foto langsung, yang dibandingkan oleh seseorang di Niyyah dengan foto profilmu. Foto langsung tidak pernah dipublikasikan. Foto disimpan terenkripsi dan hanya selama akunmu memiliki lencana terverifikasi; dihapus jika pemeriksaan ditolak, lencana dicabut, atau kamu menghapus akun. Karena wajah adalah data sensitif, pemeriksaan ini adalah pilihanmu. Tidak ada pengenalan wajah otomatis dan tidak ada layanan luar yang menerima foto itu: aplikasi sendiri hanya memeriksa bahwa foto cukup tajam dan besar."
     },
     {
       "h": "Dokumen identitas mahram",
@@ -267,7 +267,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Siapa yang memproses data untuk kami",
-      "b": "Contabo (server aplikasi), Cloudflare (perlindungan jaringan), Google Firebase (notifikasi push), Apple dan Google (masuk dan pembelian dalam aplikasi), RevenueCat (pemrosesan pembelian dalam aplikasi), dan Resend (pengiriman email). Masing-masing hanya menerima yang dibutuhkan bagiannya. Kami tidak pernah melihat data kartumu — pembayaran melalui App Store atau Google Play. Di situs web kami, Meta (Facebook) mengukur kunjungan hanya jika kamu setuju. Kami tidak menjual data pribadi kepada siapa pun."
+      "b": "Contabo (server aplikasi), Cloudflare (perlindungan jaringan), Google Firebase (notifikasi push), Apple dan Google (masuk dan pembelian dalam aplikasi), RevenueCat (pemrosesan pembelian dalam aplikasi), dan Resend (pengiriman email). Masing-masing hanya menerima yang dibutuhkan bagiannya. Layanan Nominatim dari OpenStreetMap Foundation mengubah kota yang kamu ketik, atau koordinat ponselmu, menjadi kota dan titik tengahnya — server kami hanya mengirim itu, tanpa apa pun yang mengidentifikasimu. Cadangan server yang terenkripsi disimpan di Contabo Object Storage di UE. Kami tidak pernah melihat data kartumu — pembayaran melalui App Store atau Google Play. Di situs web kami, Meta (Facebook) mengukur kunjungan hanya jika kamu setuju. Kami tidak menjual data pribadi kepada siapa pun."
     },
     {
       "h": "Berapa lama kami menyimpan",
@@ -297,7 +297,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "تصاویر اور چہرے کی تصدیق",
-      "b": "پروفائل تصاویر شامل کرتے ہی نظر آتی ہیں؛ ماڈریٹرز رپورٹ شدہ اور قواعد کے خلاف تصاویر ہٹاتے ہیں۔ چہرے کی تصدیق کے لیے آپ لائیو تصویر لیتے ہیں جسے Niyyah کا ایک فرد آپ کی پروفائل تصاویر سے ملاتا ہے۔ لائیو تصویر کبھی شائع نہیں ہوتی۔ یہ خفیہ کر کے صرف اس وقت تک رکھی جاتی ہے جب تک آپ کے اکاؤنٹ پر تصدیق کا نشان ہو؛ تصدیق مسترد ہونے، نشان ہٹنے یا اکاؤنٹ حذف کرنے پر حذف کر دی جاتی ہے۔ چونکہ چہرہ حساس ڈیٹا ہے، تصدیق آپ کی مرضی ہے۔"
+      "b": "پروفائل تصاویر شامل کرتے ہی نظر آتی ہیں؛ ماڈریٹرز رپورٹ شدہ اور قواعد کے خلاف تصاویر ہٹاتے ہیں۔ چہرے کی تصدیق کے لیے آپ لائیو تصویر لیتے ہیں جسے Niyyah کا ایک فرد آپ کی پروفائل تصاویر سے ملاتا ہے۔ لائیو تصویر کبھی شائع نہیں ہوتی۔ یہ خفیہ کر کے صرف اس وقت تک رکھی جاتی ہے جب تک آپ کے اکاؤنٹ پر تصدیق کا نشان ہو؛ تصدیق مسترد ہونے، نشان ہٹنے یا اکاؤنٹ حذف کرنے پر حذف کر دی جاتی ہے۔ چونکہ چہرہ حساس ڈیٹا ہے، تصدیق آپ کی مرضی ہے۔ کوئی خودکار چہرہ شناسی استعمال نہیں ہوتی اور تصویر کسی بیرونی سروس کو نہیں جاتی: ایپ خود صرف یہ دیکھتی ہے کہ تصویر صاف اور کافی بڑی ہو۔"
     },
     {
       "h": "محرم کی شناختی دستاویزات",
@@ -313,7 +313,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "ہمارے لیے ڈیٹا کون پراسیس کرتا ہے",
-      "b": "Contabo (ایپ کے سرورز)، Cloudflare (نیٹ ورک تحفظ)، Google Firebase (پش اطلاعات)، Apple اور Google (لاگ اِن اور ایپ میں خریداری)، RevenueCat (ایپ میں خریداری کی پراسیسنگ) اور Resend (ای میل بھیجنا)۔ ہر ایک کو صرف اپنے حصے کی ضرورت کا ڈیٹا ملتا ہے۔ ہم آپ کے کارڈ کی تفصیلات کبھی نہیں دیکھتے — ادائیگی App Store یا Google Play کے ذریعے ہوتی ہے۔ ہماری ویب سائٹ پر Meta (فیس بک) صرف آپ کی رضامندی سے وزٹس کی پیمائش کرتا ہے۔ ہم ذاتی ڈیٹا کسی کو نہیں بیچتے۔"
+      "b": "Contabo (ایپ کے سرورز)، Cloudflare (نیٹ ورک تحفظ)، Google Firebase (پش اطلاعات)، Apple اور Google (لاگ اِن اور ایپ میں خریداری)، RevenueCat (ایپ میں خریداری کی پراسیسنگ) اور Resend (ای میل بھیجنا)۔ ہر ایک کو صرف اپنے حصے کی ضرورت کا ڈیٹا ملتا ہے۔ OpenStreetMap فاؤنڈیشن کی Nominatim سروس آپ کے لکھے ہوئے شہر، یا آپ کے فون کے کوآرڈینیٹس، کو شہر اور اس کے مرکز میں بدلتی ہے — ہمارا سرور صرف یہی بھیجتا ہے، آپ کی شناخت ظاہر کرنے والی کوئی چیز نہیں۔ سرور کے خفیہ کردہ بیک اپ یورپی یونین میں موجود Contabo Object Storage میں رکھے جاتے ہیں۔ ہم آپ کے کارڈ کی تفصیلات کبھی نہیں دیکھتے — ادائیگی App Store یا Google Play کے ذریعے ہوتی ہے۔ ہماری ویب سائٹ پر Meta (فیس بک) صرف آپ کی رضامندی سے وزٹس کی پیمائش کرتا ہے۔ ہم ذاتی ڈیٹا کسی کو نہیں بیچتے۔"
     },
     {
       "h": "ہم کتنی دیر رکھتے ہیں",
@@ -343,7 +343,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Foto dan semakan wajah",
-      "b": "Foto profil kelihatan sebaik sahaja anda menambahnya; moderator membuang foto yang dilaporkan dan melanggar peraturan. Untuk semakan wajah anda mengambil foto langsung, yang dibandingkan oleh seseorang di Niyyah dengan foto profil anda. Foto langsung tidak pernah diterbitkan. Ia disimpan secara tersulit dan hanya selagi akaun anda membawa lencana disahkan; ia dipadam apabila semakan ditolak, lencana ditarik balik atau anda memadam akaun. Oleh kerana wajah ialah data sensitif, semakan ini pilihan anda."
+      "b": "Foto profil kelihatan sebaik sahaja anda menambahnya; moderator membuang foto yang dilaporkan dan melanggar peraturan. Untuk semakan wajah anda mengambil foto langsung, yang dibandingkan oleh seseorang di Niyyah dengan foto profil anda. Foto langsung tidak pernah diterbitkan. Ia disimpan secara tersulit dan hanya selagi akaun anda membawa lencana disahkan; ia dipadam apabila semakan ditolak, lencana ditarik balik atau anda memadam akaun. Oleh kerana wajah ialah data sensitif, semakan ini pilihan anda. Tiada pengecaman wajah automatik digunakan dan tiada perkhidmatan luar menerima foto itu: aplikasi sendiri hanya menyemak bahawa ia cukup jelas dan besar."
     },
     {
       "h": "Dokumen pengenalan mahram",
@@ -359,7 +359,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Siapa yang memproses data untuk kami",
-      "b": "Contabo (pelayan aplikasi), Cloudflare (perlindungan rangkaian), Google Firebase (pemberitahuan tolak), Apple dan Google (log masuk dan pembelian dalam aplikasi), RevenueCat (pemprosesan pembelian dalam aplikasi) dan Resend (penghantaran e-mel). Setiap satu menerima hanya apa yang diperlukan bahagiannya. Kami tidak pernah melihat butiran kad anda — bayaran melalui App Store atau Google Play. Di laman web kami, Meta (Facebook) mengukur lawatan hanya jika anda bersetuju. Kami tidak menjual data peribadi kepada sesiapa."
+      "b": "Contabo (pelayan aplikasi), Cloudflare (perlindungan rangkaian), Google Firebase (pemberitahuan tolak), Apple dan Google (log masuk dan pembelian dalam aplikasi), RevenueCat (pemprosesan pembelian dalam aplikasi) dan Resend (penghantaran e-mel). Setiap satu menerima hanya apa yang diperlukan bahagiannya. Perkhidmatan Nominatim oleh OpenStreetMap Foundation menukar bandar yang anda taip, atau koordinat telefon anda, kepada bandar dan titik tengahnya — pelayan kami hanya menghantar itu, tiada apa-apa yang mengenal pasti anda. Sandaran pelayan yang disulitkan disimpan dalam Contabo Object Storage di EU. Kami tidak pernah melihat butiran kad anda — bayaran melalui App Store atau Google Play. Di laman web kami, Meta (Facebook) mengukur lawatan hanya jika anda bersetuju. Kami tidak menjual data peribadi kepada sesiapa."
     },
     {
       "h": "Berapa lama kami simpan",
@@ -389,7 +389,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Photos et vérification du visage",
-      "b": "Les photos de profil sont visibles dès que tu les ajoutes ; les modérateurs retirent les photos signalées qui enfreignent les règles. Pour la vérification, tu prends une photo en direct qu’une personne de Niyyah compare à tes photos de profil. Elle n’est jamais publiée. Elle est conservée chiffrée et seulement tant que ton compte porte le badge vérifié ; elle est supprimée si la vérification est refusée, si le badge est retiré ou si tu supprimes ton compte. Un visage étant une donnée sensible, la vérification est ton choix."
+      "b": "Les photos de profil sont visibles dès que tu les ajoutes ; les modérateurs retirent les photos signalées qui enfreignent les règles. Pour la vérification, tu prends une photo en direct qu’une personne de Niyyah compare à tes photos de profil. Elle n’est jamais publiée. Elle est conservée chiffrée et seulement tant que ton compte porte le badge vérifié ; elle est supprimée si la vérification est refusée, si le badge est retiré ou si tu supprimes ton compte. Un visage étant une donnée sensible, la vérification est ton choix. Aucune reconnaissance faciale automatique n’est utilisée et aucun service extérieur ne reçoit la photo : l’app vérifie seulement qu’elle est nette et assez grande."
     },
     {
       "h": "Pièces d’identité du mahram",
@@ -405,7 +405,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Qui traite les données pour nous",
-      "b": "Contabo (serveurs de l’app), Cloudflare (protection du réseau), Google Firebase (notifications push), Apple et Google (connexion et achats intégrés), RevenueCat (traitement des achats intégrés) et Resend (envoi d’e-mails). Chacun reçoit seulement ce dont il a besoin. Nous ne voyons jamais tes données de carte — le paiement passe par l’App Store ou Google Play. Sur notre site, Meta (Facebook) mesure les visites seulement si tu l’acceptes. Nous ne vendons pas de données personnelles, à personne."
+      "b": "Contabo (serveurs de l’app), Cloudflare (protection du réseau), Google Firebase (notifications push), Apple et Google (connexion et achats intégrés), RevenueCat (traitement des achats intégrés) et Resend (envoi d’e-mails). Chacun reçoit seulement ce dont il a besoin. Le service Nominatim de la Fondation OpenStreetMap transforme la ville que tu saisis, ou les coordonnées de ton téléphone, en une ville et son centre — notre serveur n’envoie que cela, rien qui t’identifie. Les sauvegardes chiffrées du serveur sont conservées dans Contabo Object Storage, dans l’UE. Nous ne voyons jamais tes données de carte — le paiement passe par l’App Store ou Google Play. Sur notre site, Meta (Facebook) mesure les visites seulement si tu l’acceptes. Nous ne vendons pas de données personnelles, à personne."
     },
     {
       "h": "Durée de conservation",

@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.orhan.niyyah",
+      "sha256_cert_fingerprints": [
+        "TODO_UPISI_SHA256_KLJUCA_ZA_POTPIS_IZ_PLAY_CONSOLE__APP_INTEGRITY__APP_SIGNING_KEY_CERTIFICATE"
+      ]
+    }
+  }
+]
