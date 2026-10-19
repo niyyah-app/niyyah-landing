@@ -47,6 +47,8 @@ export const nl: Copy = {
   },
 
   hero: {
+    countdown: 'Niyyah komt over',
+    countdownUnits: ['dagen', 'uur', 'minuten', 'seconden'],
     title: 'Een huwelijk, gezocht met intentie.',
     lead:
       'Niyyah is een app voor moslims die serieus een huwelijkspartner zoeken. Berichten gaan pas open bij wederzijdse interesse, een mahram kan meelezen in het gesprek, en de grenzen worden bewaakt door de app — niet door jou.',

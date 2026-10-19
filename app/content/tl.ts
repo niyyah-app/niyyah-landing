@@ -47,6 +47,8 @@ export const tl: Copy = {
   },
 
   hero: {
+    countdown: 'Darating ang Niyyah sa loob ng',
+    countdownUnits: ['araw', 'oras', 'minuto', 'segundo'],
     title: 'Kasal, hinahanap nang may layunin.',
     lead:
       'Ang Niyyah ay app para sa mga Muslim na seryosong naghahanap ng mapapangasawa. Bumubukas lang ang mensahe kapag parehong interesado, puwedeng nasa usapan ang mahram, at ang app ang humahawak sa mga hangganan — hindi ikaw.',

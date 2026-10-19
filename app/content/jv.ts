@@ -47,6 +47,8 @@ export const jv: Copy = {
   },
 
   hero: {
+    countdown: 'Niyyah teka ing',
+    countdownUnits: ['dina', 'jam', 'menit', 'detik'],
     title: 'Bebrayan, digoleki kanthi niyat.',
     lead:
       'Niyyah iku aplikasi kanggo wong Islam sing temenan nggoleki garwa. Pesen mung mbukak yen loro-lorone padha seneng, mahram bisa melu ing pirembugan, lan wates-watese dijaga aplikasi — dudu sampeyan.',

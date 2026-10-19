@@ -24,6 +24,11 @@ const googlePlayUrl = ''
 // true: CTA je „Preuzmi Niyyah" + dugmad trgovina. false: lista čekanja.
 const appLaunched = false
 
+// Trenutak objave, po sarajevskom vremenu (CET, +01:00 poslije 25.10.).
+// Odbrojavanje u hero sekciji broji do njega i nestaje kad prođe ili kad je
+// appLaunched true. Prazan string: nema odbrojavanja.
+const launchAt = '2026-10-28T00:00:00+01:00'
+
 // Build pada ako se tvrdi da je aplikacija izašla, a linkovi su prazni — to bi
 // bila dugmad koja ne vode nigdje. Dok je appLaunched false nema ni dugmadi,
 // pa ni šta da pukne: CTA je lista čekanja. Kad se prebaci na true, brana traži
@@ -54,6 +59,7 @@ export default defineNuxtConfig({
       siteUrl,
       ogImage,
       appLaunched,
+      launchAt,
       appStoreUrl,
       googlePlayUrl,
       // Lista čekanja: POST { email, locale } → 202. Backend upisuje adresu i

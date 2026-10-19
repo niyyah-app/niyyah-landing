@@ -67,6 +67,7 @@ const title = computed(() => {
           aria-hidden="true"
           loading="lazy"
         />
+        <div class="hero__countdown"><LaunchCountdown /></div>
       </div>
     </div>
   </section>
@@ -204,6 +205,15 @@ const title = computed(() => {
   pointer-events: none;
 }
 
+/* Odbrojavanje stoji desno od telefona, u praznom dijelu kolone. */
+.hero__countdown {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  z-index: 2;
+  transform: translateY(-50%);
+}
+
 /* ── Učitavanje ──────────────────────────────────────────────────────── */
 .hero__text > * {
   animation: rise 900ms var(--ease-out) both;
@@ -252,6 +262,13 @@ const title = computed(() => {
 
       .hero__phone :deep(.shot__img) {
     width: min(100%, 360px);
+  }
+
+  /* Ispod telefona nema mjesta sa strane: odbrojavanje ide ispod njega. */
+  .hero__countdown {
+    position: static;
+    transform: none;
+    margin-top: 1.5rem;
   }
 }
 

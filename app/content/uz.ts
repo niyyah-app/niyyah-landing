@@ -47,6 +47,8 @@ export const uz: Copy = {
   },
 
   hero: {
+    countdown: 'Niyyah kelishiga',
+    countdownUnits: ['kun', 'soat', 'daqiqa', 'soniya'],
     title: 'Niyat bilan izlangan nikoh.',
     lead:
       'Niyyah jiddiy ravishda turmush o‘rtog‘i izlayotgan musulmonlar uchun ilova. Xabarlar faqat ikki tomon qiziqsa ochiladi, suhbatda mahram bo‘lishi mumkin, chegaralarni esa siz emas, ilova saqlaydi.',

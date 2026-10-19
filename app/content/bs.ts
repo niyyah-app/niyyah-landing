@@ -46,6 +46,8 @@ export const bs = {
   },
 
   hero: {
+    countdown: 'Niyyah stiže za',
+    countdownUnits: ['dana', 'sati', 'minuta', 'sekundi'],
     title: 'Brak, tražen s namjerom.',
     lead:
       'Niyyah je aplikacija za muslimane koji ozbiljno traže bračnog druga. Poruke se otvaraju tek na obostrani interes, mahrem može biti u razgovoru, a granice drži aplikacija, ne ti.',

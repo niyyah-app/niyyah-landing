@@ -47,6 +47,8 @@ export const ha: Copy = {
   },
 
   hero: {
+    countdown: 'Niyyah zai iso cikin',
+    countdownUnits: ['kwanaki', 'awanni', 'mintuna', 'daƙiƙoƙi'],
     title: 'Aure, da ake nema da niyya.',
     lead:
       'Niyyah manhaja ce ga Musulmin da suke neman abokin aure da gaske. Saƙonni na buɗewa ne kawai idan bangarorin biyu suna sha’awa, mahram na iya kasancewa cikin tattaunawa, kuma manhajar ce ke riƙe iyakoki — ba kai ba.',

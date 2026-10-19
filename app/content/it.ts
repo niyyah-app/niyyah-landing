@@ -47,6 +47,8 @@ export const it: Copy = {
   },
 
   hero: {
+    countdown: 'Niyyah arriva tra',
+    countdownUnits: ['giorni', 'ore', 'minuti', 'secondi'],
     title: 'Il matrimonio, cercato con intenzione.',
     lead:
       'Niyyah è un’app per musulmani che cercano seriamente un coniuge. I messaggi si aprono solo con interesse reciproco, un mahram può essere nella conversazione e i limiti li tiene l’app, non tu.',

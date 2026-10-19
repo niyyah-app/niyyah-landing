@@ -47,6 +47,8 @@ export const sq: Copy = {
   },
 
   hero: {
+    countdown: 'Niyyah vjen për',
+    countdownUnits: ['ditë', 'orë', 'minuta', 'sekonda'],
     title: 'Martesa, e kërkuar me nijet.',
     lead:
       'Niyyah është një aplikacion për muslimanët që kërkojnë seriozisht bashkëshort. Mesazhet hapen vetëm me interes të dyanshëm, mahremi mund të jetë në bisedë, dhe kufijtë i mban aplikacioni, jo ti.',

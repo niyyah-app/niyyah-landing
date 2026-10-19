@@ -47,6 +47,8 @@ export const su: Copy = {
   },
 
   hero: {
+    countdown: 'Niyyah sumping dina',
+    countdownUnits: ['poé', 'jam', 'menit', 'detik'],
     title: 'Nikah, ditéangan kalawan niat.',
     lead:
       'Niyyah téh aplikasi pikeun urang Islam anu enya-enya milarian jodo. Pesen ngan muka lamun duanana resep, mahram tiasa aya dina obrolan, sarta wates-watesna dijaga ku aplikasi — lain ku anjeun.',

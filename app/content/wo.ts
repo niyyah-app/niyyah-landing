@@ -47,6 +47,8 @@ export const wo: Copy = {
   },
 
   hero: {
+    countdown: 'Niyyah dina ñëw ci',
+    countdownUnits: ['fan', 'waxtu', 'simili', 'saa'],
     title: 'Takk, bi ñuy wut ak niyyat.',
     lead:
       'Niyyah ab app la ngir Jullit yi di wut ci lu wér kenn ku ñuy takk. Bataaxal yi dañuy ubbiku rekk su ñaari wet yi bëggee, mahram mën na nekk ci waxtaan wi, te app bi moo di sàmm digg yi, du yow.',

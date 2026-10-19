@@ -47,6 +47,8 @@ export const az: Copy = {
   },
 
   hero: {
+    countdown: 'Niyyah gəlməsinə qalıb',
+    countdownUnits: ['gün', 'saat', 'dəqiqə', 'saniyə'],
     title: 'Niyyətlə axtarılan evlilik.',
     lead:
       'Niyyah ciddi şəkildə həyat yoldaşı axtaran müsəlmanlar üçün tətbiqdir. Mesajlar yalnız qarşılıqlı maraqla açılır, söhbətdə məhrəm ola bilər, hüdudları isə siz deyil, tətbiq saxlayır.',

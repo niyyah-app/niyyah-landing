@@ -47,6 +47,8 @@ export const sw: Copy = {
   },
 
   hero: {
+    countdown: 'Niyyah inakuja baada ya',
+    countdownUnits: ['siku', 'saa', 'dakika', 'sekunde'],
     title: 'Ndoa, inayotafutwa kwa nia.',
     lead:
       'Niyyah ni programu kwa Waislamu wanaotafuta mwenzi wa ndoa kwa dhati. Ujumbe hufunguka tu pande zote mbili zikipendezwa, mahramu anaweza kuwa ndani ya mazungumzo, na mipaka inashikiliwa na programu, sio na wewe.',

@@ -47,6 +47,8 @@ export const tr: Copy = {
   },
 
   hero: {
+    countdown: 'Niyyah’a kalan süre',
+    countdownUnits: ['gün', 'saat', 'dakika', 'saniye'],
     title: 'Niyetle aranan evlilik.',
     lead:
       'Niyyah, ciddi olarak eş arayan Müslümanlar için bir uygulama. Mesajlar ancak karşılıklı ilgiyle açılır, sohbette mahrem bulunabilir, sınırları da sen değil uygulama korur.',

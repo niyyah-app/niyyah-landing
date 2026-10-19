@@ -47,6 +47,8 @@ export const so: Copy = {
   },
 
   hero: {
+    countdown: 'Niyyah waxay timaadaa',
+    countdownUnits: ['maalmood', 'saacadood', 'daqiiqo', 'ilbiriqsi'],
     title: 'Guur, oo niyad lagu raadiyo.',
     lead:
       'Niyyah waa ab loogu talagalay Muslimiinta si dhab ah lamaane guur raadinaya. Fariimaha ma furma ilaa labada dhinac ay xiiseeyaan, maxram wuu ku jiri karaa wadahadalka, xadduudkana abka ayaa ilaaliya, adiga maaha.',

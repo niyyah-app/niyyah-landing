@@ -47,6 +47,8 @@ export const ms: Copy = {
   },
 
   hero: {
+    countdown: 'Niyyah tiba dalam',
+    countdownUnits: ['hari', 'jam', 'minit', 'saat'],
     title: 'Perkahwinan, dicari dengan niat.',
     lead:
       'Niyyah ialah aplikasi untuk Muslim yang serius mencari pasangan hidup. Mesej hanya terbuka apabila kedua-dua pihak berminat, mahram boleh berada dalam perbualan, dan batasnya dijaga oleh aplikasi, bukan oleh anda.',

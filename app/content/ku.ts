@@ -47,6 +47,8 @@ export const ku: Copy = {
   },
 
   hero: {
+    countdown: 'Niyyah tê di nav',
+    countdownUnits: ['roj', 'saet', 'deqe', 'çirke'],
     title: 'Zewac, ku bi niyetê tê gerîn.',
     lead:
       'Niyyah sepanek e ji bo misilmanên ku bi ciddî li hevjînê digerin. Peyam tenê bi eleqeya herdu aliyan vedibin, mehrem dikare di axaftinê de be, û sînoran sepan diparêze — ne tu.',

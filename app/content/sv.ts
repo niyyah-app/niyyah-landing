@@ -47,6 +47,8 @@ export const sv: Copy = {
   },
 
   hero: {
+    countdown: 'Niyyah kommer om',
+    countdownUnits: ['dagar', 'timmar', 'minuter', 'sekunder'],
     title: 'Äktenskap, sökt med avsikt.',
     lead:
       'Niyyah är en app för muslimer som på allvar söker en livspartner. Meddelanden öppnas först vid ömsesidigt intresse, en mahram kan vara med i samtalet, och gränserna hålls av appen — inte av dig.',
