@@ -11,6 +11,8 @@
  * bilo koji broj. `Intl.NumberFormat` je probao: mnogi preglednici nemaju
  * bosanski, albanski, kurdski… i pišu „21 day“.
  */
+const props = defineProps<{ compact?: boolean }>()
+
 const c = useCopy()
 const { launchAt, appLaunched } = useRuntimeConfig().public
 
@@ -45,7 +47,12 @@ const spoken = computed(() => `${c.value.hero.countdown} ${cells.value[0]!.value
 
 <template>
   <ClientOnly>
-    <aside v-if="visible" class="countdown" :aria-label="spoken">
+    <aside
+      v-if="visible"
+      class="countdown"
+      :class="{ 'countdown--compact': props.compact }"
+      :aria-label="spoken"
+    >
       <span class="countdown__medal" aria-hidden="true">
       <svg class="countdown__glass" viewBox="0 0 48 64" aria-hidden="true">
         <defs>
@@ -272,6 +279,32 @@ const spoken = computed(() => `${c.value.hero.countdown} ${cells.value[0]!.value
   to {
     stroke-dashoffset: -5;
   }
+}
+
+/* Uska varijanta za laptop ekrane gdje široka ne stane pored telefona:
+   sat i naslov gore, brojevi 2 × 2 ispod. */
+.countdown--compact {
+  flex-direction: column;
+  gap: 0.75rem;
+  padding: 1rem 0.9rem;
+  text-align: center;
+}
+
+.countdown--compact .countdown__body {
+  align-items: center;
+  padding-inline-start: 0;
+  border-inline-start: 0;
+}
+
+.countdown--compact .countdown__title {
+  max-width: 9.5rem;
+  white-space: normal;
+  line-height: 1.4;
+  text-wrap: balance;
+}
+
+.countdown--compact .countdown__cells {
+  grid-template-columns: repeat(2, 3.6rem);
 }
 
 /* Uski telefoni: ista kartica, malo zbijenija, da stane u marginu od 16 px. */
