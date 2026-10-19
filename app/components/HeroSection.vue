@@ -205,11 +205,13 @@ const title = computed(() => {
   pointer-events: none;
 }
 
-/* Odbrojavanje stoji desno od telefona, u praznom dijelu kolone. */
+/* Odbrojavanje stoji desno od telefona, preklapa mu ivicu i ulazi u
+   marginu stranice — koliko ekran dozvoli, a nikad preko njegove ivice
+   (margina je na 1280 px oko 44 px, na 1600 px oko 100 px). */
 .hero__countdown {
   position: absolute;
-  right: 0;
-  top: 50%;
+  right: clamp(-7rem, calc(-7vw + 4rem), 0rem);
+  top: 70%;
   z-index: 2;
   transform: translateY(-50%);
 }

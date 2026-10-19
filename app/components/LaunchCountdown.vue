@@ -46,6 +46,7 @@ const spoken = computed(() => `${c.value.hero.countdown} ${cells.value[0]!.value
 <template>
   <ClientOnly>
     <aside v-if="visible" class="countdown" :aria-label="spoken">
+      <span class="countdown__medal" aria-hidden="true">
       <svg class="countdown__glass" viewBox="0 0 48 64" aria-hidden="true">
         <defs>
           <clipPath id="cd-top"><path d="M12 8h24c0 10-8 16-12 24C20 24 12 18 12 8z" /></clipPath>
@@ -57,7 +58,9 @@ const spoken = computed(() => `${c.value.hero.countdown} ${cells.value[0]!.value
         <rect class="countdown__sand countdown__sand--bottom" clip-path="url(#cd-bottom)" x="10" y="32" width="28" height="24" />
         <line class="countdown__stream" x1="24" y1="31" x2="24" y2="55" />
       </svg>
+      </span>
 
+      <div class="countdown__body">
       <p class="countdown__title">{{ c.hero.countdown }}</p>
 
       <ol class="countdown__cells" aria-hidden="true">
@@ -66,31 +69,61 @@ const spoken = computed(() => `${c.value.hero.countdown} ${cells.value[0]!.value
           <span class="countdown__label">{{ cell.label }}</span>
         </li>
       </ol>
+      </div>
     </aside>
   </ClientOnly>
 </template>
 
 <style scoped>
 .countdown {
+  /* Niska i široka: sat lijevo, naslov i brojevi desno u jednom redu. */
+  position: relative;
   display: flex;
-  flex-direction: column;
   align-items: center;
-  gap: 0.7rem;
-  width: 11.5rem;
-  padding: 1.2rem 1rem 1.1rem;
+  gap: 1rem;
+  padding: 0.95rem 1.15rem 0.95rem 0.95rem;
   border: 1px solid var(--gold-glow);
-  border-radius: 1.4rem;
+  border-radius: 1.35rem;
   background: linear-gradient(160deg, oklch(0.3 0.05 272 / 0.72), oklch(0.2 0.042 272 / 0.82));
+  border-color: oklch(0.76 0.105 82 / 0.45);
   box-shadow:
+    0 0 36px oklch(0.76 0.105 82 / 0.32),
+    0 0 90px oklch(0.76 0.105 82 / 0.18),
     0 18px 48px oklch(0.12 0.03 272 / 0.55),
     inset 0 1px 0 oklch(0.955 0.018 80 / 0.08);
   backdrop-filter: blur(12px);
-  text-align: center;
-  animation: appear 900ms var(--ease-out) 600ms both;
+  animation:
+    appear 900ms var(--ease-out) 600ms both,
+    halo 5s ease-in-out 1.5s infinite;
+}
+
+/* Tanka zlatna linija po gornjoj ivici, kao rub stakla. */
+.countdown::before {
+  content: '';
+  position: absolute;
+  top: -1px;
+  left: 18%;
+  right: 18%;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--gold-soft), transparent);
+}
+
+/* Sat stoji u zlatnom medaljonu, odvojen linijom od brojeva. */
+.countdown__medal {
+  position: relative;
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 3.4rem;
+  height: 3.4rem;
+  border-radius: 50%;
+  border: 1px solid oklch(0.76 0.105 82 / 0.5);
+  background: radial-gradient(circle at 50% 35%, oklch(0.76 0.105 82 / 0.32), oklch(0.76 0.105 82 / 0.06) 70%);
+  box-shadow: 0 0 18px oklch(0.76 0.105 82 / 0.28);
 }
 
 .countdown__glass {
-  width: 2.6rem;
+  width: 1.65rem;
   height: auto;
   animation: tilt 6s ease-in-out infinite;
 }
@@ -133,20 +166,28 @@ const spoken = computed(() => `${c.value.hero.countdown} ${cells.value[0]!.value
   animation: stream 0.6s linear infinite;
 }
 
+.countdown__body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding-inline-start: 1rem;
+  border-inline-start: 1px solid oklch(0.76 0.105 82 / 0.22);
+}
+
 .countdown__title {
   margin: 0;
   color: var(--gold-soft);
-  font-size: 0.78rem;
-  font-weight: 500;
-  letter-spacing: 0.14em;
+  font-size: 0.74rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  white-space: nowrap;
   text-transform: uppercase;
 }
 
 .countdown__cells {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 0.55rem;
-  width: 100%;
+  grid-template-columns: repeat(4, 3.35rem);
+  gap: 0.4rem;
   margin: 0;
   padding: 0;
   list-style: none;
@@ -156,31 +197,50 @@ const spoken = computed(() => `${c.value.hero.countdown} ${cells.value[0]!.value
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 0.5rem 0.2rem 0.4rem;
-  border-radius: 0.8rem;
-  background: oklch(0.955 0.018 80 / 0.05);
+  padding: 0.45rem 0.1rem 0.35rem;
+  border-radius: 0.75rem;
+  border: 1px solid oklch(0.76 0.105 82 / 0.16);
+  background: linear-gradient(180deg, oklch(0.955 0.018 80 / 0.08), oklch(0.955 0.018 80 / 0.02));
 }
 
 /* Sans cifre: serifne iz naslova izgledaju starinski. */
 .countdown__value {
   color: var(--moon);
+  background: linear-gradient(180deg, var(--moon), var(--gold-soft));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
   font-family: var(--font-body);
-  font-size: 1.55rem;
+  font-size: 1.5rem;
   font-weight: 600;
   line-height: 1.1;
   font-variant-numeric: tabular-nums lining-nums;
 }
 
 .countdown__label {
+  margin-top: 0.1rem;
   color: var(--moon-3);
-  font-size: 0.7rem;
+  font-size: 0.62rem;
+  letter-spacing: 0.04em;
   line-height: 1.2;
+  white-space: nowrap;
 }
 
 @keyframes appear {
   from {
     opacity: 0;
     transform: translateY(16px);
+  }
+}
+
+/* Zlatni sjaj iza kartice lagano diše, kao krug iza telefona. */
+@keyframes halo {
+  50% {
+    box-shadow:
+      0 0 48px oklch(0.76 0.105 82 / 0.45),
+      0 0 120px oklch(0.76 0.105 82 / 0.26),
+      0 18px 48px oklch(0.12 0.03 272 / 0.55),
+      inset 0 1px 0 oklch(0.955 0.018 80 / 0.08);
   }
 }
 
@@ -211,6 +271,32 @@ const spoken = computed(() => `${c.value.hero.countdown} ${cells.value[0]!.value
 @keyframes stream {
   to {
     stroke-dashoffset: -5;
+  }
+}
+
+/* Uski telefoni: ista kartica, malo zbijenija, da stane u marginu od 16 px. */
+@media (max-width: 480px) {
+  .countdown {
+    gap: 0.7rem;
+    padding: 0.8rem 0.85rem 0.8rem 0.75rem;
+  }
+
+  .countdown__medal {
+    width: 2.8rem;
+    height: 2.8rem;
+  }
+
+  .countdown__body {
+    padding-inline-start: 0.7rem;
+  }
+
+  .countdown__cells {
+    grid-template-columns: repeat(4, 2.85rem);
+    gap: 0.3rem;
+  }
+
+  .countdown__value {
+    font-size: 1.3rem;
   }
 }
 
