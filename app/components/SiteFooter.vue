@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { guideUi, isGuideLocale } from '~/guide/registry'
 import { isLegalLocale, legalUi } from '~/legal/content'
+import { deletion } from '~/legal/deletion'
 
 const c = useCopy()
 const localePath = useLocalePath()
@@ -12,6 +13,7 @@ const guide = computed(() => (isGuideLocale(locale.value) ? guideUi[locale.value
 // Pravni tekst postoji na jezicima aplikacije; ostali jezici vode na engleski.
 const legalLang = computed(() => (isLegalLocale(locale.value) ? locale.value : 'en'))
 const legal = computed(() => legalUi[legalLang.value])
+const deletionLabel = computed(() => deletion[legalLang.value].footer)
 </script>
 
 <template>
@@ -50,6 +52,7 @@ const legal = computed(() => legalUi[legalLang.value])
       <button type="button" class="ftr__consent" @click="reopen">{{ c.consent.change }}</button>
       <NuxtLink :to="localePath('/privatnost', legalLang)" class="ftr__consent">{{ legal.privacy }}</NuxtLink>
       <NuxtLink :to="localePath('/uslovi', legalLang)" class="ftr__consent">{{ legal.terms }}</NuxtLink>
+      <NuxtLink :to="localePath('/brisanje-naloga', legalLang)" class="ftr__consent">{{ deletionLabel }}</NuxtLink>
       <p>© {{ year }} {{ c.footer.rights }}</p>
     </div>
   </footer>
