@@ -2,6 +2,7 @@
 import { guideUi, isGuideLocale } from '~/guide/registry'
 import { isLegalLocale, legalUi } from '~/legal/content'
 import { deletion } from '~/legal/deletion'
+import { support } from '~/legal/support'
 
 const c = useCopy()
 const localePath = useLocalePath()
@@ -14,6 +15,7 @@ const guide = computed(() => (isGuideLocale(locale.value) ? guideUi[locale.value
 const legalLang = computed(() => (isLegalLocale(locale.value) ? locale.value : 'en'))
 const legal = computed(() => legalUi[legalLang.value])
 const deletionLabel = computed(() => deletion[legalLang.value].footer)
+const supportLabel = computed(() => support[legalLang.value].footer)
 </script>
 
 <template>
@@ -53,6 +55,7 @@ const deletionLabel = computed(() => deletion[legalLang.value].footer)
       <NuxtLink :to="localePath('/privatnost', legalLang)" class="ftr__consent">{{ legal.privacy }}</NuxtLink>
       <NuxtLink :to="localePath('/uslovi', legalLang)" class="ftr__consent">{{ legal.terms }}</NuxtLink>
       <NuxtLink :to="localePath('/brisanje-naloga', legalLang)" class="ftr__consent">{{ deletionLabel }}</NuxtLink>
+      <NuxtLink :to="localePath('/podrska', legalLang)" class="ftr__consent">{{ supportLabel }}</NuxtLink>
       <p>© {{ year }} {{ c.footer.rights }}</p>
     </div>
   </footer>
