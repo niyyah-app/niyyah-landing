@@ -244,7 +244,7 @@ export const id: Copy = {
       {
         icon: 'photo',
         title: 'Pemeriksaan foto',
-        body: 'Wajah jelas, satu orang, tidak kabur dan tidak tertutup. Data tersembunyi dalam foto, seperti lokasi GPS, dihapus oleh sistem.',
+        body: 'Foto yang buram atau terlalu kecil tidak diterima, dan data tersembunyi di gambar, seperti lokasi GPS, dihapus oleh sistem. Seseorang dari tim kami membandingkan swafoto verifikasimu dengan foto-fotomu.',
       },
       {
         icon: 'badge',

@@ -44,7 +44,7 @@ export const support: Record<LegalLocale, SupportCopy> = {
     emailSubject: 'Niyyah podrška',
     safetyTitle: 'Prijava člana ili sadržaja',
     safety: [
-      'Na svakom profilu, u razgovoru, na priči, objavi i komentaru postoje „Prijavi“ i „Blokiraj“.',
+      'Na profilu i u razgovoru postoje „Prijavi“ i „Blokiraj“. Na priči, objavi i komentaru postoji „Prijavi“.',
       'Blokirana osoba te više ne vidi i ne može ti pisati.',
       'Moderatori pregledaju svaku prijavu u roku od 24 sata. Za neprimjeren sadržaj i zlostavljanje nema tolerancije: sadržaj se uklanja, a nalog zatvara.',
       'Ako si u opasnosti, odmah se javi policiji.',
@@ -68,7 +68,7 @@ export const support: Record<LegalLocale, SupportCopy> = {
     emailSubject: 'Niyyah support',
     safetyTitle: 'Reporting a member or content',
     safety: [
-      'Every profile, conversation, story, post and comment has “Report” and “Block”.',
+      'Every profile and conversation has “Report” and “Block”. Every story, post and comment has “Report”.',
       'A blocked person no longer sees you and cannot write to you.',
       'Moderators review every report within 24 hours. We have zero tolerance for objectionable content and abuse: the content is removed and the account closed.',
       'If you are in danger, contact the police straight away.',
@@ -92,7 +92,7 @@ export const support: Record<LegalLocale, SupportCopy> = {
     emailSubject: 'Niyyah-Support',
     safetyTitle: 'Ein Mitglied oder Inhalte melden',
     safety: [
-      'Jedes Profil, jeder Chat, jede Story, jeder Beitrag und jeder Kommentar hat „Melden“ und „Blockieren“.',
+      'Jedes Profil und jeder Chat hat „Melden“ und „Blockieren“. Jede Story, jeder Beitrag und jeder Kommentar hat „Melden“.',
       'Eine blockierte Person sieht dich nicht mehr und kann dir nicht schreiben.',
       'Moderatoren prüfen jede Meldung innerhalb von 24 Stunden. Für anstößige Inhalte und Missbrauch gilt null Toleranz: Der Inhalt wird entfernt und das Konto geschlossen.',
       'Wenn du in Gefahr bist, wende dich sofort an die Polizei.',
@@ -116,7 +116,7 @@ export const support: Record<LegalLocale, SupportCopy> = {
     emailSubject: 'Niyyah destek',
     safetyTitle: 'Bir üyeyi veya içeriği şikâyet etmek',
     safety: [
-      'Her profilde, sohbette, hikâyede, gönderide ve yorumda “Şikâyet et” ve “Engelle” vardır.',
+      'Her profilde ve sohbette “Şikâyet et” ve “Engelle” vardır. Her hikâyede, gönderide ve yorumda “Şikâyet et” vardır.',
       'Engellenen kişi seni artık görmez ve sana yazamaz.',
       'Moderatörler her şikâyeti 24 saat içinde inceler. Uygunsuz içeriğe ve tacize sıfır tolerans: içerik kaldırılır, hesap kapatılır.',
       'Tehlikedeysen hemen polise başvur.',
@@ -140,7 +140,7 @@ export const support: Record<LegalLocale, SupportCopy> = {
     emailSubject: 'Assistance Niyyah',
     safetyTitle: 'Signaler un membre ou un contenu',
     safety: [
-      'Chaque profil, conversation, story, publication et commentaire propose « Signaler » et « Bloquer ».',
+      'Chaque profil et chaque conversation proposent « Signaler » et « Bloquer ». Chaque story, publication et commentaire propose « Signaler ».',
       'Une personne bloquée ne te voit plus et ne peut plus t’écrire.',
       'Les modérateurs examinent chaque signalement sous 24 heures. Tolérance zéro envers les contenus inappropriés et les abus : le contenu est supprimé et le compte fermé.',
       'Si tu es en danger, contacte immédiatement la police.',
@@ -164,7 +164,7 @@ export const support: Record<LegalLocale, SupportCopy> = {
     emailSubject: 'Dukungan Niyyah',
     safetyTitle: 'Melaporkan anggota atau konten',
     safety: [
-      'Setiap profil, percakapan, cerita, postingan, dan komentar memiliki “Laporkan” dan “Blokir”.',
+      'Setiap profil dan percakapan memiliki “Laporkan” dan “Blokir”. Setiap cerita, postingan, dan komentar memiliki “Laporkan”.',
       'Orang yang diblokir tidak lagi melihatmu dan tidak bisa mengirim pesan kepadamu.',
       'Moderator meninjau setiap laporan dalam 24 jam. Tidak ada toleransi untuk konten tidak pantas dan pelecehan: konten dihapus dan akun ditutup.',
       'Jika kamu dalam bahaya, segera hubungi polisi.',
@@ -188,7 +188,7 @@ export const support: Record<LegalLocale, SupportCopy> = {
     emailSubject: 'Sokongan Niyyah',
     safetyTitle: 'Melaporkan ahli atau kandungan',
     safety: [
-      'Setiap profil, perbualan, cerita, siaran dan komen mempunyai “Laporkan” dan “Sekat”.',
+      'Setiap profil dan perbualan mempunyai “Laporkan” dan “Sekat”. Setiap cerita, siaran dan komen mempunyai “Laporkan”.',
       'Orang yang disekat tidak lagi melihat awak dan tidak boleh menulis kepada awak.',
       'Moderator menyemak setiap laporan dalam masa 24 jam. Tiada toleransi untuk kandungan tidak wajar dan penganiayaan: kandungan dikeluarkan dan akaun ditutup.',
       'Jika awak dalam bahaya, hubungi polis dengan segera.',
@@ -212,7 +212,7 @@ export const support: Record<LegalLocale, SupportCopy> = {
     emailSubject: 'دعم Niyyah',
     safetyTitle: 'الإبلاغ عن عضو أو محتوى',
     safety: [
-      'في كل ملف شخصي ومحادثة وقصة ومنشور وتعليق يوجد «إبلاغ» و«حظر».',
+      'في كل ملف شخصي ومحادثة يوجد «إبلاغ» و«حظر». وفي كل قصة ومنشور وتعليق يوجد «إبلاغ».',
       'الشخص المحظور لا يراك بعد ذلك ولا يستطيع مراسلتك.',
       'يراجع المشرفون كل بلاغ خلال 24 ساعة. لا تسامح مطلقًا مع المحتوى المسيء والإساءة: يُزال المحتوى ويُغلق الحساب.',
       'إذا كنت في خطر، فاتصل بالشرطة فورًا.',
@@ -236,7 +236,7 @@ export const support: Record<LegalLocale, SupportCopy> = {
     emailSubject: 'Niyyah سپورٹ',
     safetyTitle: 'کسی رکن یا مواد کی رپورٹ',
     safety: [
-      'ہر پروفائل، گفتگو، اسٹوری، پوسٹ اور تبصرے میں ”رپورٹ“ اور ”بلاک“ موجود ہیں۔',
+      'ہر پروفائل اور گفتگو میں ”رپورٹ“ اور ”بلاک“ موجود ہیں۔ ہر اسٹوری، پوسٹ اور تبصرے میں ”رپورٹ“ موجود ہے۔',
       'بلاک کیا گیا شخص آپ کو مزید نہیں دیکھتا اور آپ کو لکھ نہیں سکتا۔',
       'ماڈریٹرز ہر رپورٹ کا 24 گھنٹوں کے اندر جائزہ لیتے ہیں۔ قابلِ اعتراض مواد اور بدسلوکی کے لیے برداشت صفر ہے: مواد ہٹا دیا جاتا ہے اور اکاؤنٹ بند کر دیا جاتا ہے۔',
       'اگر آپ خطرے میں ہیں تو فوراً پولیس سے رابطہ کریں۔',

@@ -244,7 +244,7 @@ export const wo: Copy = {
       {
         icon: 'photo',
         title: 'Saytu nataal yi',
-        body: 'Kanam gu leer, benn nit, du bu lëndëm walla bu ñu muur. Xibaar yu nëbbu ci nataal bi, ni bérébu GPS, sistem bi dafa koy dindi.',
+        body: 'Nataal yu lëndëm walla yu tuuti lool, duñu leen nangu, te sistem bi day far xibaar yi nëbbu ci nataal bi, niki fu GPS bi wone. Kenn ci sunu kurél day méngale sa selfie bu seere ak say nataal.',
       },
       {
         icon: 'badge',

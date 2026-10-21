@@ -50,9 +50,9 @@ export const deletion: Record<LegalLocale, DeletionCopy> = {
     appSteps: [
       'Otvori Niyyah i prijavi se u nalog koji želiš obrisati.',
       'U donjoj traci dodirni „Profil“.',
-      'Otvori „Račun“.',
-      'Na dnu ekrana, u crvenom okviru, dodirni „Obriši račun“.',
-      'Aplikacija pokaže šta se briše i ponudi „Radije pauziraj“. Ako ipak brišeš, dodirni ponovo „Obriši račun“.',
+      'Otvori „Nalog“.',
+      'Na dnu ekrana, u crvenom okviru, dodirni „Obriši nalog“.',
+      'Aplikacija pokaže šta se briše i ponudi „Radije pauziraj“. Ako ipak brišeš, dodirni ponovo „Obriši nalog“.',
       'Potvrdi da si to ti, onako kako se prijavljuješ: lozinkom, kodom koji ti pošaljemo na e-mail, dugmetom „Potvrdi Googleom“ ili „Potvrdi Appleom“, ili upisivanjem riječi OBRIŠI. Na tom koraku možeš prvo zatražiti kopiju svojih podataka na e-mail.',
       'Dodirni „Trajno obriši nalog“. Nalog se briše odmah, a ti se odjavljuješ.',
     ],

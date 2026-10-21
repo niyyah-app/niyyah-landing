@@ -7,14 +7,15 @@ Niyyah means "intention". The app is built for marriage, not for browsing. It is
 ## What the app does
 
 - Discover shows only the opposite gender. This is a server rule, not a filter.
-- Messages open only when both people like each other. One short introductory message can be sent from Discover, but it waits and is delivered only after a match.
+- A conversation opens only when both people like each other. A direct message (a like with a message) can be sent from Discover with coins; the other person reads it for free, and a conversation still opens only on mutual interest.
 - Mahram portal: a woman can turn on "Require a mahram" and invite up to three people (father, brother, uncle, guardian or another mahram) by email. They see her conversations and matches in a read-only portal; they cannot write and do not use the app to meet anyone. One mahram can look after several people. Available on women's profiles.
 - Questions before chatting: a user sets up to three questions; after a match the other person answers first, and the user decides whether the conversation opens.
 - Profiles include relationship with faith, prayer, madhhab, hijab, timeframe for marriage, willingness to move, children, and answers to "Situations" in seven areas (marriage, communication, conflict, family, faith, finances, parenting).
-- Safety: exact location is never shown; photos are checked on upload and EXIF/GPS data is removed; phone or email verification before Discover; optional Verified badge; reports are read by real moderators; blocking works both ways; Discover can be paused.
+- Safety: exact location is never shown; blurry and very small photos are turned away and EXIF/GPS data is removed on upload; a person from the team compares the verification selfie with the profile photos (the Verified badge); reports are read by real moderators who can suspend or ban; blocking works both ways; a banned account cannot simply come back with a new email address; Discover can be paused.
 - Community: moderated posts (every post is reviewed before it appears), separate spaces visible to one gender only, anonymous questions.
 - Languages: the app is in 9 languages — Bosnian, English, German, Turkish, Arabic, Indonesian, Urdu, Malay and French.
-- Free: profile, Discover, 20 likes a day, 1 introductory message a day, unlimited chat with matches, mahram, questions before chatting, community. Premium adds seeing who liked you, unlimited likes and introductory messages, extra filters, and replying to stories.
+- Free, for everyone: a profile and 30 profiles a day in Discover, 20 likes a day, one person a day from those who liked you, reading every message sent to you, unlimited conversation with matches, mahram, questions before chatting, community, stories and the Question of the day, and free coins every day.
+- Coins, when you want more: see everyone who liked you, super like (your like shown on top, with your name and photo), direct messages, more likes and profiles for the day, bring back a skipped profile, reply to stories, and boost (your profile first in Discover). Coins are earned for free (daily, seven days in a row, completing the profile, inviting friends) or bought once in the App Store or Google Play. There is no subscription and no Premium plan, so there is nothing to cancel. Safety features are never paid.
 
 Niyyah does not issue fatwas and does not claim approval from any religious institution.
 

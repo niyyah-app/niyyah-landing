@@ -244,7 +244,7 @@ export const ku: Copy = {
       {
         icon: 'photo',
         title: 'Kontrola wêneyan',
-        body: 'Rûyekî zelal, kesek, ne reş û ne girtî. Daneyên veşartî di wêneyê de, wek cihê GPS, pergal radike.',
+        body: 'Wêneyên tarî û pir biçûk nayên qebûlkirin, û daneyên veşartî di wêneyê de, wek cihê GPS, pergal radike. Kesek ji tîma me selfiya te ya piştrastkirinê bi wêneyên te re dide ber hev.',
       },
       {
         icon: 'badge',

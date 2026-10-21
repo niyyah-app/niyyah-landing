@@ -244,7 +244,7 @@ export const uz: Copy = {
       {
         icon: 'photo',
         title: 'Rasmlar tekshiruvi',
-        body: 'Aniq chehra, bir kishi, xira yoki yopilgan rasm emas. Rasmdagi yashirin ma’lumotlarni, masalan GPS joyini, tizim o‘chiradi.',
+        body: 'Xira va juda kichik suratlar qabul qilinmaydi, rasmdagi yashirin ma’lumotlarni, masalan GPS joylashuvini, tizim o‘chiradi. Jamoamizdan bir kishi tasdiqlash selfingizni suratlaringiz bilan solishtiradi.',
       },
       {
         icon: 'badge',

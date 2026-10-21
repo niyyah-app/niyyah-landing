@@ -244,7 +244,7 @@ export const sw: Copy = {
       {
         icon: 'photo',
         title: 'Ukaguzi wa picha',
-        body: 'Uso ulio wazi, mtu mmoja, bila picha zenye ukungu au zilizofunikwa. Data iliyofichika kwenye picha, kama mahali pa GPS, mfumo unaiondoa.',
+        body: 'Picha zenye ukungu au ndogo sana hazikubaliwi, na data iliyofichwa kwenye picha, kama mahali pa GPS, mfumo huiondoa. Mtu kutoka timu yetu hulinganisha selfie yako ya uthibitisho na picha zako.',
       },
       {
         icon: 'badge',

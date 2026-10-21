@@ -244,7 +244,7 @@ export const ms: Copy = {
       {
         icon: 'photo',
         title: 'Pemeriksaan gambar',
-        body: 'Muka yang jelas, seorang sahaja, tiada gambar kabur atau tertutup. Data tersembunyi dalam gambar, seperti lokasi GPS, dibuang oleh sistem.',
+        body: 'Foto yang kabur atau terlalu kecil tidak diterima, dan data tersembunyi dalam imej, seperti lokasi GPS, dibuang oleh sistem. Seorang daripada pasukan kami membandingkan swafoto pengesahan anda dengan foto anda.',
       },
       {
         icon: 'badge',

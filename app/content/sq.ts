@@ -244,7 +244,7 @@ export const sq: Copy = {
       {
         icon: 'photo',
         title: 'Kontrolli i fotove',
-        body: 'Fytyrë e qartë, një person, pa foto të turbullta ose të mbuluara. Të dhënat e fshehura në foto, si vendndodhja GPS, sistemi i heq.',
+        body: 'Fotot e turbullta dhe shumë të vogla nuk pranohen, dhe të dhënat e fshehura në foto, si vendndodhja GPS, sistemi i heq. Një person nga ekipi ynë e krahason selfien tënde të verifikimit me fotot e tua.',
       },
       {
         icon: 'badge',

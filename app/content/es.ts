@@ -244,7 +244,7 @@ export const es: Copy = {
       {
         icon: 'photo',
         title: 'Revisión de fotos',
-        body: 'Un rostro claro, una sola persona, nada borroso ni tapado. Los datos ocultos en la imagen, como la ubicación GPS, los elimina el sistema.',
+        body: 'Las fotos borrosas o demasiado pequeñas no se aceptan, y el sistema elimina los datos ocultos de la imagen, como la ubicación GPS. Una persona de nuestro equipo compara tu selfie de verificación con tus fotos.',
       },
       {
         icon: 'badge',

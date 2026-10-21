@@ -244,7 +244,7 @@ export const su: Copy = {
       {
         icon: 'photo',
         title: 'Pamariksaan poto',
-        body: 'Beungeut nu écés, hiji jalma, teu mabur jeung teu katutupan. Data nu nyumput dina poto, saperti tempat GPS, dipupus ku sistem.',
+        body: 'Poto nu burem atawa leutik teuing henteu ditarima, sarta data nu disumputkeun dina gambar, saperti lokasi GPS, dipupus ku sistem. Saurang ti tim urang ngabandingkeun selfie verifikasi anjeun jeung poto-poto anjeun.',
       },
       {
         icon: 'badge',

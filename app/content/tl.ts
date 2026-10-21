@@ -244,7 +244,7 @@ export const tl: Copy = {
       {
         icon: 'photo',
         title: 'Pagsusuri ng mga litrato',
-        body: 'Malinaw na mukha, isang tao lang, walang malabo o natatakpan. Ang nakatagong datos sa litrato, gaya ng lokasyong GPS, ay inaalis ng sistema.',
+        body: 'Hindi tinatanggap ang malabo at napakaliit na larawan, at tinatanggal ng sistema ang nakatagong data sa larawan, gaya ng GPS na lokasyon. Isang tao mula sa aming team ang naghahambing ng iyong verification selfie sa iyong mga larawan.',
       },
       {
         icon: 'badge',

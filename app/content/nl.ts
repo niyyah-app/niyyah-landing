@@ -244,7 +244,7 @@ export const nl: Copy = {
       {
         icon: 'photo',
         title: 'Controle van foto’s',
-        body: 'Een duidelijk gezicht, één persoon, niets vaag of bedekt. Verborgen gegevens in de foto, zoals de GPS-locatie, haalt het systeem eruit.',
+        body: 'Wazige en heel kleine foto’s worden geweigerd, en verborgen gegevens in de afbeelding, zoals je gps-locatie, haalt het systeem weg. Iemand van ons team vergelijkt je verificatieselfie met je foto’s.',
       },
       {
         icon: 'badge',

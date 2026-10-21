@@ -244,7 +244,7 @@ export const sv: Copy = {
       {
         icon: 'photo',
         title: 'Granskning av foton',
-        body: 'Ett tydligt ansikte, en person, inget suddigt eller övertäckt. Dolda uppgifter i bilden, som GPS-plats, tar systemet bort.',
+        body: 'Suddiga och mycket små foton tas inte emot, och dold information i bilden, som GPS-position, tar systemet bort. En person i vårt team jämför din verifieringsselfie med dina foton.',
       },
       {
         icon: 'badge',

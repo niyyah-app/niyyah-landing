@@ -244,7 +244,7 @@ export const it: Copy = {
       {
         icon: 'photo',
         title: 'Controllo delle foto',
-        body: 'Un volto chiaro, una sola persona, niente di sfocato o coperto. I dati nascosti nell’immagine, come la posizione GPS, il sistema li rimuove.',
+        body: 'Le foto sfocate o troppo piccole non vengono accettate, e i dati nascosti nell’immagine, come la posizione GPS, il sistema li rimuove. Una persona del nostro team confronta il tuo selfie di verifica con le tue foto.',
       },
       {
         icon: 'badge',

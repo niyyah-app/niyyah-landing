@@ -23,6 +23,10 @@ npm run generate   # statički build u .output/public
 - `app/assets/images/` — screenshotovi (prepoznaju se po imenu, vidi `SLIKE.md`)
 - `app/assets/css/main.css` — boje, fontovi, razmaci
 - `nuxt.config.ts` — SEO, jezici, sitemap, fontovi
+- `public/llms.txt` — opis aplikacije za AI pretraživače, koji ga citiraju
+  kao činjenice. **Uz svaku izmjenu cijena, coinsa ili sigurnosnih funkcija**
+  prepisati i njega iz `app/content/en.ts` (odjeljci `pricing` i `safety`) —
+  Pregled 18, L4.
 
 ## Linkovi na trgovine
 

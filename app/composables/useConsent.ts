@@ -1,31 +1,12 @@
 /**
  * Pristanak na mjerenje reklama.
  *
- * Pixel je alat za reklamiranje, ne dio stranice, pa u EU traži pristanak
- * prije nego se uopšte učita. Van EU ne traži, i tamo bi traka samo odbijala
- * ljude bez razloga — zato se pita samo onaj koga pravilo i štiti.
- *
- * Državu javlja sâm Cloudflare preko kojeg stranica ionako ide: `/cdn-cgi/
- * trace` vraća `loc=XX` s naše domene, bez trećeg servisa kojem bi IP adresa
- * posjetioca otišla samo da bismo ga razvrstali.
- *
- * Kad se ne zna odakle je čovjek — Cloudflare ne odgovori, mreža padne — pita
- * se. Nepoznato se tretira kao EU, jer je pogrešno pitati nekoga ko nije
- * morao biti pitan manja šteta od obrnutog.
+ * Pixel je alat za reklamiranje, ne dio stranice, pa se ne učitava dok
+ * posjetilac izričito ne pristane — svugdje, ne samo u EU (L1, Pregled 18).
+ * Dotad se van EU/EEA, Britanije, Švicarske, zapadnog Balkana i Turske
+ * pixel palio bez pitanja, a politika privatnosti kaže da Meta mjeri posjete
+ * „samo uz tvoj pristanak". Sada to važi doslovno.
  */
-
-/** EU i EEA, Britanija i Švicarska, te zapadni Balkan i Turska. */
-const ASKS_FIRST = new Set([
-  'AT', 'BE', 'BG', 'HR', 'CY', 'CZ', 'DK', 'EE', 'FI', 'FR', 'DE', 'GR',
-  'HU', 'IE', 'IT', 'LV', 'LT', 'LU', 'MT', 'NL', 'PL', 'PT', 'RO', 'SK',
-  'SI', 'ES', 'SE',
-  'IS', 'LI', 'NO',
-  'GB', 'CH',
-  // Zapadni Balkan i Turska: glavno tržište, a zakoni o zaštiti podataka
-  // (BiH 2025, Srbija, Crna Gora, S. Makedonija, Albanija, Kosovo, KVKK)
-  // traže isti pristanak. Dotad su upravo oni dobijali pixel bez pitanja.
-  'BA', 'RS', 'ME', 'MK', 'AL', 'XK', 'TR',
-])
 
 const KEY = 'niyyah_consent'
 
@@ -57,15 +38,8 @@ export function useConsent() {
       return
     }
 
-    try {
-      const trace = await $fetch<string>('/cdn-cgi/trace', { responseType: 'text' })
-      const loc = /(?:^|\n)loc=([A-Z]{2})/.exec(trace)?.[1]
-      // Van EU pristanak nije uslov, pa se ne pita i ne pamti ništa: čovjek
-      // koji doputuje u Njemačku bit će pitan tamo.
-      state.value = loc && !ASKS_FIRST.has(loc) ? 'granted' : 'asking'
-    } catch {
-      state.value = 'asking'
-    }
+    // Bez sačuvanog izbora: pita se, bez obzira na državu.
+    state.value = 'asking'
   }
 
   return {

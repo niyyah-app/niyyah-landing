@@ -243,7 +243,7 @@ export const bs = {
       {
         icon: 'photo',
         title: 'Provjera fotografija',
-        body: 'Jasno lice, jedna osoba, bez mutnih i prekrivenih slika. Skrivene podatke iz slike, poput GPS lokacije, sistem uklanja.',
+        body: 'Mutne i premale slike se ne primaju, a skrivene podatke iz slike, poput GPS lokacije, sistem uklanja. Čovjek iz našeg tima uporedi tvoj selfie za provjeru sa slikama na profilu.',
       },
       {
         icon: 'badge',

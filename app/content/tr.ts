@@ -244,7 +244,7 @@ export const tr: Copy = {
       {
         icon: 'photo',
         title: 'Fotoğraf denetimi',
-        body: 'Net bir yüz, tek kişi, bulanık ve kapatılmış fotoğraf yok. Fotoğraftaki gizli veriler, örneğin GPS konumu, sistem tarafından silinir.',
+        body: 'Bulanık ve çok küçük fotoğraflar kabul edilmez, fotoğraftaki gizli veriler, örneğin GPS konumu, sistem tarafından silinir. Ekibimizden bir kişi doğrulama selfie\'ni fotoğraflarınla karşılaştırır.',
       },
       {
         icon: 'badge',

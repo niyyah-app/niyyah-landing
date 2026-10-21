@@ -244,7 +244,7 @@ export const az: Copy = {
       {
         icon: 'photo',
         title: 'Şəkillərin yoxlanması',
-        body: 'Aydın üz, bir nəfər, bulanıq və örtülü şəkil yox. Şəkildəki gizli məlumatları, məsələn GPS yerini, sistem silir.',
+        body: 'Bulanıq və çox kiçik fotolar qəbul edilmir, şəkildəki gizli məlumatları, məsələn GPS məkanını, sistem silir. Komandamızdan bir nəfər təsdiq selfini fotolarınla müqayisə edir.',
       },
       {
         icon: 'badge',

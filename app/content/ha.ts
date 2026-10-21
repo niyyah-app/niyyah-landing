@@ -244,7 +244,7 @@ export const ha: Copy = {
       {
         icon: 'photo',
         title: 'Duba hotuna',
-        body: 'Fuska bayyananna, mutum ɗaya, ba hoto mai duhu ko rufaffe ba. Bayanan ɓoye a hoton, kamar wurin GPS, tsarin yana cire su.',
+        body: 'Ba a karɓar hotuna masu dishi-dishi ko ƙanana sosai, kuma tsarin yana cire bayanan da ke ɓoye a cikin hoto, kamar wurin GPS. Wani mutum daga ƙungiyarmu yana kwatanta selfie ɗin tabbatarwarka da hotunanka.',
       },
       {
         icon: 'badge',
