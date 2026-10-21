@@ -314,9 +314,9 @@ export const fr: Copy = {
   },
 
   pricing: {
-    kicker: 'Gratuit et coins',
+    kicker: 'Gratuit et pièces',
     title: 'Ce qui te protège est gratuit.',
-    lead: 'Le mahram, les questions avant la conversation, le chat verrouillé et la modération sont accessibles à tous. Nous ne facturons pas la sécurité. Les coins ne font qu’accélérer — et il n’y a pas d’abonnement.',
+    lead: 'Le mahram, les questions avant la conversation, le chat verrouillé et la modération sont accessibles à tous. Nous ne facturons pas la sécurité. Les pièces ne font qu’accélérer — et il n’y a pas d’abonnement.',
     freeTitle: 'Gratuit, pour tous',
     free: [
       'Un profil et 30 profils par jour dans Découvrir',
@@ -327,9 +327,9 @@ export const fr: Copy = {
       'Un mahram dans la conversation',
       'Questions avant la conversation',
       'Communauté, récits et Question du jour',
-      'Des coins gratuits chaque jour',
+      'Des pièces gratuites chaque jour',
     ],
-    premiumTitle: 'Des coins, quand tu veux plus',
+    premiumTitle: 'Des pièces, quand tu veux plus',
     premium: [
       'Vois tous ceux qui t’ont liké',
       'Super like : ton like en tête, avec ton nom et ta photo',
@@ -340,7 +340,7 @@ export const fr: Copy = {
       'Boost : ton profil en premier dans Découvrir',
     ],
     extra:
-      'Tu gagnes aussi des coins gratuitement : chaque jour, pour sept jours d’affilée, pour un profil complet et pour les amis invités. Tu ne les achètes que si tu le veux, en une fois, sur l’App Store ou Google Play — sans abonnement ni renouvellement automatique.',
+      'Tu gagnes aussi des pièces gratuitement : chaque jour, pour sept jours d’affilée, pour un profil complet et pour les amis invités. Tu ne les achètes que si tu le veux, en une fois, sur l’App Store ou Google Play — sans abonnement ni renouvellement automatique.',
   },
 
 
@@ -381,8 +381,8 @@ export const fr: Copy = {
         a: 'Le badge Verified signifie que la personne a passé une vérification du visage : une photo prise en direct a été comparée aux images de son profil. Les signalements sont lus par de vrais modérateurs, qui peuvent suspendre ou bannir un profil, et le blocage va dans les deux sens. Un compte banni ne peut pas simplement revenir avec une nouvelle adresse e-mail.',
       },
       {
-        q: 'Qu’est-ce qui est gratuit, et qu’est-ce qui coûte des coins ?',
-        a: 'Tout ce qui te protège est gratuit : le mahram, les questions avant la conversation, le chat verrouillé et la modération, avec 30 profils et 20 likes par jour, une personne par jour parmi celles qui t’ont liké, la lecture de tous les messages qu’on t’envoie, et une conversation illimitée avec tes correspondances. Avec des coins, tu peux voir tous ceux qui t’ont liké, envoyer un super like (ton like en tête, mis en avant, avec ton nom et ta photo) ou un message direct (un like avec un message, que l’autre lit gratuitement), obtenir plus de profils et de likes pour la journée, et répondre aux récits. Une conversation ne s’ouvre que lorsque vous vous likez tous les deux. Tu gagnes des coins gratuitement chaque jour, et tu peux aussi les acheter en une fois. Il n’y a pas d’abonnement, donc rien à résilier.',
+        q: 'Qu’est-ce qui est gratuit, et qu’est-ce qui coûte des pièces ?',
+        a: 'Tout ce qui te protège est gratuit : le mahram, les questions avant la conversation, le chat verrouillé et la modération, avec 30 profils et 20 likes par jour, une personne par jour parmi celles qui t’ont liké, la lecture de tous les messages qu’on t’envoie, et une conversation illimitée avec tes correspondances. Avec des pièces, tu peux voir tous ceux qui t’ont liké, envoyer un super like (ton like en tête, mis en avant, avec ton nom et ta photo) ou un message direct (un like avec un message, que l’autre lit gratuitement), obtenir plus de profils et de likes pour la journée, et répondre aux récits. Une conversation ne s’ouvre que lorsque vous vous likez tous les deux. Tu gagnes des pièces gratuitement chaque jour, et tu peux aussi les acheter en une fois. Il n’y a pas d’abonnement, donc rien à résilier.',
       },
       {
         q: 'Puis-je masquer mon profil temporairement ?',

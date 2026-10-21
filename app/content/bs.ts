@@ -122,7 +122,7 @@ export const bs = {
       { title: 'Pozovi do tri mahrema', body: 'Pozivnica stiže e-mailom, a mahrem je prihvata u aplikaciji.' },
       {
         title: 'Oni čitaju, ti razgovaraš',
-        body: 'Mahrem vidi razgovore i podudaranja. Ne može pisati iz portala i ne koristi funkcije za upoznavanje.',
+        body: 'Mahrem vidi razgovore i spojeve. Ne može pisati iz portala i ne koristi funkcije za upoznavanje.',
       },
     ],
     who: [
@@ -173,7 +173,7 @@ export const bs = {
     kicker: 'Pitanja prije razgovora',
     title: 'Pitaj ono što je važno, prije prve poruke.',
     body:
-      'Postavi do tri pitanja. Nakon podudaranja druga osoba prvo odgovori, a ti pročitaš i odlučiš hoće li se razgovor otvoriti. Bez tri sedmice dopisivanja samo da biste saznali da se ne slažete oko osnovnog.',
+      'Postavi do tri pitanja. Kad nastane spoj, druga osoba prvo odgovori, a ti pročitaš i odlučiš hoće li se razgovor otvoriti. Bez tri sedmice dopisivanja samo da biste saznali da se ne slažete oko osnovnog.',
     flow: ['Ti postaviš pitanja', 'Druga osoba odgovori', 'Ti odlučiš'],
     topics: ['Namaz', 'Hidžab', 'Selidba', 'Djeca'],
     topicsLabel: 'Najčešće se pita o',
@@ -290,7 +290,7 @@ export const bs = {
       { title: 'Pitanje dana', body: 'Svaki dan jedno pitanje o braku i vrijednostima, na početnom ekranu.' },
       {
         title: 'Priče bez javnih komentara',
-        body: '24 sata ili jedan pregled. Za cijelu zajednicu ili samo za podudaranja.',
+        body: '24 sata ili jedan pregled. Za cijelu zajednicu ili samo za spojeve.',
       },
     ],
     reactionsLabel: 'Reakcije koje nagrađuju korisnost, ne ego',
@@ -361,7 +361,7 @@ export const bs = {
       },
       {
         q: 'Šta je mahrem i kako ga dodajem?',
-        a: 'Mahrem je muški član porodice s kojim je brak trajno zabranjen, na primjer otac, brat, amidža ili dajdža. Možeš pozvati i staratelja. U postavkama uključiš „Zahtijevaj mahrema“ i pozoveš do tri osobe. Pozivnica stiže e-mailom, a mahrem je prihvata u aplikaciji. U Mahrem portalu zatim vidi tvoje razgovore i podudaranja, ali ne može pisati. Funkcija je dostupna ženskim profilima.',
+        a: 'Mahrem je muški član porodice s kojim je brak trajno zabranjen, na primjer otac, brat, amidža ili dajdža. Možeš pozvati i staratelja. U postavkama uključiš „Zahtijevaj mahrema“ i pozoveš do tri osobe. Pozivnica stiže e-mailom, a mahrem je prihvata u aplikaciji. U Mahrem portalu zatim vidi tvoje razgovore i spojeve, ali ne može pisati. Funkcija je dostupna ženskim profilima.',
       },
       {
         q: 'Da li je Niyyah halal?',
@@ -369,7 +369,7 @@ export const bs = {
       },
       {
         q: 'Šta su pitanja prije razgovora?',
-        a: 'Opcija u kojoj postaviš do tri svoja pitanja. Nakon podudaranja druga osoba prvo odgovori na njih. Ti pročitaš odgovore i odlučiš: „Sviđa mi se“ otvara razgovor, „Ne sviđa mi se“ ga ne otvara.',
+        a: 'Opcija u kojoj postaviš do tri svoja pitanja. Kad nastane spoj, druga osoba prvo odgovori na njih. Ti pročitaš odgovore i odlučiš: „Sviđa mi se“ otvara razgovor, „Ne sviđa mi se“ ga ne otvara.',
       },
       {
         q: 'Ko može vidjeti moju lokaciju?',
@@ -381,7 +381,7 @@ export const bs = {
       },
       {
         q: 'Šta je besplatno, a šta se plaća coinsima?',
-        a: 'Besplatno je sve što te čuva: mahrem, pitanja prije razgovora, zaključan chat i moderacija, uz 30 profila i 20 lajkova dnevno, jednu osobu dnevno od onih koji su te lajkali, čitanje svih poruka koje ti pošalju i neograničen razgovor s podudaranjima. Coinsima možeš vidjeti sve koji su te lajkali, poslati super lajk (tvoj lajk stoji na vrhu, istaknut, s tvojim imenom i slikom) ili direktnu poruku (lajk s porukom koju druga osoba čita besplatno), dobiti još profila i lajkova za taj dan i odgovarati na priče. Razgovor se otvara tek kad se oboje lajkate. Coinse dobijaš besplatno svaki dan, a možeš ih i kupiti jednokratno. Nema pretplate, pa nema ni šta otkazivati.',
+        a: 'Besplatno je sve što te čuva: mahrem, pitanja prije razgovora, zaključan chat i moderacija, uz 30 profila i 20 lajkova dnevno, jednu osobu dnevno od onih koji su te lajkali, čitanje svih poruka koje ti pošalju i neograničen razgovor sa spojevima. Coinsima možeš vidjeti sve koji su te lajkali, poslati super lajk (tvoj lajk stoji na vrhu, istaknut, s tvojim imenom i slikom) ili direktnu poruku (lajk s porukom koju druga osoba čita besplatno), dobiti još profila i lajkova za taj dan i odgovarati na priče. Razgovor se otvara tek kad se oboje lajkate. Coinse dobijaš besplatno svaki dan, a možeš ih i kupiti jednokratno. Nema pretplate, pa nema ni šta otkazivati.',
       },
       {
         q: 'Mogu li privremeno sakriti profil?',
