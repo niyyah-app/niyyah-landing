@@ -15,10 +15,11 @@ import { existsSync } from 'node:fs'
 // nabraja adrese drugog.
 const siteUrl = 'https://niyyahmarriage.com'
 
-// Linkovi na Niyyah u trgovinama, npr.
-//   https://apps.apple.com/app/niyyah/id1234567890
-//   https://play.google.com/store/apps/details?id=com.niyyah.app
-const appStoreUrl = ''
+// Linkovi na Niyyah u trgovinama. App Store: ASC aplikacija 6825982279
+// (Puzzles IT OÜ, com.niyyahmarriagehalal.app); stranica radi tek po objavi.
+// Google Play, kad aplikacija postoji:
+//   https://play.google.com/store/apps/details?id=com.niyyahmarriagehalal.app
+const appStoreUrl = 'https://apps.apple.com/app/id6825982279'
 const googlePlayUrl = ''
 
 // true: CTA je „Preuzmi Niyyah" + dugmad trgovina. false: lista čekanja.

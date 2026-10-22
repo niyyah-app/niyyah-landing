@@ -3,8 +3,8 @@
     "apps": [],
     "details": [
       {
-        "appID": "Q735Z3AT6M.com.orhan.niyyah",
-        "appIDs": ["Q735Z3AT6M.com.orhan.niyyah"],
+        "appID": "WW8P5QVWTM.com.niyyahmarriagehalal.app",
+        "appIDs": ["WW8P5QVWTM.com.niyyahmarriagehalal.app"],
         "paths": ["/i/*"],
         "components": [
           { "/": "/i/*", "comment": "Link pozivnice: niyyahmarriage.com/i/KOD otvara aplikaciju" }
