@@ -420,7 +420,6 @@ export const ru: Copy = {
   footer: {
     tagline: 'Брак, который ищут с намерением.',
     made: 'Сделано с вниманием в Боснии и Герцеговине.',
-    rights: 'Niyyah',
     language: 'Язык',
   },
 }

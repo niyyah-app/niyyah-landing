@@ -84,6 +84,8 @@ useSeoMeta({
             <li><NuxtLink :to="localePath('/uslovi', lang)">{{ ui.terms }}</NuxtLink></li>
           </ul>
         </section>
+
+        <p class="legal__operator">{{ c.operator }}</p>
       </div>
     </main>
     <SiteFooter />
@@ -123,6 +125,16 @@ useSeoMeta({
 
 .legal__sec {
   margin-top: clamp(2rem, 1.5rem + 2vw, 3rem);
+}
+
+/* Ko pruža uslugu: sitno, na dnu, kao impresum. */
+.legal__operator {
+  margin-top: clamp(2rem, 1.5rem + 2vw, 3rem);
+  padding-top: 1rem;
+  border-top: 1px solid var(--line);
+  color: var(--ink-3);
+  font-size: var(--fs-small);
+  line-height: 1.6;
 }
 
 .legal__sec p,

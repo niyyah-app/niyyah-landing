@@ -419,7 +419,6 @@ export const tg: Copy = {
   footer: {
     tagline: 'Никоҳе, ки бо ният ҷустуҷӯ мешавад.',
     made: 'Бо диққат дар Босния ва Ҳерсеговина сохта шудааст.',
-    rights: 'Niyyah',
     language: 'Забон',
   },
 }

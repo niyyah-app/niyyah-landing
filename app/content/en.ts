@@ -419,7 +419,6 @@ export const en: Copy = {
   footer: {
     tagline: 'Marriage, sought with intention.',
     made: 'Made with care in Bosnia and Herzegovina.',
-    rights: 'Niyyah',
     language: 'Language',
   },
 }

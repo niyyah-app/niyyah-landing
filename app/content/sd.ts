@@ -419,7 +419,6 @@ export const sd: Copy = {
   footer: {
     tagline: 'نيت سان ڳوليل نڪاح.',
     made: 'بوسنيا ۽ هرزيگووينا ۾ ڌيان سان ٺاهيل.',
-    rights: 'نيّہ',
     language: 'ٻولي',
   },
 }

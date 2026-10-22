@@ -419,7 +419,6 @@ export const su: Copy = {
   footer: {
     tagline: 'Nikah, ditéangan kalawan niat.',
     made: 'Dijieun kalawan ati-ati di Bosnia jeung Herzegovina.',
-    rights: 'Niyyah',
     language: 'Basa',
   },
 }

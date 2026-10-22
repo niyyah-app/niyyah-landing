@@ -419,7 +419,6 @@ export const fr: Copy = {
   footer: {
     tagline: 'Le mariage, cherché avec intention.',
     made: 'Fait avec soin en Bosnie-Herzégovine.',
-    rights: 'Niyyah',
     language: 'Langue',
   },
 }

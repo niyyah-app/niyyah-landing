@@ -419,7 +419,6 @@ export const ms: Copy = {
   footer: {
     tagline: 'Perkahwinan, dicari dengan niat.',
     made: 'Dibuat dengan teliti di Bosnia dan Herzegovina.',
-    rights: 'Niyyah',
     language: 'Bahasa',
   },
 }

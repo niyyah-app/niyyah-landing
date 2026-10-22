@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { legalUi, type LegalLocale } from '~/legal/content'
 import { deletion, supportEmail } from '~/legal/deletion'
+import { support } from '~/legal/support'
 
 // Javna stranica za brisanje naloga — Google Play je traži uz aplikaciju,
 // i za one koji aplikaciju više nemaju. Isti jezici kao politika i uslovi.
@@ -86,6 +87,8 @@ useSeoMeta({
             {{ moreBefore }}<NuxtLink :to="localePath('/privatnost', lang)">{{ c.moreLink }}</NuxtLink>{{ moreAfter }}
           </p>
         </section>
+
+        <p class="legal__operator">{{ (support[lang] ?? support.en).operator }}</p>
       </div>
     </main>
     <SiteFooter />
@@ -125,6 +128,16 @@ useSeoMeta({
 
 .legal__sec {
   margin-top: clamp(2rem, 1.5rem + 2vw, 3rem);
+}
+
+/* Ko pruža uslugu: sitno, na dnu, kao impresum. */
+.legal__operator {
+  margin-top: clamp(2rem, 1.5rem + 2vw, 3rem);
+  padding-top: 1rem;
+  border-top: 1px solid var(--line);
+  color: var(--ink-3);
+  font-size: var(--fs-small);
+  line-height: 1.6;
 }
 
 .legal__sec p,

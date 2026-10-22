@@ -419,7 +419,6 @@ export const de: Copy = {
   footer: {
     tagline: 'Ehe, mit Absicht gesucht.',
     made: 'Mit Sorgfalt gemacht in Bosnien und Herzegowina.',
-    rights: 'Niyyah',
     language: 'Sprache',
   },
 }

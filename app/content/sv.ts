@@ -420,7 +420,6 @@ export const sv: Copy = {
   footer: {
     tagline: 'Äktenskap, sökt med avsikt.',
     made: 'Gjord med omsorg i Bosnien och Hercegovina.',
-    rights: 'Niyyah',
     language: 'Språk',
   },
 }

@@ -420,7 +420,6 @@ export const es: Copy = {
   footer: {
     tagline: 'El matrimonio, buscado con intención.',
     made: 'Hecha con cuidado en Bosnia y Herzegovina.',
-    rights: 'Niyyah',
     language: 'Idioma',
   },
 }

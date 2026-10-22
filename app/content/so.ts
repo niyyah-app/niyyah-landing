@@ -420,7 +420,6 @@ export const so: Copy = {
   footer: {
     tagline: 'Guur, oo niyad lagu raadiyo.',
     made: 'Si taxaddar leh lagu sameeyay Bosnia iyo Herzegovina.',
-    rights: 'Niyyah',
     language: 'Luqad',
   },
 }

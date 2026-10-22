@@ -419,7 +419,6 @@ export const pa: Copy = {
   footer: {
     tagline: 'نیت نال لبھیا جان والا نکاح۔',
     made: 'بوسنیا تے ہرزیگووینا وچ دھیان نال بنائی گئی۔',
-    rights: 'نیّہ',
     language: 'زبان',
   },
 }

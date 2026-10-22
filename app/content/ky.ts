@@ -419,7 +419,6 @@ export const ky: Copy = {
   footer: {
     tagline: 'Ниет менен изделген нике.',
     made: 'Босния жана Герцеговинада кылдаттык менен жасалган.',
-    rights: 'Niyyah',
     language: 'Тил',
   },
 }

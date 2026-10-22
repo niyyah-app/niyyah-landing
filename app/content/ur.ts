@@ -419,7 +419,6 @@ export const ur: Copy = {
   footer: {
     tagline: 'نیّت سے کی گئی نکاح کی تلاش۔',
     made: 'بوسنیا و ہرزیگووینا میں توجہ سے بنایا گیا۔',
-    rights: 'نیّہ',
     language: 'زبان',
   },
 }

@@ -418,7 +418,6 @@ export const bs = {
   footer: {
     tagline: 'Brak, tražen s namjerom.',
     made: 'Napravljeno s pažnjom u Bosni i Hercegovini.',
-    rights: 'Niyyah',
     language: 'Jezik',
   },
 }

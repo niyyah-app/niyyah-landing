@@ -420,7 +420,6 @@ export const sq: Copy = {
   footer: {
     tagline: 'Martesa, e kërkuar me nijet.',
     made: 'Bërë me kujdes në Bosnjë dhe Hercegovinë.',
-    rights: 'Niyyah',
     language: 'Gjuha',
   },
 }

@@ -419,7 +419,6 @@ export const tr: Copy = {
   footer: {
     tagline: 'Niyetle aranan evlilik.',
     made: 'Bosna-Hersek’te özenle yapıldı.',
-    rights: 'Niyyah',
     language: 'Dil',
   },
 }

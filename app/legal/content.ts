@@ -3,13 +3,13 @@
 
 export type LegalSection = { h: string; b: string }
 
-export const legalUpdated = "21.10.2026."
+export const legalUpdated = "23.10.2026."
 
 export const privacy: Record<string, LegalSection[]> = {
   "en": [
     {
       "h": "Who is responsible",
-      "b": "Niyyah is run by Orhan Bajramović, who is the controller of your personal data. For anything in this policy, write to support@niyyahmarriage.com."
+      "b": "Niyyah is run by Puzzles IT OÜ, a private limited company registered in Estonia (registry code 16552842; address: Sepapaja tn 6, 15551 Tallinn, Estonia), which is the controller of your personal data. The company is represented by its management board member, Nermedin Džeković. For anything in this policy, write to support@niyyahmarriage.com."
     },
     {
       "h": "What we collect",
@@ -57,7 +57,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Your rights",
-      "b": "You can get a copy of your data in a machine-readable format (JSON — Settings sends it to your email) and take it to another service; correct what is wrong; delete your account; ask us to restrict the use of your data, for example while a complaint is being looked into; object to a use based on our legitimate interest; and withdraw a consent at any time, without affecting what was done before. To withdraw consent for the face check, write to us and we will delete the photo and remove the badge. Religious information is part of every profile here, so withdrawing consent for it means deleting the account. No decision with legal or similarly significant effects is made about you by automated means alone. For anything else write to support@niyyahmarriage.com — you will get an answer within 30 days. You also have the right to complain to the data protection authority: in Bosnia and Herzegovina the Personal Data Protection Agency, in the EU your national authority."
+      "b": "You can get a copy of your data in a machine-readable format (JSON — Settings sends it to your email) and take it to another service; correct what is wrong; delete your account; ask us to restrict the use of your data, for example while a complaint is being looked into; object to a use based on our legitimate interest; and withdraw a consent at any time, without affecting what was done before. To withdraw consent for the face check, write to us and we will delete the photo and remove the badge. Religious information is part of every profile here, so withdrawing consent for it means deleting the account. No decision with legal or similarly significant effects is made about you by automated means alone. For anything else write to support@niyyahmarriage.com — you will get an answer within 30 days. You also have the right to complain to a data protection authority. Our lead supervisory authority is the Estonian Data Protection Inspectorate (Andmekaitse Inspektsioon, www.aki.ee); you can also complain to the authority in your own country — in the EU your national authority, in Bosnia and Herzegovina the Personal Data Protection Agency."
     },
     {
       "h": "Security, minors and changes",
@@ -71,7 +71,7 @@ export const privacy: Record<string, LegalSection[]> = {
   "bs": [
     {
       "h": "Ko je odgovoran",
-      "b": "Niyyah vodi Orhan Bajramović, koji je rukovalac tvojih ličnih podataka. Za sve iz ove politike piši na support@niyyahmarriage.com."
+      "b": "Niyyah vodi Puzzles IT OÜ, društvo s ograničenom odgovornošću registrovano u Estoniji (registarski broj 16552842; adresa: Sepapaja tn 6, 15551 Tallinn, Estonija), koje je rukovalac tvojih ličnih podataka. Društvo zastupa član uprave Nermedin Džeković. Za sve iz ove politike piši na support@niyyahmarriage.com."
     },
     {
       "h": "Šta prikupljamo",
@@ -119,7 +119,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Tvoja prava",
-      "b": "Možeš dobiti kopiju svojih podataka u mašinski čitljivom obliku (JSON — Postavke je šalju na tvoj e-mail) i prenijeti je drugom servisu; ispraviti ono što nije tačno; obrisati nalog; tražiti da ograničimo upotrebu tvojih podataka, npr. dok se rješava prigovor; usprotiviti se upotrebi koja počiva na našem legitimnom interesu; i povući pristanak u bilo kojem trenutku, bez uticaja na ono što je urađeno prije. Za povlačenje pristanka za provjeru lica piši nam, pa ćemo obrisati fotografiju i skinuti oznaku. Vjerski podaci su dio svakog profila ovdje, pa povlačenje pristanka za njih znači brisanje naloga. O tebi se ne donosi nijedna odluka s pravnim ili sličnim značajnim posljedicama samo automatski. Za sve ostalo piši na support@niyyahmarriage.com — odgovor stiže u roku od 30 dana. Imaš i pravo na pritužbu nadležnom tijelu: u Bosni i Hercegovini Agenciji za zaštitu ličnih podataka, u EU svom nacionalnom tijelu."
+      "b": "Možeš dobiti kopiju svojih podataka u mašinski čitljivom obliku (JSON — Postavke je šalju na tvoj e-mail) i prenijeti je drugom servisu; ispraviti ono što nije tačno; obrisati nalog; tražiti da ograničimo upotrebu tvojih podataka, npr. dok se rješava prigovor; usprotiviti se upotrebi koja počiva na našem legitimnom interesu; i povući pristanak u bilo kojem trenutku, bez uticaja na ono što je urađeno prije. Za povlačenje pristanka za provjeru lica piši nam, pa ćemo obrisati fotografiju i skinuti oznaku. Vjerski podaci su dio svakog profila ovdje, pa povlačenje pristanka za njih znači brisanje naloga. O tebi se ne donosi nijedna odluka s pravnim ili sličnim značajnim posljedicama samo automatski. Za sve ostalo piši na support@niyyahmarriage.com — odgovor stiže u roku od 30 dana. Imaš i pravo na pritužbu tijelu za zaštitu podataka. Naše vodeće nadzorno tijelo je Estonski inspektorat za zaštitu podataka (Andmekaitse Inspektsioon, www.aki.ee); pritužbu možeš podnijeti i tijelu u svojoj zemlji — u EU svom nacionalnom tijelu, u Bosni i Hercegovini Agenciji za zaštitu ličnih podataka."
     },
     {
       "h": "Sigurnost, maloljetnici i izmjene",
@@ -133,7 +133,7 @@ export const privacy: Record<string, LegalSection[]> = {
   "de": [
     {
       "h": "Wer verantwortlich ist",
-      "b": "Niyyah wird von Orhan Bajramović betrieben, der Verantwortlicher für deine personenbezogenen Daten ist. Für alles in dieser Erklärung schreib an support@niyyahmarriage.com."
+      "b": "Niyyah wird von der Puzzles IT OÜ betrieben, einer in Estland eingetragenen Gesellschaft mit beschränkter Haftung (Registernummer 16552842; Anschrift: Sepapaja tn 6, 15551 Tallinn, Estland), die Verantwortliche für deine personenbezogenen Daten ist. Die Gesellschaft wird durch ihr Vorstandsmitglied Nermedin Džeković vertreten. Für alles in dieser Erklärung schreib an support@niyyahmarriage.com."
     },
     {
       "h": "Was wir erheben",
@@ -181,7 +181,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Deine Rechte",
-      "b": "Du kannst eine Kopie deiner Daten in einem maschinenlesbaren Format erhalten (JSON — die Einstellungen senden sie an deine E-Mail) und zu einem anderen Dienst mitnehmen; Falsches berichtigen; dein Konto löschen; verlangen, dass wir die Nutzung deiner Daten einschränken, etwa während eine Beschwerde geprüft wird; einer Nutzung widersprechen, die auf unserem berechtigten Interesse beruht; und eine Einwilligung jederzeit widerrufen, ohne dass das Bisherige davon berührt wird. Um die Einwilligung zur Gesichtsprüfung zu widerrufen, schreib uns, dann löschen wir das Foto und entfernen das Abzeichen. Angaben zur Religion gehören hier zu jedem Profil, daher bedeutet der Widerruf dieser Einwilligung, das Konto zu löschen. Über dich wird keine Entscheidung mit rechtlicher oder ähnlich erheblicher Wirkung ausschließlich automatisiert getroffen. Für alles Weitere schreib an support@niyyahmarriage.com — du bekommst innerhalb von 30 Tagen eine Antwort. Du hast außerdem das Recht, dich bei der Datenschutzbehörde zu beschweren: in Bosnien und Herzegowina bei der Agentur für den Schutz personenbezogener Daten, in der EU bei deiner nationalen Behörde."
+      "b": "Du kannst eine Kopie deiner Daten in einem maschinenlesbaren Format erhalten (JSON — die Einstellungen senden sie an deine E-Mail) und zu einem anderen Dienst mitnehmen; Falsches berichtigen; dein Konto löschen; verlangen, dass wir die Nutzung deiner Daten einschränken, etwa während eine Beschwerde geprüft wird; einer Nutzung widersprechen, die auf unserem berechtigten Interesse beruht; und eine Einwilligung jederzeit widerrufen, ohne dass das Bisherige davon berührt wird. Um die Einwilligung zur Gesichtsprüfung zu widerrufen, schreib uns, dann löschen wir das Foto und entfernen das Abzeichen. Angaben zur Religion gehören hier zu jedem Profil, daher bedeutet der Widerruf dieser Einwilligung, das Konto zu löschen. Über dich wird keine Entscheidung mit rechtlicher oder ähnlich erheblicher Wirkung ausschließlich automatisiert getroffen. Für alles Weitere schreib an support@niyyahmarriage.com — du bekommst innerhalb von 30 Tagen eine Antwort. Du hast außerdem das Recht, dich bei einer Datenschutzbehörde zu beschweren. Unsere federführende Aufsichtsbehörde ist die estnische Datenschutzaufsicht (Andmekaitse Inspektsioon, www.aki.ee); du kannst dich auch an die Behörde in deinem eigenen Land wenden — in der EU an deine nationale Behörde, in Bosnien und Herzegowina an die Agentur für den Schutz personenbezogener Daten."
     },
     {
       "h": "Sicherheit, Minderjährige und Änderungen",
@@ -195,7 +195,7 @@ export const privacy: Record<string, LegalSection[]> = {
   "tr": [
     {
       "h": "Kim sorumlu",
-      "b": "Niyyah, kişisel verilerinin sorumlusu olan Orhan Bajramović tarafından işletilir. Bu politikayla ilgili her şey için support@niyyahmarriage.com adresine yaz."
+      "b": "Niyyah, Estonya’da tescilli bir limited şirket olan Puzzles IT OÜ tarafından işletilir (sicil numarası 16552842; adres: Sepapaja tn 6, 15551 Tallinn, Estonya). Kişisel verilerinin sorumlusu bu şirkettir; şirketi yönetim kurulu üyesi Nermedin Džeković temsil eder. Bu politikayla ilgili her şey için support@niyyahmarriage.com adresine yaz."
     },
     {
       "h": "Ne topluyoruz",
@@ -243,7 +243,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Hakların",
-      "b": "Verilerinin bir kopyasını makine tarafından okunabilir biçimde (JSON — Ayarlar e-postana gönderir) alabilir ve başka bir hizmete taşıyabilir; yanlış olanı düzeltebilir; hesabını silebilir; örneğin bir şikâyet incelenirken verilerinin kullanımını kısıtlamamızı isteyebilir; meşru menfaatimize dayanan bir kullanıma itiraz edebilir; ve verdiğin bir rızayı, daha önce yapılanları etkilemeden, istediğin zaman geri alabilirsin. Yüz doğrulaması için verdiğin rızayı geri almak istersen bize yaz; fotoğrafı silip rozeti kaldırırız. Dini bilgiler buradaki her profilin parçasıdır, bu yüzden bu rızayı geri almak hesabı silmek anlamına gelir. Hakkında hukuki veya benzer şekilde önemli sonuç doğuran hiçbir karar yalnızca otomatik yollarla verilmez. Diğer her şey için support@niyyahmarriage.com adresine yaz — 30 gün içinde cevap alırsın. Ayrıca veri koruma otoritesine şikâyet hakkın var: Bosna-Hersek’te Kişisel Verileri Koruma Ajansı, AB’de ulusal otoriten."
+      "b": "Verilerinin bir kopyasını makine tarafından okunabilir biçimde (JSON — Ayarlar e-postana gönderir) alabilir ve başka bir hizmete taşıyabilir; yanlış olanı düzeltebilir; hesabını silebilir; örneğin bir şikâyet incelenirken verilerinin kullanımını kısıtlamamızı isteyebilir; meşru menfaatimize dayanan bir kullanıma itiraz edebilir; ve verdiğin bir rızayı, daha önce yapılanları etkilemeden, istediğin zaman geri alabilirsin. Yüz doğrulaması için verdiğin rızayı geri almak istersen bize yaz; fotoğrafı silip rozeti kaldırırız. Dini bilgiler buradaki her profilin parçasıdır, bu yüzden bu rızayı geri almak hesabı silmek anlamına gelir. Hakkında hukuki veya benzer şekilde önemli sonuç doğuran hiçbir karar yalnızca otomatik yollarla verilmez. Diğer her şey için support@niyyahmarriage.com adresine yaz — 30 gün içinde cevap alırsın. Ayrıca bir veri koruma otoritesine şikâyet hakkın var. Başlıca denetim otoritemiz Estonya Veri Koruma Müfettişliği’dir (Andmekaitse Inspektsioon, www.aki.ee); kendi ülkendeki otoriteye de şikâyette bulunabilirsin — AB’de ulusal otoritene, Bosna-Hersek’te Kişisel Verileri Koruma Ajansı’na."
     },
     {
       "h": "Güvenlik, reşit olmayanlar ve değişiklikler",
@@ -257,7 +257,7 @@ export const privacy: Record<string, LegalSection[]> = {
   "ar": [
     {
       "h": "من المسؤول",
-      "b": "يدير Niyyah Orhan Bajramović، وهو المسؤول عن بياناتك الشخصية. لأي أمر في هذه السياسة اكتب إلى support@niyyahmarriage.com."
+      "b": "يدير Niyyah شركة Puzzles IT OÜ، وهي شركة خاصة محدودة المسؤولية مسجّلة في إستونيا (رقم التسجيل: 16552842؛ العنوان: Sepapaja tn 6, 15551 Tallinn، إستونيا)، وهي المسؤولة عن بياناتك الشخصية. ويمثّل الشركة عضو مجلس إدارتها Nermedin Džeković. لأي أمر في هذه السياسة اكتب إلى support@niyyahmarriage.com."
     },
     {
       "h": "ما الذي نجمعه",
@@ -305,7 +305,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "حقوقك",
-      "b": "يمكنك الحصول على نسخة من بياناتك بصيغة قابلة للقراءة آليًا (JSON — ترسلها الإعدادات إلى بريدك) ونقلها إلى خدمة أخرى؛ وتصحيح الخطأ؛ وحذف حسابك؛ وأن تطلب منا تقييد استخدام بياناتك، مثلًا أثناء النظر في شكوى؛ والاعتراض على استخدام يقوم على مصلحتنا المشروعة؛ وسحب أي موافقة في أي وقت، دون أن يؤثر ذلك على ما تم قبلها. لسحب موافقتك على التحقق من الوجه اكتب إلينا، فنحذف الصورة ونزيل الشارة. المعلومات الدينية جزء من كل ملف هنا، لذا فإن سحب الموافقة عليها يعني حذف الحساب. لا يُتخذ بشأنك أي قرار ذي أثر قانوني أو أثر مهم مماثل بوسائل آلية وحدها. لأي أمر آخر اكتب إلى support@niyyahmarriage.com، وستصلك إجابة خلال 30 يومًا. ولك الحق في الشكوى إلى سلطة حماية البيانات: في البوسنة والهرسك وكالة حماية البيانات الشخصية، وفي الاتحاد الأوروبي سلطتك الوطنية."
+      "b": "يمكنك الحصول على نسخة من بياناتك بصيغة قابلة للقراءة آليًا (JSON — ترسلها الإعدادات إلى بريدك) ونقلها إلى خدمة أخرى؛ وتصحيح الخطأ؛ وحذف حسابك؛ وأن تطلب منا تقييد استخدام بياناتك، مثلًا أثناء النظر في شكوى؛ والاعتراض على استخدام يقوم على مصلحتنا المشروعة؛ وسحب أي موافقة في أي وقت، دون أن يؤثر ذلك على ما تم قبلها. لسحب موافقتك على التحقق من الوجه اكتب إلينا، فنحذف الصورة ونزيل الشارة. المعلومات الدينية جزء من كل ملف هنا، لذا فإن سحب الموافقة عليها يعني حذف الحساب. لا يُتخذ بشأنك أي قرار ذي أثر قانوني أو أثر مهم مماثل بوسائل آلية وحدها. لأي أمر آخر اكتب إلى support@niyyahmarriage.com، وستصلك إجابة خلال 30 يومًا. ولك الحق في الشكوى إلى سلطة لحماية البيانات. السلطة الرقابية الرئيسية المختصة بنا هي هيئة التفتيش الإستونية لحماية البيانات (Andmekaitse Inspektsioon، www.aki.ee)؛ ويمكنك أيضًا الشكوى إلى السلطة في بلدك: في الاتحاد الأوروبي سلطتك الوطنية، وفي البوسنة والهرسك وكالة حماية البيانات الشخصية."
     },
     {
       "h": "الأمان والقاصرون والتغييرات",
@@ -319,7 +319,7 @@ export const privacy: Record<string, LegalSection[]> = {
   "id": [
     {
       "h": "Siapa yang bertanggung jawab",
-      "b": "Niyyah dijalankan oleh Orhan Bajramović, pengendali data pribadimu. Untuk apa pun dalam kebijakan ini, tulis ke support@niyyahmarriage.com."
+      "b": "Niyyah dijalankan oleh Puzzles IT OÜ, perseroan terbatas swasta yang terdaftar di Estonia (nomor registrasi 16552842; alamat: Sepapaja tn 6, 15551 Tallinn, Estonia), yang merupakan pengendali data pribadimu. Perusahaan ini diwakili oleh anggota dewan direksinya, Nermedin Džeković. Untuk apa pun dalam kebijakan ini, tulis ke support@niyyahmarriage.com."
     },
     {
       "h": "Apa yang kami kumpulkan",
@@ -367,7 +367,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Hak-hakmu",
-      "b": "Kamu dapat memperoleh salinan datamu dalam format yang dapat dibaca mesin (JSON — Pengaturan mengirimkannya ke emailmu) dan membawanya ke layanan lain; memperbaiki yang salah; menghapus akun; meminta kami membatasi penggunaan datamu, misalnya selama keberatan sedang ditinjau; menolak penggunaan yang berdasar pada kepentingan sah kami; dan menarik persetujuan kapan saja, tanpa memengaruhi apa yang telah dilakukan sebelumnya. Untuk menarik persetujuan pemeriksaan wajah, tulis kepada kami, maka kami akan menghapus foto dan mencabut lencananya. Informasi keagamaan adalah bagian dari setiap profil di sini, jadi menarik persetujuan untuknya berarti menghapus akun. Tidak ada keputusan dengan akibat hukum atau akibat signifikan serupa yang diambil tentangmu semata-mata secara otomatis. Untuk hal lain, tulis ke support@niyyahmarriage.com — jawaban dalam 30 hari. Kamu juga berhak mengadu ke otoritas perlindungan data: di Bosnia dan Herzegovina ke Badan Perlindungan Data Pribadi, di UE ke otoritas nasionalmu."
+      "b": "Kamu dapat memperoleh salinan datamu dalam format yang dapat dibaca mesin (JSON — Pengaturan mengirimkannya ke emailmu) dan membawanya ke layanan lain; memperbaiki yang salah; menghapus akun; meminta kami membatasi penggunaan datamu, misalnya selama keberatan sedang ditinjau; menolak penggunaan yang berdasar pada kepentingan sah kami; dan menarik persetujuan kapan saja, tanpa memengaruhi apa yang telah dilakukan sebelumnya. Untuk menarik persetujuan pemeriksaan wajah, tulis kepada kami, maka kami akan menghapus foto dan mencabut lencananya. Informasi keagamaan adalah bagian dari setiap profil di sini, jadi menarik persetujuan untuknya berarti menghapus akun. Tidak ada keputusan dengan akibat hukum atau akibat signifikan serupa yang diambil tentangmu semata-mata secara otomatis. Untuk hal lain, tulis ke support@niyyahmarriage.com — jawaban dalam 30 hari. Kamu juga berhak mengadu ke otoritas perlindungan data. Otoritas pengawas utama kami adalah Inspektorat Perlindungan Data Estonia (Andmekaitse Inspektsioon, www.aki.ee); kamu juga dapat mengadu ke otoritas di negaramu sendiri — di UE ke otoritas nasionalmu, di Bosnia dan Herzegovina ke Badan Perlindungan Data Pribadi."
     },
     {
       "h": "Keamanan, anak di bawah umur, dan perubahan",
@@ -381,7 +381,7 @@ export const privacy: Record<string, LegalSection[]> = {
   "ur": [
     {
       "h": "ذمہ دار کون ہے",
-      "b": "Niyyah کو Orhan Bajramović چلاتے ہیں، جو آپ کے ذاتی ڈیٹا کے کنٹرولر ہیں۔ اس پالیسی سے متعلق کسی بھی بات کے لیے support@niyyahmarriage.com پر لکھیں۔"
+      "b": "Niyyah کو Puzzles IT OÜ چلاتی ہے، جو اسٹونیا میں رجسٹرڈ ایک نجی لمیٹڈ کمپنی ہے (رجسٹری نمبر 16552842؛ پتہ: Sepapaja tn 6, 15551 Tallinn، اسٹونیا)، اور یہی کمپنی آپ کے ذاتی ڈیٹا کی کنٹرولر ہے۔ کمپنی کی نمائندگی اس کے مینجمنٹ بورڈ کے رکن Nermedin Džeković کرتے ہیں۔ اس پالیسی سے متعلق کسی بھی بات کے لیے support@niyyahmarriage.com پر لکھیں۔"
     },
     {
       "h": "ہم کیا جمع کرتے ہیں",
@@ -429,7 +429,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "آپ کے حقوق",
-      "b": "آپ اپنے ڈیٹا کی کاپی مشین سے پڑھے جانے والے فارمیٹ میں (JSON — سیٹنگز اسے آپ کی ای میل پر بھیجتی ہیں) لے کر کسی دوسری سروس میں منتقل کر سکتے ہیں؛ غلط کو درست کر سکتے ہیں؛ اکاؤنٹ حذف کر سکتے ہیں؛ ہم سے اپنے ڈیٹا کے استعمال کو محدود کرنے کا کہہ سکتے ہیں، مثلاً جب کسی شکایت کا جائزہ ہو رہا ہو؛ ہمارے جائز مفاد پر مبنی کسی استعمال پر اعتراض کر سکتے ہیں؛ اور کسی بھی وقت رضامندی واپس لے سکتے ہیں، جس سے پہلے کیے گئے کام پر اثر نہیں پڑتا۔ چہرے کی تصدیق کی رضامندی واپس لینے کے لیے ہمیں لکھیں، ہم تصویر حذف کر کے نشان ہٹا دیں گے۔ مذہبی معلومات یہاں ہر پروفائل کا حصہ ہیں، اس لیے ان کی رضامندی واپس لینے کا مطلب اکاؤنٹ حذف کرنا ہے۔ آپ کے بارے میں قانونی یا اسی طرح کے اہم اثر والا کوئی فیصلہ صرف خودکار طریقے سے نہیں کیا جاتا۔ باقی ہر چیز کے لیے support@niyyahmarriage.com پر لکھیں — 30 دن میں جواب ملے گا۔ آپ کو ڈیٹا تحفظ اتھارٹی سے شکایت کا حق بھی ہے: بوسنیا و ہرزیگووینا میں ذاتی ڈیٹا کے تحفظ کی ایجنسی، یورپی یونین میں آپ کی قومی اتھارٹی۔"
+      "b": "آپ اپنے ڈیٹا کی کاپی مشین سے پڑھے جانے والے فارمیٹ میں (JSON — سیٹنگز اسے آپ کی ای میل پر بھیجتی ہیں) لے کر کسی دوسری سروس میں منتقل کر سکتے ہیں؛ غلط کو درست کر سکتے ہیں؛ اکاؤنٹ حذف کر سکتے ہیں؛ ہم سے اپنے ڈیٹا کے استعمال کو محدود کرنے کا کہہ سکتے ہیں، مثلاً جب کسی شکایت کا جائزہ ہو رہا ہو؛ ہمارے جائز مفاد پر مبنی کسی استعمال پر اعتراض کر سکتے ہیں؛ اور کسی بھی وقت رضامندی واپس لے سکتے ہیں، جس سے پہلے کیے گئے کام پر اثر نہیں پڑتا۔ چہرے کی تصدیق کی رضامندی واپس لینے کے لیے ہمیں لکھیں، ہم تصویر حذف کر کے نشان ہٹا دیں گے۔ مذہبی معلومات یہاں ہر پروفائل کا حصہ ہیں، اس لیے ان کی رضامندی واپس لینے کا مطلب اکاؤنٹ حذف کرنا ہے۔ آپ کے بارے میں قانونی یا اسی طرح کے اہم اثر والا کوئی فیصلہ صرف خودکار طریقے سے نہیں کیا جاتا۔ باقی ہر چیز کے لیے support@niyyahmarriage.com پر لکھیں — 30 دن میں جواب ملے گا۔ آپ کو ڈیٹا تحفظ اتھارٹی سے شکایت کا حق بھی ہے۔ ہماری مرکزی نگران اتھارٹی اسٹونیا کا ڈیٹا تحفظ انسپکٹوریٹ (Andmekaitse Inspektsioon، www.aki.ee) ہے؛ آپ اپنے ملک کی اتھارٹی سے بھی شکایت کر سکتے ہیں — یورپی یونین میں اپنی قومی اتھارٹی سے، بوسنیا و ہرزیگووینا میں ذاتی ڈیٹا کے تحفظ کی ایجنسی سے۔"
     },
     {
       "h": "حفاظت، نابالغ اور تبدیلیاں",
@@ -443,7 +443,7 @@ export const privacy: Record<string, LegalSection[]> = {
   "ms": [
     {
       "h": "Siapa yang bertanggungjawab",
-      "b": "Niyyah dikendalikan oleh Orhan Bajramović, pengawal data peribadi anda. Untuk apa-apa dalam dasar ini, tulis kepada support@niyyahmarriage.com."
+      "b": "Niyyah dikendalikan oleh Puzzles IT OÜ, sebuah syarikat sendirian berhad yang didaftarkan di Estonia (nombor pendaftaran 16552842; alamat: Sepapaja tn 6, 15551 Tallinn, Estonia), iaitu pengawal data peribadi anda. Syarikat ini diwakili oleh ahli lembaga pengurusannya, Nermedin Džeković. Untuk apa-apa dalam dasar ini, tulis kepada support@niyyahmarriage.com."
     },
     {
       "h": "Apa yang kami kumpul",
@@ -491,7 +491,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Hak anda",
-      "b": "Anda boleh mendapatkan salinan data anda dalam format yang boleh dibaca mesin (JSON — Tetapan menghantarnya ke e-mel anda) dan membawanya ke perkhidmatan lain; membetulkan yang salah; memadam akaun; meminta kami mengehadkan penggunaan data anda, contohnya semasa aduan disemak; membantah penggunaan yang berasaskan kepentingan sah kami; dan menarik balik persetujuan pada bila-bila masa, tanpa menjejaskan apa yang telah dilakukan sebelumnya. Untuk menarik balik persetujuan semakan wajah, tulis kepada kami dan kami akan memadam foto serta membuang lencana. Maklumat agama ialah sebahagian daripada setiap profil di sini, jadi menarik balik persetujuan untuknya bermakna memadam akaun. Tiada keputusan yang membawa kesan undang-undang atau kesan ketara yang serupa dibuat tentang anda semata-mata secara automatik. Untuk perkara lain, tulis kepada support@niyyahmarriage.com — jawapan dalam 30 hari. Anda juga berhak membuat aduan kepada pihak berkuasa perlindungan data: di Bosnia dan Herzegovina kepada Agensi Perlindungan Data Peribadi, di EU kepada pihak berkuasa kebangsaan anda."
+      "b": "Anda boleh mendapatkan salinan data anda dalam format yang boleh dibaca mesin (JSON — Tetapan menghantarnya ke e-mel anda) dan membawanya ke perkhidmatan lain; membetulkan yang salah; memadam akaun; meminta kami mengehadkan penggunaan data anda, contohnya semasa aduan disemak; membantah penggunaan yang berasaskan kepentingan sah kami; dan menarik balik persetujuan pada bila-bila masa, tanpa menjejaskan apa yang telah dilakukan sebelumnya. Untuk menarik balik persetujuan semakan wajah, tulis kepada kami dan kami akan memadam foto serta membuang lencana. Maklumat agama ialah sebahagian daripada setiap profil di sini, jadi menarik balik persetujuan untuknya bermakna memadam akaun. Tiada keputusan yang membawa kesan undang-undang atau kesan ketara yang serupa dibuat tentang anda semata-mata secara automatik. Untuk perkara lain, tulis kepada support@niyyahmarriage.com — jawapan dalam 30 hari. Anda juga berhak membuat aduan kepada pihak berkuasa perlindungan data. Pihak berkuasa penyelia utama kami ialah Inspektorat Perlindungan Data Estonia (Andmekaitse Inspektsioon, www.aki.ee); anda juga boleh membuat aduan kepada pihak berkuasa di negara anda sendiri — di EU kepada pihak berkuasa kebangsaan anda, di Bosnia dan Herzegovina kepada Agensi Perlindungan Data Peribadi."
     },
     {
       "h": "Keselamatan, bawah umur dan perubahan",
@@ -505,7 +505,7 @@ export const privacy: Record<string, LegalSection[]> = {
   "fr": [
     {
       "h": "Qui est responsable",
-      "b": "Niyyah est géré par Orhan Bajramović, responsable du traitement de tes données personnelles. Pour toute question sur cette politique, écris à support@niyyahmarriage.com."
+      "b": "Niyyah est géré par Puzzles IT OÜ, société à responsabilité limitée immatriculée en Estonie (code registre 16552842 ; adresse : Sepapaja tn 6, 15551 Tallinn, Estonie), responsable du traitement de tes données personnelles. La société est représentée par son membre du directoire, Nermedin Džeković. Pour toute question sur cette politique, écris à support@niyyahmarriage.com."
     },
     {
       "h": "Ce que nous collectons",
@@ -553,7 +553,7 @@ export const privacy: Record<string, LegalSection[]> = {
     },
     {
       "h": "Tes droits",
-      "b": "Tu peux obtenir une copie de tes données dans un format lisible par machine (JSON — les Réglages l’envoient à ton e-mail) et l’emporter vers un autre service ; corriger ce qui est faux ; supprimer ton compte ; nous demander de limiter l’utilisation de tes données, par exemple pendant l’examen d’une réclamation ; t’opposer à un usage fondé sur notre intérêt légitime ; et retirer un consentement à tout moment, sans effet sur ce qui a été fait avant. Pour retirer ton consentement à la vérification du visage, écris-nous : nous supprimerons la photo et retirerons le badge. Les informations religieuses font partie de chaque profil ici, donc retirer ce consentement signifie supprimer le compte. Aucune décision produisant des effets juridiques ou d’effet similairement important n’est prise à ton sujet sur la seule base d’un traitement automatisé. Pour le reste, écris à support@niyyahmarriage.com — réponse sous 30 jours. Tu peux aussi porter plainte auprès de l’autorité de protection des données : en Bosnie-Herzégovine l’Agence pour la protection des données personnelles, dans l’UE ton autorité nationale."
+      "b": "Tu peux obtenir une copie de tes données dans un format lisible par machine (JSON — les Réglages l’envoient à ton e-mail) et l’emporter vers un autre service ; corriger ce qui est faux ; supprimer ton compte ; nous demander de limiter l’utilisation de tes données, par exemple pendant l’examen d’une réclamation ; t’opposer à un usage fondé sur notre intérêt légitime ; et retirer un consentement à tout moment, sans effet sur ce qui a été fait avant. Pour retirer ton consentement à la vérification du visage, écris-nous : nous supprimerons la photo et retirerons le badge. Les informations religieuses font partie de chaque profil ici, donc retirer ce consentement signifie supprimer le compte. Aucune décision produisant des effets juridiques ou d’effet similairement important n’est prise à ton sujet sur la seule base d’un traitement automatisé. Pour le reste, écris à support@niyyahmarriage.com — réponse sous 30 jours. Tu peux aussi porter plainte auprès d’une autorité de protection des données. Notre autorité de contrôle chef de file est l’Inspection estonienne de la protection des données (Andmekaitse Inspektsioon, www.aki.ee) ; tu peux aussi t’adresser à l’autorité de ton propre pays — dans l’UE ton autorité nationale, en Bosnie-Herzégovine l’Agence pour la protection des données personnelles."
     },
     {
       "h": "Sécurité, mineurs et modifications",
@@ -570,7 +570,7 @@ export const terms: Record<string, LegalSection[]> = {
   "en": [
     {
       "h": "Who we are, and what this covers",
-      "b": "Niyyah is a matchmaking service for Muslims seeking marriage, operated from Bosnia and Herzegovina. These terms are the agreement between you and us for your use of the Niyyah app. By creating an account you accept them. If you do not accept them, please do not use the service. If you downloaded the app from the App Store, Apple's standard licence agreement for apps (EULA) also applies to it."
+      "b": "Niyyah is a matchmaking service for Muslims seeking marriage, provided by Puzzles IT OÜ, a company registered in Estonia (registry code 16552842, VAT number EE102585232; Sepapaja tn 6, 15551 Tallinn, Estonia). These terms are the agreement between you and Puzzles IT OÜ (\"we\", \"us\") for your use of the Niyyah app. By creating an account you accept them. If you do not accept them, please do not use the service. If you downloaded the app from the App Store, Apple's standard licence agreement for apps (EULA) also applies to it."
     },
     {
       "h": "Who may use Niyyah",
@@ -602,13 +602,13 @@ export const terms: Record<string, LegalSection[]> = {
     },
     {
       "h": "Limits, changes and governing law",
-      "b": "Niyyah is provided as it is. We work hard to keep it safe and available, but we cannot promise it will never be interrupted, and we cannot be responsible for how any member behaves, on the app or off it. Meeting anyone in person is your decision and your responsibility. We may update these terms; if a change matters, we will tell you in the app before it takes effect. These terms are governed by the law of Bosnia and Herzegovina."
+      "b": "Niyyah is provided as it is. We work hard to keep it safe and available, but we cannot promise it will never be interrupted, and we cannot be responsible for how any member behaves, on the app or off it. Meeting anyone in person is your decision and your responsibility. We may update these terms; if a change matters, we will tell you in the app before it takes effect. These terms are governed by the law of Estonia. This does not deprive you of the protection of the mandatory consumer-protection rules of the country where you live. Disputes are decided by the courts of Estonia (Harju County Court, Harju Maakohus), without prejudice to your right as a consumer to bring proceedings in the courts of the country where you live."
     }
   ],
   "bs": [
     {
       "h": "Ko smo mi i šta ovo pokriva",
-      "b": "Niyyah je servis za upoznavanje muslimana koji traže brak, a vodi se iz Bosne i Hercegovine. Ovi uslovi su ugovor između tebe i nas za korištenje Niyyah aplikacije. Otvaranjem naloga prihvataš ih. Ako ih ne prihvataš, molimo te da ne koristiš servis. Za aplikaciju preuzetu iz App Store-a važi i Appleov standardni licencni ugovor za aplikacije (EULA)."
+      "b": "Niyyah je servis za upoznavanje muslimana koji traže brak koji pruža Puzzles IT OÜ, društvo registrovano u Estoniji (registarski broj 16552842, PDV broj EE102585232; Sepapaja tn 6, 15551 Tallinn, Estonija). Ovi uslovi su ugovor između tebe i društva Puzzles IT OÜ („mi“, „nas“) za korištenje Niyyah aplikacije. Otvaranjem naloga prihvataš ih. Ako ih ne prihvataš, molimo te da ne koristiš servis. Za aplikaciju preuzetu iz App Store-a važi i Appleov standardni licencni ugovor za aplikacije (EULA)."
     },
     {
       "h": "Ko može koristiti Niyyah",
@@ -640,13 +640,13 @@ export const terms: Record<string, LegalSection[]> = {
     },
     {
       "h": "Ograničenja, izmjene i mjerodavno pravo",
-      "b": "Niyyah se pruža takva kakva jeste. Trudimo se da bude sigurna i dostupna, ali ne možemo obećati da nikada neće biti prekida, niti možemo odgovarati za to kako se neki član ponaša, u aplikaciji ili van nje. Susret uživo je tvoja odluka i tvoja odgovornost. Ove uslove možemo mijenjati; ako je izmjena bitna, javit ćemo ti u aplikaciji prije nego stupi na snagu. Na ove uslove primjenjuje se pravo Bosne i Hercegovine."
+      "b": "Niyyah se pruža takva kakva jeste. Trudimo se da bude sigurna i dostupna, ali ne možemo obećati da nikada neće biti prekida, niti možemo odgovarati za to kako se neki član ponaša, u aplikaciji ili van nje. Susret uživo je tvoja odluka i tvoja odgovornost. Ove uslove možemo mijenjati; ako je izmjena bitna, javit ćemo ti u aplikaciji prije nego stupi na snagu. Na ove uslove primjenjuje se pravo Estonije. Time ne gubiš zaštitu koju ti daju obavezni propisi o zaštiti potrošača zemlje u kojoj živiš. Za sporove su nadležni sudovi u Estoniji (Okružni sud Harju, Harju Maakohus), bez uticaja na tvoje pravo da kao potrošač pokreneš postupak pred sudom zemlje u kojoj živiš."
     }
   ],
   "de": [
     {
       "h": "Wer wir sind und was das hier regelt",
-      "b": "Niyyah ist ein Vermittlungsdienst für Muslime, die eine Ehe suchen, betrieben aus Bosnien und Herzegowina. Diese Bedingungen sind die Vereinbarung zwischen dir und uns über die Nutzung der Niyyah-App. Mit dem Anlegen eines Kontos nimmst du sie an. Wenn du sie nicht annimmst, nutze den Dienst bitte nicht. Für die aus dem App Store geladene App gilt zusätzlich Apples Standard-Lizenzvertrag für Apps (EULA)."
+      "b": "Niyyah ist ein Vermittlungsdienst für Muslime, die eine Ehe suchen, bereitgestellt von der Puzzles IT OÜ, einer in Estland eingetragenen Gesellschaft (Registernummer 16552842, USt-IdNr. EE102585232; Sepapaja tn 6, 15551 Tallinn, Estland). Diese Bedingungen sind die Vereinbarung zwischen dir und der Puzzles IT OÜ („wir“, „uns“) über die Nutzung der Niyyah-App. Mit dem Anlegen eines Kontos nimmst du sie an. Wenn du sie nicht annimmst, nutze den Dienst bitte nicht. Für die aus dem App Store geladene App gilt zusätzlich Apples Standard-Lizenzvertrag für Apps (EULA)."
     },
     {
       "h": "Wer Niyyah nutzen darf",
@@ -678,13 +678,13 @@ export const terms: Record<string, LegalSection[]> = {
     },
     {
       "h": "Grenzen, Änderungen und anwendbares Recht",
-      "b": "Niyyah wird so bereitgestellt, wie es ist. Wir arbeiten daran, den Dienst sicher und verfügbar zu halten, können aber keine unterbrechungsfreie Nutzung versprechen und nicht dafür einstehen, wie sich ein Mitglied verhält — in der App oder außerhalb. Ein persönliches Treffen ist deine Entscheidung und deine Verantwortung. Wir können diese Bedingungen ändern; ist eine Änderung wesentlich, informieren wir dich vorher in der App. Es gilt das Recht von Bosnien und Herzegowina."
+      "b": "Niyyah wird so bereitgestellt, wie es ist. Wir arbeiten daran, den Dienst sicher und verfügbar zu halten, können aber keine unterbrechungsfreie Nutzung versprechen und nicht dafür einstehen, wie sich ein Mitglied verhält — in der App oder außerhalb. Ein persönliches Treffen ist deine Entscheidung und deine Verantwortung. Wir können diese Bedingungen ändern; ist eine Änderung wesentlich, informieren wir dich vorher in der App. Es gilt das Recht von Estland. Dadurch verlierst du nicht den Schutz der zwingenden Verbraucherschutzvorschriften des Landes, in dem du lebst. Für Streitigkeiten sind die Gerichte in Estland zuständig (Kreisgericht Harju, Harju Maakohus); dein Recht als Verbraucher, vor den Gerichten deines Wohnsitzlandes zu klagen, bleibt unberührt."
     }
   ],
   "tr": [
     {
       "h": "Biz kimiz ve bu metin neyi kapsıyor",
-      "b": "Niyyah, evlilik arayan Müslümanlar için Bosna-Hersek’ten yürütülen bir tanışma hizmetidir. Bu koşullar, Niyyah uygulamasını kullanman konusunda seninle bizim aramızdaki sözleşmedir. Hesap oluşturarak bunları kabul etmiş olursun. Kabul etmiyorsan lütfen hizmeti kullanma. App Store’dan indirilen uygulama için Apple’ın standart uygulama lisans sözleşmesi (EULA) de geçerlidir."
+      "b": "Niyyah, evlilik arayan Müslümanlar için bir tanışma hizmetidir ve Estonya’da tescilli Puzzles IT OÜ şirketi tarafından sunulur (sicil numarası 16552842, KDV numarası EE102585232; Sepapaja tn 6, 15551 Tallinn, Estonya). Bu koşullar, Niyyah uygulamasını kullanman konusunda seninle Puzzles IT OÜ (“biz”) arasındaki sözleşmedir. Hesap oluşturarak bunları kabul etmiş olursun. Kabul etmiyorsan lütfen hizmeti kullanma. App Store’dan indirilen uygulama için Apple’ın standart uygulama lisans sözleşmesi (EULA) de geçerlidir."
     },
     {
       "h": "Niyyah’ı kimler kullanabilir",
@@ -716,13 +716,13 @@ export const terms: Record<string, LegalSection[]> = {
     },
     {
       "h": "Sınırlar, değişiklikler ve uygulanacak hukuk",
-      "b": "Niyyah olduğu gibi sunulur. Güvenli ve erişilebilir kalması için çalışırız, ancak hiç kesinti olmayacağını vaat edemez ve bir üyenin uygulama içinde ya da dışında nasıl davrandığından sorumlu olamayız. Biriyle yüz yüze görüşmek senin kararın ve senin sorumluluğundur. Bu koşulları güncelleyebiliriz; değişiklik önemliyse yürürlüğe girmeden önce uygulamada bildiririz. Bu koşullara Bosna-Hersek hukuku uygulanır."
+      "b": "Niyyah olduğu gibi sunulur. Güvenli ve erişilebilir kalması için çalışırız, ancak hiç kesinti olmayacağını vaat edemez ve bir üyenin uygulama içinde ya da dışında nasıl davrandığından sorumlu olamayız. Biriyle yüz yüze görüşmek senin kararın ve senin sorumluluğundur. Bu koşulları güncelleyebiliriz; değişiklik önemliyse yürürlüğe girmeden önce uygulamada bildiririz. Bu koşullara Estonya hukuku uygulanır. Bu, yaşadığın ülkenin emredici tüketici koruma kurallarının sağladığı korumayı senden almaz. Uyuşmazlıklarda Estonya mahkemeleri (Harju İlçe Mahkemesi, Harju Maakohus) yetkilidir; tüketici olarak yaşadığın ülkenin mahkemelerinde dava açma hakkın saklıdır."
     }
   ],
   "ar": [
     {
       "h": "من نحن وما الذي تغطيه هذه الشروط",
-      "b": "Niyyah خدمة للتعارف بغرض الزواج للمسلمين، تُدار من البوسنة والهرسك. هذه الشروط هي الاتفاق بينك وبيننا بشأن استخدامك لتطبيق Niyyah. بإنشاء حساب فإنك تقبلها. وإن كنت لا تقبلها، فالرجاء عدم استخدام الخدمة. إذا نزّلت التطبيق من App Store، تسري عليه أيضًا اتفاقية الترخيص القياسية من Apple للتطبيقات (EULA)."
+      "b": "Niyyah خدمة للتعارف بغرض الزواج للمسلمين، تقدّمها شركة Puzzles IT OÜ المسجّلة في إستونيا (رقم التسجيل: 16552842، رقم ضريبة القيمة المضافة: EE102585232؛ Sepapaja tn 6, 15551 Tallinn، إستونيا). هذه الشروط هي الاتفاق بينك وبين Puzzles IT OÜ («نحن») بشأن استخدامك لتطبيق Niyyah. بإنشاء حساب فإنك تقبلها. وإن كنت لا تقبلها، فالرجاء عدم استخدام الخدمة. إذا نزّلت التطبيق من App Store، تسري عليه أيضًا اتفاقية الترخيص القياسية من Apple للتطبيقات (EULA)."
     },
     {
       "h": "من يحق له استخدام Niyyah",
@@ -754,13 +754,13 @@ export const terms: Record<string, LegalSection[]> = {
     },
     {
       "h": "الحدود والتغييرات والقانون الواجب التطبيق",
-      "b": "يُقدَّم Niyyah كما هو. نعمل جاهدين على إبقائه آمنًا ومتاحًا، لكننا لا نستطيع الوعد بألا ينقطع أبدًا، ولا أن نتحمل مسؤولية سلوك أي عضو داخل التطبيق أو خارجه. ولقاء أي شخص على أرض الواقع قرارك ومسؤوليتك. وقد نحدّث هذه الشروط؛ وإذا كان التغيير جوهريًا فسنخبرك داخل التطبيق قبل سريانه. ويحكم هذه الشروط قانون البوسنة والهرسك."
+      "b": "يُقدَّم Niyyah كما هو. نعمل جاهدين على إبقائه آمنًا ومتاحًا، لكننا لا نستطيع الوعد بألا ينقطع أبدًا، ولا أن نتحمل مسؤولية سلوك أي عضو داخل التطبيق أو خارجه. ولقاء أي شخص على أرض الواقع قرارك ومسؤوليتك. وقد نحدّث هذه الشروط؛ وإذا كان التغيير جوهريًا فسنخبرك داخل التطبيق قبل سريانه. ويحكم هذه الشروط قانون إستونيا. ولا يحرمك ذلك من الحماية التي تمنحها لك قواعد حماية المستهلك الإلزامية في البلد الذي تعيش فيه. وتختص محاكم إستونيا (محكمة مقاطعة هاريو، Harju Maakohus) بالفصل في النزاعات، دون المساس بحقك بصفتك مستهلكًا في رفع الدعوى أمام محاكم البلد الذي تعيش فيه."
     }
   ],
   "id": [
     {
       "h": "Siapa kami, dan apa yang diatur di sini",
-      "b": "Niyyah adalah layanan perjodohan bagi Muslim yang mencari pernikahan, dikelola dari Bosnia dan Herzegovina. Ketentuan ini adalah perjanjian antara kamu dan kami atas penggunaan aplikasi Niyyah. Dengan membuat akun, kamu menerimanya. Jika kamu tidak menerimanya, mohon jangan gunakan layanan ini. Untuk aplikasi yang diunduh dari App Store, perjanjian lisensi standar Apple untuk aplikasi (EULA) juga berlaku."
+      "b": "Niyyah adalah layanan perjodohan bagi Muslim yang mencari pernikahan, yang disediakan oleh Puzzles IT OÜ, perusahaan yang terdaftar di Estonia (nomor registrasi 16552842, nomor PPN EE102585232; Sepapaja tn 6, 15551 Tallinn, Estonia). Ketentuan ini adalah perjanjian antara kamu dan Puzzles IT OÜ (\"kami\") atas penggunaan aplikasi Niyyah. Dengan membuat akun, kamu menerimanya. Jika kamu tidak menerimanya, mohon jangan gunakan layanan ini. Untuk aplikasi yang diunduh dari App Store, perjanjian lisensi standar Apple untuk aplikasi (EULA) juga berlaku."
     },
     {
       "h": "Siapa yang boleh menggunakan Niyyah",
@@ -792,13 +792,13 @@ export const terms: Record<string, LegalSection[]> = {
     },
     {
       "h": "Batasan, perubahan, dan hukum yang berlaku",
-      "b": "Niyyah disediakan apa adanya. Kami berupaya menjaganya tetap aman dan tersedia, tetapi kami tidak dapat menjanjikan tidak akan pernah ada gangguan, dan kami tidak dapat bertanggung jawab atas perilaku anggota mana pun, baik di dalam aplikasi maupun di luarnya. Bertemu siapa pun secara langsung adalah keputusan dan tanggung jawabmu. Kami dapat memperbarui ketentuan ini; jika ada perubahan penting, kami akan memberi tahu di aplikasi sebelum berlaku. Ketentuan ini tunduk pada hukum Bosnia dan Herzegovina."
+      "b": "Niyyah disediakan apa adanya. Kami berupaya menjaganya tetap aman dan tersedia, tetapi kami tidak dapat menjanjikan tidak akan pernah ada gangguan, dan kami tidak dapat bertanggung jawab atas perilaku anggota mana pun, baik di dalam aplikasi maupun di luarnya. Bertemu siapa pun secara langsung adalah keputusan dan tanggung jawabmu. Kami dapat memperbarui ketentuan ini; jika ada perubahan penting, kami akan memberi tahu di aplikasi sebelum berlaku. Ketentuan ini tunduk pada hukum Estonia. Hal ini tidak menghilangkan perlindungan yang diberikan kepadamu oleh aturan wajib perlindungan konsumen di negara tempat kamu tinggal. Sengketa diputus oleh pengadilan di Estonia (Pengadilan Distrik Harju, Harju Maakohus), tanpa mengurangi hakmu sebagai konsumen untuk menggugat di pengadilan negara tempat kamu tinggal."
     }
   ],
   "ur": [
     {
       "h": "ہم کون ہیں، اور یہ کن باتوں پر لاگو ہے",
-      "b": "Niyyah نکاح کے خواہشمند مسلمانوں کے لیے رشتہ تلاش کرنے کی خدمت ہے، جو بوسنیا و ہرزیگووینا سے چلائی جاتی ہے۔ یہ شرائط Niyyah ایپ کے استعمال کے بارے میں آپ کے اور ہمارے درمیان معاہدہ ہیں۔ اکاؤنٹ بنا کر آپ انہیں قبول کرتے ہیں۔ اگر آپ انہیں قبول نہیں کرتے تو براہ کرم یہ خدمت استعمال نہ کریں۔ App Store سے ڈاؤن لوڈ کی گئی ایپ پر Apple کا معیاری لائسنس معاہدہ برائے ایپس (EULA) بھی لاگو ہوتا ہے۔"
+      "b": "Niyyah نکاح کے خواہشمند مسلمانوں کے لیے رشتہ تلاش کرنے کی خدمت ہے، جو اسٹونیا میں رجسٹرڈ کمپنی Puzzles IT OÜ فراہم کرتی ہے (رجسٹری نمبر 16552842، VAT نمبر EE102585232؛ Sepapaja tn 6, 15551 Tallinn، اسٹونیا)۔ یہ شرائط Niyyah ایپ کے استعمال کے بارے میں آپ کے اور Puzzles IT OÜ (جسے یہاں \"ہم\" کہا گیا ہے) کے درمیان معاہدہ ہیں۔ اکاؤنٹ بنا کر آپ انہیں قبول کرتے ہیں۔ اگر آپ انہیں قبول نہیں کرتے تو براہ کرم یہ خدمت استعمال نہ کریں۔ App Store سے ڈاؤن لوڈ کی گئی ایپ پر Apple کا معیاری لائسنس معاہدہ برائے ایپس (EULA) بھی لاگو ہوتا ہے۔"
     },
     {
       "h": "Niyyah کون استعمال کر سکتا ہے",
@@ -830,13 +830,13 @@ export const terms: Record<string, LegalSection[]> = {
     },
     {
       "h": "حدود، تبدیلیاں اور مجازی قانون",
-      "b": "Niyyah جیسا ہے ویسا فراہم کیا جاتا ہے۔ ہم اسے محفوظ اور دستیاب رکھنے کی کوشش کرتے ہیں، مگر یہ وعدہ نہیں کر سکتے کہ کبھی رکاوٹ نہیں آئے گی، اور نہ ہی کسی رکن کے رویّے کے ذمہ دار ہو سکتے ہیں، ایپ کے اندر ہو یا باہر۔ کسی سے بالمشافہ ملاقات آپ کا فیصلہ اور آپ کی ذمہ داری ہے۔ ہم یہ شرائط تبدیل کر سکتے ہیں؛ اگر تبدیلی اہم ہو تو نافذ ہونے سے پہلے ایپ میں بتائیں گے۔ ان شرائط پر بوسنیا و ہرزیگووینا کا قانون لاگو ہوتا ہے۔"
+      "b": "Niyyah جیسا ہے ویسا فراہم کیا جاتا ہے۔ ہم اسے محفوظ اور دستیاب رکھنے کی کوشش کرتے ہیں، مگر یہ وعدہ نہیں کر سکتے کہ کبھی رکاوٹ نہیں آئے گی، اور نہ ہی کسی رکن کے رویّے کے ذمہ دار ہو سکتے ہیں، ایپ کے اندر ہو یا باہر۔ کسی سے بالمشافہ ملاقات آپ کا فیصلہ اور آپ کی ذمہ داری ہے۔ ہم یہ شرائط تبدیل کر سکتے ہیں؛ اگر تبدیلی اہم ہو تو نافذ ہونے سے پہلے ایپ میں بتائیں گے۔ ان شرائط پر اسٹونیا کا قانون لاگو ہوتا ہے۔ اس سے آپ اپنے ملکِ رہائش کے لازمی صارف تحفظ قوانین کے تحفظ سے محروم نہیں ہوتے۔ تنازعات کا فیصلہ اسٹونیا کی عدالتیں (ہاریو کاؤنٹی کورٹ، Harju Maakohus) کرتی ہیں، اور صارف کی حیثیت سے اپنے ملکِ رہائش کی عدالتوں میں مقدمہ دائر کرنے کا آپ کا حق برقرار رہتا ہے۔"
     }
   ],
   "ms": [
     {
       "h": "Siapa kami, dan apa yang diliputi",
-      "b": "Niyyah ialah perkhidmatan mencari jodoh untuk umat Islam yang mahu berkahwin, dikendalikan dari Bosnia dan Herzegovina. Syarat ini ialah perjanjian antara awak dan kami bagi penggunaan aplikasi Niyyah. Dengan mencipta akaun, awak menerimanya. Jika awak tidak menerimanya, sila jangan gunakan perkhidmatan ini. Bagi aplikasi yang dimuat turun dari App Store, perjanjian lesen standard Apple untuk aplikasi (EULA) turut terpakai."
+      "b": "Niyyah ialah perkhidmatan mencari jodoh untuk umat Islam yang mahu berkahwin, yang disediakan oleh Puzzles IT OÜ, syarikat yang didaftarkan di Estonia (nombor pendaftaran 16552842, nombor VAT EE102585232; Sepapaja tn 6, 15551 Tallinn, Estonia). Syarat ini ialah perjanjian antara awak dan Puzzles IT OÜ (\"kami\") bagi penggunaan aplikasi Niyyah. Dengan mencipta akaun, awak menerimanya. Jika awak tidak menerimanya, sila jangan gunakan perkhidmatan ini. Bagi aplikasi yang dimuat turun dari App Store, perjanjian lesen standard Apple untuk aplikasi (EULA) turut terpakai."
     },
     {
       "h": "Siapa boleh menggunakan Niyyah",
@@ -868,13 +868,13 @@ export const terms: Record<string, LegalSection[]> = {
     },
     {
       "h": "Had, perubahan dan undang-undang yang terpakai",
-      "b": "Niyyah disediakan sebagaimana adanya. Kami berusaha memastikannya selamat dan tersedia, tetapi kami tidak boleh menjanjikan ia tidak akan terganggu, dan kami tidak boleh bertanggungjawab atas kelakuan mana-mana ahli, di dalam aplikasi mahupun di luar. Bertemu sesiapa secara bersemuka ialah keputusan dan tanggungjawab awak. Kami boleh mengemas kini syarat ini; jika perubahan itu penting, kami akan memberitahu dalam aplikasi sebelum ia berkuat kuasa. Syarat ini tertakluk kepada undang-undang Bosnia dan Herzegovina."
+      "b": "Niyyah disediakan sebagaimana adanya. Kami berusaha memastikannya selamat dan tersedia, tetapi kami tidak boleh menjanjikan ia tidak akan terganggu, dan kami tidak boleh bertanggungjawab atas kelakuan mana-mana ahli, di dalam aplikasi mahupun di luar. Bertemu sesiapa secara bersemuka ialah keputusan dan tanggungjawab awak. Kami boleh mengemas kini syarat ini; jika perubahan itu penting, kami akan memberitahu dalam aplikasi sebelum ia berkuat kuasa. Syarat ini tertakluk kepada undang-undang Estonia. Ini tidak menghilangkan perlindungan yang diberikan kepada awak oleh peraturan wajib perlindungan pengguna di negara tempat awak tinggal. Pertikaian diputuskan oleh mahkamah di Estonia (Mahkamah Daerah Harju, Harju Maakohus), tanpa menjejaskan hak awak sebagai pengguna untuk membawa tindakan di mahkamah negara tempat awak tinggal."
     }
   ],
   "fr": [
     {
       "h": "Qui nous sommes et ce que couvre ce texte",
-      "b": "Niyyah est un service de mise en relation en vue du mariage, destiné aux musulmans et exploité depuis la Bosnie-Herzégovine. Ces conditions constituent l'accord entre toi et nous concernant l'utilisation de l'application Niyyah. En créant un compte, tu les acceptes. Si tu ne les acceptes pas, n'utilise pas le service. Pour l’app téléchargée depuis l’App Store, le contrat de licence standard d’Apple pour les apps (EULA) s’applique également."
+      "b": "Niyyah est un service de mise en relation en vue du mariage, destiné aux musulmans et fourni par Puzzles IT OÜ, société immatriculée en Estonie (code registre 16552842, n° TVA EE102585232 ; Sepapaja tn 6, 15551 Tallinn, Estonie). Ces conditions constituent l'accord entre toi et Puzzles IT OÜ (« nous ») concernant l'utilisation de l'application Niyyah. En créant un compte, tu les acceptes. Si tu ne les acceptes pas, n'utilise pas le service. Pour l’app téléchargée depuis l’App Store, le contrat de licence standard d’Apple pour les apps (EULA) s’applique également."
     },
     {
       "h": "Qui peut utiliser Niyyah",
@@ -906,7 +906,7 @@ export const terms: Record<string, LegalSection[]> = {
     },
     {
       "h": "Limites, modifications et droit applicable",
-      "b": "Niyyah est fournie en l'état. Nous faisons de notre mieux pour qu'elle reste sûre et disponible, mais nous ne pouvons pas promettre qu'elle ne connaîtra jamais d'interruption, et nous ne pouvons pas être tenus responsables du comportement d'un membre, dans l'application comme en dehors. Rencontrer quelqu'un en personne relève de ta décision et de ta responsabilité. Nous pouvons mettre ces conditions à jour ; si la modification est importante, nous te préviendrons dans l'application avant son entrée en vigueur. Ces conditions sont régies par le droit de la Bosnie-Herzégovine."
+      "b": "Niyyah est fournie en l'état. Nous faisons de notre mieux pour qu'elle reste sûre et disponible, mais nous ne pouvons pas promettre qu'elle ne connaîtra jamais d'interruption, et nous ne pouvons pas être tenus responsables du comportement d'un membre, dans l'application comme en dehors. Rencontrer quelqu'un en personne relève de ta décision et de ta responsabilité. Nous pouvons mettre ces conditions à jour ; si la modification est importante, nous te préviendrons dans l'application avant son entrée en vigueur. Ces conditions sont régies par le droit estonien. Cela ne te prive pas de la protection des règles impératives de protection des consommateurs du pays où tu vis. Les litiges relèvent des tribunaux d’Estonie (tribunal de comté de Harju, Harju Maakohus), sans préjudice de ton droit, en tant que consommateur, d’agir devant les tribunaux du pays où tu vis."
     }
   ]
 }

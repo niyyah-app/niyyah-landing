@@ -419,7 +419,6 @@ export const tl: Copy = {
   footer: {
     tagline: 'Kasal, hinahanap nang may layunin.',
     made: 'Ginawa nang may ingat sa Bosnia at Herzegovina.',
-    rights: 'Niyyah',
     language: 'Wika',
   },
 }

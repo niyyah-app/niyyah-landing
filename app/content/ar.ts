@@ -419,7 +419,6 @@ export const ar: Copy = {
   footer: {
     tagline: 'زواج يُطلب بنيّة.',
     made: 'صُنع بعناية في البوسنة والهرسك.',
-    rights: 'نيّة',
     language: 'اللغة',
   },
 }

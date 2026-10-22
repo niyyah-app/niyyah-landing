@@ -419,7 +419,6 @@ export const ha: Copy = {
   footer: {
     tagline: 'Aure, da ake nema da niyya.',
     made: 'An yi ta da kulawa a Bosniya da Herzegovina.',
-    rights: 'Niyyah',
     language: 'Harshe',
   },
 }

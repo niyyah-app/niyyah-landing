@@ -420,7 +420,6 @@ export const az: Copy = {
   footer: {
     tagline: 'Niyyətlə axtarılan evlilik.',
     made: 'Bosniya və Herseqovinada diqqətlə hazırlanıb.',
-    rights: 'Niyyah',
     language: 'Dil',
   },
 }

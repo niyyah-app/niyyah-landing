@@ -420,7 +420,6 @@ export const sw: Copy = {
   footer: {
     tagline: 'Ndoa, inayotafutwa kwa nia.',
     made: 'Imetengenezwa kwa uangalifu katika Bosnia na Herzegovina.',
-    rights: 'Niyyah',
     language: 'Lugha',
   },
 }

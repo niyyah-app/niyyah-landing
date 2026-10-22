@@ -420,7 +420,6 @@ export const fa: Copy = {
   footer: {
     tagline: 'ازدواجی که با نیّت جُسته می‌شود.',
     made: 'با دقت در بوسنی و هرزگوین ساخته شده.',
-    rights: 'نیّه',
     language: 'زبان',
   },
 }

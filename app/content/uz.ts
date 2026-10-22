@@ -420,7 +420,6 @@ export const uz: Copy = {
   footer: {
     tagline: 'Niyat bilan izlangan nikoh.',
     made: 'Bosniya va Gertsegovinada ehtiyotkorlik bilan tayyorlangan.',
-    rights: 'Niyyah',
     language: 'Til',
   },
 }

@@ -419,7 +419,6 @@ export const ku: Copy = {
   footer: {
     tagline: 'Zewac, ku bi niyetê tê gerîn.',
     made: 'Bi baldarî li Bosna û Hersekê hatiye çêkirin.',
-    rights: 'Niyyah',
     language: 'Ziman',
   },
 }

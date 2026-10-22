@@ -420,7 +420,6 @@ export const nl: Copy = {
   footer: {
     tagline: 'Een huwelijk, gezocht met intentie.',
     made: 'Met zorg gemaakt in Bosnië en Herzegovina.',
-    rights: 'Niyyah',
     language: 'Taal',
   },
 }

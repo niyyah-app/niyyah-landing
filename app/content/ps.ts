@@ -419,7 +419,6 @@ export const ps: Copy = {
   footer: {
     tagline: 'نکاح چې په نیت سره لټول کیږي.',
     made: 'په بوسنیا او هرزګوینا کې په پاملرنې جوړ شوی.',
-    rights: 'نيّه',
     language: 'ژبه',
   },
 }

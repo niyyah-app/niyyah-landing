@@ -419,7 +419,6 @@ export const jv: Copy = {
   footer: {
     tagline: 'Bebrayan, digoleki kanthi niyat.',
     made: 'Digawe kanthi ati-ati ing Bosnia lan Herzegovina.',
-    rights: 'Niyyah',
     language: 'Basa',
   },
 }

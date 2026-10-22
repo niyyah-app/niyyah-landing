@@ -419,7 +419,6 @@ export const am: Copy = {
   footer: {
     tagline: 'በንየት የሚፈለግ ጋብቻ።',
     made: 'በቦስኒያና ሄርዞጎቪና በጥንቃቄ የተሠራ።',
-    rights: 'ኒያህ',
     language: 'ቋንቋ',
   },
 }

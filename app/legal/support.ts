@@ -25,7 +25,24 @@ export type SupportCopy = {
   moreTitle: string
   /** Tekst linka na stranicu za brisanje naloga. */
   deleteLink: string
+  /** Ko pruža uslugu (prodavac i rukovalac podataka); i na stranici brisanja naloga. */
+  operator: string
 }
+
+/**
+ * Prodavac i rukovalac podataka, iz estonskog poslovnog registra. Isto kao
+ * `kControllerName` i susjedne konstante u aplikaciji
+ * (frontend/lib/features/about/legal_content.dart). Naziv, adresa i brojevi
+ * se ne prevode; država se piše na jeziku teksta.
+ */
+export const company = {
+  name: 'Puzzles IT OÜ',
+  address: 'Sepapaja tn 6, 15551 Tallinn',
+  registryCode: '16552842',
+  vat: 'EE102585232',
+} as const
+
+const { name: N, address: A, registryCode: R, vat: V } = company
 
 export const support: Record<LegalLocale, SupportCopy> = {
   bs: {
@@ -51,6 +68,7 @@ export const support: Record<LegalLocale, SupportCopy> = {
     ],
     moreTitle: 'Još',
     deleteLink: 'Kako obrisati nalog',
+    operator: `Niyyah pruža ${N}, ${A}, Estonija (registarski broj ${R}, PDV broj ${V}).`,
   },
   en: {
     footer: 'Support',
@@ -75,6 +93,7 @@ export const support: Record<LegalLocale, SupportCopy> = {
     ],
     moreTitle: 'More',
     deleteLink: 'How to delete your account',
+    operator: `Niyyah is provided by ${N}, ${A}, Estonia (registry code ${R}, VAT number ${V}).`,
   },
   de: {
     footer: 'Support',
@@ -99,6 +118,7 @@ export const support: Record<LegalLocale, SupportCopy> = {
     ],
     moreTitle: 'Mehr',
     deleteLink: 'So löschst du dein Konto',
+    operator: `Niyyah wird bereitgestellt von der ${N}, ${A}, Estland (Registernummer ${R}, USt-IdNr. ${V}).`,
   },
   tr: {
     footer: 'Destek',
@@ -123,6 +143,7 @@ export const support: Record<LegalLocale, SupportCopy> = {
     ],
     moreTitle: 'Daha fazlası',
     deleteLink: 'Hesap nasıl silinir',
+    operator: `Niyyah, ${N} tarafından sunulur: ${A}, Estonya (sicil numarası ${R}, KDV numarası ${V}).`,
   },
   fr: {
     footer: 'Assistance',
@@ -147,6 +168,7 @@ export const support: Record<LegalLocale, SupportCopy> = {
     ],
     moreTitle: 'Plus',
     deleteLink: 'Comment supprimer ton compte',
+    operator: `Niyyah est fourni par ${N}, ${A}, Estonie (code registre ${R}, n° TVA ${V}).`,
   },
   id: {
     footer: 'Dukungan',
@@ -171,6 +193,7 @@ export const support: Record<LegalLocale, SupportCopy> = {
     ],
     moreTitle: 'Lainnya',
     deleteLink: 'Cara menghapus akun',
+    operator: `Niyyah disediakan oleh ${N}, ${A}, Estonia (nomor registrasi ${R}, nomor PPN ${V}).`,
   },
   ms: {
     footer: 'Sokongan',
@@ -195,6 +218,7 @@ export const support: Record<LegalLocale, SupportCopy> = {
     ],
     moreTitle: 'Lagi',
     deleteLink: 'Cara memadam akaun',
+    operator: `Niyyah disediakan oleh ${N}, ${A}, Estonia (nombor pendaftaran ${R}, nombor VAT ${V}).`,
   },
   ar: {
     footer: 'الدعم',
@@ -219,6 +243,7 @@ export const support: Record<LegalLocale, SupportCopy> = {
     ],
     moreTitle: 'المزيد',
     deleteLink: 'كيف تحذف حسابك',
+    operator: `تقدّم Niyyah شركة ${N}، ${A}، إستونيا (رقم التسجيل: ${R}، رقم ضريبة القيمة المضافة: ${V}).`,
   },
   ur: {
     footer: 'معاونت',
@@ -243,5 +268,6 @@ export const support: Record<LegalLocale, SupportCopy> = {
     ],
     moreTitle: 'مزید',
     deleteLink: 'اکاؤنٹ کیسے حذف کریں',
+    operator: `Niyyah کو ${N} فراہم کرتی ہے، ${A}، اسٹونیا (رجسٹری نمبر ${R}، VAT نمبر ${V})۔`,
   },
 }

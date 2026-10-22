@@ -419,7 +419,6 @@ export const wo: Copy = {
   footer: {
     tagline: 'Takk, bi ñuy wut ak niyyat.',
     made: 'Ñu ko def ak sago ci Bosni ak Herzegovina.',
-    rights: 'Niyyah',
     language: 'Làkk',
   },
 }

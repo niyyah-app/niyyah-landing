@@ -56,7 +56,7 @@ const supportLabel = computed(() => support[legalLang.value].footer)
       <NuxtLink :to="localePath('/uslovi', legalLang)" class="ftr__consent">{{ legal.terms }}</NuxtLink>
       <NuxtLink :to="localePath('/brisanje-naloga', legalLang)" class="ftr__consent">{{ deletionLabel }}</NuxtLink>
       <NuxtLink :to="localePath('/podrska', legalLang)" class="ftr__consent">{{ supportLabel }}</NuxtLink>
-      <p>© {{ year }} {{ c.footer.rights }}</p>
+      <p>© {{ year }} Puzzles IT OÜ</p>
     </div>
   </footer>
 </template>
