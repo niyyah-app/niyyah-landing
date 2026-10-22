@@ -21,8 +21,10 @@ export function useWaitlistCount() {
     if (loaded.value || !waitlistCountEndpoint) return
     loaded.value = true
     try {
-      const res = await $fetch<{ count: number }>(waitlistCountEndpoint)
-      count.value = typeof res?.count === 'number' ? res.count : null
+      const res = await $fetch<{ count: number | string }>(waitlistCountEndpoint)
+      // Server je jedno vrijeme slao broj kao tekst ("267"); prihvati oboje.
+      const n = Number(res?.count)
+      count.value = Number.isFinite(n) ? n : null
     } catch {
       // Broj je ukras, ne sadržaj: ako ne stigne, stranica ništa ne gubi.
       count.value = null

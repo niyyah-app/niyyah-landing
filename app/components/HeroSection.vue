@@ -10,52 +10,6 @@ const title = computed(() => {
   const i = t.indexOf(', ')
   return i === -1 ? { a: t, b: '' } : { a: t.slice(0, i + 1), b: t.slice(i + 2) }
 })
-
-// Odbrojavanje stoji desno od telefona, nikad preko njega. Gdje je ivica
-// telefona zavisi od širine slike, a koliko mjesta ima desno od nje od
-// širine ekrana — pa se mjeri. Kad sa strane nema mjesta, ide ispod.
-const visual = ref<HTMLElement | null>(null)
-const side = ref<{ left: string } | null>(null)
-const compact = ref(false)
-
-// Slika ima prozirnu marginu oko uređaja: vidljiva desna ivica telefona je
-// oko 12 % širine slike lijevo od ivice same slike.
-const PHONE_INSET = 0.12
-const GAP = 28
-const EDGE = 16
-// Široka kartica (sat i četiri broja u redu) i uska (brojevi 2 × 2).
-const WIDE = 360
-const NARROW = 190
-
-function place() {
-  const box = visual.value
-  const img = box?.querySelector<HTMLImageElement>('.hero__phone img')
-  if (!box || !img || window.innerWidth < 1200) {
-    side.value = null
-    compact.value = false
-    return
-  }
-  const b = box.getBoundingClientRect()
-  const r = img.getBoundingClientRect()
-  const left = r.right - r.width * PHONE_INSET + GAP
-  const room = window.innerWidth - EDGE - left
-  compact.value = room < WIDE
-  side.value = room >= NARROW ? { left: `${Math.round(left - b.left)}px` } : null
-}
-
-let observer: ResizeObserver | undefined
-onMounted(() => {
-  window.addEventListener('resize', place)
-  observer = new ResizeObserver(place)
-  if (visual.value) observer.observe(visual.value)
-  // Kartica se crta tek u pregledniku (ClientOnly) i ulazi s animacijom.
-  setTimeout(place, 50)
-  setTimeout(place, 600)
-})
-onBeforeUnmount(() => {
-  window.removeEventListener('resize', place)
-  observer?.disconnect()
-})
 </script>
 
 <template>
@@ -92,7 +46,7 @@ onBeforeUnmount(() => {
         </div>
       </div>
 
-      <div ref="visual" class="hero__visual">
+      <div class="hero__visual">
         <PhoneShot
           class="hero__phone"
           :src="heroShot"
@@ -113,13 +67,6 @@ onBeforeUnmount(() => {
           aria-hidden="true"
           loading="lazy"
         />
-        <div
-          class="hero__countdown"
-          :class="{ 'hero__countdown--side': side }"
-          :style="side ?? undefined"
-        >
-          <LaunchCountdown :compact="!!side && compact" />
-        </div>
       </div>
     </div>
   </section>
@@ -255,22 +202,6 @@ onBeforeUnmount(() => {
   opacity: 0.16;
   filter: blur(18px) saturate(0.6);
   pointer-events: none;
-}
-
-/* Bez mjesta sa strane (dok se ne izmjeri, ili na užem ekranu)
-   odbrojavanje stoji ispod telefona. Sa strane ga postavlja place(). */
-.hero__countdown {
-  display: flex;
-  justify-content: center;
-  margin-top: 1.5rem;
-}
-
-.hero__countdown--side {
-  position: absolute;
-  top: 66%;
-  z-index: 2;
-  margin: 0;
-  transform: translateY(-50%);
 }
 
 /* ── Učitavanje ──────────────────────────────────────────────────────── */
