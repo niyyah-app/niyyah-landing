@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { guideUi, isGuideLocale } from '~/guide/registry'
 import { isLegalLocale, legalUi } from '~/legal/content'
+import { childSafety } from '~/legal/childSafety'
 import { deletion } from '~/legal/deletion'
 import { support } from '~/legal/support'
 
@@ -16,6 +17,7 @@ const legalLang = computed(() => (isLegalLocale(locale.value) ? locale.value : '
 const legal = computed(() => legalUi[legalLang.value])
 const deletionLabel = computed(() => deletion[legalLang.value].footer)
 const supportLabel = computed(() => support[legalLang.value].footer)
+const childSafetyLabel = computed(() => childSafety[legalLang.value].footer)
 </script>
 
 <template>
@@ -56,6 +58,7 @@ const supportLabel = computed(() => support[legalLang.value].footer)
       <NuxtLink :to="localePath('/uslovi', legalLang)" class="ftr__consent">{{ legal.terms }}</NuxtLink>
       <NuxtLink :to="localePath('/brisanje-naloga', legalLang)" class="ftr__consent">{{ deletionLabel }}</NuxtLink>
       <NuxtLink :to="localePath('/podrska', legalLang)" class="ftr__consent">{{ supportLabel }}</NuxtLink>
+      <NuxtLink :to="localePath('/sigurnost-djece', legalLang)" class="ftr__consent">{{ childSafetyLabel }}</NuxtLink>
       <p>© {{ year }} Puzzles IT OÜ</p>
     </div>
   </footer>
