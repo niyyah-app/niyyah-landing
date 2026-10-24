@@ -71,6 +71,8 @@ export default defineNuxtConfig({
       // Meta pixel za reklame na Facebooku i Instagramu. Nije tajna: svako
       // ko otvori izvor stranice ga vidi. Prazno ga potpuno isključuje.
       metaPixelId: '4603339379933380',
+      // Google Analytics 4, ista priča: javan, a prazno ga isključuje.
+      gaMeasurementId: 'G-WBZ70LWT2R',
     },
   },
 

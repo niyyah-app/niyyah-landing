@@ -10,6 +10,9 @@
 
 const KEY = 'niyyah_consent'
 
+// Pixel i Analytics oba pitaju na učitavanju; jedno pitanje Cloudflareu je dosta.
+let deciding: Promise<void> | null = null
+
 export type ConsentState = 'checking' | 'asking' | 'granted' | 'denied'
 
 export function useConsent() {
@@ -24,8 +27,13 @@ export function useConsent() {
     state.value = value
   }
 
-  async function decide() {
+  function decide() {
     if (!import.meta.client || state.value !== 'checking') return
+    deciding ??= resolve()
+    return deciding
+  }
+
+  async function resolve() {
 
     let stored: string | null = null
     try {
