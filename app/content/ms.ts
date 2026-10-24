@@ -244,7 +244,7 @@ export const ms: Copy = {
       {
         icon: 'photo',
         title: 'Pemeriksaan gambar',
-        body: 'Foto yang kabur atau terlalu kecil tidak diterima, dan data tersembunyi dalam imej, seperti lokasi GPS, dibuang oleh sistem. Seorang daripada pasukan kami membandingkan swafoto pengesahan anda dengan foto anda.',
+        body: 'Foto yang kabur atau terlalu kecil tidak diterima, dan data tersembunyi dalam imej, seperti lokasi GPS, dibuang oleh sistem. Swafoto pengesahan anda dibandingkan dengan foto anda secara automatik, dan apa-apa yang tidak jelas disemak oleh seorang daripada pasukan kami.',
       },
       {
         icon: 'badge',

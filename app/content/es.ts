@@ -244,7 +244,7 @@ export const es: Copy = {
       {
         icon: 'photo',
         title: 'Revisión de fotos',
-        body: 'Las fotos borrosas o demasiado pequeñas no se aceptan, y el sistema elimina los datos ocultos de la imagen, como la ubicación GPS. Una persona de nuestro equipo compara tu selfie de verificación con tus fotos.',
+        body: 'Las fotos borrosas o demasiado pequeñas no se aceptan, y el sistema elimina los datos ocultos de la imagen, como la ubicación GPS. Tu selfie de verificación se compara automáticamente con tus fotos, y lo que no está claro lo revisa una persona de nuestro equipo.',
       },
       {
         icon: 'badge',

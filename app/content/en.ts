@@ -244,7 +244,7 @@ export const en: Copy = {
       {
         icon: 'photo',
         title: 'Photo checks',
-        body: 'Blurry and very small photos are turned away, and hidden data in the image, such as GPS location, is removed. A person from our team compares your verification selfie with your photos.',
+        body: 'Blurry and very small photos are turned away, and hidden data in the image, such as GPS location, is removed. Your verification selfie is compared with your photos automatically, and anything unclear is checked by a person from our team.',
       },
       {
         icon: 'badge',

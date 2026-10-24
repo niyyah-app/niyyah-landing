@@ -36,9 +36,14 @@ export function useWaitlistCount() {
   /** Broj koji se smije pokazati, ili `null` ako ga još nema dovoljno. */
   const shown = computed(() => (count.value !== null && count.value >= FLOOR ? count.value : null))
 
-  /** Nakon vlastite prijave čovjek vidi i sebe u broju. */
-  function increment() {
-    if (count.value !== null) count.value += 1
+  /**
+   * Nakon vlastite prijave čovjek vidi i sebe u broju. Broj se dohvata
+   * ponovo umjesto +1: server isto odgovara i na adresu koja je već na
+   * listi, pa bi ponovljena prijava naduvala broj.
+   */
+  async function increment() {
+    loaded.value = false
+    await load()
   }
 
   return { shown, increment }

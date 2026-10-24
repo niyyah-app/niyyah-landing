@@ -244,7 +244,7 @@ export const so: Copy = {
       {
         icon: 'photo',
         title: 'Hubinta sawirrada',
-        body: 'Sawirada aan caddayn iyo kuwa aadka u yar lama aqbalo, xogta ku qarsoon sawirka, sida goobta GPS, nidaamka ayaa tirtira. Qof ka mid ah kooxdayada ayaa is barbar dhiga selfie-ga xaqiijinta iyo sawiradaada.',
+        body: 'Sawirada aan caddayn iyo kuwa aadka u yar lama aqbalo, xogta ku qarsoon sawirka, sida goobta GPS, nidaamka ayaa tirtira. Selfie-ga xaqiijintaada si toos ah ayaa loo barbar dhigaa sawiradaada, wixii aan caddayna qof ka mid ah kooxdayada ayaa eega.',
       },
       {
         icon: 'badge',

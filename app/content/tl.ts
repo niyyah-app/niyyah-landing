@@ -244,7 +244,7 @@ export const tl: Copy = {
       {
         icon: 'photo',
         title: 'Pagsusuri ng mga litrato',
-        body: 'Hindi tinatanggap ang malabo at napakaliit na larawan, at tinatanggal ng sistema ang nakatagong data sa larawan, gaya ng GPS na lokasyon. Isang tao mula sa aming team ang naghahambing ng iyong verification selfie sa iyong mga larawan.',
+        body: 'Hindi tinatanggap ang malabo at napakaliit na larawan, at tinatanggal ng sistema ang nakatagong data sa larawan, gaya ng GPS na lokasyon. Awtomatikong inihahambing ang iyong verification selfie sa iyong mga larawan, at ang hindi malinaw ay sinusuri ng isang tao mula sa aming team.',
       },
       {
         icon: 'badge',

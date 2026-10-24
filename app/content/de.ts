@@ -244,7 +244,7 @@ export const de: Copy = {
       {
         icon: 'photo',
         title: 'Prüfung der Fotos',
-        body: 'Verschwommene und sehr kleine Fotos werden abgelehnt, und verborgene Daten im Bild, etwa den GPS-Standort, entfernt das System. Ein Mensch aus unserem Team vergleicht dein Verifizierungs-Selfie mit deinen Fotos.',
+        body: 'Verschwommene und sehr kleine Fotos werden abgelehnt, und verborgene Daten im Bild, etwa den GPS-Standort, entfernt das System. Dein Verifizierungs-Selfie wird automatisch mit deinen Fotos verglichen, und alles Unklare prüft ein Mensch aus unserem Team.',
       },
       {
         icon: 'badge',

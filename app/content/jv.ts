@@ -244,7 +244,7 @@ export const jv: Copy = {
       {
         icon: 'photo',
         title: 'Priksa foto',
-        body: 'Foto sing burem utawa cilik banget ora ditampa, lan data sing didhelikake ing gambar, kaya lokasi GPS, dibusak dening sistem. Wong saka tim kita mbandhingake selfie verifikasimu karo foto-fotomu.',
+        body: 'Foto sing burem utawa cilik banget ora ditampa, lan data sing didhelikake ing gambar, kaya lokasi GPS, dibusak dening sistem. Selfie verifikasimu dibandhingake karo foto-fotomu kanthi otomatis, lan sing ora cetha dipriksa wong saka tim kita.',
       },
       {
         icon: 'badge',

@@ -244,7 +244,7 @@ export const id: Copy = {
       {
         icon: 'photo',
         title: 'Pemeriksaan foto',
-        body: 'Foto yang buram atau terlalu kecil tidak diterima, dan data tersembunyi di gambar, seperti lokasi GPS, dihapus oleh sistem. Seseorang dari tim kami membandingkan swafoto verifikasimu dengan foto-fotomu.',
+        body: 'Foto yang buram atau terlalu kecil tidak diterima, dan data tersembunyi di gambar, seperti lokasi GPS, dihapus oleh sistem. Swafoto verifikasimu dibandingkan dengan foto-fotomu secara otomatis, dan yang tidak jelas diperiksa oleh seseorang dari tim kami.',
       },
       {
         icon: 'badge',

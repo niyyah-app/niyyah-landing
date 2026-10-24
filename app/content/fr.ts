@@ -244,7 +244,7 @@ export const fr: Copy = {
       {
         icon: 'photo',
         title: 'Vérification des photos',
-        body: 'Les photos floues ou trop petites sont refusées, et les données cachées dans l’image, comme la position GPS, sont supprimées par le système. Une personne de notre équipe compare ton selfie de vérification avec tes photos.',
+        body: 'Les photos floues ou trop petites sont refusées, et les données cachées dans l’image, comme la position GPS, sont supprimées par le système. Ton selfie de vérification est comparé automatiquement à tes photos, et ce qui n’est pas clair est examiné par une personne de notre équipe.',
       },
       {
         icon: 'badge',

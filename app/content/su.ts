@@ -244,7 +244,7 @@ export const su: Copy = {
       {
         icon: 'photo',
         title: 'Pamariksaan poto',
-        body: 'Poto nu burem atawa leutik teuing henteu ditarima, sarta data nu disumputkeun dina gambar, saperti lokasi GPS, dipupus ku sistem. Saurang ti tim urang ngabandingkeun selfie verifikasi anjeun jeung poto-poto anjeun.',
+        body: 'Poto nu burem atawa leutik teuing henteu ditarima, sarta data nu disumputkeun dina gambar, saperti lokasi GPS, dipupus ku sistem. Selfie verifikasi anjeun dibandingkeun jeung poto-poto anjeun sacara otomatis, sarta nu teu jelas dipariksa ku saurang ti tim urang.',
       },
       {
         icon: 'badge',

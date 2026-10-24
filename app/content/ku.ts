@@ -244,7 +244,7 @@ export const ku: Copy = {
       {
         icon: 'photo',
         title: 'Kontrola wêneyan',
-        body: 'Wêneyên tarî û pir biçûk nayên qebûlkirin, û daneyên veşartî di wêneyê de, wek cihê GPS, pergal radike. Kesek ji tîma me selfiya te ya piştrastkirinê bi wêneyên te re dide ber hev.',
+        body: 'Wêneyên tarî û pir biçûk nayên qebûlkirin, û daneyên veşartî di wêneyê de, wek cihê GPS, pergal radike. Selfiya te ya piştrastkirinê bi awayekî otomatîk bi wêneyên te re tê berhevkirin, û tiştê ne zelal kesek ji tîma me kontrol dike.',
       },
       {
         icon: 'badge',
