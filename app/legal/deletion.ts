@@ -67,7 +67,7 @@ export const deletion: Record<LegalLocale, DeletionCopy> = {
       'Objave, komentari i priče u zajednici.',
       'Veze s mahremima: tvoje, i one u kojima si nekome mahrem.',
       'Coinsi koji su ostali na računu. Ne vraćaju se i ne prenose se na novi nalog.',
-      'Prijava. Ako si registraciju završio/la, 30 dana se ne može napraviti nov nalog s istom e-mail adresom ni istim Google ili Apple nalogom. Poslije toga ponovna prijava otvara novi, prazan nalog. Sam telefon se odmah može koristiti za nov nalog.',
+      'Prijava. Ako si registraciju završio/la, 7 dana se ne može napraviti nov nalog s istom e-mail adresom ni istim Google ili Apple nalogom. Poslije toga ponovna prijava otvara novi, prazan nalog. Sam telefon se odmah može koristiti za nov nalog.',
     ],
     keptTitle: 'Šta ostaje i koliko dugo',
     kept: [
@@ -108,7 +108,7 @@ export const deletion: Record<LegalLocale, DeletionCopy> = {
       'Your community posts, comments and stories.',
       'Mahrem connections: your own, and those in which you are someone’s mahrem.',
       'Coins left in your balance. They are not refunded and do not carry over to a new account.',
-      'Your sign-in. If you completed sign-up, for 30 days no new account can be created with the same email address or Google or Apple account. After that, signing in again creates a new, empty account. The phone itself can be used for a new account straight away.',
+      'Your sign-in. If you completed sign-up, for 7 days no new account can be created with the same email address or Google or Apple account. After that, signing in again creates a new, empty account. The phone itself can be used for a new account straight away.',
     ],
     keptTitle: 'What is kept, and for how long',
     kept: [
@@ -149,7 +149,7 @@ export const deletion: Record<LegalLocale, DeletionCopy> = {
       'Deine Beiträge, Kommentare und Stories in der Community.',
       'Mahrem-Verbindungen: deine eigenen und die, in denen du für jemanden Mahrem bist.',
       'Coins, die noch auf deinem Konto sind. Sie werden nicht erstattet und nicht auf ein neues Konto übertragen.',
-      'Deine Anmeldung. Hattest du die Registrierung abgeschlossen, kann 30 Tage lang kein neues Konto mit derselben E-Mail-Adresse oder demselben Google- oder Apple-Konto erstellt werden. Danach entsteht bei einer neuen Anmeldung ein neues, leeres Konto. Das Telefon selbst kann sofort für ein neues Konto genutzt werden.',
+      'Deine Anmeldung. Hattest du die Registrierung abgeschlossen, kann 7 Tage lang kein neues Konto mit derselben E-Mail-Adresse oder demselben Google- oder Apple-Konto erstellt werden. Danach entsteht bei einer neuen Anmeldung ein neues, leeres Konto. Das Telefon selbst kann sofort für ein neues Konto genutzt werden.',
     ],
     keptTitle: 'Was bleibt und wie lange',
     kept: [
@@ -190,7 +190,7 @@ export const deletion: Record<LegalLocale, DeletionCopy> = {
       'Topluluktaki gönderilerin, yorumların ve hikâyelerin.',
       'Mahrem bağlantıları: hem kendi bağlantıların hem de birinin mahremi olduğun bağlantılar.',
       'Bakiyende kalan coinler. İade edilmez ve yeni bir hesaba aktarılmaz.',
-      'Girişin. Kaydını tamamladıysan 30 gün boyunca aynı e-posta adresiyle ya da aynı Google veya Apple hesabıyla yeni hesap açılamaz. Bundan sonra tekrar giriş yaparsan yeni ve boş bir hesap açılır. Telefonun kendisi hemen yeni bir hesap için kullanılabilir.',
+      'Girişin. Kaydını tamamladıysan 7 gün boyunca aynı e-posta adresiyle ya da aynı Google veya Apple hesabıyla yeni hesap açılamaz. Bundan sonra tekrar giriş yaparsan yeni ve boş bir hesap açılır. Telefonun kendisi hemen yeni bir hesap için kullanılabilir.',
     ],
     keptTitle: 'Neler kalır ve ne kadar süre',
     kept: [
@@ -231,7 +231,7 @@ export const deletion: Record<LegalLocale, DeletionCopy> = {
       'Tes publications, commentaires et stories dans la communauté.',
       'Les liens avec les mahrams : les tiens, et ceux où tu es le mahram de quelqu’un.',
       'Les pièces restant sur ton solde. Elles ne sont pas remboursées et ne passent pas sur un nouveau compte.',
-      'Ta connexion. Si tu avais terminé l’inscription, aucun nouveau compte ne peut être créé pendant 30 jours avec la même adresse e-mail ou le même compte Google ou Apple. Ensuite, te reconnecter crée un nouveau compte vide. Le téléphone lui-même peut servir tout de suite pour un nouveau compte.',
+      'Ta connexion. Si tu avais terminé l’inscription, aucun nouveau compte ne peut être créé pendant 7 jours avec la même adresse e-mail ou le même compte Google ou Apple. Ensuite, te reconnecter crée un nouveau compte vide. Le téléphone lui-même peut servir tout de suite pour un nouveau compte.',
     ],
     keptTitle: 'Ce qui est conservé, et combien de temps',
     kept: [
@@ -272,7 +272,7 @@ export const deletion: Record<LegalLocale, DeletionCopy> = {
       'Postingan, komentar, dan ceritamu di komunitas.',
       'Hubungan mahram: milikmu sendiri, dan yang menjadikanmu mahram bagi seseorang.',
       'Koin yang tersisa di saldomu. Koin tidak dikembalikan dan tidak dipindahkan ke akun baru.',
-      'Login-mu. Jika kamu sudah menyelesaikan pendaftaran, selama 30 hari tidak bisa dibuat akun baru dengan alamat email yang sama atau akun Google atau Apple yang sama. Setelah itu, masuk lagi akan membuat akun baru yang kosong. Ponselnya sendiri bisa langsung dipakai untuk akun baru.',
+      'Login-mu. Jika kamu sudah menyelesaikan pendaftaran, selama 7 hari tidak bisa dibuat akun baru dengan alamat email yang sama atau akun Google atau Apple yang sama. Setelah itu, masuk lagi akan membuat akun baru yang kosong. Ponselnya sendiri bisa langsung dipakai untuk akun baru.',
     ],
     keptTitle: 'Apa yang tetap disimpan dan berapa lama',
     kept: [
@@ -313,7 +313,7 @@ export const deletion: Record<LegalLocale, DeletionCopy> = {
       'Hantaran, komen dan cerita anda dalam komuniti.',
       'Hubungan mahram: milik anda sendiri, dan yang menjadikan anda mahram kepada seseorang.',
       'Coin yang masih ada dalam baki anda. Ia tidak dikembalikan dan tidak dipindahkan ke akaun baharu.',
-      'Log masuk anda. Jika anda telah melengkapkan pendaftaran, selama 30 hari akaun baharu tidak boleh dibuat dengan alamat e-mel yang sama atau akaun Google atau Apple yang sama. Selepas itu, log masuk semula akan membuat akaun baharu yang kosong. Telefon itu sendiri boleh terus digunakan untuk akaun baharu.',
+      'Log masuk anda. Jika anda telah melengkapkan pendaftaran, selama 7 hari akaun baharu tidak boleh dibuat dengan alamat e-mel yang sama atau akaun Google atau Apple yang sama. Selepas itu, log masuk semula akan membuat akaun baharu yang kosong. Telefon itu sendiri boleh terus digunakan untuk akaun baharu.',
     ],
     keptTitle: 'Apa yang disimpan dan berapa lama',
     kept: [
@@ -354,7 +354,7 @@ export const deletion: Record<LegalLocale, DeletionCopy> = {
       'منشوراتك وتعليقاتك وقصصك في المجتمع.',
       'روابط المحرم: روابطك أنت، والروابط التي تكون فيها محرمًا لشخص ما.',
       'العملات المتبقية في رصيدك. لا تُسترد ولا تُنقل إلى حساب جديد.',
-      'تسجيل دخولك. إن كنت قد أكملت التسجيل، فلا يمكن خلال 30 يومًا إنشاء حساب جديد بالبريد الإلكتروني نفسه أو بحساب Google أو Apple نفسه. وبعد ذلك يؤدي تسجيل الدخول من جديد إلى إنشاء حساب جديد فارغ. ويمكن استخدام الهاتف نفسه لحساب جديد فورًا.',
+      'تسجيل دخولك. إن كنت قد أكملت التسجيل، فلا يمكن خلال 7 أيام إنشاء حساب جديد بالبريد الإلكتروني نفسه أو بحساب Google أو Apple نفسه. وبعد ذلك يؤدي تسجيل الدخول من جديد إلى إنشاء حساب جديد فارغ. ويمكن استخدام الهاتف نفسه لحساب جديد فورًا.',
     ],
     keptTitle: 'ما الذي يبقى ولأي مدة',
     kept: [
@@ -395,7 +395,7 @@ export const deletion: Record<LegalLocale, DeletionCopy> = {
       'کمیونٹی میں آپ کی پوسٹس، تبصرے اور اسٹوریز۔',
       'محرم کے روابط: آپ کے اپنے، اور وہ جن میں آپ کسی کے محرم ہیں۔',
       'آپ کے بیلنس میں باقی سکے۔ یہ واپس نہیں ہوتے اور نئے اکاؤنٹ میں منتقل نہیں ہوتے۔',
-      'آپ کا سائن اِن۔ اگر آپ نے رجسٹریشن مکمل کی تھی تو 30 دن تک اسی ای میل ایڈریس یا اسی Google یا Apple اکاؤنٹ سے نیا اکاؤنٹ نہیں بن سکتا۔ اس کے بعد دوبارہ سائن اِن کرنے پر ایک نیا، خالی اکاؤنٹ بنتا ہے۔ فون خود فوراً نئے اکاؤنٹ کے لیے استعمال ہو سکتا ہے۔',
+      'آپ کا سائن اِن۔ اگر آپ نے رجسٹریشن مکمل کی تھی تو 7 دن تک اسی ای میل ایڈریس یا اسی Google یا Apple اکاؤنٹ سے نیا اکاؤنٹ نہیں بن سکتا۔ اس کے بعد دوبارہ سائن اِن کرنے پر ایک نیا، خالی اکاؤنٹ بنتا ہے۔ فون خود فوراً نئے اکاؤنٹ کے لیے استعمال ہو سکتا ہے۔',
     ],
     keptTitle: 'کیا باقی رہتا ہے اور کتنی دیر',
     kept: [
