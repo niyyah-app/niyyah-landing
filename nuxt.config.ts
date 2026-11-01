@@ -23,14 +23,16 @@ const appStoreUrl = 'https://apps.apple.com/app/id6825982279'
 const googlePlayUrl = 'https://play.google.com/store/apps/details?id=com.niyyahmarriagehalal.app'
 
 // Trgovine u kojima je Niyyah već objavljen (1.11.): Google Play od 30.10.,
-// App Store čeka Appleov pregled. Dugme objavljene trgovine vodi na nju i
-// dok je appLaunched false (lista čekanja ostaje za iPhone); ostalo je
-// prigušeno, kao „uskoro". Kad Apple odobri: appStoreLive = true.
+// App Store čeka Appleov pregled. Dugme objavljene trgovine vodi na nju;
+// ostalo je prigušeno, kao „uskoro" — i kad je appLaunched true, jer bi
+// link vodio na stranicu koje još nema. Kad Apple odobri: appStoreLive = true.
 const googlePlayLive = true
 const appStoreLive = false
 
 // true: CTA je „Preuzmi Niyyah" + dugmad trgovina. false: lista čekanja.
-const appLaunched = false
+// Od 1.11. true (vlasnik: bez „javi mi kad Niyyah krene"); koja trgovina
+// stvarno vodi na aplikaciju određuju googlePlayLive i appStoreLive ispod.
+const appLaunched = true
 
 // Trenutak objave, po sarajevskom vremenu (CET, +01:00 poslije 25.10.).
 // Odbrojavanje u hero sekciji broji do njega i nestaje kad prođe ili kad je

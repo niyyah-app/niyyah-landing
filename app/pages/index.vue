@@ -1,10 +1,10 @@
 <script setup lang="ts">
 const c = useCopy()
 const { locale, locales } = useI18n()
-const { siteUrl, ogImage, appLaunched, appStoreUrl, googlePlayUrl, googlePlayLive, appStoreLive } = useRuntimeConfig().public
+const { siteUrl, ogImage, appStoreUrl, googlePlayUrl, googlePlayLive, appStoreLive } = useRuntimeConfig().public
 // Samo trgovine u kojima je aplikacija stvarno objavljena (1.11.).
-const iosLive = appLaunched || appStoreLive
-const androidLive = appLaunched || googlePlayLive
+const iosLive = appStoreLive
+const androidLive = googlePlayLive
 const storeLinks = [iosLive && appStoreUrl, androidLive && googlePlayUrl].filter((u): u is string => Boolean(u))
 // Safari na iPhoneu prikazuje traku "Otvori / Preuzmi" iznad stranice.
 const appleId = iosLive ? /id(\d+)/.exec(appStoreUrl)?.[1] : undefined

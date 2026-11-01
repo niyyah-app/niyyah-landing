@@ -2,14 +2,14 @@
 // Službeni bedževi iz app/assets/images/ (badge-app-store, badge-google-play) imaju prednost;
 // dok ih nema, prikazuju se dugmad u stilu stranice.
 const c = useCopy()
-const { appStoreUrl, googlePlayUrl, appLaunched, googlePlayLive, appStoreLive } = useRuntimeConfig().public
+const { appStoreUrl, googlePlayUrl, googlePlayLive, appStoreLive } = useRuntimeConfig().public
 
 // Dok aplikacije nema u trgovini, njena kartica se vidi ali ne vodi nigdje —
 // a dugme koje ne radi ne smije biti link: čitač ekrana bi ga najavio kao
 // nešto što se može otvoriti. Po trgovini (1.11.): Google Play je vani, App
 // Store još ne.
 const live = (key: string, url: string) =>
-  Boolean(url) && (appLaunched || (key === 'android' ? googlePlayLive : appStoreLive))
+  Boolean(url) && (key === 'android' ? googlePlayLive : appStoreLive)
 const appStoreBadge = useShot('badge-app-store')
 const playBadge = useShot('badge-google-play')
 
@@ -65,6 +65,7 @@ const stores = computed(() => {
 .stores {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   gap: 0.9rem;
 }
 
