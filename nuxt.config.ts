@@ -20,7 +20,14 @@ const siteUrl = 'https://niyyahmarriage.com'
 // Google Play, kad aplikacija postoji:
 //   https://play.google.com/store/apps/details?id=com.niyyahmarriagehalal.app
 const appStoreUrl = 'https://apps.apple.com/app/id6825982279'
-const googlePlayUrl = ''
+const googlePlayUrl = 'https://play.google.com/store/apps/details?id=com.niyyahmarriagehalal.app'
+
+// Trgovine u kojima je Niyyah već objavljen (1.11.): Google Play od 30.10.,
+// App Store čeka Appleov pregled. Dugme objavljene trgovine vodi na nju i
+// dok je appLaunched false (lista čekanja ostaje za iPhone); ostalo je
+// prigušeno, kao „uskoro". Kad Apple odobri: appStoreLive = true.
+const googlePlayLive = true
+const appStoreLive = false
 
 // true: CTA je „Preuzmi Niyyah" + dugmad trgovina. false: lista čekanja.
 const appLaunched = false
@@ -37,6 +44,9 @@ const launchAt = '2026-10-28T00:00:00+01:00'
 const isBuild = process.argv.some((a) => a === 'build' || a === 'generate')
 if (isBuild && appLaunched && (!appStoreUrl || !googlePlayUrl)) {
   throw new Error('Upiši appStoreUrl i googlePlayUrl na vrhu nuxt.config.ts prije builda.')
+}
+if (isBuild && ((googlePlayLive && !googlePlayUrl) || (appStoreLive && !appStoreUrl))) {
+  throw new Error('Trgovina je označena kao objavljena, a link je prazan — upiši ga u nuxt.config.ts.')
 }
 
 // Ako postoji public/og-image.jpg koristi se on, inače logo (vidi SLIKE.md).
@@ -63,6 +73,8 @@ export default defineNuxtConfig({
       launchAt,
       appStoreUrl,
       googlePlayUrl,
+      googlePlayLive,
+      appStoreLive,
       // Lista čekanja: POST { email, locale } → 202. Backend upisuje adresu i
       // prikazuje je u admin portalu; duplikat je uspjeh, ne greška.
       waitlistEndpoint: 'https://api.niyyahmarriage.com/api/waitlist',

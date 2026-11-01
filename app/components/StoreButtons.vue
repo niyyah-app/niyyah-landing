@@ -2,12 +2,14 @@
 // Službeni bedževi iz app/assets/images/ (badge-app-store, badge-google-play) imaju prednost;
 // dok ih nema, prikazuju se dugmad u stilu stranice.
 const c = useCopy()
-const { appStoreUrl, googlePlayUrl, appLaunched } = useRuntimeConfig().public
+const { appStoreUrl, googlePlayUrl, appLaunched, googlePlayLive, appStoreLive } = useRuntimeConfig().public
 
-// Dok aplikacije nema u trgovinama, kartice se vide ali ne vode nigdje —
-// linkovi ne postoje, a dugme koje ne radi ne smije biti link: čitač ekrana
-// bi ga najavio kao nešto što se može otvoriti.
-const disabled = computed(() => !appLaunched)
+// Dok aplikacije nema u trgovini, njena kartica se vidi ali ne vodi nigdje —
+// a dugme koje ne radi ne smije biti link: čitač ekrana bi ga najavio kao
+// nešto što se može otvoriti. Po trgovini (1.11.): Google Play je vani, App
+// Store još ne.
+const live = (key: string, url: string) =>
+  Boolean(url) && (appLaunched || (key === 'android' ? googlePlayLive : appStoreLive))
 const appStoreBadge = useShot('badge-app-store')
 const playBadge = useShot('badge-google-play')
 
@@ -22,26 +24,30 @@ const stores = computed(() => {
     { key: 'ios', icon: 'apple', lead: c.value.cta.getOn, url: appStoreUrl, name: c.value.cta.appStore, badge: appStoreBadge.value },
     { key: 'android', icon: 'google-play', lead: c.value.cta.availableOn, url: googlePlayUrl, name: c.value.cta.googlePlay, badge: playBadge.value },
   ]
-  return android.value ? list.reverse() : list
+  const ordered = android.value ? list.reverse() : list
+  // Trgovina u kojoj je aplikacija ide prva, da prvo dugme radi (1.11.).
+  return ordered
+    .map((s) => ({ ...s, disabled: !live(s.key, s.url) }))
+    .sort((a, b) => Number(a.disabled) - Number(b.disabled))
 })
 </script>
 
 <template>
   <div class="stores">
     <component
-      :is="disabled ? 'span' : 'a'"
+      :is="s.disabled ? 'span' : 'a'"
       v-for="(s, i) in stores"
       :key="s.key"
       class="store"
       :class="{
-        'store--primary': i === 0 && !s.badge && !disabled,
-        'store--disabled': disabled,
+        'store--primary': i === 0 && !s.badge && !s.disabled,
+        'store--disabled': s.disabled,
       }"
-      :href="disabled ? undefined : s.url"
-      :target="disabled ? undefined : '_blank'"
-      :rel="disabled ? undefined : 'noopener'"
-      :aria-disabled="disabled ? 'true' : undefined"
-      :aria-label="disabled ? `${s.name} — ${c.cta.soon}` : `${c.cta.getOn} ${s.name}`"
+      :href="s.disabled ? undefined : s.url"
+      :target="s.disabled ? undefined : '_blank'"
+      :rel="s.disabled ? undefined : 'noopener'"
+      :aria-disabled="s.disabled ? 'true' : undefined"
+      :aria-label="s.disabled ? `${s.name} — ${c.cta.soon}` : `${c.cta.getOn} ${s.name}`"
     >
       <img v-if="s.badge" :src="s.badge" alt="" height="56" />
       <template v-else>
