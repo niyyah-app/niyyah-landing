@@ -381,6 +381,18 @@ export const tr: Copy = {
         a: 'Verified işareti, kişinin yüz denetiminden geçtiği anlamına gelir: anlık çekilen bir fotoğrafı profilindeki resimlerle karşılaştırıldı. Bildirimleri, profilleri askıya alabilen ya da yasaklayabilen gerçek moderatörler okur, ve engelleme iki yönlü işler. Yasaklanan bir hesap yeni bir e-posta adresiyle öylece geri dönemez.',
       },
       {
+        q: 'Niyyah’ın arkasında kim var?',
+        a: 'Niyyah’ı, Estonya’da kayıtlı bir şirket olan Puzzles IT OÜ yürütür (sicil kodu 16552842, Sepapaja tn 6, Tallinn). Avrupa veri koruma yasası (GDPR) kapsamında kişisel verilerinden bu şirket sorumludur. Her türlü soru için bize support@niyyahmarriage.com adresine yaz.',
+      },
+      {
+        q: 'Verilerimi başkalarıyla ya da yapay zekâ şirketleriyle paylaşıyor musunuz?',
+        a: 'Kişisel verileri satmayız ve reklamcılara vermeyiz. Yalnızca uygulamanın onlarsız çalışamayacağı hizmetleri kullanırız, örneğin sunucular, bildirimler, satın almalar, e-posta ve otomatik yüz denetimi, ve her biri yalnızca kendi kısmının gerektirdiğini alır. Hepsi gizlilik politikasında adıyla belirtilir. Ekibin işinde kullandığı yapay zekâ aracı dahil hiçbiri, uygulamadaki verilerini kendi modellerini eğitmek için kullanmaz.',
+      },
+      {
+        q: 'Ekipte verilerimi kim görebilir?',
+        a: 'Yalnızca işi bunu gerektiren kişiler, yani moderatörler ve destek ekibi, ve yalnızca bir profili onaylamak, bir şikâyeti ele almak ya da sana cevap vermek için gerektiği kadar. Özel sohbetleri rutin olarak okumayız: bir moderatör mesajları, bildirildiklerinde ya da otomatik denetim tarafından işaretlendiklerinde görür. Personel hesapları iki adımlı girişle korunur.',
+      },
+      {
         q: 'Ne ücretsiz, ne için coin gerekir?',
         a: 'Seni koruyan her şey ücretsiz: mahrem, sohbetten önce sorular, kilitli sohbet ve denetim; ayrıca günde 30 profil ve 20 beğeni, seni beğenenlerden günde bir kişi, sana gönderilen tüm mesajları okumak ve eşleşmelerle sınırsız sohbet. Coinle seni beğenen herkesi görebilir, süper beğeni (beğenin en üstte, öne çıkarılmış, adın ve fotoğrafınla) ya da doğrudan mesaj (karşı tarafın ücretsiz okuduğu mesajlı bir beğeni) gönderebilir, o gün için daha fazla profil ve beğeni alabilir ve hikâyelere cevap verebilirsin. Sohbet ancak ikiniz de birbirinizi beğendiğinizde açılır. Coinleri her gün ücretsiz kazanırsın, istersen tek seferlik satın da alabilirsin. Abonelik yok, yani iptal edecek bir şey de yok.',
       },
@@ -406,10 +418,10 @@ export const tr: Copy = {
     title: 'Reklam ölçümü',
     more: 'Bu ne demek',
     details:
-      'Facebook’tan bir piksel, reklamımızın buraya kaç kişi getirdiğini ve kimin kaydolduğunu sayar. E-posta adresini ona asla göndermeyiz. Reddedersen Facebook’tan hiçbir şey yüklenmez.',
+      'Facebook’tan bir piksel, reklamımızın buraya kaç kişi getirdiğini ve kimin kaydolduğunu sayar; Google Analytics ise siteyi kaç kişinin ziyaret ettiğini ve neye baktıklarını sayar. E-posta adresini ikisinden hiçbirine asla göndermeyiz. Reddedersen bunların hiçbiri hiç yüklenmez.',
     close: 'Kapat',
     body:
-      'Reklamlarımızın buraya kaç kişi getirdiğini ölçüyoruz. Başka bir şey değil, ve e-posta adresin asla daha ileri gitmez.',
+      'Reklamlarımızın buraya kaç kişi getirdiğini ve siteyi kaç kişinin ziyaret ettiğini ölçüyoruz. Başka bir şey değil, ve e-posta adresin asla daha ileri gitmez.',
     accept: 'Kabul ediyorum',
     decline: 'Hayır, teşekkürler',
     label: 'Reklam ölçümü',

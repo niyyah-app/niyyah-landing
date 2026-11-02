@@ -382,6 +382,18 @@ export const it: Copy = {
         a: 'Il contrassegno Verificato significa che la persona ha superato un controllo del volto: una sua foto scattata dal vivo è stata confrontata con le immagini del profilo. Le segnalazioni le leggono moderatori veri, che possono sospendere o bandire un profilo, e il blocco vale nei due sensi. Un account bandito non può semplicemente tornare con un nuovo indirizzo email.',
       },
       {
+        q: 'Chi c’è dietro Niyyah?',
+        a: 'Niyyah è gestita da Puzzles IT OÜ, una società registrata in Estonia (codice di registro 16552842, Sepapaja tn 6, Tallinn). È responsabile dei tuoi dati personali secondo la legge europea sulla protezione dei dati (GDPR). Per qualsiasi domanda, scrivici a support@niyyahmarriage.com.',
+      },
+      {
+        q: 'Condividete i miei dati con altri o con aziende di IA?',
+        a: 'Non vendiamo dati personali e non li diamo agli inserzionisti. Usiamo solo i servizi senza i quali l’app non può funzionare, come i server, le notifiche, gli acquisti, l’email e il controllo automatico del volto, e ognuno riceve solo ciò che serve alla sua parte. Sono tutti indicati per nome nell’informativa sulla privacy. Nessuno di loro, compreso lo strumento di IA che il team usa nel suo lavoro, usa i tuoi dati dell’app per addestrare i propri modelli.',
+      },
+      {
+        q: 'Chi nel team può vedere i miei dati?',
+        a: 'Solo le persone il cui lavoro lo richiede, i moderatori e l’assistenza, e solo quanto serve loro per approvare un profilo, gestire una segnalazione o risponderti. Non leggiamo le conversazioni private per abitudine: un moderatore vede i messaggi quando vengono segnalati o contrassegnati dal controllo automatico. Gli account del personale sono protetti con l’accesso in due passaggi.',
+      },
+      {
         q: 'Che cosa è gratis e che cosa costa monete?',
         a: 'Tutto ciò che ti protegge è gratis: il mahram, le domande prima della conversazione, la chat chiusa e la moderazione, più 30 profili e 20 «mi piace» al giorno, una persona al giorno tra quelle che ti hanno messo «mi piace», la lettura di tutti i messaggi che ti inviano e una conversazione illimitata con le tue corrispondenze. Con le monete puoi vedere tutti quelli che ti hanno messo «mi piace», inviare un super «mi piace» (il tuo «mi piace» in cima, in evidenza, con nome e foto) o un messaggio diretto (un «mi piace» con messaggio, che l’altra persona legge gratis), avere più profili e «mi piace» per la giornata e rispondere ai racconti. La conversazione si apre solo quando vi piacete a vicenda. Guadagni monete gratis ogni giorno, e puoi anche comprarle una volta sola. Non c’è abbonamento, quindi non c’è niente da disdire.',
       },
@@ -407,10 +419,10 @@ export const it: Copy = {
     title: 'Misurazione degli annunci',
     more: 'Che cosa significa',
     details:
-      'Un pixel di Facebook conta quante persone porta qui il nostro annuncio e chi si iscrive. Il tuo indirizzo email non glielo inviamo mai. Se rifiuti, da Facebook non viene caricato nulla.',
+      'Un pixel di Facebook conta quante persone porta qui il nostro annuncio e chi si iscrive, e Google Analytics conta quante persone visitano il sito e che cosa guardano. A nessuno dei due inviamo mai il tuo indirizzo email. Se rifiuti, non viene caricato proprio nulla.',
     close: 'Chiudi',
     body:
-      'Misuriamo quante persone portano qui i nostri annunci. Nient’altro, e il tuo indirizzo email non va mai oltre.',
+      'Misuriamo quante persone portano qui i nostri annunci e quante visitano il sito. Nient’altro, e il tuo indirizzo email non va mai oltre.',
     accept: 'Accetto',
     decline: 'No, grazie',
     label: 'Misurazione degli annunci',

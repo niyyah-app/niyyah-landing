@@ -382,6 +382,18 @@ export const es: Copy = {
         a: 'El distintivo Verificado significa que la persona ha pasado una comprobación facial: se comparó una foto suya en directo con las imágenes de su perfil. Las denuncias las leen moderadores de verdad, que pueden suspender o vetar un perfil, y el bloqueo va en los dos sentidos. Una cuenta vetada no puede volver sin más con un correo nuevo.',
       },
       {
+        q: '¿Quién está detrás de Niyyah?',
+        a: 'Niyyah la gestiona Puzzles IT OÜ, una empresa registrada en Estonia (código de registro 16552842, Sepapaja tn 6, Tallinn). Es la responsable de tus datos personales según la legislación europea de protección de datos (GDPR). Para cualquier pregunta, escríbenos a support@niyyahmarriage.com.',
+      },
+      {
+        q: '¿Compartís mis datos con otros o con empresas de IA?',
+        a: 'No vendemos datos personales ni se los damos a anunciantes. Solo usamos servicios sin los que la app no puede funcionar, como servidores, notificaciones, compras, correo y la comprobación facial automática, y cada uno recibe solo lo que requiere su parte. Todos aparecen nombrados en la política de privacidad. Ninguno de ellos, incluida la herramienta de IA que el equipo usa en su trabajo, usa tus datos de la app para entrenar sus modelos.',
+      },
+      {
+        q: '¿Quién del equipo puede ver mis datos?',
+        a: 'Solo las personas cuyo trabajo lo requiere, moderadores y soporte, y solo en la medida en que lo necesitan para aprobar un perfil, tramitar una denuncia o responderte. No leemos las conversaciones privadas de forma rutinaria: un moderador ve los mensajes cuando se denuncian o cuando la comprobación automática los marca. Las cuentas del personal están protegidas con inicio de sesión en dos pasos.',
+      },
+      {
         q: '¿Qué es gratis y qué cuesta monedas?',
         a: 'Todo lo que te protege es gratis: el mahram, las preguntas antes de hablar, el chat cerrado y la moderación, además de 30 perfiles y 20 «me gusta» al día, una persona al día de quienes te han dado «me gusta», leer todos los mensajes que te envíen y conversación sin límite con tus coincidencias. Con monedas puedes ver a todos los que te han dado «me gusta», enviar un super «me gusta» (tu «me gusta» arriba del todo, destacado, con tu nombre y foto) o un mensaje directo (un «me gusta» con mensaje, que la otra persona lee gratis), conseguir más perfiles y «me gusta» para ese día y responder a los relatos. La conversación solo se abre cuando los dos se dan «me gusta». Ganas monedas gratis cada día, y también puedes comprarlas una sola vez. No hay suscripción, así que no hay nada que cancelar.',
       },
@@ -407,10 +419,10 @@ export const es: Copy = {
     title: 'Medición de anuncios',
     more: 'Qué significa esto',
     details:
-      'Un píxel de Facebook cuenta cuánta gente trae aquí nuestro anuncio y quién se apunta. Nunca le enviamos tu correo. Si rechazas, no se carga nada de Facebook.',
+      'Un píxel de Facebook cuenta cuánta gente trae aquí nuestro anuncio y quién se apunta, y Google Analytics cuenta cuánta gente visita el sitio y qué mira. Nunca enviamos tu correo a ninguno de los dos. Si rechazas, no se carga nada de ello.',
     close: 'Cerrar',
     body:
-      'Medimos cuánta gente traen aquí nuestros anuncios. Nada más, y tu correo nunca va más allá.',
+      'Medimos cuánta gente traen aquí nuestros anuncios y cuánta visita el sitio. Nada más, y tu correo nunca va más allá.',
     accept: 'Acepto',
     decline: 'No, gracias',
     label: 'Medición de anuncios',

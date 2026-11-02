@@ -381,6 +381,18 @@ export const en: Copy = {
         a: 'The verified badge means the person passed a face check: a live photo of them was compared with the pictures on their profile. Reports are read by real moderators who can suspend or ban a profile, and blocking works both ways. A banned account cannot simply come back with a new email address.',
       },
       {
+        q: 'Who is behind Niyyah?',
+        a: 'Niyyah is run by Puzzles IT OÜ, a company registered in Estonia (registry code 16552842, Sepapaja tn 6, Tallinn). It is responsible for your personal data under European data protection law (GDPR). For any question, write to us at support@niyyahmarriage.com.',
+      },
+      {
+        q: 'Do you share my data with others or with AI companies?',
+        a: 'We do not sell personal data or give it to advertisers. We only use services the app cannot run without, such as servers, notifications, purchases, email and the automatic face check, and each one receives only what its part requires. They are all named in the privacy policy. None of them, including the AI tool the team uses in its work, uses your data from the app to train its models.',
+      },
+      {
+        q: 'Who on the team can see my data?',
+        a: 'Only the people whose work requires it, moderators and support, and only as much as they need to approve a profile, handle a report or answer you. We do not read private conversations as a matter of routine: a moderator sees messages when they are reported or flagged by the automatic check. Staff accounts are protected with two-step sign-in.',
+      },
+      {
         q: 'What is free, and what costs coins?',
         a: 'Everything that keeps you safe is free: mahram, questions before chat, locked conversations and moderation, plus 30 profiles and 20 likes a day, one person a day from those who liked you, reading every message sent to you, and unlimited conversation with your matches. With coins you can see everyone who liked you, send a super like (your like shown at the top, highlighted, with your name and photo) or a direct message (a like with a message, which they read for free), get more profiles and likes for the day, and reply to stories. A conversation opens only when you both like each other. You earn coins for free every day, and you can also buy them once-off. There is no subscription, so there is nothing to cancel.',
       },
@@ -406,10 +418,10 @@ export const en: Copy = {
     title: 'Ad measurement',
     more: 'What this means',
     details:
-      'A pixel from Facebook counts how many people our ad brings here and who signs up. We never send it your email address. If you decline, nothing from Facebook is loaded at all.',
+      'A pixel from Facebook counts how many people our ad brings here and who signs up, and Google Analytics counts how many people visit the site and what they look at. We never send either of them your email address. If you decline, none of it is loaded at all.',
     close: 'Close',
     body:
-      'We measure how many people our ads bring here. Nothing else, and your email address never goes further.',
+      'We measure how many people our ads bring here and how many visit the site. Nothing else, and your email address never goes further.',
     accept: 'Accept',
     decline: 'No thanks',
     label: 'Ad measurement',

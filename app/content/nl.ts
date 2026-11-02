@@ -382,6 +382,18 @@ export const nl: Copy = {
         a: 'Het Geverifieerd-label betekent dat iemand een gezichtscontrole heeft doorstaan: een live foto van hem of haar is vergeleken met de foto’s op het profiel. Meldingen worden gelezen door echte moderatoren die een profiel kunnen schorsen of verbannen, en blokkeren werkt in beide richtingen. Een verbannen account kan niet zomaar terugkomen met een nieuw e-mailadres.',
       },
       {
+        q: 'Wie zit er achter Niyyah?',
+        a: 'Niyyah wordt beheerd door Puzzles IT OÜ, een in Estland geregistreerd bedrijf (registratienummer 16552842, Sepapaja tn 6, Tallinn). Het is verantwoordelijk voor je persoonsgegevens volgens de Europese wet op gegevensbescherming (GDPR). Voor elke vraag kun je ons schrijven op support@niyyahmarriage.com.',
+      },
+      {
+        q: 'Delen jullie mijn gegevens met anderen of met AI-bedrijven?',
+        a: 'We verkopen geen persoonsgegevens en geven ze niet aan adverteerders. We gebruiken alleen diensten waarzonder de app niet kan werken, zoals servers, meldingen, aankopen, e-mail en de automatische gezichtscontrole, en elke dienst krijgt alleen wat zijn deel nodig heeft. Ze staan allemaal bij naam in het privacybeleid. Geen van hen, ook niet de AI-tool die het team bij zijn werk gebruikt, gebruikt je gegevens uit de app om zijn modellen te trainen.',
+      },
+      {
+        q: 'Wie in het team kan mijn gegevens zien?',
+        a: 'Alleen de mensen voor wie hun werk dat vereist, moderatoren en support, en alleen zoveel als ze nodig hebben om een profiel goed te keuren, een melding af te handelen of je te antwoorden. We lezen privégesprekken niet routinematig: een moderator ziet berichten wanneer ze gemeld zijn of door de automatische controle gemarkeerd. Accounts van medewerkers zijn beveiligd met inloggen in twee stappen.',
+      },
+      {
         q: 'Wat is gratis, en wat kost munten?',
         a: 'Alles wat je beschermt is gratis: de mahram, vragen voor het gesprek, de gesloten chat en de moderatie, plus 30 profielen en 20 likes per dag, elke dag één persoon die je geliked heeft, alle berichten lezen die je krijgt en onbeperkt gesprek met je overeenkomsten. Met munten zie je iedereen die je geliked heeft, stuur je een superlike (je like bovenaan, uitgelicht, met je naam en foto) of een direct bericht (een like met een bericht, dat de ander gratis leest), krijg je meer profielen en likes voor die dag en reageer je op verhalen. Een gesprek gaat pas open als jullie elkaar allebei liken. Munten krijg je elke dag gratis, en je kunt ze ook eenmalig kopen. Er is geen abonnement, dus er valt ook niets op te zeggen.',
       },
@@ -407,10 +419,10 @@ export const nl: Copy = {
     title: 'Meting van advertenties',
     more: 'Wat dit betekent',
     details:
-      'Een pixel van Facebook telt hoeveel mensen onze advertentie hierheen brengt en wie zich aanmeldt. Je e-mailadres sturen we nooit mee. Weiger je, dan wordt er niets van Facebook geladen.',
+      'Een pixel van Facebook telt hoeveel mensen onze advertentie hierheen brengt en wie zich aanmeldt, en Google Analytics telt hoeveel mensen de site bezoeken en wat ze bekijken. Geen van beide sturen we ooit je e-mailadres. Weiger je, dan wordt er helemaal niets van geladen.',
     close: 'Sluiten',
     body:
-      'We meten hoeveel mensen onze advertenties hierheen brengen. Niets anders, en je e-mailadres gaat nooit verder.',
+      'We meten hoeveel mensen onze advertenties hierheen brengen en hoeveel de site bezoeken. Niets anders, en je e-mailadres gaat nooit verder.',
     accept: 'Akkoord',
     decline: 'Nee, bedankt',
     label: 'Meting van advertenties',

@@ -382,6 +382,18 @@ export const sv: Copy = {
         a: 'Verifierad-märket betyder att personen klarat en ansiktskontroll: ett foto av hen taget i stunden jämfördes med bilderna på profilen. Anmälningar läses av riktiga moderatorer som kan stänga av eller spärra en profil, och blockering gäller i båda riktningar. Ett spärrat konto kan inte bara komma tillbaka med en ny e-postadress.',
       },
       {
+        q: 'Vem står bakom Niyyah?',
+        a: 'Niyyah drivs av Puzzles IT OÜ, ett företag registrerat i Estland (registreringsnummer 16552842, Sepapaja tn 6, Tallinn). Företaget är ansvarigt för dina personuppgifter enligt europeisk dataskyddslag (GDPR). Har du någon fråga, skriv till oss på support@niyyahmarriage.com.',
+      },
+      {
+        q: 'Delar ni mina uppgifter med andra eller med AI-företag?',
+        a: 'Vi säljer inte personuppgifter och ger dem inte till annonsörer. Vi använder bara tjänster som appen inte kan fungera utan, som servrar, aviseringar, köp, e-post och den automatiska ansiktskontrollen, och var och en får bara det som dess del kräver. Alla nämns vid namn i integritetspolicyn. Ingen av dem, inklusive det AI-verktyg som teamet använder i sitt arbete, använder dina uppgifter från appen för att träna sina modeller.',
+      },
+      {
+        q: 'Vem i teamet kan se mina uppgifter?',
+        a: 'Bara de vars arbete kräver det, moderatorer och support, och bara så mycket som de behöver för att godkänna en profil, hantera en anmälan eller svara dig. Vi läser inte privata samtal rutinmässigt: en moderator ser meddelanden när de anmälts eller flaggats av den automatiska kontrollen. Personalens konton skyddas med inloggning i två steg.',
+      },
+      {
         q: 'Vad är gratis, och vad kostar mynt?',
         a: 'Allt som skyddar dig är gratis: mahram, frågor före samtalet, den låsta chatten och modereringen, plus 30 profiler och 20 gillanden om dagen, en person om dagen av dem som gillat dig, att läsa alla meddelanden du får och obegränsat samtal med dina matchningar. Med mynt kan du se alla som gillat dig, skicka ett supergillande (ditt gillande överst, framhävt, med namn och bild) eller ett direktmeddelande (ett gillande med ett meddelande som den andra läser gratis), få fler profiler och gillanden för dagen och svara på berättelser. Ett samtal öppnas först när ni båda gillar varandra. Du får mynt gratis varje dag, och du kan också köpa dem som engångsköp. Det finns ingen prenumeration, så det finns inget att säga upp.',
       },
@@ -407,10 +419,10 @@ export const sv: Copy = {
     title: 'Mätning av annonser',
     more: 'Vad detta betyder',
     details:
-      'En pixel från Facebook räknar hur många vår annons för hit och vem som anmäler sig. Din e-postadress skickar vi aldrig. Om du avböjer laddas ingenting alls från Facebook.',
+      'En pixel från Facebook räknar hur många vår annons för hit och vem som anmäler sig, och Google Analytics räknar hur många som besöker webbplatsen och vad de tittar på. Din e-postadress skickar vi aldrig till någon av dem. Om du avböjer laddas ingenting av det alls.',
     close: 'Stäng',
     body:
-      'Vi mäter hur många som våra annonser för hit. Inget annat, och din e-postadress går aldrig vidare.',
+      'Vi mäter hur många som våra annonser för hit och hur många som besöker webbplatsen. Inget annat, och din e-postadress går aldrig vidare.',
     accept: 'Jag godkänner',
     decline: 'Nej tack',
     label: 'Mätning av annonser',

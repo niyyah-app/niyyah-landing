@@ -381,6 +381,18 @@ export const ha: Copy = {
         a: 'Alamar Tabbatarwa tana nufin mutumin ya wuce duba fuska: an kwatanta hotonsa da aka ɗauka kai tsaye da hotunan da ke bayanin martabarsa. Ƙorafe-ƙorafe masu kula na gaske ke karantawa, suna iya dakatarwa ko hana bayanin martaba, kuma toshewa tana aiki a bangarorin biyu. Asusun da aka hana ba zai iya dawowa kawai da sabon adireshin imel ba.',
       },
       {
+        q: 'Su wane ne a bayan Niyyah?',
+        a: 'Puzzles IT OÜ ne ke gudanar da Niyyah, wani kamfani da aka yi wa rajista a Estonia (lambar rajista 16552842, Sepapaja tn 6, Tallinn). Shi ne ke da alhakin bayananka na sirri a ƙarƙashin dokar kare bayanai ta Turai (GDPR). Don kowace tambaya, ka rubuto mana a support@niyyahmarriage.com.',
+      },
+      {
+        q: 'Kuna raba bayanaina da wasu ko da kamfanonin AI?',
+        a: 'Ba ma sayar da bayanan sirri, kuma ba ma ba masu talla su. Muna amfani ne kawai da ayyukan da manhajar ba za ta iya aiki ba tare da su ba, kamar sabobi, sanarwa, sayayya, imel da duba fuska ta atomatik, kuma kowanne yana karɓar abin da ɓangarensa ke buƙata kaɗai. An ambaci sunayensu duka a cikin manufar sirri. Babu ɗayansu, har da kayan aikin AI da ƙungiyar ke amfani da shi a aikinta, da ke amfani da bayananka daga manhajar don horar da samfuransa.',
+      },
+      {
+        q: 'Wa a cikin ƙungiyar zai iya ganin bayanaina?',
+        a: 'Mutanen da aikinsu ke buƙata kaɗai, wato masu kula, da ma’aikatan tallafi, kuma gwargwadon abin da suke buƙata ne kawai don amincewa da bayanin martaba, magance ƙorafi ko ba ka amsa. Ba ma karanta tattaunawar sirri a matsayin al’ada ba: mai kula yana ganin saƙonni idan an kai ƙorafinsu ko kuma duba ta atomatik ta yi musu alama. Asusun ma’aikata suna da kariyar shiga mai matakai biyu.',
+      },
+      {
         q: 'Me ke kyauta, kuma me ake biya da coins?',
         a: 'Duk abin da ke kiyaye ka kyauta ne: mahram, tambayoyi kafin tattaunawa, hirar da aka kulle da kulawa, tare da bayanan martaba 30 da son 20 kowace rana, mutum ɗaya kowace rana daga waɗanda suka so ka, karanta duk saƙonnin da aka aiko maka, da tattaunawa marar iyaka da daidaiton ka. Da coins za ka iya ganin duk waɗanda suka so ka, aika babban so (sonka a saman jerin, a haskake, tare da sunanka da hotonka) ko saƙo kai tsaye (so tare da saƙon da mai karɓa ke karantawa kyauta), samun ƙarin bayanan martaba da son na wannan rana, da kuma amsa labarai. Tattaunawa tana buɗewa ne kawai idan kun so juna duka biyu. Kana samun coins kyauta kowace rana, kuma za ka iya saya su sau ɗaya. Babu biyan kuɗi na kowane wata, don haka babu abin da za ka soke.',
       },
@@ -406,10 +418,10 @@ export const ha: Copy = {
     title: 'Auna talla',
     more: 'Me wannan ke nufi',
     details:
-      'Pixel daga Facebook yana ƙidaya mutane nawa tallanmu ke kawowa nan da kuma wanda ya yi rajista. Ba ma aika masa imel ɗinka ko kaɗan. Idan ka ƙi, babu abin da ake ɗora daga Facebook.',
+      'Pixel daga Facebook yana ƙidaya mutane nawa tallanmu ke kawowa nan da kuma wanda ya yi rajista, Google Analytics kuma yana ƙidaya mutane nawa ke ziyartar shafin da abin da suke kallo. Ba ma aika wa ko ɗaya daga cikinsu imel ɗinka ko kaɗan. Idan ka ƙi, babu ko ɗaya daga cikinsu da ake ɗorawa kwata-kwata.',
     close: 'Rufe',
     body:
-      'Muna auna mutane nawa talle-tallenmu ke kawowa nan. Babu wani abu, kuma imel ɗinka ba ya wuce nan.',
+      'Muna auna mutane nawa talle-tallenmu ke kawowa nan da kuma mutane nawa ke ziyartar shafin. Babu wani abu, kuma imel ɗinka ba ya wuce nan.',
     accept: 'Na yarda',
     decline: 'A’a, na gode',
     label: 'Auna talla',

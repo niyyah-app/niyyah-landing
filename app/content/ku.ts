@@ -381,6 +381,18 @@ export const ku: Copy = {
         a: 'Nîşana Pejirandî tê wê wateyê ku kes kontrola rû derbas kiriye: wêneyekî wî yê zindî bi wêneyên li ser profîla wî re hatiye berhevkirin. Gilîyan çavdêrên rastîn dixwînin ku dikarin profîlan rawestînin an qedexe bikin, û astengkirin bi herdu aliyan dixebite. Hesabekî qedexekirî nikare bi hêsanî bi navnîşaneke e-nameyê ya nû vegere.',
       },
       {
+        q: 'Kî li pişt Niyyah e?',
+        a: 'Niyyah ji aliyê Puzzles IT OÜ ve tê birêvebirin, şirketeke ku li Estonyayê hatiye qeydkirin (koda qeydê 16552842, Sepapaja tn 6, Tallinn). Ew li gorî qanûna Ewropî ya parastina daneyan (GDPR) ji daneyên te yên kesane berpirsiyar e. Ji bo her pirsê, ji me re li support@niyyahmarriage.com binivîse.',
+      },
+      {
+        q: 'Hûn daneyên min bi kesên din an bi şirketên AI re parve dikin?',
+        a: 'Em daneyên kesane nafiroşin û nadin reklamkeran. Em tenê wan xizmetan bi kar tînin ku sepan bêyî wan nikare bixebite, wek server, agahdarî, kirîn, e-name û kontrola rû ya otomatîk, û her yek tenê tiştê ku para wê hewce dike distîne. Hemû bi navê xwe di siyaseta nepeniyê de hatine nivîsîn. Tu yek ji wan, di nav de amûra AI ya ku tîm di karê xwe de bi kar tîne jî, daneyên te yên ji sepanê ji bo perwerdekirina modelên xwe bi kar naîne.',
+      },
+      {
+        q: 'Di tîmê de kî dikare daneyên min bibîne?',
+        a: 'Tenê ew kesên ku karê wan vê dixwaze, çavdêr û piştgirî, û tenê ew qas ku ji bo pejirandina profîlekê, birêvebirina gilîyekê an bersivdana te hewce dikin. Em axaftinên taybet wek rûtîn naxwînin: çavdêrek peyaman dibîne dema ku gilî li ser wan hatibe kirin an kontrola otomatîk ew nîşan kiribin. Hesabên karmendan bi têketina du-gavî tên parastin.',
+      },
+      {
         q: 'Çi belaş e, û çi bi coinan tê dayîn?',
         a: 'Her tiştê ku te diparêze belaş e: mehrem, pirsên berî axaftinê, axaftina girtî û çavdêrî, digel rojê 30 profîl û 20 ecibandin, rojê kesek ji wan ên ku tu ecibandî, xwendina hemû peyamên ku ji te re têne şandin û axaftina bêsînor bi lihevhatinên te re. Bi coinan tu dikarî hemû kesên ku tu ecibandî bibînî, super ecibandinek (ecibandina te li jor, berçav, bi nav û wêne) an peyameke rasterast (ecibandinek bi peyamê re, ku aliyê din belaş dixwîne) bişînî, ji bo wê rojê bêtir profîl û ecibandin bistînî û bersiv li çîrokan bidî. Axaftin tenê dema ku hûn herdu hevdu biecibînin vedibe. Tu her roj coinan belaş distînî, û dikarî wan carekê bikirî jî. Abonetî tune ye, loma tiştek tune ku tu betal bikî.',
       },
@@ -406,10 +418,10 @@ export const ku: Copy = {
     title: 'Pîvandina reklaman',
     more: 'Ev tê çi wateyê',
     details:
-      'Pîkselek ji Facebook dihejmêre ku reklama me çend kesan tîne vir û kî navê xwe dinivîse. Em navnîşana te ya e-nameyê qet jê re naşînin. Heke tu red bikî, ji Facebook tiştek nayê barkirin.',
+      'Pîkselek ji Facebook dihejmêre ku reklama me çend kesan tîne vir û kî navê xwe dinivîse, û Google Analytics dihejmêre ku çend kes serdana malperê dikin û li çi dinêrin. Em navnîşana te ya e-nameyê qet ji tu yekî ji wan re naşînin. Heke tu red bikî, ji van tiştek qet nayê barkirin.',
     close: 'Bigire',
     body:
-      'Em dipîvin ku reklamên me çend kesan tînin vir. Tiştekî din na, û navnîşana te ya e-nameyê qet wêdetir naçe.',
+      'Em dipîvin ku reklamên me çend kesan tînin vir û çend kes serdana malperê dikin. Tiştekî din na, û navnîşana te ya e-nameyê qet wêdetir naçe.',
     accept: 'Qebûl dikim',
     decline: 'Na, spas',
     label: 'Pîvandina reklaman',

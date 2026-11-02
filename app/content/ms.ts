@@ -381,6 +381,18 @@ export const ms: Copy = {
         a: 'Tanda Disahkan bermaksud orang itu lulus pemeriksaan wajah: gambar langsungnya dibandingkan dengan gambar dalam profilnya. Laporan dibaca oleh moderator sebenar yang boleh menggantung atau melarang profil, dan sekatan berfungsi dua hala. Akaun yang dilarang tidak boleh kembali begitu sahaja dengan alamat e-mel baharu.',
       },
       {
+        q: 'Siapa di sebalik Niyyah?',
+        a: 'Niyyah dikendalikan oleh Puzzles IT OÜ, sebuah syarikat yang didaftarkan di Estonia (kod pendaftaran 16552842, Sepapaja tn 6, Tallinn). Syarikat ini bertanggungjawab atas data peribadi anda di bawah undang-undang perlindungan data Eropah (GDPR). Untuk sebarang soalan, tulis kepada kami di support@niyyahmarriage.com.',
+      },
+      {
+        q: 'Adakah anda berkongsi data saya dengan pihak lain atau dengan syarikat AI?',
+        a: 'Kami tidak menjual data peribadi atau memberikannya kepada pengiklan. Kami hanya menggunakan perkhidmatan yang tanpanya aplikasi tidak boleh berjalan, seperti pelayan, pemberitahuan, pembelian, e-mel dan pemeriksaan wajah automatik, dan setiap satu hanya menerima apa yang diperlukan untuk bahagiannya. Semuanya dinamakan dalam dasar privasi. Tiada satu pun daripadanya, termasuk alat AI yang digunakan pasukan dalam kerjanya, menggunakan data anda daripada aplikasi untuk melatih modelnya.',
+      },
+      {
+        q: 'Siapa dalam pasukan boleh melihat data saya?',
+        a: 'Hanya orang yang kerjanya memerlukannya, moderator dan sokongan, dan hanya sebanyak yang mereka perlukan untuk meluluskan profil, mengendalikan laporan atau menjawab anda. Kami tidak membaca perbualan peribadi secara rutin: moderator melihat mesej apabila mesej itu dilaporkan atau ditanda oleh pemeriksaan automatik. Akaun kakitangan dilindungi dengan log masuk dua langkah.',
+      },
+      {
         q: 'Apa yang percuma, dan apa yang memerlukan coin?',
         a: 'Semua yang menjaga anda itu percuma: mahram, soalan sebelum perbualan, bual berkunci dan penyeliaan, ditambah 30 profil dan 20 suka sehari, seorang sehari daripada mereka yang menyukai anda, membaca semua mesej yang dihantar kepada anda, serta perbualan tanpa had dengan padanan anda. Dengan coin anda boleh melihat semua yang menyukai anda, menghantar super suka (suka anda di bahagian teratas, diserlahkan, dengan nama dan foto anda) atau mesej terus (suka bersama mesej yang dibaca percuma oleh penerima), mendapat lebih banyak profil dan suka untuk hari itu, dan membalas cerita. Perbualan hanya terbuka apabila anda berdua saling menyukai. Anda mendapat coin percuma setiap hari, dan anda juga boleh membelinya sekali bayar. Tiada langganan, jadi tiada apa yang perlu dibatalkan.',
       },
@@ -406,10 +418,10 @@ export const ms: Copy = {
     title: 'Pengukuran iklan',
     more: 'Apa maksudnya ini',
     details:
-      'Piksel dari Facebook mengira berapa ramai orang yang dibawa iklan kami ke sini dan siapa yang mendaftar. Alamat e-mel anda tidak pernah kami hantar. Jika anda menolak, tiada apa-apa dari Facebook dimuatkan.',
+      'Piksel dari Facebook mengira berapa ramai orang yang dibawa iklan kami ke sini dan siapa yang mendaftar, dan Google Analytics mengira berapa ramai orang yang melawat laman ini dan apa yang mereka lihat. Alamat e-mel anda tidak pernah kami hantar kepada mana-mana daripadanya. Jika anda menolak, tiada satu pun daripadanya dimuatkan langsung.',
     close: 'Tutup',
     body:
-      'Kami mengukur berapa ramai orang yang dibawa iklan kami ke sini. Tiada yang lain, dan alamat e-mel anda tidak pernah dihantar lebih jauh.',
+      'Kami mengukur berapa ramai orang yang dibawa iklan kami ke sini dan berapa ramai yang melawat laman ini. Tiada yang lain, dan alamat e-mel anda tidak pernah dihantar lebih jauh.',
     accept: 'Setuju',
     decline: 'Tidak, terima kasih',
     label: 'Pengukuran iklan',

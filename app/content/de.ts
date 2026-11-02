@@ -381,6 +381,18 @@ export const de: Copy = {
         a: 'Das Verified-Abzeichen heißt, dass die Person eine Gesichtsprüfung bestanden hat: Ein Live-Foto von ihr wurde mit den Bildern in ihrem Profil verglichen. Meldungen lesen echte Moderatoren, die Profile sperren oder verbannen können, und Blockieren wirkt in beide Richtungen. Ein verbanntes Konto kann nicht einfach mit einer neuen E-Mail-Adresse zurückkommen.',
       },
       {
+        q: 'Wer steht hinter Niyyah?',
+        a: 'Niyyah wird von Puzzles IT OÜ betrieben, einem in Estland eingetragenen Unternehmen (Registernummer 16552842, Sepapaja tn 6, Tallinn). Es ist nach europäischem Datenschutzrecht (GDPR) für deine personenbezogenen Daten verantwortlich. Bei jeder Frage schreib uns an support@niyyahmarriage.com.',
+      },
+      {
+        q: 'Teilt ihr meine Daten mit anderen oder mit KI-Unternehmen?',
+        a: 'Wir verkaufen keine personenbezogenen Daten und geben sie nicht an Werbetreibende weiter. Wir nutzen nur Dienste, ohne die die App nicht laufen kann, etwa Server, Benachrichtigungen, Käufe, E-Mail und die automatische Gesichtsprüfung, und jeder davon erhält nur, was sein Teil erfordert. Sie sind alle in der Datenschutzerklärung namentlich genannt. Keiner von ihnen, auch nicht das KI-Tool, das das Team bei seiner Arbeit nutzt, verwendet deine Daten aus der App, um seine Modelle zu trainieren.',
+      },
+      {
+        q: 'Wer im Team kann meine Daten sehen?',
+        a: 'Nur die Menschen, deren Arbeit es erfordert, Moderatoren und Support, und nur so viel, wie sie brauchen, um ein Profil freizugeben, eine Meldung zu bearbeiten oder dir zu antworten. Private Gespräche lesen wir nicht routinemäßig: Ein Moderator sieht Nachrichten, wenn sie gemeldet oder von der automatischen Prüfung markiert werden. Konten der Mitarbeitenden sind mit einer Anmeldung in zwei Schritten geschützt.',
+      },
+      {
         q: 'Was ist kostenlos und was kostet Coins?',
         a: 'Kostenlos ist alles, was dich schützt: Mahram, Fragen vor dem Gespräch, der verschlossene Chat und die Moderation, dazu 30 Profile und 20 Likes am Tag, jeden Tag eine Person von denen, die dich geliked haben, das Lesen aller Nachrichten, die man dir schickt, sowie unbegrenztes Gespräch mit Übereinstimmungen. Mit Coins siehst du alle, die dich geliked haben, schickst einen Super-Like (dein Like ganz oben, hervorgehoben, mit Namen und Foto) oder eine Direktnachricht (ein Like mit Nachricht, die die andere Person kostenlos liest), bekommst mehr Profile und Likes für den Tag und antwortest auf Geschichten. Ein Gespräch öffnet sich erst, wenn ihr euch beide geliked habt. Coins bekommst du jeden Tag kostenlos, und du kannst sie auch einmalig kaufen. Es gibt kein Abo, also gibt es auch nichts zu kündigen.',
       },
@@ -406,10 +418,10 @@ export const de: Copy = {
     title: 'Messung von Anzeigen',
     more: 'Was das bedeutet',
     details:
-      'Ein Pixel von Facebook zählt, wie viele Menschen unsere Anzeige hierher bringt und wer sich einträgt. Deine E-Mail-Adresse senden wir nie. Lehnst du ab, wird gar nichts von Facebook geladen.',
+      'Ein Pixel von Facebook zählt, wie viele Menschen unsere Anzeige hierher bringt und wer sich einträgt, und Google Analytics zählt, wie viele Menschen die Seite besuchen und was sie sich ansehen. Deine E-Mail-Adresse senden wir nie an einen von beiden. Lehnst du ab, wird nichts davon überhaupt geladen.',
     close: 'Schließen',
     body:
-      'Wir messen, wie viele Menschen unsere Anzeigen hierher bringen. Nichts weiter, und deine E-Mail-Adresse geht nie weiter.',
+      'Wir messen, wie viele Menschen unsere Anzeigen hierher bringen und wie viele die Seite besuchen. Nichts weiter, und deine E-Mail-Adresse geht nie weiter.',
     accept: 'Einverstanden',
     decline: 'Nein danke',
     label: 'Messung von Anzeigen',

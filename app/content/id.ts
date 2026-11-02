@@ -381,6 +381,18 @@ export const id: Copy = {
         a: 'Tanda Terverifikasi berarti orang itu lulus pemeriksaan wajah: foto langsung dirinya dibandingkan dengan gambar di profilnya. Laporan dibaca moderator sungguhan yang dapat menangguhkan atau melarang profil, dan blokir berlaku dua arah. Akun yang dilarang tidak bisa begitu saja kembali dengan alamat email baru.',
       },
       {
+        q: 'Siapa di balik Niyyah?',
+        a: 'Niyyah dijalankan oleh Puzzles IT OÜ, perusahaan yang terdaftar di Estonia (kode registrasi 16552842, Sepapaja tn 6, Tallinn). Perusahaan ini bertanggung jawab atas data pribadimu menurut hukum perlindungan data Eropa (GDPR). Untuk pertanyaan apa pun, tulis kepada kami di support@niyyahmarriage.com.',
+      },
+      {
+        q: 'Apakah kalian membagikan dataku kepada pihak lain atau kepada perusahaan AI?',
+        a: 'Kami tidak menjual data pribadi dan tidak memberikannya kepada pengiklan. Kami hanya memakai layanan yang tanpanya aplikasi tidak bisa berjalan, seperti server, notifikasi, pembelian, email, dan pemeriksaan wajah otomatis, dan masing-masing hanya menerima apa yang dibutuhkan bagiannya. Semuanya disebutkan namanya dalam kebijakan privasi. Tidak satu pun dari mereka, termasuk alat AI yang dipakai tim dalam pekerjaannya, menggunakan datamu dari aplikasi untuk melatih model-modelnya.',
+      },
+      {
+        q: 'Siapa di tim yang bisa melihat dataku?',
+        a: 'Hanya orang yang pekerjaannya memerlukannya, yaitu moderator dan tim dukungan, dan hanya sebanyak yang mereka perlukan untuk menyetujui profil, menangani laporan, atau membalasmu. Kami tidak membaca percakapan pribadi secara rutin: moderator melihat pesan bila pesan itu dilaporkan atau ditandai oleh pemeriksaan otomatis. Akun staf dilindungi dengan proses masuk dua langkah.',
+      },
+      {
         q: 'Apa yang gratis, dan apa yang memakai koin?',
         a: 'Semua yang menjagamu itu gratis: mahram, pertanyaan sebelum percakapan, obrolan terkunci dan moderasi, ditambah 30 profil dan 20 suka per hari, satu orang per hari dari mereka yang menyukaimu, membaca semua pesan yang dikirim kepadamu, serta percakapan tanpa batas dengan kecocokanmu. Dengan koin kamu bisa melihat semua yang menyukaimu, mengirim super suka (suka-mu tampil paling atas dan disorot, dengan nama dan fotomu) atau pesan langsung (suka disertai pesan yang dibaca gratis oleh penerimanya), mendapat lebih banyak profil dan suka untuk hari itu, dan menanggapi cerita. Percakapan baru terbuka bila kalian saling menyukai. Koin kamu dapatkan gratis setiap hari, dan kamu juga bisa membelinya sekali bayar. Tidak ada langganan, jadi tidak ada yang perlu dibatalkan.',
       },
@@ -406,10 +418,10 @@ export const id: Copy = {
     title: 'Pengukuran iklan',
     more: 'Apa artinya ini',
     details:
-      'Piksel dari Facebook menghitung berapa orang yang dibawa iklan kami ke sini dan siapa yang mendaftar. Alamat emailmu tidak pernah kami kirimkan. Kalau menolak, tidak ada apa pun dari Facebook yang dimuat.',
+      'Piksel dari Facebook menghitung berapa orang yang dibawa iklan kami ke sini dan siapa yang mendaftar, dan Google Analytics menghitung berapa orang yang mengunjungi situs dan apa yang mereka lihat. Alamat emailmu tidak pernah kami kirimkan ke keduanya. Kalau menolak, semua itu sama sekali tidak dimuat.',
     close: 'Tutup',
     body:
-      'Kami mengukur berapa orang yang dibawa iklan kami ke sini. Tidak lebih, dan alamat emailmu tidak pernah diteruskan.',
+      'Kami mengukur berapa orang yang dibawa iklan kami ke sini dan berapa yang mengunjungi situs. Tidak lebih, dan alamat emailmu tidak pernah diteruskan.',
     accept: 'Setuju',
     decline: 'Tidak, terima kasih',
     label: 'Pengukuran iklan',

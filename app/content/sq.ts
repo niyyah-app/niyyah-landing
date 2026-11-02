@@ -382,6 +382,18 @@ export const sq: Copy = {
         a: 'Shenja Verifikuar do të thotë se personi kaloi kontrollin e fytyrës: një foto e tij e bërë drejtpërdrejt u krahasua me fotot në profil. Raportimet i lexojnë moderatorë të vërtetë që mund të pezullojnë ose të ndalojnë një profil, dhe blokimi vlen në të dyja anët. Një llogari e ndaluar nuk mund të kthehet thjesht me një adresë të re emaili.',
       },
       {
+        q: 'Kush qëndron pas Niyyah?',
+        a: 'Niyyah drejtohet nga Puzzles IT OÜ, një kompani e regjistruar në Estoni (kodi i regjistrit 16552842, Sepapaja tn 6, Tallinn). Ajo është përgjegjëse për të dhënat e tua personale sipas ligjit evropian për mbrojtjen e të dhënave (GDPR). Për çdo pyetje, na shkruaj në support@niyyahmarriage.com.',
+      },
+      {
+        q: 'A i ndani të dhënat e mia me të tjerë apo me kompani të AI-së?',
+        a: 'Nuk i shesim të dhënat personale dhe nuk ua japim reklamuesve. Përdorim vetëm shërbimet pa të cilat aplikacioni nuk funksionon, si serverët, njoftimet, blerjet, emaili dhe kontrolli automatik i fytyrës, dhe secili merr vetëm atë që kërkon pjesa e tij. Të gjitha përmenden me emër në politikën e privatësisë. Asnjë prej tyre, përfshirë mjetin e AI-së që ekipi përdor në punën e vet, nuk i përdor të dhënat e tua nga aplikacioni për të trajnuar modelet e veta.',
+      },
+      {
+        q: 'Kush në ekip mund t\'i shohë të dhënat e mia?',
+        a: 'Vetëm njerëzit që e kërkon puna e tyre, moderatorët dhe mbështetja, dhe vetëm aq sa u duhet për të miratuar një profil, për të trajtuar një raportim ose për të të kthyer përgjigje. Bisedat private nuk i lexojmë si rutinë: një moderator i sheh mesazhet kur raportohen ose kur i shënon kontrolli automatik. Llogaritë e stafit mbrohen me hyrje në dy hapa.',
+      },
+      {
         q: 'Çfarë është falas dhe çfarë kushton monedha?',
         a: 'Falas është çdo gjë që të ruan: mahremi, pyetjet para bisedës, chati i kyçur dhe moderimi, plus 30 profile dhe 20 pëlqime në ditë, një person në ditë nga ata që të kanë pëlqyer, leximi i të gjitha mesazheve që të dërgojnë dhe bisedë e pakufizuar me përputhjet. Me monedha mund të shohësh të gjithë ata që të kanë pëlqyer, të dërgosh një super pëlqim (pëlqimi yt në krye, i theksuar, me emrin dhe foton tënde) ose një mesazh direkt (pëlqim me mesazh që tjetri e lexon falas), të marrësh më shumë profile dhe pëlqime për atë ditë dhe t’u përgjigjesh rrëfimeve. Biseda hapet vetëm kur pëlqeni njëri-tjetrin. Monedha fiton falas çdo ditë, dhe mund t’i blesh edhe me një pagesë të vetme. Nuk ka abonim, kështu që nuk ke asgjë për të anuluar.',
       },
@@ -407,10 +419,10 @@ export const sq: Copy = {
     title: 'Matja e reklamave',
     more: 'Çfarë do të thotë kjo',
     details:
-      'Një piksel nga Facebook numëron sa njerëz sjell reklama jonë këtu dhe kush regjistrohet. Adresën tënde të email-it nuk ia dërgojmë kurrë. Nëse refuzon, nga Facebook nuk ngarkohet asgjë fare.',
+      'Një piksel nga Facebook numëron sa njerëz sjell reklama jonë këtu dhe kush regjistrohet, ndërsa Google Analytics numëron sa njerëz e vizitojnë faqen dhe çfarë shikojnë. Adresën tënde të email-it nuk ia dërgojmë kurrë asnjërit prej tyre. Nëse refuzon, asgjë prej kësaj nuk ngarkohet fare.',
     close: 'Mbyll',
     body:
-      'Matim sa njerëz sjellin reklamat tona këtu. Asgjë tjetër, dhe adresa jote e email-it nuk shkon kurrë më tutje.',
+      'Matim sa njerëz sjellin reklamat tona këtu dhe sa e vizitojnë faqen. Asgjë tjetër, dhe adresa jote e email-it nuk shkon kurrë më tutje.',
     accept: 'Pranoj',
     decline: 'Jo, faleminderit',
     label: 'Matja e reklamave',

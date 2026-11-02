@@ -382,6 +382,18 @@ export const uz: Copy = {
         a: 'Tasdiqlangan belgisi odam yuz tekshiruvidan o‘tganini bildiradi: uning jonli olingan surati profildagi rasmlar bilan solishtirilgan. Shikoyatlarni profilni to‘xtatib qo‘yishi yoki taqiqlashi mumkin bo‘lgan haqiqiy moderatorlar o‘qiydi, bloklash esa ikki tomonga ishlaydi. Taqiqlangan hisob shunchaki yangi e-pochta manzili bilan qaytib kela olmaydi.',
       },
       {
+        q: 'Niyyah ortida kim turibdi?',
+        a: 'Niyyah’ni Estoniyada ro‘yxatdan o‘tgan Puzzles IT OÜ kompaniyasi yuritadi (ro‘yxat kodi 16552842, Sepapaja tn 6, Tallinn). U Yevropa ma’lumotlarni himoya qilish qonuni (GDPR) bo‘yicha shaxsiy ma’lumotlaringiz uchun javobgar. Har qanday savol bo‘yicha bizga support@niyyahmarriage.com manziliga yozing.',
+      },
+      {
+        q: 'Ma’lumotlarimni boshqalar yoki AI kompaniyalari bilan ulashasizmi?',
+        a: 'Shaxsiy ma’lumotlarni sotmaymiz va reklama beruvchilarga bermaymiz. Faqat ilova ularsiz ishlay olmaydigan xizmatlardan foydalanamiz, masalan serverlar, bildirishnomalar, xaridlar, e-pochta va avtomatik yuz tekshiruvi, va ularning har biri faqat o‘z qismi talab qiladigan narsanigina oladi. Ularning barchasi maxfiylik siyosatida nomma-nom ko‘rsatilgan. Ularning hech biri, jumladan jamoa o‘z ishida foydalanadigan AI vositasi ham, ilovadagi ma’lumotlaringizdan o‘z modellarini o‘qitish uchun foydalanmaydi.',
+      },
+      {
+        q: 'Jamoada kim mening ma’lumotlarimni ko‘ra oladi?',
+        a: 'Faqat ishi buni talab qiladigan odamlar, ya’ni moderatorlar va qo‘llab-quvvatlash xizmati, va ular ham faqat profilni tasdiqlash, shikoyatni ko‘rib chiqish yoki sizga javob berish uchun kerak bo‘lgan qadar. Shaxsiy suhbatlarni odatiy tarzda o‘qimaymiz: moderator xabarlarni ular haqida shikoyat qilinganda yoki avtomatik tekshiruv ularni belgilaganda ko‘radi. Xodimlar hisoblari ikki bosqichli kirish bilan himoyalangan.',
+      },
+      {
         q: 'Nima bepul, nima uchun tanga kerak?',
         a: 'Sizni asraydigan hamma narsa bepul: mahram, suhbatdan oldin savollar, yopiq suhbat va nazorat, shuningdek kuniga 30 ta profil va 20 yoqtirish, sizni yoqtirganlardan kuniga bir kishi, sizga yuborilgan barcha xabarlarni o‘qish hamda mosliklar bilan cheksiz suhbat. Tangalar bilan sizni yoqtirganlarning hammasini ko‘rishingiz, super yoqtirish (yoqtirishingiz eng tepada, ajralib turadi, ismingiz va rasmingiz bilan) yoki to‘g‘ridan-to‘g‘ri xabar (qarshi tomon bepul o‘qiydigan xabarli yoqtirish) yuborishingiz, o‘sha kun uchun ko‘proq profil va yoqtirish olishingiz hamda hikoyalarga javob berishingiz mumkin. Suhbat faqat ikkalangiz bir-biringizni yoqtirganingizda ochiladi. Tangalarni har kuni bepul olasiz, ularni bir martalik to‘lov bilan sotib olsangiz ham bo‘ladi. Obuna yo‘q, shuning uchun bekor qiladigan narsa ham yo‘q.',
       },
@@ -407,10 +419,10 @@ export const uz: Copy = {
     title: 'Reklama o‘lchovi',
     more: 'Bu nimani anglatadi',
     details:
-      'Facebook pikseli reklamamiz bu yerga necha kishini olib kelishini va kim ro‘yxatdan o‘tishini sanaydi. E-pochtangizni unga hech qachon yubormaymiz. Rad etsangiz, Facebook’dan hech narsa yuklanmaydi.',
+      'Facebook pikseli reklamamiz bu yerga necha kishini olib kelishini va kim ro‘yxatdan o‘tishini sanaydi, Google Analytics esa saytga necha kishi kirishini va ular nimani ko‘rishini sanaydi. E-pochtangizni ularning hech biriga hech qachon yubormaymiz. Rad etsangiz, bularning hech biri umuman yuklanmaydi.',
     close: 'Yopish',
     body:
-      'Reklamalarimiz bu yerga necha kishini olib kelishini o‘lchaymiz. Boshqa hech narsa, va e-pochtangiz hech qachon uzoqqa ketmaydi.',
+      'Reklamalarimiz bu yerga necha kishini olib kelishini va saytga necha kishi kirishini o‘lchaymiz. Boshqa hech narsa, va e-pochtangiz hech qachon uzoqqa ketmaydi.',
     accept: 'Roziman',
     decline: 'Yo‘q, rahmat',
     label: 'Reklama o‘lchovi',

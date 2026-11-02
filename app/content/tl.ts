@@ -381,6 +381,18 @@ export const tl: Copy = {
         a: 'Ang tatak na Beripikado ay nangangahulugang pumasa ang tao sa pagsusuri ng mukha: ikinumpara ang live niyang litrato sa mga larawan sa profile niya. Binabasa ang mga reklamo ng tunay na moderator na puwedeng magsuspinde o magbawal ng profile, at dalawang panig ang pag-block. Hindi basta makakabalik ang na-ban na account gamit ang bagong email address.',
       },
       {
+        q: 'Sino ang nasa likod ng Niyyah?',
+        a: 'Pinapatakbo ang Niyyah ng Puzzles IT OÜ, isang kumpanyang nakarehistro sa Estonia (registry code 16552842, Sepapaja tn 6, Tallinn). Ito ang may pananagutan sa iyong personal na datos ayon sa batas ng Europa sa proteksyon ng datos (GDPR). Para sa anumang tanong, sumulat sa amin sa support@niyyahmarriage.com.',
+      },
+      {
+        q: 'Ibinabahagi ba ninyo ang datos ko sa iba o sa mga kumpanya ng AI?',
+        a: 'Hindi kami nagbebenta ng personal na datos at hindi namin ito ibinibigay sa mga advertiser. Gumagamit lang kami ng mga serbisyong hindi gagana ang app kung wala ang mga ito, gaya ng mga server, notification, pagbili, email at ang awtomatikong pagsusuri ng mukha, at bawat isa ay tumatanggap lang ng kailangan ng bahagi nito. Nakapangalan silang lahat sa patakaran sa privacy. Wala sa kanila, kasama ang AI tool na ginagamit ng team sa trabaho nito, ang gumagamit ng datos mo mula sa app para sanayin ang mga model nito.',
+      },
+      {
+        q: 'Sino sa team ang puwedeng makakita ng datos ko?',
+        a: 'Ang mga tao lang na kailangan ito sa kanilang trabaho, ang mga moderator at support, at hanggang sa kailangan lang nila para aprubahan ang isang profile, asikasuhin ang isang reklamo o sagutin ka. Hindi namin regular na binabasa ang mga pribadong usapan: nakikita ng moderator ang mga mensahe kapag inireklamo ang mga ito o minarkahan ng awtomatikong pagsusuri. Protektado ng two-step sign-in ang mga account ng staff.',
+      },
+      {
         q: 'Ano ang libre, at ano ang binabayaran ng coins?',
         a: 'Libre ang lahat ng nagsasanggalang sa iyo: mahram, mga tanong bago mag-usap, nakakandadong chat at moderasyon, kasama ang 30 profile at 20 like bawat araw, isang tao bawat araw mula sa mga nag-like sa iyo, pagbasa ng lahat ng mensaheng ipinadala sa iyo, at walang hangganang usapan sa mga pagkakatugma mo. Gamit ang coins, makikita mo ang lahat ng nag-like sa iyo, makakapagpadala ka ng super like (nasa itaas ang like mo, naka-highlight, kasama ang pangalan at larawan mo) o direktang mensahe (like na may mensaheng libreng nababasa ng tumanggap), makakakuha ng mas maraming profile at like para sa araw na iyon, at makakasagot sa mga kuwento. Nagbubukas lang ang usapan kapag nag-like kayo sa isa’t isa. Nakakakuha ka ng coins nang libre araw-araw, at puwede mo rin itong bilhin nang isang beses. Walang subscription, kaya wala ring kakanselahin.',
       },
@@ -406,10 +418,10 @@ export const tl: Copy = {
     title: 'Pagsukat ng patalastas',
     more: 'Ano ang ibig sabihin nito',
     details:
-      'May pixel mula sa Facebook na bumibilang kung ilan ang dinadala rito ng patalastas namin at sino ang nagpapalista. Hindi namin ipinapadala rito ang email mo. Kung tatanggi ka, walang anuman mula sa Facebook ang bubuksan.',
+      'May pixel mula sa Facebook na bumibilang kung ilan ang dinadala rito ng patalastas namin at sino ang nagpapalista, at binibilang ng Google Analytics kung ilan ang bumibisita sa site at ano ang tinitingnan nila. Hindi namin ipinapadala ang email mo sa alinman sa kanila. Kung tatanggi ka, wala ni isa sa mga ito ang bubuksan.',
     close: 'Isara',
     body:
-      'Sinusukat namin kung ilang tao ang dinadala rito ng mga patalastas namin. Wala nang iba, at hindi kailanman lumalayo ang email mo.',
+      'Sinusukat namin kung ilang tao ang dinadala rito ng mga patalastas namin at ilan ang bumibisita sa site. Wala nang iba, at hindi kailanman lumalayo ang email mo.',
     accept: 'Sang-ayon ako',
     decline: 'Hindi na, salamat',
     label: 'Pagsukat ng patalastas',

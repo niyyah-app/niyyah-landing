@@ -382,6 +382,18 @@ export const sw: Copy = {
         a: 'Alama ya Imethibitishwa ina maana mtu alipita ukaguzi wa uso: picha yake ya papo hapo ililinganishwa na picha za kwenye wasifu wake. Malalamiko yanasomwa na wasimamizi wa kweli wanaoweza kusimamisha au kuzuia wasifu, na kuzuia hufanya kazi pande zote mbili. Akaunti iliyozuiwa haiwezi kurudi kirahisi kwa barua pepe mpya.',
       },
       {
+        q: 'Nani yuko nyuma ya Niyyah?',
+        a: 'Niyyah inaendeshwa na Puzzles IT OÜ, kampuni iliyosajiliwa nchini Estonia (namba ya usajili 16552842, Sepapaja tn 6, Tallinn). Ndiyo inayowajibika kwa data zako binafsi chini ya sheria ya Ulaya ya ulinzi wa data (GDPR). Kwa swali lolote, tuandikie kupitia support@niyyahmarriage.com.',
+      },
+      {
+        q: 'Je, mnashiriki data zangu na wengine au na kampuni za AI?',
+        a: 'Hatuuzi data binafsi wala hatuwapi watangazaji. Tunatumia tu huduma ambazo programu haiwezi kufanya kazi bila hizo, kama seva, arifa, ununuzi, barua pepe na ukaguzi wa uso wa kiotomatiki, na kila moja hupokea tu kile ambacho sehemu yake inahitaji. Zote zimetajwa kwa majina katika sera ya faragha. Hakuna hata moja kati yake, ikiwemo zana ya AI ambayo timu inatumia katika kazi yake, inayotumia data zako kutoka kwenye programu kufunza modeli zake.',
+      },
+      {
+        q: 'Nani katika timu anaweza kuona data zangu?',
+        a: 'Ni watu tu ambao kazi yao inahitaji hivyo, wasimamizi na timu ya usaidizi, na kwa kiasi tu wanachohitaji ili kuidhinisha wasifu, kushughulikia malalamiko au kukujibu. Hatusomi mazungumzo ya faragha kama jambo la kawaida: msimamizi huona ujumbe unaporipotiwa au kualamishwa na ukaguzi wa kiotomatiki. Akaunti za wafanyakazi zinalindwa kwa kuingia kwa hatua mbili.',
+      },
+      {
         q: 'Nini ni bila malipo, na nini kinalipiwa kwa sarafu?',
         a: 'Kila kinachokulinda ni bila malipo: mahramu, maswali kabla ya mazungumzo, gumzo lililofungwa na usimamizi, pamoja na wasifu 30 na mapenzi 20 kwa siku, mtu mmoja kwa siku kati ya waliokupenda, kusoma ujumbe wote unaotumiwa, na mazungumzo bila kikomo na mafanano yako. Kwa sarafu unaweza kuona wote waliokupenda, kutuma Super like (pendo lako juu kabisa, likiangaziwa, pamoja na jina na picha yako) au ujumbe wa moja kwa moja (pendo pamoja na ujumbe ambao mpokeaji anasoma bila malipo), kupata wasifu na mapenzi zaidi kwa siku hiyo, na kujibu hadithi. Mazungumzo hufunguka tu mnapopendana nyote wawili. Sarafu unazipata bila malipo kila siku, na unaweza pia kuzinunua kwa malipo ya mara moja. Hakuna usajili wa malipo, kwa hiyo hakuna cha kughairi.',
       },
@@ -407,10 +419,10 @@ export const sw: Copy = {
     title: 'Upimaji wa matangazo',
     more: 'Hii ina maana gani',
     details:
-      'Pikseli kutoka Facebook huhesabu watu wangapi tangazo letu linawaleta hapa na nani anajiandikisha. Barua pepe yako hatuipeleki kamwe. Ukikataa, hakuna chochote kutoka Facebook kinachopakiwa.',
+      'Pikseli kutoka Facebook huhesabu watu wangapi tangazo letu linawaleta hapa na nani anajiandikisha, na Google Analytics huhesabu watu wangapi hutembelea tovuti na wanachokitazama. Barua pepe yako hatumpelekei yeyote kati yao kamwe. Ukikataa, hakuna chochote kati ya hivyo kinachopakiwa hata kidogo.',
     close: 'Funga',
     body:
-      'Tunapima watu wangapi matangazo yetu huwaleta hapa. Si zaidi ya hapo, na barua pepe yako haiendi mbali zaidi kamwe.',
+      'Tunapima watu wangapi matangazo yetu huwaleta hapa na wangapi hutembelea tovuti. Si zaidi ya hapo, na barua pepe yako haiendi mbali zaidi kamwe.',
     accept: 'Nakubali',
     decline: 'Hapana, asante',
     label: 'Upimaji wa matangazo',

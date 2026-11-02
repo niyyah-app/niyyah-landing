@@ -381,6 +381,18 @@ export const su: Copy = {
         a: 'Tanda Diverifikasi hartina jalma éta lulus pamariksaan beungeut: poto langsungna dibandingkeun jeung gambar-gambar dina profilna. Laporan dibaca ku moderator anu enya nu bisa ngeureunkeun atawa ngalarang profil, sarta meungpeuk jalan dua arah. Akun nu dilarang teu bisa kitu waé balik deui ku alamat surélék anyar.',
       },
       {
+        q: 'Saha nu aya di tukangeun Niyyah?',
+        a: 'Niyyah dijalankeun ku Puzzles IT OÜ, pausahaan nu kadaptar di Éstonia (kode registrasi 16552842, Sepapaja tn 6, Tallinn). Pausahaan ieu tanggung jawab kana data pribadi anjeun dumasar hukum panyalindungan data Éropa (GDPR). Pikeun patarosan naon waé, tulis ka urang di support@niyyahmarriage.com.',
+      },
+      {
+        q: 'Naha data kuring dibagikeun ka batur atawa ka pausahaan AI?',
+        a: 'Urang teu ngajual data pribadi sarta teu méré ka pangiklan. Urang ngan ngagunakeun layanan nu tanpa éta aplikasi teu bisa jalan, saperti server, béwara, pameseran, surélék jeung pamariksaan beungeut otomatis, sarta masing-masing ngan narima naon nu diperlukeun ku bagianana. Kabéh disebutkeun ngaranna dina kawijakan privasi. Taya hiji ogé ti éta, kaasup alat AI nu dipaké ku tim dina pagawéanana, nu ngagunakeun data anjeun ti aplikasi pikeun ngalatih modél-modélna.',
+      },
+      {
+        q: 'Saha di tim nu bisa ningali data kuring?',
+        a: 'Ngan jalma-jalma nu pagawéanana merlukeun éta, moderator jeung pangrojong, sarta ngan saloba nu diperlukeun pikeun nyatujuan profil, nanganan laporan atawa ngajawab anjeun. Urang teu maca obrolan pribadi sacara rutin: moderator ningali pesen lamun dilaporkeun atawa ditandaan ku pamariksaan otomatis. Akun staf ditangtayungan ku asup dua léngkah.',
+      },
+      {
         q: 'Naon nu gratis, jeung naon nu dibayar ku koin?',
         a: 'Sagala nu ngajaga anjeun téh gratis: mahram, patarosan saméméh ngobrol, obrolan konci jeung pangawasan, ditambah 30 profil jeung 20 resep sapoé, hiji jalma sapoé ti nu resep ka anjeun, maca sakabéh pesen nu dikirim ka anjeun, sarta obrolan tanpa wates jeung nu cocog. Ku koin anjeun bisa ningali sakabéh nu resep ka anjeun, ngirim super resep (resep anjeun di pangluhurna, disorot, kalayan ngaran jeung poto) atawa pesen langsung (resep dibarengan pesen nu dibaca gratis ku nu narima), meunang leuwih loba profil jeung resep keur poé éta, sarta ngajawab carita. Obrolan ngan muka lamun aranjeun duaan silih resep. Koin anjeun meunangkeun gratis unggal poé, sarta ogé bisa dibeuli sakali. Teu aya langganan, jadi teu aya nu kudu dibatalkeun.',
       },
@@ -406,10 +418,10 @@ export const su: Copy = {
     title: 'Ngukur iklan',
     more: 'Naon hartina ieu',
     details:
-      'Piksel ti Facebook ngitung sabaraha jalma nu dibawa iklan urang ka dieu jeung saha nu ngadaptar. Surélék anjeun teu kungsi dikirim ka dinya. Lamun nampik, taya nanaon ti Facebook nu dimuat.',
+      'Piksel ti Facebook ngitung sabaraha jalma nu dibawa iklan urang ka dieu jeung saha nu ngadaptar, sarta Google Analytics ngitung sabaraha jalma nu nganjang ka situs jeung naon nu ditingali. Surélék anjeun teu kungsi dikirim ka salah sahiji ti duanana. Lamun nampik, taya nanaon ti éta nu dimuat pisan.',
     close: 'Tutup',
     body:
-      'Urang ngukur sabaraha jalma nu dibawa iklan ka dieu. Teu aya nu séjén, sarta surélék anjeun teu kungsi diteruskeun.',
+      'Urang ngukur sabaraha jalma nu dibawa iklan ka dieu jeung sabaraha nu nganjang ka situs. Teu aya nu séjén, sarta surélék anjeun teu kungsi diteruskeun.',
     accept: 'Satuju',
     decline: 'Henteu, nuhun',
     label: 'Ngukur iklan',

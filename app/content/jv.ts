@@ -381,6 +381,18 @@ export const jv: Copy = {
         a: 'Tandha Diverifikasi tegese wong kuwi lulus priksa rai: foto langsunge dibandhingake karo gambar-gambar ing profile. Laporan diwaca moderator tenan sing bisa nyetop utawa nglarang profil, lan mblokir mlaku rong arah. Akun sing dilarang ora bisa bali mung nganggo alamat email anyar.',
       },
       {
+        q: 'Sapa sing ana ing mburine Niyyah?',
+        a: 'Niyyah dikelola dening Puzzles IT OÜ, perusahaan sing kadhaftar ing Estonia (kode registrasi 16552842, Sepapaja tn 6, Tallinn). Perusahaan iki tanggung jawab marang data pribadi sampeyan miturut ukum pangayoman data Eropa (GDPR). Kanggo pitakonan apa wae, tulisen marang awake dhewe ing support@niyyahmarriage.com.',
+      },
+      {
+        q: 'Apa dataku dibagi marang liyan utawa marang perusahaan AI?',
+        a: 'Awake dhewe ora ngedol data pribadi lan ora menehake marang pengiklan. Awake dhewe mung nganggo layanan sing tanpa kuwi aplikasi ora bisa mlaku, kayata server, notifikasi, tuku, email lan priksa rai otomatis, lan saben layanan mung nampa apa sing dibutuhake kanggo bagiane. Kabeh disebutake jenenge ing kawicaksanan privasi. Ora ana siji wae saka kuwi, kalebu piranti AI sing dienggo tim ing pakaryane, sing nganggo data sampeyan saka aplikasi kanggo nglatih model-modele.',
+      },
+      {
+        q: 'Sapa ing tim sing bisa ndeleng dataku?',
+        a: 'Mung wong sing pakaryane mbutuhake, moderator lan dhukungan, lan mung sakbutuhe kanggo nyetujoni profil, ngurus laporan utawa mangsuli sampeyan. Awake dhewe ora maca pirembugan pribadi minangka rutinitas: moderator ndeleng pesen yen dilaporake utawa ditandhani dening priksa otomatis. Akun staf dijaga nganggo mlebu rong langkah.',
+      },
+      {
         q: 'Apa sing gratis, lan apa sing dibayar nganggo koin?',
         a: 'Kabeh sing njaga sampeyan kuwi gratis: mahram, pitakonan sadurunge pirembugan, obrolan kakunci lan pangawasan, ditambah 30 profil lan 20 seneng saben dina, siji wong saben dina saka sing seneng sampeyan, maca kabeh pesen sing dikirim marang sampeyan, sarta pirembugan tanpa wates karo kecocokan sampeyan. Nganggo koin sampeyan bisa ndeleng kabeh sing seneng sampeyan, ngirim super seneng (seneng sampeyan ing paling dhuwur, disorot, kanthi jeneng lan foto) utawa pesen langsung (seneng karo pesen sing diwaca gratis dening sing nampa), entuk profil lan seneng luwih akeh kanggo dina kuwi, lan mangsuli crita. Pirembugan mung kabukak yen sampeyan loro padha seneng. Koin sampeyan entuk gratis saben dina, lan uga bisa dituku sepisan. Ora ana langganan, dadi ora ana sing kudu dibatalake.',
       },
@@ -406,10 +418,10 @@ export const jv: Copy = {
     title: 'Ngukur iklan',
     more: 'Tegese iki apa',
     details:
-      'Piksel saka Facebook ngitung pira wong sing digawa iklan kita tekan kene lan sapa sing ndaftar. Alamat email sampeyan ora tau dikirim. Yen nolak, ora ana apa-apa saka Facebook sing dimuat.',
+      'Piksel saka Facebook ngitung pira wong sing digawa iklan kita tekan kene lan sapa sing ndaftar, lan Google Analytics ngitung pira wong sing mampir ing situs lan apa sing dideleng. Alamat email sampeyan ora tau dikirim marang salah sijine. Yen nolak, ora ana siji wae sing dimuat babar pisan.',
     close: 'Tutup',
     body:
-      'Awake dhewe ngukur pira wong sing digawa iklan tekan kene. Ora liya, lan alamat email sampeyan ora tau diterusake.',
+      'Awake dhewe ngukur pira wong sing digawa iklan tekan kene lan pira sing mampir ing situs. Ora liya, lan alamat email sampeyan ora tau diterusake.',
     accept: 'Setuju',
     decline: 'Ora, matur nuwun',
     label: 'Ngukur iklan',

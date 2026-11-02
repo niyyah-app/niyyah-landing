@@ -380,6 +380,18 @@ export const bs = {
         a: 'Verified oznaka znači da je osoba prošla provjeru lica: njena fotografija uživo poređena je sa slikama na profilu. Prijave čitaju stvarni moderatori koji mogu suspendovati ili zabraniti profil, a blokiranje djeluje u oba smjera. Zabranjen nalog se ne može jednostavno vratiti s novom adresom.',
       },
       {
+        q: 'Ko stoji iza Niyyah?',
+        a: 'Niyyah vodi Puzzles IT OÜ, kompanija registrovana u Estoniji (registarski broj 16552842, Sepapaja tn 6, Tallinn). Ona je odgovorna za tvoje lične podatke po evropskom zakonu o zaštiti podataka (GDPR). Za sva pitanja piši nam na support@niyyahmarriage.com.',
+      },
+      {
+        q: 'Dijelite li moje podatke s drugima ili s AI kompanijama?',
+        a: 'Lične podatke ne prodajemo i ne dajemo oglašivačima. Koristimo samo usluge bez kojih aplikacija ne radi, poput servera, obavijesti, kupovina, e-maila i automatske provjere lica, i svaka dobija samo ono što joj treba. Sve su navedene po imenu u politici privatnosti. Nijedna od njih, uključujući AI alat koji tim koristi u radu, ne koristi tvoje podatke iz aplikacije za treniranje svojih modela.',
+      },
+      {
+        q: 'Ko u timu vidi moje podatke?',
+        a: 'Samo ljudi kojima to posao traži, moderatori i podrška, i to onoliko koliko treba da odobre profil, riješe prijavu ili ti odgovore. Privatne razgovore ne čitamo rutinski: moderator vidi poruke kad su prijavljene ili ih automatska provjera označi. Nalozi osoblja zaštićeni su prijavom u dva koraka.',
+      },
+      {
         q: 'Šta je besplatno, a šta se plaća coinsima?',
         a: 'Besplatno je sve što te čuva: mahrem, pitanja prije razgovora, zaključan chat i moderacija, uz 30 profila i 20 lajkova dnevno, jednu osobu dnevno od onih koji su te lajkali, čitanje svih poruka koje ti pošalju i neograničen razgovor sa spojevima. Coinsima možeš vidjeti sve koji su te lajkali, poslati super lajk (tvoj lajk stoji na vrhu, istaknut, s tvojim imenom i slikom) ili direktnu poruku (lajk s porukom koju druga osoba čita besplatno), dobiti još profila i lajkova za taj dan i odgovarati na priče. Razgovor se otvara tek kad se oboje lajkate. Coinse dobijaš besplatno svaki dan, a možeš ih i kupiti jednokratno. Nema pretplate, pa nema ni šta otkazivati.',
       },
@@ -405,10 +417,10 @@ export const bs = {
     title: 'Mjerenje reklama',
     more: 'Šta ovo znači',
     details:
-      'Pixel s Facebooka broji koliko ljudi naša reklama dovede ovamo i ko se prijavi. Ne šaljemo mu tvoju e-mail adresu. Odbiješ li, ništa s Facebooka se neće ni učitati.',
+      'Pixel s Facebooka broji koliko ljudi naša reklama dovede ovamo i ko se prijavi, a Google Analytics koliko ljudi posjeti stranicu i šta pogleda. Nijednom ne šaljemo tvoju e-mail adresu. Odbiješ li, ništa od toga se neće ni učitati.',
     close: 'Zatvori',
     body:
-      'Mjerimo koliko naših reklama dovede ljudi ovamo. Ništa drugo, i tvoja e-mail adresa nikad ne ide dalje.',
+      'Mjerimo koliko ljudi naše reklame dovedu ovamo i koliko ih posjeti stranicu. Ništa drugo, i tvoja e-mail adresa nikad ne ide dalje.',
     accept: 'Prihvatam',
     decline: 'Ne hvala',
     label: 'Mjerenje reklama',

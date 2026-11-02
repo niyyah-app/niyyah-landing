@@ -382,6 +382,18 @@ export const az: Copy = {
         a: 'Təsdiqlənmiş nişanı şəxsin üz yoxlamasından keçdiyini bildirir: onun canlı çəkilmiş şəkli profildəki şəkillərlə müqayisə olunub. Şikayətləri profili dayandıra ya qadağan edə bilən əsl moderatorlar oxuyur, bloklama isə iki tərəfə işləyir. Qadağan olunmuş hesab sadəcə yeni e-poçt ünvanı ilə geri qayıda bilməz.',
       },
       {
+        q: 'Niyyah-ın arxasında kim dayanır?',
+        a: 'Niyyah-ı Estoniyada qeydiyyatdan keçmiş Puzzles IT OÜ şirkəti idarə edir (qeydiyyat kodu 16552842, Sepapaja tn 6, Tallinn). Avropa məlumatların qorunması qanununa (GDPR) görə şəxsi məlumatlarınıza bu şirkət cavabdehdir. İstənilən sual üçün bizə support@niyyahmarriage.com ünvanına yazın.',
+      },
+      {
+        q: 'Məlumatlarımı başqaları ilə və ya süni intellekt şirkətləri ilə paylaşırsınız?',
+        a: 'Şəxsi məlumatları satmırıq və reklamçılara vermirik. Yalnız tətbiqin onlarsız işləyə bilmədiyi xidmətlərdən istifadə edirik, məsələn serverlər, bildirişlər, alışlar, e-poçt və avtomatik üz yoxlaması, və hər biri yalnız öz hissəsinə lazım olanı alır. Onların hamısı məxfilik siyasətində adbaad göstərilib. Onların heç biri, o cümlədən komandanın işində istifadə etdiyi süni intellekt aləti, tətbiqdəki məlumatlarınızı öz modellərini öyrətmək üçün istifadə etmir.',
+      },
+      {
+        q: 'Komandada kim məlumatlarımı görə bilər?',
+        a: 'Yalnız işi bunu tələb edən insanlar, moderatorlar və dəstək, həm də yalnız profili təsdiqləmək, şikayətə baxmaq ya sizə cavab vermək üçün lazım olan qədər. Şəxsi söhbətləri adət üzrə oxumuruq: moderator mesajları onlar şikayət edildikdə ya avtomatik yoxlama onları işarələdikdə görür. Heyətin hesabları iki addımlı girişlə qorunur.',
+      },
+      {
         q: 'Nə pulsuzdur, nəyə isə sikkə lazımdır?',
         a: 'Sizi qoruyan hər şey pulsuzdur: məhrəm, söhbətdən əvvəl suallar, qapalı söhbət və nəzarət, üstəlik gündə 30 profil və 20 bəyənmə, sizi bəyənənlərdən gündə bir nəfər, sizə göndərilən bütün mesajları oxumaq və uyğunluqlarla hüdudsuz söhbət. Sikkələrlə sizi bəyənən hər kəsi görə, super bəyənmə (bəyənməniz ən yuxarıda, seçilmiş, adınız və şəklinizlə) ya birbaşa mesaj (qarşı tərəfin pulsuz oxuduğu mesajlı bəyənmə) göndərə, həmin gün üçün daha çox profil və bəyənmə ala və hekayələrə cavab verə bilərsiniz. Söhbət yalnız ikiniz də bir-birinizi bəyəndikdə açılır. Sikkələri hər gün pulsuz qazanırsınız, onları birdəfəlik ödənişlə ala da bilərsiniz. Abunə yoxdur, ona görə ləğv ediləsi heç nə də yoxdur.',
       },
@@ -407,10 +419,10 @@ export const az: Copy = {
     title: 'Reklamın ölçülməsi',
     more: 'Bu nə deməkdir',
     details:
-      'Facebook-dan bir piksel reklamımızın bura neçə nəfər gətirdiyini və kimin qeydiyyatdan keçdiyini sayır. E-poçt ünvanınızı ona heç vaxt göndərmirik. İmtina etsəniz, Facebook-dan heç nə yüklənmir.',
+      'Facebook-dan bir piksel reklamımızın bura neçə nəfər gətirdiyini və kimin qeydiyyatdan keçdiyini sayır, Google Analytics isə saytı neçə nəfərin ziyarət etdiyini və nəyə baxdıqlarını sayır. E-poçt ünvanınızı heç birinə heç vaxt göndərmirik. İmtina etsəniz, bunların heç biri ümumiyyətlə yüklənmir.',
     close: 'Bağla',
     body:
-      'Reklamlarımızın bura neçə nəfər gətirdiyini ölçürük. Başqa heç nə, və e-poçt ünvanınız heç vaxt daha irəli getmir.',
+      'Reklamlarımızın bura neçə nəfər gətirdiyini və saytı neçə nəfərin ziyarət etdiyini ölçürük. Başqa heç nə, və e-poçt ünvanınız heç vaxt daha irəli getmir.',
     accept: 'Qəbul edirəm',
     decline: 'Yox, sağ olun',
     label: 'Reklamın ölçülməsi',

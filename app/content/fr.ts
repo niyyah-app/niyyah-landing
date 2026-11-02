@@ -381,6 +381,18 @@ export const fr: Copy = {
         a: 'Le badge Verified signifie que la personne a passé une vérification du visage : une photo prise en direct a été comparée aux images de son profil. Les signalements sont lus par de vrais modérateurs, qui peuvent suspendre ou bannir un profil, et le blocage va dans les deux sens. Un compte banni ne peut pas simplement revenir avec une nouvelle adresse e-mail.',
       },
       {
+        q: 'Qui est derrière Niyyah ?',
+        a: 'Niyyah est exploitée par Puzzles IT OÜ, une société immatriculée en Estonie (code d’immatriculation 16552842, Sepapaja tn 6, Tallinn). Elle est responsable de tes données personnelles au titre du droit européen de la protection des données (GDPR). Pour toute question, écris-nous à support@niyyahmarriage.com.',
+      },
+      {
+        q: 'Partagez-vous mes données avec d’autres ou avec des entreprises d’IA ?',
+        a: 'Nous ne vendons pas de données personnelles et ne les donnons pas aux annonceurs. Nous utilisons uniquement les services sans lesquels l’application ne peut pas fonctionner, comme les serveurs, les notifications, les achats, l’e-mail et la vérification automatique du visage, et chacun ne reçoit que ce que sa part exige. Ils sont tous nommés dans la politique de confidentialité. Aucun d’eux, y compris l’outil d’IA que l’équipe utilise dans son travail, n’utilise tes données de l’application pour entraîner ses modèles.',
+      },
+      {
+        q: 'Qui, dans l’équipe, peut voir mes données ?',
+        a: 'Seules les personnes dont le travail l’exige, les modérateurs et le support, et seulement dans la mesure où ils en ont besoin pour approuver un profil, traiter un signalement ou te répondre. Nous ne lisons pas les conversations privées de manière routinière : un modérateur voit les messages lorsqu’ils sont signalés ou repérés par la vérification automatique. Les comptes de l’équipe sont protégés par une connexion en deux étapes.',
+      },
+      {
         q: 'Qu’est-ce qui est gratuit, et qu’est-ce qui coûte des pièces ?',
         a: 'Tout ce qui te protège est gratuit : le mahram, les questions avant la conversation, le chat verrouillé et la modération, avec 30 profils et 20 likes par jour, une personne par jour parmi celles qui t’ont liké, la lecture de tous les messages qu’on t’envoie, et une conversation illimitée avec tes correspondances. Avec des pièces, tu peux voir tous ceux qui t’ont liké, envoyer un super like (ton like en tête, mis en avant, avec ton nom et ta photo) ou un message direct (un like avec un message, que l’autre lit gratuitement), obtenir plus de profils et de likes pour la journée, et répondre aux récits. Une conversation ne s’ouvre que lorsque vous vous likez tous les deux. Tu gagnes des pièces gratuitement chaque jour, et tu peux aussi les acheter en une fois. Il n’y a pas d’abonnement, donc rien à résilier.',
       },
@@ -406,10 +418,10 @@ export const fr: Copy = {
     title: 'Mesure des publicités',
     more: 'Ce que cela signifie',
     details:
-      'Un pixel de Facebook compte combien de personnes notre publicité amène ici et qui s’inscrit. Nous ne lui envoyons jamais ton adresse e-mail. Si tu refuses, rien de Facebook n’est chargé.',
+      'Un pixel de Facebook compte combien de personnes notre publicité amène ici et qui s’inscrit, et Google Analytics compte combien de personnes visitent le site et ce qu’elles y regardent. Nous n’envoyons jamais ton adresse e-mail ni à l’un ni à l’autre. Si tu refuses, rien de tout cela n’est chargé.',
     close: 'Fermer',
     body:
-      'Nous mesurons combien de personnes nos publicités amènent ici. Rien d’autre, et ton adresse e-mail ne va jamais plus loin.',
+      'Nous mesurons combien de personnes nos publicités amènent ici et combien visitent le site. Rien d’autre, et ton adresse e-mail ne va jamais plus loin.',
     accept: 'J’accepte',
     decline: 'Non merci',
     label: 'Mesure des publicités',

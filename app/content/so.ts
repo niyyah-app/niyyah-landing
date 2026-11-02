@@ -382,6 +382,18 @@ export const so: Copy = {
         a: 'Calaamadda La xaqiijiyay waxay ka dhigan tahay in qofku ka gudbay hubinta wajiga: sawir toos ah oo isaga ah ayaa la barbardhigay sawirrada profile-kiisa. Cabashooyinka waxaa akhriya kormeerayaal dhab ah oo profile joojin ama mamnuucid kara, xannibaaddana labada dhinac ayay shaqaysaa. Akoon la mamnuucay si fudud ugama soo laaban karo iimayl cusub.',
       },
       {
+        q: 'Yaa ka dambeeya Niyyah?',
+        a: 'Niyyah waxaa maamula Puzzles IT OÜ, shirkad ka diiwaangashan Estonia (lambarka diiwaanka 16552842, Sepapaja tn 6, Tallinn). Iyadaa mas’uul ka ah xogtaada shakhsiga ah sida uu dhigayo sharciga Yurub ee ilaalinta xogta (GDPR). Su’aal kasta, nooga soo qor support@niyyahmarriage.com.',
+      },
+      {
+        q: 'Xogtayda ma la wadaagtaan dad kale ama shirkadaha AI?',
+        a: 'Xogta shakhsiga ah ma iibinno, xayeysiiyayaashana ma siinno. Waxaan isticmaalnaa oo kaliya adeegyada uusan abku shaqayn karin la’aantood, sida server-yada, ogeysiisyada, iibsashada, iimaylka iyo hubinta wajiga ee tooska ah, mid kastana wuxuu helaa oo kaliya waxa qaybtiisu u baahan tahay. Dhammaantood magacooda ayaa lagu sheegay siyaasadda asturnaanta. Midkoodna, oo ay ku jirto qalabka AI ee kooxdu ku isticmaasho shaqadeeda, uma isticmaalo xogtaada abka inuu ku tababaro moodeelladiisa.',
+      },
+      {
+        q: 'Kooxda dhexdeeda yaa arki kara xogtayda?',
+        a: 'Kaliya dadka shaqadoodu u baahan tahay, kormeerayaasha iyo taageerada, taasna kaliya inta ay u baahan yihiin si ay u ansixiyaan profile, u xalliyaan cabasho ama kuugu jawaabaan. Wadahadallada gaarka ah si caadi ah uma akhrinno: kormeeruhu wuxuu arkaa fariimaha marka laga cabtay ama hubinta tooska ahi calaamadisay. Akoonnada shaqaalaha waxaa lagu ilaaliyaa gelitaan laba-tallaabo ah.',
+      },
+      {
         q: 'Maxaa bilaash ah, maxaase qadaadiic lagu bixiyaa?',
         a: 'Wax walba oo ku ilaaliya waa bilaash: maxram, su’aalaha wadahadalka ka hor, chat-ka xidhan iyo kormeerka, iyo 30 profile iyo 20 jeclaysi maalintii, hal qof maalintii oo ka mid ah inta ku jeclaatay, akhrinta dhammaan fariimaha laguu soo diro iyo wadahadal aan xadidnayn oo isku-ekaanshooyinkaada. Qadaadiic waxaad ku arki kartaa dhammaan inta ku jeclaatay, waxaad ku diri kartaa super jeclaysi (jeclaysigaaga oo ugu sarreeya, la muujiyay, magacaaga iyo sawirkaaga) ama fariin toos ah (jeclaysi fariin wata oo qofka kale bilaash ku akhriyo), waxaad ku heli kartaa profile iyo jeclaysi dheeraad ah maalintaas, waxaadna uga jawaabi kartaa sheekooyinka. Wadahadalku wuxuu furmaa oo keliya marka aad labadiinuba is jeclaataan. Qadaadiic bilaash ah ayaad heshaa maalin kasta, waxaadna sidoo kale iibsan kartaa hal mar. Rukummo ma jirto, sidaas darteed ma jiro wax aad joojiso.',
       },
@@ -407,10 +419,10 @@ export const so: Copy = {
     title: 'Cabbirka xayeysiiska',
     more: 'Waxa ay tan macneheedu tahay',
     details:
-      'Pixel ka socda Facebook wuxuu tiriyaa inta qof ee xayeysiiskeennu halkan keeno iyo cidda isdiiwaangelisa. Iimaylkaaga waligeen uma dirno. Haddii aad diiddo, waxba Facebook kama soo dego.',
+      'Pixel ka socda Facebook wuxuu tiriyaa inta qof ee xayeysiiskeennu halkan keeno iyo cidda isdiiwaangelisa, Google Analytics-na wuxuu tiriyaa inta qof ee booqata bogga iyo waxa ay eegaan. Iimaylkaaga midkoodna waligeen uma dirno. Haddii aad diiddo, waxba gabi ahaanba lama soo dejiyo.',
     close: 'Xir',
     body:
-      'Waxaan cabbirnaa inta qof ee xayeysiisyadeennu halkan keenaan. Wax kale ma jiro, iimaylkaaguna waligiis kama sii gudbo.',
+      'Waxaan cabbirnaa inta qof ee xayeysiisyadeennu halkan keenaan iyo inta booqata bogga. Wax kale ma jiro, iimaylkaaguna waligiis kama sii gudbo.',
     accept: 'Waan oggolahay',
     decline: 'Maya, mahadsanid',
     label: 'Cabbirka xayeysiiska',

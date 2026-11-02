@@ -381,6 +381,18 @@ export const wo: Copy = {
         a: 'Màndargay Dëggal dafay tekki ne nit ki jaar na saytu kanam: nataal bu ñu ko def ci saa si dañu ko méngale ak nataal yi ci profilam. Ñaxtu yi saytukat yu dëggu ñoo leen di jàng, ñi mën tëj profil walla tere ko, te tëj dafay dox ci ñaari wet. Kont bu ñu tere mënul a dellusi rekk ak email bu bees.',
       },
       {
+        q: 'Kan moo nekk ginnaaw Niyyah?',
+        a: 'Niyyah, Puzzles IT OÜ moo koy dawal, benn kompaañi bu ñu bindal ci Estoni (limu bindu 16552842, Sepapaja tn 6, Tallinn). Moom moo am warugar ci say xibaar yu sa bopp, ci yoonu Tugal bu aar xibaar yi (GDPR). Ngir bépp laaj, bindal nu ci support@niyyahmarriage.com.',
+      },
+      {
+        q: 'Ndax dangeen di séddoo sama xibaar ak yeneen nit walla ak kompaañi yu AI?',
+        a: 'Du ñu jaay xibaar yu sa bopp te du ñu leen jox ñiy def piblisite. Dañuy jëfandikoo rekk liggéey yi app bi mënul dox te amu leen, ni serwëer yi, yégle yi, jënd yi, email ak saytu kanam bu otomatik bi, te bu ci nekk dafay jot rekk li wàllam laaj. Ñoom ñépp ñu ngi leen tudd ci politig sutura bi. Kenn ci ñoom, ba ci jumtukaay AI bi ekip bi di jëfandikoo ci liggéeyam, du jëfandikoo say xibaar yu jóge ci app bi ngir jàngal ay modelam.',
+      },
+      {
+        q: 'Kan ci ekip bi mën a gis sama xibaar?',
+        a: 'Ñi seen liggéey laaj ko rekk, saytukat yi ak ñiy jàppale, te rekk li ñu soxla ngir nangu benn profil, toppatoo benn ñaxtu walla tontu la. Du ñu jàng waxtaan yu sutura ni aada: saytukat bi dafay gis bataaxal yi su ñu leen ñaxtoo walla saytu bu otomatik bi màndargaale leen. Kontu liggéeykat yi dañu leen aar ak duggu ci ñaari tappal.',
+      },
+      {
         q: 'Lan moo dara du fay te lan lañuy fay ak coins?',
         a: 'Lépp lu lay aar dara du fay: mahram, laaj yi laata waxtaan, waxtaan wu tëdd ak saytu, ak it 30 profil ak 20 bëgg bés bu nekk, benn nit bés bu nekk ci ñi la bëgg, jàng bataaxal yépp yi ñu la yónne, ak waxtaan bu amul àpp ak say màndargaayu. Ak coins mën nga gis ñépp ñi la bëgg, yónne super bëgg (sa bëgg mooy jiitu, feeñ bu baax, ak sa tur ak sa nataal) walla bataaxal bu jub (bëgg ak bataaxal bu ki ko jot di jàng te du fay dara), am profil ak bëgg yu yokk ngir bés boobu, te tontu xalaat yi. Waxtaan wi day ubbiku rekk su ngeen ñaar bëggante. Coins yi danga leen di am bés bu nekk te doo fay dara, te mën nga leen jënd it benn yoon. Amul abonemaa, kon amul dara lu nga war a far.',
       },
@@ -406,10 +418,10 @@ export const wo: Copy = {
     title: 'Nattu reklaam',
     more: 'Lan la lii tekki',
     details:
-      'Benn pixel bu jóge Facebook dafay waññ ñaata nit la sunu reklaam di indi fii ak kan moo bind turam. Du ñu ko yónnee sa adres email mukk. Soo ko bañee, dara du jóge Facebook bu ñu yeb.',
+      'Benn pixel bu jóge Facebook dafay waññ ñaata nit la sunu reklaam di indi fii ak kan moo bind turam, te Google Analytics dafay waññ ñaata nit ñooy seetsi site bi ak lan lañuy xool. Du ñu yónnee kenn ci ñoom sa adres email mukk. Soo ko bañee, dara ci lii du yeb sax.',
     close: 'Tëj',
     body:
-      'Dañuy natt ñaata nit la sunu reklaam yi di indi fii. Amul leneen, te sa adres email du dem fu gëna sore mukk.',
+      'Dañuy natt ñaata nit la sunu reklaam yi di indi fii ak ñaata nit ñooy seetsi site bi. Amul leneen, te sa adres email du dem fu gëna sore mukk.',
     accept: 'Nangu naa',
     decline: 'Déedéet, jërëjëf',
     label: 'Nattu reklaam',
