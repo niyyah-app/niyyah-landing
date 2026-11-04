@@ -14,7 +14,7 @@ useHead(() => ({
     lang: head.value.htmlAttrs?.lang,
     dir: head.value.htmlAttrs?.dir,
   },
-  link: ownsSeoLinks.value ? [] : (head.value.link ?? []),
+  link: ownsSeoLinks.value ? [] : withEnglishXDefault(head.value.link ?? []),
   meta: head.value.meta ?? [],
 }))
 </script>

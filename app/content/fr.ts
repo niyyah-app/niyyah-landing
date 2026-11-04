@@ -4,7 +4,7 @@ export const fr: Copy = {
   meta: {
     title: 'Niyyah — L’application halal pour trouver un conjoint',
     description:
-      'Niyyah est une application pour les musulmans qui cherchent le mariage. Les messages ne s’ouvrent qu’en cas d’intérêt mutuel, un mahram peut suivre la conversation, et la communauté est modérée. Gratuite, en neuf langues.',
+      'L’application halal pour les musulmans qui cherchent le mariage : messages sur intérêt mutuel, un mahram peut suivre, communauté modérée. Gratuite.',
     ogAlt: 'Niyyah : le mariage, cherché avec intention.',
   },
 

@@ -91,7 +91,14 @@ useSeoMeta({
   articleModifiedTime: () => article.updated,
 })
 
+// x-default na engleski prijevod, kad postoji (app/utils/xDefault.ts). Isti
+// ključ kao i18n-ov link, pa ga zamijeni umjesto da doda drugi x-default.
+const englishUrl = translated.en
+  ? `${siteUrl}${localePath({ name: 'vodic-slug', params: { slug: translated.en } }, 'en')}`
+  : null
+
 useHead(() => ({
+  link: englishUrl ? [{ key: 'i18n-xd', rel: 'alternate', hreflang: 'x-default', href: englishUrl }] : [],
   script: [
     {
       key: 'ld-json',

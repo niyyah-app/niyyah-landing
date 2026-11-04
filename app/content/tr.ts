@@ -4,7 +4,7 @@ export const tr: Copy = {
   meta: {
     title: 'Niyyah — Eş bulmak için helal uygulama',
     description:
-      'Niyyah, evlilik arayan Müslümanlar için bir uygulama. Mesajlar ancak karşılıklı ilgiyle açılır, sohbette mahrem bulunabilir ve topluluk denetlenir. Ücretsiz, dokuz dilde.',
+      'Evlilik arayan Müslümanlar için helal uygulama: mesajlar karşılıklı ilgiyle açılır, sohbette mahrem bulunabilir, topluluk denetlenir. Ücretsiz.',
     ogAlt: 'Niyyah: Niyetle aranan evlilik.',
   },
 

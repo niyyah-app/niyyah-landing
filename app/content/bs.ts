@@ -3,7 +3,7 @@ export const bs = {
   meta: {
     title: 'Niyyah — Halal aplikacija za pronalazak bračnog druga',
     description:
-      'Niyyah je aplikacija za muslimane koji traže brak. Poruke tek na obostrani interes, mahrem u razgovoru i moderirana zajednica. Besplatno, na bosanskom i još 8 jezika.',
+      'Halal aplikacija za brak za muslimane: poruke tek na obostrani interes, mahrem može biti u razgovoru, a zajednica je moderirana. Besplatno.',
     ogAlt: 'Niyyah: Brak, tražen s namjerom.',
   },
 

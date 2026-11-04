@@ -4,7 +4,7 @@ export const id: Copy = {
   meta: {
     title: 'Niyyah — Aplikasi halal untuk mencari pasangan hidup',
     description:
-      'Niyyah adalah aplikasi untuk Muslim yang mencari pernikahan. Pesan hanya terbuka bila kedua pihak tertarik, mahram bisa hadir dalam percakapan, dan komunitasnya dimoderasi. Gratis, dalam sembilan bahasa.',
+      'Aplikasi pernikahan halal untuk Muslim: pesan hanya terbuka bila kedua pihak tertarik, mahram bisa ikut dalam percakapan, komunitas dimoderasi. Gratis.',
     ogAlt: 'Niyyah: Pernikahan, dicari dengan niat.',
   },
 

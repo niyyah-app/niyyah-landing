@@ -2,9 +2,9 @@ import type { Copy } from './bs'
 
 export const ms: Copy = {
   meta: {
-    title: 'Niyyah — Aplikasi halal untuk mencari pasangan hidup',
+    title: 'Niyyah — Aplikasi perkahwinan halal untuk Muslim',
     description:
-      'Niyyah ialah aplikasi untuk Muslim yang mencari perkahwinan. Mesej hanya terbuka apabila kedua-dua pihak berminat, mahram boleh berada dalam perbualan, dan komunitinya diselia. Percuma, dalam sembilan bahasa.',
+      'Aplikasi perkahwinan halal untuk Muslim: mesej hanya terbuka apabila kedua-dua pihak berminat, mahram boleh menyertai perbualan, komuniti diselia. Percuma.',
     ogAlt: 'Niyyah: Perkahwinan, dicari dengan niat.',
   },
 
