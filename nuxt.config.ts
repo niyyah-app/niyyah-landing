@@ -26,6 +26,7 @@ const googlePlayUrl = 'https://play.google.com/store/apps/details?id=com.niyyahm
 // App Store čeka Appleov pregled. Dugme objavljene trgovine vodi na nju;
 // ostalo je prigušeno, kao „uskoro" — i kad je appLaunched true, jer bi
 // link vodio na stranicu koje još nema. Kad Apple odobri: appStoreLive = true.
+// Tada promijeni i rečenicu o iOS-u u public/llms.txt (statična je, ne čita ovo).
 const googlePlayLive = true
 const appStoreLive = false
 

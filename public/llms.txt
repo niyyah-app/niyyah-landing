@@ -1,8 +1,8 @@
 # Niyyah
 
-> Niyyah is a mobile app (iOS and Android) for Muslims who are looking for a spouse, built around Islamic limits: only the opposite gender, messages open only on mutual interest, an optional mahram (family member) in the conversation, and a moderated community. Made in Bosnia and Herzegovina. Tagline: "Brak, tražen s namjerom." (Marriage, sought with intention.)
+> Niyyah is a mobile app for Muslims who are looking for a spouse, built around Islamic limits: only the opposite gender, messages open only on mutual interest, an optional mahram (family member) in the conversation, and a moderated community. Made in Bosnia and Herzegovina; operated by Puzzles IT OÜ (Estonia). Tagline: "Brak, tražen s namjerom." (Marriage, sought with intention.)
 
-Niyyah means "intention". The app is built for marriage, not for browsing. It is not yet in the App Store or Google Play; the site has a waitlist.
+Niyyah means "intention". The app is built for marriage, not for browsing. It is available for Android on Google Play (https://play.google.com/store/apps/details?id=com.niyyahmarriagehalal.app). The iOS version has been submitted to Apple and is not in the App Store yet.
 
 ## What the app does
 
@@ -11,7 +11,7 @@ Niyyah means "intention". The app is built for marriage, not for browsing. It is
 - Mahram portal: a woman can turn on "Require a mahram" and invite up to three people (father, brother, uncle, guardian or another mahram) by email. They see her conversations and matches in a read-only portal; they cannot write and do not use the app to meet anyone. One mahram can look after several people. Available on women's profiles.
 - Questions before chatting: a user sets up to three questions; after a match the other person answers first, and the user decides whether the conversation opens.
 - Profiles include relationship with faith, prayer, madhhab, hijab, timeframe for marriage, willingness to move, children, and answers to "Situations" in seven areas (marriage, communication, conflict, family, faith, finances, parenting).
-- Safety: exact location is never shown; blurry and very small photos are turned away and EXIF/GPS data is removed on upload; a person from the team compares the verification selfie with the profile photos (the Verified badge); reports are read by real moderators who can suspend or ban; blocking works both ways; a banned account cannot simply come back with a new email address; Discover can be paused.
+- Safety: exact location is never shown; blurry and very small photos are turned away and EXIF/GPS data is removed on upload; the verification selfie is compared with the profile photos automatically, and anything unclear is checked by a person from the team (the Verified badge); reports are read by real moderators who can suspend or ban; blocking works both ways; a banned account cannot simply come back with a new email address; Discover can be paused.
 - Community: moderated posts (every post is reviewed before it appears), separate spaces visible to one gender only, anonymous questions.
 - Languages: the app is in 9 languages — Bosnian, English, German, Turkish, Arabic, Indonesian, Urdu, Malay and French.
 - Free, for everyone: a profile and 30 profiles a day in Discover, 20 likes a day, one person a day from those who liked you, reading every message sent to you, unlimited conversation with matches, mahram, questions before chatting, community, stories and the Question of the day, and free coins every day.
@@ -25,6 +25,9 @@ Niyyah does not issue fatwas and does not claim approval from any religious inst
 - [Niyyah (English)](https://niyyahmarriage.com/en): main page in English
 - [Niyyah (Deutsch)](https://niyyahmarriage.com/de): main page in German
 - [Niyyah (Türkçe)](https://niyyahmarriage.com/tr): main page in Turkish
+- Also in French (/fr), Indonesian (/id), Malay (/ms), Arabic (/ar), Urdu (/ur) and 32 more languages: https://niyyahmarriage.com/{language code}
+- [Privacy Policy](https://niyyahmarriage.com/en/privacy) and [Terms of Service](https://niyyahmarriage.com/en/terms)
+- [Support](https://niyyahmarriage.com/en/support): support@niyyahmarriage.com
 
 ## Guide
 

@@ -59,7 +59,10 @@ useHead(() => ({
           {
             '@type': 'MobileApplication',
             name: 'Niyyah',
-            operatingSystem: 'iOS, Android',
+            // Samo platforme na kojima se aplikacija stvarno može skinuti
+            // (appStoreLive / googlePlayLive u nuxt.config.ts): do Appleovog
+            // odobrenja „iOS" bi bila tvrdnja koju stranica ne može ispuniti.
+            operatingSystem: [iosLive && 'iOS', androidLive && 'Android'].filter(Boolean).join(', ') || undefined,
             applicationCategory: 'LifestyleApplication',
             description: c.value.meta.description,
             url: pageUrl.value,
