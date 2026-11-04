@@ -117,13 +117,13 @@ export const ku: Copy = {
     kicker: 'Deriyê mehrem',
     title: 'Ji wan kesên ku ramana wan girîng e tiştek veşartî nîne.',
     body:
-      '„Mehrem bixwaze" veke û heta sê kesên ku pê bawer dikî vexwîne: bav, bira, ap an xal, sererastker. Ew axaftinên te di deriyê mehrem de dibînin, lê nikarin binivîsin û nikarin bi kesî re nas bibin. Ew tenê li wir in — wek ku rûbirû li wir bûna.',
+      '„Mehrem bixwaze" veke û heta sê kesên ku pê bawer dikî vexwîne: bav, bira, ap an xal, sererastker. Ew axaftinên te di deriyê mehrem de dibînin. Ew tenê dikarin binivîsin eger tu an kesê ku tu pê re diaxivî destûrê bide, û sepanê ji bo naskirina kesî bi kar naynin. Ew tenê li wir in — wek ku rûbirû li wir bûna.',
     steps: [
       { title: '„Mehrem bixwaze" veke', body: 'Tenê mifteyek di sazkariyan de.' },
       { title: 'Heta sê mehreman vexwîne', body: 'Vexwendin bi e-nameyê tê, û mehrem wê di sepanê de qebûl dike.' },
       {
         title: 'Ew dixwînin, tu diaxivî',
-        body: 'Mehrem axaftin û lihevhatinan dibîne. Nikare ji deriyê binivîse û taybetmendiyên nasînê bi kar nayîne.',
+        body: 'Mehrem axaftin û lihevhatinan dibîne. Tenê bi destûra te an ya kesê ku tu pê re diaxivî dinivîse, û taybetmendiyên nasînê bi kar nayîne.',
       },
     ],
     who: [
@@ -362,7 +362,7 @@ export const ku: Copy = {
       },
       {
         q: 'Mehrem çi ye û ez wî çawa lê zêde dikim?',
-        a: 'Mehrem endamekî mêr ê malbatê ye ku zewac pê her û her qedexe ye, mînak bav, bira, ap an xal. Tu dikarî sererastker jî vexwînî. Di sazkariyan de „Mehrem bixwaze" veke û heta sê kesan vexwîne. Vexwendin bi e-nameyê tê û mehrem wê di sepanê de qebûl dike. Paşê di deriyê mehrem de axaftin û lihevhatinên te dibîne, lê nikare binivîse. Ev taybetmendî di profîlên jinan de heye.',
+        a: 'Mehrem endamekî mêr ê malbatê ye ku zewac pê her û her qedexe ye, mînak bav, bira, ap an xal. Tu dikarî sererastker jî vexwînî. Di sazkariyan de „Mehrem bixwaze" veke û heta sê kesan vexwîne. Vexwendin bi e-nameyê tê û mehrem wê di sepanê de qebûl dike. Paşê di deriyê mehrem de axaftin û lihevhatinên te dibîne, û tenê dikare binivîse eger tu an kesê ku tu pê re diaxivî destûrê bide. Ev taybetmendî di profîlên jinan de heye.',
       },
       {
         q: 'Ma Niyyah helal e?',

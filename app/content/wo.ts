@@ -117,13 +117,13 @@ export const wo: Copy = {
     kicker: 'Buntu mahram',
     title: 'Dara du ñu ko nëbb ñi seen xalaat am solo.',
     body:
-      'Ubbil «Laaj mahram» te woo ba ci ñetti nit ñoo wóolu: sa baay, sa mag, sa nijaay, sa kilifa. Dañuy gis sa waxtaan yi ci buntu mahram, waaye duñu mën bind te duñu mën xamante ak kenn. Ñu ngi fi rekk — ni ñu mën a nekke jëmmu.',
+      'Ubbil «Laaj mahram» te woo ba ci ñetti nit ñoo wóolu: sa baay, sa mag, sa nijaay, sa kilifa. Dañuy gis sa waxtaan yi ci buntu mahram. Mën nañu bind rekk bu ko yaw walla ki ngay waxtaan ak moom nangoo, te duñu jëfandikoo app bi ngir xamante ak kenn. Ñu ngi fi rekk — ni ñu mën a nekke jëmmu.',
     steps: [
       { title: 'Ubbil «Laaj mahram»', body: 'Benn buton ci tërale yi.' },
       { title: 'Wooyal ba ci ñetti mahram', body: 'Woote bi dafay ñëw ci email, mahram bi nangu ko ci app bi.' },
       {
         title: 'Ñoom dañuy jàng, yow di wax',
-        body: 'Mahram bi dafay gis waxtaan yi ak màndargaayu yi. Mënul bind jële ci bunt bi te jëfandikoowul jumtukaay yu xamante.',
+        body: 'Mahram bi dafay gis waxtaan yi ak màndargaayu yi. Du bind lu dul ak sa ndigal walla ndigalu ki ngay waxtaan ak moom, te jëfandikoowul jumtukaay yu xamante.',
       },
     ],
     who: [
@@ -362,7 +362,7 @@ export const wo: Copy = {
       },
       {
         q: 'Lan mooy mahram te naka laa ko yokk?',
-        a: 'Mahram mooy mbokk mu góor mu takk ak moom tere ba fàww, ni baay, mag, nijaay. Mën nga woo kilifa itam. Ci tërale yi ubbil «Laaj mahram» te woo ba ci ñetti nit. Woote bi dafay ñëw ci email te mahram bi nangu ko ci app bi. Ci buntu mahram dina gis say waxtaan ak say màndargaayu, waaye mënul bind. Jumtukaay bii mu ngi am ci profil yu jigéen.',
+        a: 'Mahram mooy mbokk mu góor mu takk ak moom tere ba fàww, ni baay, mag, nijaay. Mën nga woo kilifa itam. Ci tërale yi ubbil «Laaj mahram» te woo ba ci ñetti nit. Woote bi dafay ñëw ci email te mahram bi nangu ko ci app bi. Ci buntu mahram dina gis say waxtaan ak say màndargaayu, te mën na bind rekk bu ko yaw walla ki ngay waxtaan ak moom nangoo. Jumtukaay bii mu ngi am ci profil yu jigéen.',
       },
       {
         q: 'Ndax Niyyah halal la?',

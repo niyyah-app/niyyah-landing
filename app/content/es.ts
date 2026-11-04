@@ -117,13 +117,13 @@ export const es: Copy = {
     kicker: 'Portal del mahram',
     title: 'Nada escondido de quienes su opinión importa.',
     body:
-      'Activa «Exigir mahram» e invita hasta tres personas de confianza: tu padre, tu hermano, tu tío o tu tutor. Ellos ven tus conversaciones en el portal del mahram, pero no pueden escribir ni conocer a nadie. Simplemente están, como lo estarían en persona.',
+      'Activa «Exigir mahram» e invita hasta tres personas de confianza: tu padre, tu hermano, tu tío o tu tutor. Ellos ven tus conversaciones en el portal del mahram. Solo pueden escribir si lo permites tú o la persona con la que hablas, y no usan la app para conocer a nadie. Simplemente están, como lo estarían en persona.',
     steps: [
       { title: 'Activa «Exigir mahram»', body: 'Un solo interruptor en los ajustes.' },
       { title: 'Invita hasta tres mahram', body: 'La invitación llega por correo y el mahram la acepta en la app.' },
       {
         title: 'Ellos leen, tú hablas',
-        body: 'El mahram ve las conversaciones y las coincidencias. No puede escribir desde el portal ni usa funciones para conocer a nadie.',
+        body: 'El mahram ve las conversaciones y las coincidencias. Solo escribe con tu permiso o el de la persona con la que hablas, y no usa funciones para conocer a nadie.',
       },
     ],
     who: [
@@ -363,7 +363,7 @@ export const es: Copy = {
       },
       {
         q: '¿Qué es un mahram y cómo lo añado?',
-        a: 'Un mahram es un familiar varón con quien el matrimonio está prohibido para siempre, por ejemplo el padre, el hermano o el tío. También puedes invitar a un tutor. En los ajustes activas «Exigir mahram» e invitas hasta tres personas. La invitación llega por correo y el mahram la acepta en la app. En el portal del mahram ve entonces tus conversaciones y coincidencias, pero no puede escribir. La función está disponible en perfiles de mujeres.',
+        a: 'Un mahram es un familiar varón con quien el matrimonio está prohibido para siempre, por ejemplo el padre, el hermano o el tío. También puedes invitar a un tutor. En los ajustes activas «Exigir mahram» e invitas hasta tres personas. La invitación llega por correo y el mahram la acepta en la app. En el portal del mahram ve entonces tus conversaciones y coincidencias, y solo puede escribir si lo permites tú o la persona con la que hablas. La función está disponible en perfiles de mujeres.',
       },
       {
         q: '¿Es halal Niyyah?',

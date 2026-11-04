@@ -117,13 +117,13 @@ export const sq: Copy = {
     kicker: 'Portali i mahremit',
     title: 'Asgjë e fshehur nga ata që mendimi i tyre ka vlerë.',
     body:
-      'Ndiz „Kërko mahrem“ dhe fto deri në tre njerëz që i beson: babain, vëllain, xhaxhain ose dajën, kujdestarin. Ata shohin bisedat e tua në portalin e mahremit, por nuk mund të shkruajnë dhe nuk mund të njihen me askënd. Janë vetëm të pranishëm, siç do të ishin edhe në takim.',
+      'Ndiz „Kërko mahrem“ dhe fto deri në tre njerëz që i beson: babain, vëllain, xhaxhain ose dajën, kujdestarin. Ata shohin bisedat e tua në portalin e mahremit. Mund të shkruajnë vetëm nëse e lejon ti ose personi me të cilin bisedon, dhe nuk e përdorin aplikacionin për t’u njohur me askënd. Janë vetëm të pranishëm, siç do të ishin edhe në takim.',
     steps: [
       { title: 'Ndiz „Kërko mahrem“', body: 'Një çelës i vetëm në cilësimet.' },
       { title: 'Fto deri në tre mahremë', body: 'Ftesa vjen me email, dhe mahremi e pranon në aplikacion.' },
       {
         title: 'Ata lexojnë, ti bisedon',
-        body: 'Mahremi shikon bisedat dhe përputhjet. Nuk mund të shkruajë nga portali dhe nuk përdor funksionet e njohjes.',
+        body: 'Mahremi shikon bisedat dhe përputhjet. Shkruan vetëm me lejen tënde ose të personit me të cilin bisedon, dhe nuk përdor funksionet e njohjes.',
       },
     ],
     who: [
@@ -363,7 +363,7 @@ export const sq: Copy = {
       },
       {
         q: 'Çfarë është mahremi dhe si e shtoj?',
-        a: 'Mahrem është një i afërm mashkull me të cilin martesa është e ndaluar përgjithmonë, për shembull babai, vëllai, xhaxhai ose daja. Mund të ftosh edhe kujdestarin. Në cilësimet ndiz „Kërko mahrem“ dhe fto deri në tre persona. Ftesa vjen me email dhe mahremi e pranon në aplikacion. Në portalin e mahremit ai pastaj shikon bisedat dhe përputhjet e tua, por nuk mund të shkruajë. Funksioni është i disponueshëm në profilet e femrave.',
+        a: 'Mahrem është një i afërm mashkull me të cilin martesa është e ndaluar përgjithmonë, për shembull babai, vëllai, xhaxhai ose daja. Mund të ftosh edhe kujdestarin. Në cilësimet ndiz „Kërko mahrem“ dhe fto deri në tre persona. Ftesa vjen me email dhe mahremi e pranon në aplikacion. Në portalin e mahremit ai pastaj shikon bisedat dhe përputhjet e tua, dhe mund të shkruajë vetëm nëse e lejon ti ose personi me të cilin bisedon. Funksioni është i disponueshëm në profilet e femrave.',
       },
       {
         q: 'A është Niyyah hallall?',

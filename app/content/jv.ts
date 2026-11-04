@@ -117,13 +117,13 @@ export const jv: Copy = {
     kicker: 'Portal mahram',
     title: 'Ora ana sing didhelikake saka wong sing panemune penting.',
     body:
-      'Uripake „Njaluk mahram" banjur undang paling akeh telung wong sing sampeyan percaya: bapak, kangmas, pakdhe utawa paklik, wali. Dheweke ndeleng pirembugan sampeyan ing portal mahram, nanging ora bisa nulis lan ora bisa kenalan karo sapa wae. Mung ana — kaya nalika ketemu langsung.',
+      'Uripake „Njaluk mahram" banjur undang paling akeh telung wong sing sampeyan percaya: bapak, kangmas, pakdhe utawa paklik, wali. Dheweke ndeleng pirembugan sampeyan ing portal mahram. Dheweke mung bisa nulis yen sampeyan utawa wong sing lagi rembugan karo sampeyan ngidini, lan ora nganggo aplikasi kanggo kenalan karo sapa wae. Mung ana — kaya nalika ketemu langsung.',
     steps: [
       { title: 'Uripake „Njaluk mahram"', body: 'Siji tombol ing setelan.' },
       { title: 'Undang paling akeh telung mahram', body: 'Undhangane teka lantaran email, lan mahram nampa ing aplikasi.' },
       {
         title: 'Dheweke maca, sampeyan omong',
-        body: 'Mahram ndeleng pirembugan lan kecocokan. Ora bisa nulis saka portal lan ora nganggo fitur kanggo kenalan.',
+        body: 'Mahram ndeleng pirembugan lan kecocokan. Mung nulis kanthi idin sampeyan utawa wong sing lagi rembugan karo sampeyan, lan ora nganggo fitur kanggo kenalan.',
       },
     ],
     who: [
@@ -362,7 +362,7 @@ export const jv: Copy = {
       },
       {
         q: 'Mahram kuwi apa lan carane nambahake?',
-        a: 'Mahram iku sedulur lanang sing nikah karo dheweke haram ing salawase, tuladhane bapak, kangmas, pakdhe utawa paklik. Wali uga bisa diundang. Ing setelan uripake „Njaluk mahram" banjur undang paling akeh telung wong. Undhangane teka lantaran email lan mahram nampa ing aplikasi. Ing portal mahram dheweke banjur ndeleng pirembugan lan kecocokan sampeyan, nanging ora bisa nulis. Fitur iki ana ing profil wanita.',
+        a: 'Mahram iku sedulur lanang sing nikah karo dheweke haram ing salawase, tuladhane bapak, kangmas, pakdhe utawa paklik. Wali uga bisa diundang. Ing setelan uripake „Njaluk mahram" banjur undang paling akeh telung wong. Undhangane teka lantaran email lan mahram nampa ing aplikasi. Ing portal mahram dheweke banjur ndeleng pirembugan lan kecocokan sampeyan, lan mung bisa nulis yen sampeyan utawa wong sing lagi rembugan karo sampeyan ngidini. Fitur iki ana ing profil wanita.',
       },
       {
         q: 'Apa Niyyah kuwi halal?',

@@ -117,13 +117,13 @@ export const ha: Copy = {
     kicker: 'Ƙofar mahram',
     title: 'Ba a ɓoye kome ga waɗanda ra’ayinsu ke da muhimmanci.',
     body:
-      'Kunna „Buƙatar mahram" sannan ka gayyaci har mutane uku da ka amince da su: mahaifinka, ɗan’uwanka, kawunka ko baffanka, mai kula. Suna ganin tattaunawarka a ƙofar mahram, amma ba za su iya rubutu ba kuma ba za su iya saduwa da kowa ba. Suna nan kawai — kamar yadda za su kasance fuska da fuska.',
+      'Kunna „Buƙatar mahram" sannan ka gayyaci har mutane uku da ka amince da su: mahaifinka, ɗan’uwanka, kawunka ko baffanka, mai kula. Suna ganin tattaunawarka a ƙofar mahram. Suna rubutu ne kawai da izininka ko na wanda kake magana da shi, kuma ba sa amfani da manhajar don saduwa da kowa. Suna nan kawai — kamar yadda za su kasance fuska da fuska.',
     steps: [
       { title: 'Kunna „Buƙatar mahram"', body: 'Maɓalli ɗaya a cikin saituna.' },
       { title: 'Gayyaci har mahram uku', body: 'Gayyatar tana zuwa ta imel, mahram kuma yana karɓarta a cikin manhajar.' },
       {
         title: 'Su suna karatu, kai kana magana',
-        body: 'Mahram yana ganin tattaunawa da daidaito. Ba zai iya rubutu daga ƙofar ba kuma ba ya amfani da abubuwan saduwa.',
+        body: 'Mahram yana ganin tattaunawa da daidaito. Yana rubutu ne kawai da izininki ko na wanda kike magana da shi, kuma ba ya amfani da abubuwan saduwa.',
       },
     ],
     who: [
@@ -362,7 +362,7 @@ export const ha: Copy = {
       },
       {
         q: 'Menene mahram kuma yaya zan ƙara shi?',
-        a: 'Mahram shi ne ɗan’uwan jinsin namiji wanda aure da shi haramun ne har abada, misali uba, ɗan’uwa, kawu ko baffa. Kuna iya gayyatar mai kula ma. A saituna ka kunna „Buƙatar mahram" ka gayyaci har mutane uku. Gayyatar tana zuwa ta imel kuma mahram yana karɓarta a cikin manhajar. A ƙofar mahram sai ya ga tattaunawarki da daidaito, amma ba zai iya rubutu ba. Wannan abu yana nan a bayanan martaba na mata.',
+        a: 'Mahram shi ne ɗan’uwan jinsin namiji wanda aure da shi haramun ne har abada, misali uba, ɗan’uwa, kawu ko baffa. Kuna iya gayyatar mai kula ma. A saituna ka kunna „Buƙatar mahram" ka gayyaci har mutane uku. Gayyatar tana zuwa ta imel kuma mahram yana karɓarta a cikin manhajar. A ƙofar mahram sai ya ga tattaunawarki da daidaito, kuma yana rubutu ne kawai da izininki ko na wanda kike magana da shi. Wannan abu yana nan a bayanan martaba na mata.',
       },
       {
         q: 'Shin Niyyah halal ce?',

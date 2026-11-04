@@ -117,13 +117,13 @@ export const fr: Copy = {
     kicker: 'Portail mahram',
     title: 'Rien de caché à ceux dont l’avis compte.',
     body:
-      'Active « Exiger un mahram » et invite jusqu’à trois personnes de confiance : ton père, ton frère, ton oncle ou ton tuteur. Ils voient tes conversations dans le portail mahram, mais ne peuvent ni écrire ni faire de rencontres. Ils sont simplement là, comme ils le seraient en personne.',
+      'Active « Exiger un mahram » et invite jusqu’à trois personnes de confiance : ton père, ton frère, ton oncle ou ton tuteur. Ils voient tes conversations dans le portail mahram. Ils ne peuvent écrire que si toi ou la personne avec qui tu parles l’autorisez, et n’utilisent pas l’application pour faire des rencontres. Ils sont simplement là, comme ils le seraient en personne.',
     steps: [
       { title: 'Active « Exiger un mahram »', body: 'Un seul interrupteur dans les réglages.' },
       { title: 'Invite jusqu’à trois mahrams', body: 'L’invitation arrive par e-mail, et le mahram l’accepte dans l’application.' },
       {
         title: 'Ils lisent, tu parles',
-        body: 'Le mahram voit les conversations et les correspondances. Il ne peut pas écrire depuis le portail et n’utilise aucune fonction de rencontre.',
+        body: 'Le mahram voit les conversations et les correspondances. Il n’écrit qu’avec ton accord ou celui de la personne avec qui tu parles, et n’utilise aucune fonction de rencontre.',
       },
     ],
     who: [
@@ -362,7 +362,7 @@ export const fr: Copy = {
       },
       {
         q: 'Qu’est-ce qu’un mahram et comment l’ajouter ?',
-        a: 'Un mahram est un membre masculin de la famille avec qui le mariage est définitivement interdit, par exemple le père, le frère ou l’oncle. Tu peux aussi inviter un tuteur. Dans les réglages, active « Exiger un mahram » et invite jusqu’à trois personnes. L’invitation arrive par e-mail et le mahram l’accepte dans l’application. Dans le portail mahram, il voit ensuite tes conversations et tes correspondances, mais ne peut pas écrire. La fonction est disponible sur les profils féminins.',
+        a: 'Un mahram est un membre masculin de la famille avec qui le mariage est définitivement interdit, par exemple le père, le frère ou l’oncle. Tu peux aussi inviter un tuteur. Dans les réglages, active « Exiger un mahram » et invite jusqu’à trois personnes. L’invitation arrive par e-mail et le mahram l’accepte dans l’application. Dans le portail mahram, il voit ensuite tes conversations et tes correspondances, et ne peut écrire que si toi ou la personne avec qui tu parles l’autorisez. La fonction est disponible sur les profils féminins.',
       },
       {
         q: 'Niyyah est-elle halal ?',

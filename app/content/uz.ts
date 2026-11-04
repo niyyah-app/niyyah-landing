@@ -117,13 +117,13 @@ export const uz: Copy = {
     kicker: 'Mahram portali',
     title: 'Fikri qadrli bo‘lganlardan hech narsa yashirin emas.',
     body:
-      '„Mahram talab qilish“ni yoqing va ishonchli uch kishigacha chaqiring: otangiz, akangiz, amakingiz yoki tog‘angiz, vasiyingiz. Ular suhbatlaringizni mahram portalida ko‘radi, ammo yoza olmaydi va hech kim bilan tanisha olmaydi. Faqat hozir bo‘ladi — yuzma-yuz bo‘lganidek.',
+      '„Mahram talab qilish“ni yoqing va ishonchli uch kishigacha chaqiring: otangiz, akangiz, amakingiz yoki tog‘angiz, vasiyingiz. Ular suhbatlaringizni mahram portalida ko‘radi. Faqat siz yoki suhbatdoshingiz ruxsat bersagina yoza oladi, ilovadan esa hech kim bilan tanishish uchun foydalanmaydi. Faqat hozir bo‘ladi — yuzma-yuz bo‘lganidek.',
     steps: [
       { title: '„Mahram talab qilish“ni yoqing', body: 'Sozlamalarda bitta tugma.' },
       { title: 'Uch mahramgacha chaqiring', body: 'Taklif e-pochta bilan keladi, mahram esa uni ilovada qabul qiladi.' },
       {
         title: 'Ular o‘qiydi, siz suhbatlashasiz',
-        body: 'Mahram suhbatlar va mosliklarni ko‘radi. Portaldan yoza olmaydi va tanishuv imkoniyatlaridan foydalanmaydi.',
+        body: 'Mahram suhbatlar va mosliklarni ko‘radi. Faqat sizning yoki suhbatdoshingizning ruxsati bilan yozadi va tanishuv imkoniyatlaridan foydalanmaydi.',
       },
     ],
     who: [
@@ -363,7 +363,7 @@ export const uz: Copy = {
       },
       {
         q: 'Mahram nima va uni qanday qo‘shaman?',
-        a: 'Mahram — nikoh abadiy harom bo‘lgan erkak qarindosh, masalan ota, aka, amaki yoki tog‘a. Vasiyni ham chaqirishingiz mumkin. Sozlamalarda „Mahram talab qilish“ni yoqing va uch kishigacha chaqiring. Taklif e-pochta bilan keladi, mahram esa uni ilovada qabul qiladi. Mahram portalida u keyin suhbatlaringiz va mosliklaringizni ko‘radi, ammo yoza olmaydi. Imkoniyat ayollar profilida mavjud.',
+        a: 'Mahram — nikoh abadiy harom bo‘lgan erkak qarindosh, masalan ota, aka, amaki yoki tog‘a. Vasiyni ham chaqirishingiz mumkin. Sozlamalarda „Mahram talab qilish“ni yoqing va uch kishigacha chaqiring. Taklif e-pochta bilan keladi, mahram esa uni ilovada qabul qiladi. Mahram portalida u keyin suhbatlaringiz va mosliklaringizni ko‘radi, faqat siz yoki suhbatdoshingiz ruxsat bersagina yoza oladi. Imkoniyat ayollar profilida mavjud.',
       },
       {
         q: 'Niyyah halolmi?',

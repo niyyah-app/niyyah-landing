@@ -117,13 +117,13 @@ export const tl: Copy = {
     kicker: 'Mahram portal',
     title: 'Walang itinatago sa mga taong mahalaga ang opinyon.',
     body:
-      'I-on ang „Humingi ng mahram” at mag-anyaya ng hanggang tatlong taong pinagkakatiwalaan mo: ama, kapatid na lalaki, tiyuhin, tagapag-alaga. Nakikita nila ang mga usapan mo sa mahram portal, pero hindi sila makakasulat at hindi sila makakakilala ng kahit sino. Naroon lang sila — tulad ng kung naroon sila nang harapan.',
+      'I-on ang „Humingi ng mahram” at mag-anyaya ng hanggang tatlong taong pinagkakatiwalaan mo: ama, kapatid na lalaki, tiyuhin, tagapag-alaga. Nakikita nila ang mga usapan mo sa mahram portal. Makakasulat lang sila kung papayag ka o ang taong kausap mo, at hindi nila ginagamit ang app para makakilala ng kahit sino. Naroon lang sila — tulad ng kung naroon sila nang harapan.',
     steps: [
       { title: 'I-on ang „Humingi ng mahram”', body: 'Isang switch lang sa mga setting.' },
       { title: 'Mag-anyaya ng hanggang tatlong mahram', body: 'Dumarating ang paanyaya sa email, at tinatanggap ito ng mahram sa app.' },
       {
         title: 'Sila ang bumabasa, ikaw ang nag-uusap',
-        body: 'Nakikita ng mahram ang mga usapan at pagkakatugma. Hindi siya makakasulat mula sa portal at hindi niya ginagamit ang mga tampok para makakilala.',
+        body: 'Nakikita ng mahram ang mga usapan at pagkakatugma. Sumusulat lang siya kung may pahintulot mo o ng taong kausap mo, at hindi niya ginagamit ang mga tampok para makakilala.',
       },
     ],
     who: [
@@ -362,7 +362,7 @@ export const tl: Copy = {
       },
       {
         q: 'Ano ang mahram at paano ko siya idadagdag?',
-        a: 'Ang mahram ay lalaking kamag-anak na habambuhay na ipinagbabawal pakasalan, halimbawa ang ama, kapatid na lalaki o tiyuhin. Puwede ring anyayahan ang tagapag-alaga. Sa mga setting, i-on ang „Humingi ng mahram” at mag-anyaya ng hanggang tatlong tao. Dumarating ang paanyaya sa email at tinatanggap ito ng mahram sa app. Sa mahram portal ay nakikita niya ang mga usapan at pagkakatugma mo, pero hindi siya makakasulat. Nasa profile ng kababaihan ang tampok na ito.',
+        a: 'Ang mahram ay lalaking kamag-anak na habambuhay na ipinagbabawal pakasalan, halimbawa ang ama, kapatid na lalaki o tiyuhin. Puwede ring anyayahan ang tagapag-alaga. Sa mga setting, i-on ang „Humingi ng mahram” at mag-anyaya ng hanggang tatlong tao. Dumarating ang paanyaya sa email at tinatanggap ito ng mahram sa app. Sa mahram portal ay nakikita niya ang mga usapan at pagkakatugma mo, at makakasulat lang siya kung papayag ka o ang taong kausap mo. Nasa profile ng kababaihan ang tampok na ito.',
       },
       {
         q: 'Halal ba ang Niyyah?',

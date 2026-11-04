@@ -117,13 +117,13 @@ export const tr: Copy = {
     kicker: 'Mahrem portalı',
     title: 'Görüşü önemli olanlardan hiçbir şey saklı değil.',
     body:
-      '„Mahrem iste“yi aç ve güvendiğin en çok üç kişiyi davet et: baban, kardeşin, amcan veya dayın, velin. Sohbetlerini Mahrem portalında görürler ama yazamaz, tanışma özelliklerini kullanamazlar. Sadece oradadırlar; yüz yüze olsalardı nasıl olurdu, öyle.',
+      '„Mahrem iste“yi aç ve güvendiğin en çok üç kişiyi davet et: baban, kardeşin, amcan veya dayın, velin. Sohbetlerini Mahrem portalında görürler. Yalnızca sen ya da konuştuğun kişi izin verirse yazabilirler, uygulamayı da kimseyle tanışmak için kullanmazlar. Sadece oradadırlar; yüz yüze olsalardı nasıl olurdu, öyle.',
     steps: [
       { title: '„Mahrem iste“yi aç', body: 'Ayarlarda tek bir düğme.' },
       { title: 'En çok üç mahrem davet et', body: 'Davet e-postayla gelir, mahrem onu uygulamada kabul eder.' },
       {
         title: 'Onlar okur, sen konuşursun',
-        body: 'Mahrem sohbetleri ve eşleşmeleri görür. Portaldan yazamaz ve tanışma özelliklerini kullanmaz.',
+        body: 'Mahrem sohbetleri ve eşleşmeleri görür. Yalnızca senin ya da konuştuğun kişinin izniyle yazar ve tanışma özelliklerini kullanmaz.',
       },
     ],
     who: [
@@ -362,7 +362,7 @@ export const tr: Copy = {
       },
       {
         q: 'Mahrem nedir ve nasıl eklerim?',
-        a: 'Mahrem, kendisiyle evliliğin kalıcı olarak haram olduğu erkek aile üyesidir; örneğin baba, kardeş, amca ya da dayı. Veliyi de davet edebilirsin. Ayarlarda „Mahrem iste“yi açar ve en çok üç kişi davet edersin. Davet e-postayla gelir, mahrem onu uygulamada kabul eder. Mahrem portalında sohbetlerini ve eşleşmelerini görür ama yazamaz. Özellik kadın profillerinde bulunur.',
+        a: 'Mahrem, kendisiyle evliliğin kalıcı olarak haram olduğu erkek aile üyesidir; örneğin baba, kardeş, amca ya da dayı. Veliyi de davet edebilirsin. Ayarlarda „Mahrem iste“yi açar ve en çok üç kişi davet edersin. Davet e-postayla gelir, mahrem onu uygulamada kabul eder. Mahrem portalında sohbetlerini ve eşleşmelerini görür ve yalnızca sen ya da konuştuğun kişi izin verirse yazabilir. Özellik kadın profillerinde bulunur.',
       },
       {
         q: 'Niyyah helal mi?',

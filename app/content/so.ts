@@ -117,13 +117,13 @@ export const so: Copy = {
     kicker: 'Albaabka maxramka',
     title: 'Waxba lagama qariyo kuwa raygooda muhiim ah.',
     body:
-      'Shid „Maxram u baahan“ oo ku casuun ilaa saddex qof oo aad ku kalsoontahay: aabbahaa, walaalkaa, adeerkaa ama abtigaa, waaliyadaada. Waxay ku arkaan wadahadalladaada albaabka maxramka, laakiin ma qori karaan oo cidna la is-barta karaan. Kaliya way joogaan, sida ay joogi lahaayeen hadday fool-ka-fool ahaan lahaayeen.',
+      'Shid „Maxram u baahan“ oo ku casuun ilaa saddex qof oo aad ku kalsoontahay: aabbahaa, walaalkaa, adeerkaa ama abtigaa, waaliyadaada. Waxay ku arkaan wadahadalladaada albaabka maxramka. Waxay wax qoraan oo keliya oggolaanshahaaga ama kan qofka aad la hadlayso, mana u isticmaalaan abka is-barasho. Kaliya way joogaan, sida ay joogi lahaayeen hadday fool-ka-fool ahaan lahaayeen.',
     steps: [
       { title: 'Shid „Maxram u baahan“', body: 'Hal badhan dejimaha ku jira.' },
       { title: 'Casuun ilaa saddex maxram', body: 'Casuumaddu waxay ku timaadaa iimayl, maxramkuna wuu ku aqbalaa abka.' },
       {
         title: 'Iyagu way akhriyaan, adigu waad hadashaa',
-        body: 'Maxramku wuu arkaa wadahadallada iyo isku-ekaanshooyinka. Albaabka kama qori karo oo isma barto cid.',
+        body: 'Maxramku wuu arkaa wadahadallada iyo isku-ekaanshooyinka. Wuxuu wax qoraa oo keliya oggolaanshahaaga ama kan qofka aad la hadlayso, cidna isma barto.',
       },
     ],
     who: [
@@ -363,7 +363,7 @@ export const so: Copy = {
       },
       {
         q: 'Maxram waa maxay oo sidee u darsadaa?',
-        a: 'Maxram waa xubin qoys ah oo lab ah oo guur la aan weligii bannaanayn, tusaale aabbe, walaal, adeer ama abti. Waaliyad sidoo kale waad casuumi kartaa. Dejimaha shid „Maxram u baahan“ oo casuun ilaa saddex qof. Casuumaddu waxay ku timaadaa iimayl, maxramkuna wuu ku aqbalaa abka. Albaabka maxramka wuxuu markaas arkaa wadahadalladaada iyo isku-ekaanshooyinkaada, laakiin ma qori karo. Astaantan waxaa laga helaa profile-yada dumarka.',
+        a: 'Maxram waa xubin qoys ah oo lab ah oo guur la aan weligii bannaanayn, tusaale aabbe, walaal, adeer ama abti. Waaliyad sidoo kale waad casuumi kartaa. Dejimaha shid „Maxram u baahan“ oo casuun ilaa saddex qof. Casuumaddu waxay ku timaadaa iimayl, maxramkuna wuu ku aqbalaa abka. Albaabka maxramka wuxuu markaas arkaa wadahadalladaada iyo isku-ekaanshooyinkaada, wuxuuna wax qori karaa oo keliya oggolaanshahaaga ama kan qofka aad la hadlayso. Astaantan waxaa laga helaa profile-yada dumarka.',
       },
       {
         q: 'Niyyah ma xalaal baa?',

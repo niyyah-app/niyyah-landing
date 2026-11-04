@@ -117,13 +117,13 @@ export const ms: Copy = {
     kicker: 'Portal mahram',
     title: 'Tiada apa-apa disembunyikan daripada mereka yang pendapatnya bermakna.',
     body:
-      'Hidupkan „Wajibkan mahram“ dan jemput paling banyak tiga orang yang anda percaya: bapa, adik-beradik lelaki, bapa saudara atau wali. Mereka melihat perbualan anda dalam portal mahram, tetapi tidak boleh menulis dan tidak boleh berkenalan dengan sesiapa. Mereka hanya hadir, seperti mereka hadir jika bersemuka.',
+      'Hidupkan „Wajibkan mahram“ dan jemput paling banyak tiga orang yang anda percaya: bapa, adik-beradik lelaki, bapa saudara atau wali. Mereka melihat perbualan anda dalam portal mahram. Mereka hanya boleh menulis jika anda atau orang yang sedang berbual dengan anda membenarkannya, dan tidak menggunakan aplikasi untuk berkenalan dengan sesiapa. Mereka hanya hadir, seperti mereka hadir jika bersemuka.',
     steps: [
       { title: 'Hidupkan „Wajibkan mahram“', body: 'Satu suis dalam tetapan.' },
       { title: 'Jemput paling banyak tiga mahram', body: 'Jemputan tiba melalui e-mel, dan mahram menerimanya dalam aplikasi.' },
       {
         title: 'Mereka membaca, anda berbicara',
-        body: 'Mahram melihat perbualan dan padanan. Dia tidak boleh menulis dari portal dan tidak menggunakan ciri perkenalan.',
+        body: 'Mahram melihat perbualan dan padanan. Dia hanya menulis dengan izin anda atau izin orang yang sedang berbual dengan anda, dan tidak menggunakan ciri perkenalan.',
       },
     ],
     who: [
@@ -362,7 +362,7 @@ export const ms: Copy = {
       },
       {
         q: 'Apa itu mahram dan bagaimana saya menambahnya?',
-        a: 'Mahram ialah ahli keluarga lelaki yang haram dinikahi selama-lamanya, contohnya bapa, adik-beradik lelaki, atau bapa saudara dari pihak bapa mahupun ibu. Anda juga boleh menjemput wali. Dalam tetapan, hidupkan „Wajibkan mahram“ dan jemput paling banyak tiga orang. Jemputan tiba melalui e-mel dan mahram menerimanya dalam aplikasi. Dalam portal mahram dia kemudian melihat perbualan dan padanan anda, tetapi tidak boleh menulis. Ciri ini tersedia pada profil wanita.',
+        a: 'Mahram ialah ahli keluarga lelaki yang haram dinikahi selama-lamanya, contohnya bapa, adik-beradik lelaki, atau bapa saudara dari pihak bapa mahupun ibu. Anda juga boleh menjemput wali. Dalam tetapan, hidupkan „Wajibkan mahram“ dan jemput paling banyak tiga orang. Jemputan tiba melalui e-mel dan mahram menerimanya dalam aplikasi. Dalam portal mahram dia kemudian melihat perbualan dan padanan anda, dan hanya boleh menulis jika anda atau orang yang sedang berbual dengan anda membenarkannya. Ciri ini tersedia pada profil wanita.',
       },
       {
         q: 'Adakah Niyyah halal?',

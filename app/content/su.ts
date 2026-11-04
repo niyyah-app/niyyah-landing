@@ -117,13 +117,13 @@ export const su: Copy = {
     kicker: 'Portal mahram',
     title: 'Taya nu disumputkeun ti jalma nu pamadeganana penting.',
     body:
-      'Hurungkeun „Ménta mahram" tuluy ondang pangbanterna tilu jalma nu dipercaya: bapa, lanceuk, paman, wali. Maranéhna ningali obrolan anjeun dina portal mahram, tapi teu bisa nulis jeung teu bisa wawuh jeung saha waé. Ngan aya di dinya — kawas lamun paamprok langsung.',
+      'Hurungkeun „Ménta mahram" tuluy ondang pangbanterna tilu jalma nu dipercaya: bapa, lanceuk, paman, wali. Maranéhna ningali obrolan anjeun dina portal mahram. Maranéhna ngan bisa nulis lamun anjeun atawa jalma nu keur ngobrol jeung anjeun ngidinan, sarta teu maké aplikasi pikeun wawuh jeung saha waé. Ngan aya di dinya — kawas lamun paamprok langsung.',
     steps: [
       { title: 'Hurungkeun „Ménta mahram"', body: 'Hiji tombol dina setélan.' },
       { title: 'Ondang pangbanterna tilu mahram', body: 'Ondanganana datang ngaliwatan surélék, sarta mahram narima dina aplikasi.' },
       {
         title: 'Maranéhna maca, anjeun ngobrol',
-        body: 'Mahram ningali obrolan jeung cocogna. Teu bisa nulis ti portal sarta teu maké fitur pikeun wawuh.',
+        body: 'Mahram ningali obrolan jeung cocogna. Ngan nulis ku idin anjeun atawa jalma nu keur ngobrol jeung anjeun, sarta teu maké fitur pikeun wawuh.',
       },
     ],
     who: [
@@ -362,7 +362,7 @@ export const su: Copy = {
       },
       {
         q: 'Naon éta mahram jeung kumaha nambahkeunana?',
-        a: 'Mahram téh baraya lalaki nu nikah jeung manéhna haram salilana, contona bapa, lanceuk, paman ti bapa atawa ti indung. Wali ogé bisa diondang. Dina setélan hurungkeun „Ménta mahram" tuluy ondang pangbanterna tilu jalma. Ondanganana datang ngaliwatan surélék sarta mahram narima dina aplikasi. Dina portal mahram manéhna tuluy ningali obrolan jeung cocogna anjeun, tapi teu bisa nulis. Fitur ieu aya dina profil awéwé.',
+        a: 'Mahram téh baraya lalaki nu nikah jeung manéhna haram salilana, contona bapa, lanceuk, paman ti bapa atawa ti indung. Wali ogé bisa diondang. Dina setélan hurungkeun „Ménta mahram" tuluy ondang pangbanterna tilu jalma. Ondanganana datang ngaliwatan surélék sarta mahram narima dina aplikasi. Dina portal mahram manéhna tuluy ningali obrolan jeung cocogna anjeun, sarta ngan bisa nulis lamun anjeun atawa jalma nu keur ngobrol jeung anjeun ngidinan. Fitur ieu aya dina profil awéwé.',
       },
       {
         q: 'Naha Niyyah téh halal?',

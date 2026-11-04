@@ -117,13 +117,13 @@ export const sv: Copy = {
     kicker: 'Mahram-portalen',
     title: 'Inget hålls hemligt för dem vars åsikt betyder något.',
     body:
-      'Slå på ”Kräv mahram” och bjud in upp till tre personer du litar på: din far, bror, farbror eller morbror, din målsman. De ser dina samtal i mahram-portalen, men kan inte skriva och kan inte träffa någon. De finns bara där, så som de hade funnits även i verkligheten.',
+      'Slå på ”Kräv mahram” och bjud in upp till tre personer du litar på: din far, bror, farbror eller morbror, din målsman. De ser dina samtal i mahram-portalen. De kan bara skriva om du eller personen du pratar med tillåter det, och de använder inte appen för att träffa någon. De finns bara där, så som de hade funnits även i verkligheten.',
     steps: [
       { title: 'Slå på ”Kräv mahram”', body: 'En enda knapp i inställningarna.' },
       { title: 'Bjud in upp till tre mahram', body: 'Inbjudan kommer med e-post, och mahram tar emot den i appen.' },
       {
         title: 'De läser, du talar',
-        body: 'Mahram ser samtal och matchningar. Hen kan inte skriva från portalen och använder inga funktioner för att träffa någon.',
+        body: 'Mahram ser samtal och matchningar. Hen skriver bara med ditt tillstånd eller tillstånd från personen du pratar med, och använder inga funktioner för att träffa någon.',
       },
     ],
     who: [
@@ -363,7 +363,7 @@ export const sv: Copy = {
       },
       {
         q: 'Vad är en mahram och hur lägger jag till en?',
-        a: 'En mahram är en manlig familjemedlem som äktenskap är permanent förbjudet med, till exempel far, bror, farbror eller morbror. Du kan även bjuda in en målsman. I inställningarna slår du på ”Kräv mahram” och bjuder in upp till tre personer. Inbjudan kommer med e-post och mahram tar emot den i appen. I mahram-portalen ser hen sedan dina samtal och matchningar, men kan inte skriva. Funktionen finns på kvinnliga profiler.',
+        a: 'En mahram är en manlig familjemedlem som äktenskap är permanent förbjudet med, till exempel far, bror, farbror eller morbror. Du kan även bjuda in en målsman. I inställningarna slår du på ”Kräv mahram” och bjuder in upp till tre personer. Inbjudan kommer med e-post och mahram tar emot den i appen. I mahram-portalen ser hen sedan dina samtal och matchningar, och kan bara skriva om du eller personen du pratar med tillåter det. Funktionen finns på kvinnliga profiler.',
       },
       {
         q: 'Är Niyyah halal?',

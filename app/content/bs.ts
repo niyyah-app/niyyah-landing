@@ -116,13 +116,13 @@ export const bs = {
     kicker: 'Mahrem portal',
     title: 'Ništa skriveno od onih čije mišljenje znači.',
     body:
-      'Uključi „Zahtijevaj mahrema“ i pozovi do tri osobe od povjerenja: oca, brata, amidžu ili dajdžu, staratelja. Oni vide tvoje razgovore u Mahrem portalu, ali ne mogu pisati ni upoznavati. Samo su tu, kao što bi bili i uživo.',
+      'Uključi „Zahtijevaj mahrema“ i pozovi do tri osobe od povjerenja: oca, brata, amidžu ili dajdžu, staratelja. Oni vide tvoje razgovore u Mahrem portalu. Pisati mogu samo ako to dozvoliš ti ili osoba s kojom razgovaraš, a aplikaciju ne koriste za upoznavanje. Samo su tu, kao što bi bili i uživo.',
     steps: [
       { title: 'Uključi „Zahtijevaj mahrema“', body: 'Jedan prekidač u postavkama.' },
       { title: 'Pozovi do tri mahrema', body: 'Pozivnica stiže e-mailom, a mahrem je prihvata u aplikaciji.' },
       {
         title: 'Oni čitaju, ti razgovaraš',
-        body: 'Mahrem vidi razgovore i spojeve. Ne može pisati iz portala i ne koristi funkcije za upoznavanje.',
+        body: 'Mahrem vidi razgovore i spojeve. Piše samo uz tvoju dozvolu ili dozvolu osobe s kojom razgovaraš i ne koristi funkcije za upoznavanje.',
       },
     ],
     who: [
@@ -361,7 +361,7 @@ export const bs = {
       },
       {
         q: 'Šta je mahrem i kako ga dodajem?',
-        a: 'Mahrem je muški član porodice s kojim je brak trajno zabranjen, na primjer otac, brat, amidža ili dajdža. Možeš pozvati i staratelja. U postavkama uključiš „Zahtijevaj mahrema“ i pozoveš do tri osobe. Pozivnica stiže e-mailom, a mahrem je prihvata u aplikaciji. U Mahrem portalu zatim vidi tvoje razgovore i spojeve, ali ne može pisati. Funkcija je dostupna ženskim profilima.',
+        a: 'Mahrem je muški član porodice s kojim je brak trajno zabranjen, na primjer otac, brat, amidža ili dajdža. Možeš pozvati i staratelja. U postavkama uključiš „Zahtijevaj mahrema“ i pozoveš do tri osobe. Pozivnica stiže e-mailom, a mahrem je prihvata u aplikaciji. U Mahrem portalu zatim vidi tvoje razgovore i spojeve, a pisati može samo ako to dozvoliš ti ili osoba s kojom razgovaraš. Funkcija je dostupna ženskim profilima.',
       },
       {
         q: 'Da li je Niyyah halal?',

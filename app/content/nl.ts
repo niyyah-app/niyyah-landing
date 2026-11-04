@@ -117,13 +117,13 @@ export const nl: Copy = {
     kicker: 'Mahram-portaal',
     title: 'Niets verborgen voor wie van belang is.',
     body:
-      'Zet „Mahram vereisen” aan en nodig tot drie mensen uit die je vertrouwt: je vader, broer, oom of voogd. Zij zien je gesprekken in het mahram-portaal, maar kunnen niet schrijven en niemand leren kennen. Ze zijn er simpelweg bij, zoals ze er ook in persoon bij zouden zijn.',
+      'Zet „Mahram vereisen” aan en nodig tot drie mensen uit die je vertrouwt: je vader, broer, oom of voogd. Zij zien je gesprekken in het mahram-portaal. Schrijven kunnen ze alleen als jij of de persoon met wie je praat dat toestaat, en ze gebruiken de app niet om iemand te leren kennen. Ze zijn er simpelweg bij, zoals ze er ook in persoon bij zouden zijn.',
     steps: [
       { title: 'Zet „Mahram vereisen” aan', body: 'Eén schakelaar in de instellingen.' },
       { title: 'Nodig tot drie mahrams uit', body: 'De uitnodiging komt per e-mail, en de mahram aanvaardt die in de app.' },
       {
         title: 'Zij lezen, jij praat',
-        body: 'De mahram ziet gesprekken en overeenkomsten. Hij kan niet schrijven vanuit het portaal en gebruikt geen functies om iemand te leren kennen.',
+        body: 'De mahram ziet gesprekken en overeenkomsten. Hij schrijft alleen met jouw toestemming of die van de persoon met wie je praat, en gebruikt geen functies om iemand te leren kennen.',
       },
     ],
     who: [
@@ -363,7 +363,7 @@ export const nl: Copy = {
       },
       {
         q: 'Wat is een mahram en hoe voeg ik die toe?',
-        a: 'Een mahram is een mannelijk familielid met wie een huwelijk voorgoed verboden is, bijvoorbeeld de vader, broer of oom. Je kunt ook een voogd uitnodigen. Zet in de instellingen „Mahram vereisen” aan en nodig tot drie personen uit. De uitnodiging komt per e-mail en de mahram aanvaardt die in de app. In het mahram-portaal ziet hij dan je gesprekken en overeenkomsten, maar kan niet schrijven. De functie is beschikbaar op profielen van vrouwen.',
+        a: 'Een mahram is een mannelijk familielid met wie een huwelijk voorgoed verboden is, bijvoorbeeld de vader, broer of oom. Je kunt ook een voogd uitnodigen. Zet in de instellingen „Mahram vereisen” aan en nodig tot drie personen uit. De uitnodiging komt per e-mail en de mahram aanvaardt die in de app. In het mahram-portaal ziet hij dan je gesprekken en overeenkomsten, en schrijven kan hij alleen als jij of de persoon met wie je praat dat toestaat. De functie is beschikbaar op profielen van vrouwen.',
       },
       {
         q: 'Is Niyyah halal?',

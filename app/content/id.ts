@@ -117,13 +117,13 @@ export const id: Copy = {
     kicker: 'Portal mahram',
     title: 'Tak ada yang disembunyikan dari orang yang pendapatnya berarti.',
     body:
-      'Nyalakan „Wajibkan mahram“ dan undang paling banyak tiga orang yang kamu percaya: ayah, saudara laki-laki, om, atau wali. Mereka melihat percakapanmu di portal mahram, tetapi tidak bisa menulis dan tidak bisa berkenalan dengan siapa pun. Mereka hanya hadir, seperti kalau bertemu langsung.',
+      'Nyalakan „Wajibkan mahram“ dan undang paling banyak tiga orang yang kamu percaya: ayah, saudara laki-laki, om, atau wali. Mereka melihat percakapanmu di portal mahram. Mereka hanya bisa menulis jika kamu atau orang yang sedang berbicara denganmu mengizinkan, dan tidak memakai aplikasi untuk berkenalan dengan siapa pun. Mereka hanya hadir, seperti kalau bertemu langsung.',
     steps: [
       { title: 'Nyalakan „Wajibkan mahram“', body: 'Satu sakelar di pengaturan.' },
       { title: 'Undang paling banyak tiga mahram', body: 'Undangan datang lewat email, dan mahram menerimanya di aplikasi.' },
       {
         title: 'Mereka membaca, kamu berbicara',
-        body: 'Mahram melihat percakapan dan kecocokan. Ia tidak bisa menulis dari portal dan tidak memakai fitur perkenalan.',
+        body: 'Mahram melihat percakapan dan kecocokan. Ia hanya menulis dengan izinmu atau izin orang yang sedang berbicara denganmu, dan tidak memakai fitur perkenalan.',
       },
     ],
     who: [
@@ -362,7 +362,7 @@ export const id: Copy = {
       },
       {
         q: 'Apa itu mahram dan bagaimana menambahkannya?',
-        a: 'Mahram adalah kerabat laki-laki yang selamanya haram dinikahi, misalnya ayah, saudara laki-laki, atau om dari pihak ayah maupun ibu. Kamu juga bisa mengundang wali. Di pengaturan, nyalakan „Wajibkan mahram“ dan undang paling banyak tiga orang. Undangan datang lewat email dan mahram menerimanya di aplikasi. Di portal mahram ia kemudian melihat percakapan dan kecocokanmu, tetapi tidak bisa menulis. Fitur ini tersedia pada profil perempuan.',
+        a: 'Mahram adalah kerabat laki-laki yang selamanya haram dinikahi, misalnya ayah, saudara laki-laki, atau om dari pihak ayah maupun ibu. Kamu juga bisa mengundang wali. Di pengaturan, nyalakan „Wajibkan mahram“ dan undang paling banyak tiga orang. Undangan datang lewat email dan mahram menerimanya di aplikasi. Di portal mahram ia kemudian melihat percakapan dan kecocokanmu, dan hanya bisa menulis jika kamu atau orang yang sedang berbicara denganmu mengizinkan. Fitur ini tersedia pada profil perempuan.',
       },
       {
         q: 'Apakah Niyyah halal?',

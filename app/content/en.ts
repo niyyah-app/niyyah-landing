@@ -117,13 +117,13 @@ export const en: Copy = {
     kicker: 'Mahram portal',
     title: 'Nothing hidden from the people whose opinion matters.',
     body:
-      'Turn on “Require a mahram” and invite up to three people you trust: your father, brother, paternal or maternal uncle, or guardian. They see your conversations in the Mahram portal, but they cannot write or use the app to meet anyone. They are simply there, as they would be in person.',
+      'Turn on “Require a mahram” and invite up to three people you trust: your father, brother, paternal or maternal uncle, or guardian. They see your conversations in the Mahram portal. They can write only if you, or the person you are talking to, allow it, and they do not use the app to meet anyone. They are simply there, as they would be in person.',
     steps: [
       { title: 'Turn on “Require a mahram”', body: 'One switch in settings.' },
       { title: 'Invite up to three mahrams', body: 'The invitation arrives by email, and your mahram accepts it in the app.' },
       {
         title: 'They read, you talk',
-        body: 'Your mahram sees your conversations and matches. He cannot write from the portal or use any matchmaking features.',
+        body: 'Your mahram sees your conversations and matches. He writes only with your permission, or that of the person you are talking to, and does not use matchmaking.',
       },
     ],
     who: [
@@ -362,7 +362,7 @@ export const en: Copy = {
       },
       {
         q: 'What is a mahram and how do I add one?',
-        a: 'A mahram is a male family member whom a woman can never marry, such as her father, brother, or paternal or maternal uncle. You can also invite a guardian. In settings, turn on “Require a mahram” and invite up to three people. The invitation arrives by email and your mahram accepts it in the app. In the Mahram portal he then sees your conversations and matches, but cannot write. The feature is available on women’s profiles.',
+        a: 'A mahram is a male family member whom a woman can never marry, such as her father, brother, or paternal or maternal uncle. You can also invite a guardian. In settings, turn on “Require a mahram” and invite up to three people. The invitation arrives by email and your mahram accepts it in the app. In the Mahram portal he then sees your conversations and matches, and can write only if you or the person you are talking to allows it. The feature is available on women’s profiles.',
       },
       {
         q: 'Is Niyyah halal?',

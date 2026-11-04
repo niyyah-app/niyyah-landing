@@ -117,13 +117,13 @@ export const az: Copy = {
     kicker: 'Məhrəm portalı',
     title: 'Rəyi dəyərli olanlardan heç nə gizli deyil.',
     body:
-      '„Məhrəm tələb et“ düyməsini yandırın və etibar etdiyiniz ən çox üç nəfəri dəvət edin: atanızı, qardaşınızı, əminizi ya dayınızı, qəyyumunuzu. Onlar söhbətlərinizi məhrəm portalında görür, lakin yaza bilmir və heç kimlə tanış ola bilmir. Sadəcə oradadırlar — üzbəüz olduqları kimi.',
+      '„Məhrəm tələb et“ düyməsini yandırın və etibar etdiyiniz ən çox üç nəfəri dəvət edin: atanızı, qardaşınızı, əminizi ya dayınızı, qəyyumunuzu. Onlar söhbətlərinizi məhrəm portalında görür. Yalnız siz və ya danışdığınız şəxs icazə verdikdə yaza bilirlər, tətbiqdən isə heç kimlə tanış olmaq üçün istifadə etmirlər. Sadəcə oradadırlar — üzbəüz olduqları kimi.',
     steps: [
       { title: '„Məhrəm tələb et“ düyməsini yandırın', body: 'Tənzimlərdə tək bir açar.' },
       { title: 'Ən çox üç məhrəm dəvət edin', body: 'Dəvət e-poçtla gəlir, məhrəm isə onu tətbiqdə qəbul edir.' },
       {
         title: 'Onlar oxuyur, siz danışırsınız',
-        body: 'Məhrəm söhbətləri və uyğunluqları görür. Portaldan yaza bilmir və tanışlıq imkanlarından istifadə etmir.',
+        body: 'Məhrəm söhbətləri və uyğunluqları görür. Yalnız sizin və ya danışdığınız şəxsin icazəsi ilə yazır, tanışlıq imkanlarından isə istifadə etmir.',
       },
     ],
     who: [
@@ -363,7 +363,7 @@ export const az: Copy = {
       },
       {
         q: 'Məhrəm nədir və onu necə əlavə edirəm?',
-        a: 'Məhrəm evlənmək həmişəlik haram olan kişi qohumdur, məsələn ata, qardaş, əmi ya dayı. Qəyyumu da dəvət edə bilərsiniz. Tənzimlərdə „Məhrəm tələb et“ düyməsini yandırın və ən çox üç nəfər dəvət edin. Dəvət e-poçtla gəlir, məhrəm isə onu tətbiqdə qəbul edir. Məhrəm portalında o sonra söhbətlərinizi və uyğunluqlarınızı görür, lakin yaza bilmir. İmkan qadın profillərində mövcuddur.',
+        a: 'Məhrəm evlənmək həmişəlik haram olan kişi qohumdur, məsələn ata, qardaş, əmi ya dayı. Qəyyumu da dəvət edə bilərsiniz. Tənzimlərdə „Məhrəm tələb et“ düyməsini yandırın və ən çox üç nəfər dəvət edin. Dəvət e-poçtla gəlir, məhrəm isə onu tətbiqdə qəbul edir. Məhrəm portalında o sonra söhbətlərinizi və uyğunluqlarınızı görür və yalnız siz və ya danışdığınız şəxs icazə verdikdə yaza bilir. İmkan qadın profillərində mövcuddur.',
       },
       {
         q: 'Niyyah halaldır?',

@@ -117,13 +117,13 @@ export const sw: Copy = {
     kicker: 'Lango la mahramu',
     title: 'Hakuna kinachofichwa kwa wale wenye maoni ya maana.',
     body:
-      'Washa „Dai mahramu“ na mwalike hadi watu watatu unaowaamini: baba, kaka, mjomba au ami, mlezi. Wanaona mazungumzo yako katika lango la mahramu, lakini hawawezi kuandika na hawawezi kufahamiana na mtu. Wako tu, kama wangekuwapo ana kwa ana.',
+      'Washa „Dai mahramu“ na mwalike hadi watu watatu unaowaamini: baba, kaka, mjomba au ami, mlezi. Wanaona mazungumzo yako katika lango la mahramu. Wanaweza kuandika tu ukiruhusu wewe au mtu unayezungumza naye, na hawatumii programu kufahamiana na mtu. Wako tu, kama wangekuwapo ana kwa ana.',
     steps: [
       { title: 'Washa „Dai mahramu“', body: 'Kitufe kimoja katika mipangilio.' },
       { title: 'Mwalike hadi mahramu watatu', body: 'Mwaliko huja kwa barua pepe, na mahramu anaukubali ndani ya programu.' },
       {
         title: 'Wanasoma, wewe unazungumza',
-        body: 'Mahramu anaona mazungumzo na mafanano. Hawezi kuandika kutoka langoni na hatumii vipengele vya kufahamiana.',
+        body: 'Mahramu anaona mazungumzo na mafanano. Anaandika tu kwa ruhusa yako au ya mtu unayezungumza naye, na hatumii vipengele vya kufahamiana.',
       },
     ],
     who: [
@@ -363,7 +363,7 @@ export const sw: Copy = {
       },
       {
         q: 'Mahramu ni nini na nimuongeze vipi?',
-        a: 'Mahramu ni mwanafamilia wa kiume ambaye ndoa naye imeharamishwa kwa kudumu, kwa mfano baba, kaka, ami au mjomba. Unaweza pia kumwalika mlezi. Kwenye mipangilio washa „Dai mahramu“ na mwalike hadi watu watatu. Mwaliko huja kwa barua pepe na mahramu anaukubali ndani ya programu. Katika lango la mahramu kisha anaona mazungumzo na mafanano yako, lakini hawezi kuandika. Kipengele hiki kinapatikana kwenye wasifu wa wanawake.',
+        a: 'Mahramu ni mwanafamilia wa kiume ambaye ndoa naye imeharamishwa kwa kudumu, kwa mfano baba, kaka, ami au mjomba. Unaweza pia kumwalika mlezi. Kwenye mipangilio washa „Dai mahramu“ na mwalike hadi watu watatu. Mwaliko huja kwa barua pepe na mahramu anaukubali ndani ya programu. Katika lango la mahramu kisha anaona mazungumzo na mafanano yako, na anaweza kuandika tu ukiruhusu wewe au mtu unayezungumza naye. Kipengele hiki kinapatikana kwenye wasifu wa wanawake.',
       },
       {
         q: 'Niyyah ni halali?',

@@ -117,13 +117,13 @@ export const de: Copy = {
     kicker: 'Mahram-Portal',
     title: 'Nichts verborgen vor denen, deren Meinung zählt.',
     body:
-      'Schalte „Mahram verlangen“ ein und lade bis zu drei Menschen deines Vertrauens ein: Vater, Bruder, Onkel oder Vormund. Sie sehen deine Gespräche im Mahram-Portal, können aber nicht schreiben und niemanden kennenlernen. Sie sind einfach da, so wie sie es auch persönlich wären.',
+      'Schalte „Mahram verlangen“ ein und lade bis zu drei Menschen deines Vertrauens ein: Vater, Bruder, Onkel oder Vormund. Sie sehen deine Gespräche im Mahram-Portal. Schreiben können sie nur, wenn du oder die Person, mit der du sprichst, es erlaubt, und sie nutzen die App nicht, um jemanden kennenzulernen. Sie sind einfach da, so wie sie es auch persönlich wären.',
     steps: [
       { title: '„Mahram verlangen“ einschalten', body: 'Ein Schalter in den Einstellungen.' },
       { title: 'Bis zu drei Mahram einladen', body: 'Die Einladung kommt per E-Mail, und der Mahram nimmt sie in der App an.' },
       {
         title: 'Sie lesen, du sprichst',
-        body: 'Der Mahram sieht Gespräche und Übereinstimmungen. Er kann aus dem Portal nicht schreiben und nutzt keine Funktionen zum Kennenlernen.',
+        body: 'Der Mahram sieht Gespräche und Übereinstimmungen. Er schreibt nur mit deiner Erlaubnis oder der der Person, mit der du sprichst, und nutzt keine Funktionen zum Kennenlernen.',
       },
     ],
     who: [
@@ -362,7 +362,7 @@ export const de: Copy = {
       },
       {
         q: 'Was ist ein Mahram und wie füge ich ihn hinzu?',
-        a: 'Ein Mahram ist ein männliches Familienmitglied, mit dem eine Ehe dauerhaft unzulässig ist, zum Beispiel Vater, Bruder oder Onkel. Du kannst auch einen Vormund einladen. In den Einstellungen schaltest du „Mahram verlangen“ ein und lädst bis zu drei Personen ein. Die Einladung kommt per E-Mail, und der Mahram nimmt sie in der App an. Im Mahram-Portal sieht er dann deine Gespräche und Übereinstimmungen, kann aber nicht schreiben. Die Funktion steht weiblichen Profilen offen.',
+        a: 'Ein Mahram ist ein männliches Familienmitglied, mit dem eine Ehe dauerhaft unzulässig ist, zum Beispiel Vater, Bruder oder Onkel. Du kannst auch einen Vormund einladen. In den Einstellungen schaltest du „Mahram verlangen“ ein und lädst bis zu drei Personen ein. Die Einladung kommt per E-Mail, und der Mahram nimmt sie in der App an. Im Mahram-Portal sieht er dann deine Gespräche und Übereinstimmungen, und schreiben kann er nur, wenn du oder die Person, mit der du sprichst, es erlaubt. Die Funktion steht weiblichen Profilen offen.',
       },
       {
         q: 'Ist Niyyah halal?',
