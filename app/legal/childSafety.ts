@@ -1,4 +1,4 @@
-import type { LegalLocale } from './content'
+import { legalFooter, type LegalLocale } from './ui'
 
 // Standardi zaštite djece (CSAE): javna stranica koju Google Play traži od
 // aplikacija za upoznavanje i društvenih aplikacija (Play Console → Policy →
@@ -41,7 +41,7 @@ export type ChildSafetyCopy = {
 
 export const childSafety: Record<LegalLocale, ChildSafetyCopy> = {
   bs: {
-    footer: 'Sigurnost djece',
+    footer: legalFooter.bs.childSafety,
     title: 'Standardi zaštite djece',
     description: 'Standardi Niyyah protiv seksualnog zlostavljanja i iskorištavanja djece (CSAE), kako to prijaviti i kome se obratiti.',
     intro: 'Niyyah je aplikacija za brak, samo za punoljetne. Prema seksualnom zlostavljanju i iskorištavanju djece (CSAE) i materijalu koji prikazuje seksualno zlostavljanje djece (CSAM) imamo nultu toleranciju. Ovi standardi važe za sve u aplikaciji: profile, fotografije, poruke, glasovne poruke, objave u zajednici, komentare i priče.',
@@ -75,7 +75,7 @@ export const childSafety: Record<LegalLocale, ChildSafetyCopy> = {
     contactBody: 'Naš određeni kontakt za sigurnost djece, za članove i za nadležne organe, je {email} (naslov „Sigurnost djece“). Niyyah pruža Puzzles IT OÜ iz Estonije, koji poštuje važeće zakone o zaštiti djece, uključujući pravo EU i zakone zemalja u kojima se aplikacija nudi.',
   },
   en: {
-    footer: 'Child safety',
+    footer: legalFooter.en.childSafety,
     title: 'Child safety standards',
     description: 'Niyyah’s standards against child sexual abuse and exploitation (CSAE), how to report it, and who to contact.',
     intro: 'Niyyah is a marriage app for adults only. We have zero tolerance for child sexual abuse and exploitation (CSAE) and for child sexual abuse material (CSAM). These standards apply to everything in the app: profiles, photos, messages, voice messages, community posts, comments and stories.',
@@ -109,7 +109,7 @@ export const childSafety: Record<LegalLocale, ChildSafetyCopy> = {
     contactBody: 'Our designated contact for child safety, for members and for authorities, is {email} (subject “Child safety”). Niyyah is provided by Puzzles IT OÜ, Estonia, which complies with applicable child-safety laws, including EU law and the laws of the countries in which the app is offered.',
   },
   de: {
-    footer: 'Kinderschutz',
+    footer: legalFooter.de.childSafety,
     title: 'Standards zum Schutz von Kindern',
     description: 'Die Standards von Niyyah gegen sexuellen Missbrauch und sexuelle Ausbeutung von Kindern (CSAE), wie man sie meldet und an wen man sich wendet.',
     intro: 'Niyyah ist eine Heirats-App nur für Erwachsene. Gegenüber sexuellem Missbrauch und sexueller Ausbeutung von Kindern (CSAE) und Darstellungen sexuellen Kindesmissbrauchs (CSAM) haben wir null Toleranz. Diese Standards gelten für alles in der App: Profile, Fotos, Nachrichten, Sprachnachrichten, Beiträge in der Community, Kommentare und Storys.',
@@ -143,7 +143,7 @@ export const childSafety: Record<LegalLocale, ChildSafetyCopy> = {
     contactBody: 'Unser benannter Kontakt für Kinderschutz, für Mitglieder und für Behörden, ist {email} (Betreff „Kinderschutz“). Niyyah wird von Puzzles IT OÜ, Estland, angeboten, das die geltenden Gesetze zum Schutz von Kindern einhält, einschließlich des EU-Rechts und der Gesetze der Länder, in denen die App angeboten wird.',
   },
   tr: {
-    footer: 'Çocuk güvenliği',
+    footer: legalFooter.tr.childSafety,
     title: 'Çocuk koruma standartları',
     description: 'Niyyah’ın çocukların cinsel istismarına ve sömürüsüne (CSAE) karşı standartları, nasıl bildirileceği ve kime başvurulacağı.',
     intro: 'Niyyah yalnızca yetişkinlere yönelik bir evlilik uygulamasıdır. Çocukların cinsel istismarına ve sömürüsüne (CSAE) ve çocuk cinsel istismarı içeren materyale (CSAM) karşı sıfır toleransımız var. Bu standartlar uygulamadaki her şey için geçerlidir: profiller, fotoğraflar, mesajlar, sesli mesajlar, topluluk gönderileri, yorumlar ve hikâyeler.',
@@ -177,7 +177,7 @@ export const childSafety: Record<LegalLocale, ChildSafetyCopy> = {
     contactBody: 'Üyeler ve yetkili makamlar için belirlenmiş çocuk güvenliği iletişim adresimiz {email} (konu: “Çocuk güvenliği”). Niyyah, Estonya’daki Puzzles IT OÜ tarafından sunulur; şirket, AB hukuku ve uygulamanın sunulduğu ülkelerin yasaları dahil olmak üzere çocukların korunmasına ilişkin yürürlükteki yasalara uyar.',
   },
   fr: {
-    footer: 'Protection des enfants',
+    footer: legalFooter.fr.childSafety,
     title: 'Normes de protection des enfants',
     description: 'Les normes de Niyyah contre les abus et l’exploitation sexuels des enfants (CSAE), comment les signaler et qui contacter.',
     intro: 'Niyyah est une application de mariage réservée aux adultes. Nous appliquons une tolérance zéro envers les abus et l’exploitation sexuels des enfants (CSAE) et les contenus d’abus sexuels sur enfants (CSAM). Ces normes s’appliquent à tout dans l’application : profils, photos, messages, messages vocaux, publications de la communauté, commentaires et stories.',
@@ -211,7 +211,7 @@ export const childSafety: Record<LegalLocale, ChildSafetyCopy> = {
     contactBody: 'Notre contact désigné pour la protection des enfants, pour les membres comme pour les autorités, est {email} (objet « Protection des enfants »). Niyyah est fourni par Puzzles IT OÜ, Estonie, qui respecte les lois applicables en matière de protection des enfants, y compris le droit de l’UE et les lois des pays où l’application est proposée.',
   },
   id: {
-    footer: 'Keamanan anak',
+    footer: legalFooter.id.childSafety,
     title: 'Standar perlindungan anak',
     description: 'Standar Niyyah terhadap pelecehan dan eksploitasi seksual anak (CSAE), cara melaporkannya, dan siapa yang dihubungi.',
     intro: 'Niyyah adalah aplikasi pernikahan khusus orang dewasa. Kami tidak menoleransi sama sekali pelecehan dan eksploitasi seksual anak (CSAE) maupun materi pelecehan seksual anak (CSAM). Standar ini berlaku untuk semua hal di aplikasi: profil, foto, pesan, pesan suara, postingan komunitas, komentar, dan story.',
@@ -245,7 +245,7 @@ export const childSafety: Record<LegalLocale, ChildSafetyCopy> = {
     contactBody: 'Kontak resmi kami untuk keamanan anak, bagi anggota maupun pihak berwenang, adalah {email} (subjek “Keamanan anak”). Niyyah disediakan oleh Puzzles IT OÜ, Estonia, yang mematuhi hukum perlindungan anak yang berlaku, termasuk hukum Uni Eropa dan hukum negara-negara tempat aplikasi ini ditawarkan.',
   },
   ms: {
-    footer: 'Keselamatan kanak-kanak',
+    footer: legalFooter.ms.childSafety,
     title: 'Standard perlindungan kanak-kanak',
     description: 'Standard Niyyah terhadap penderaan dan eksploitasi seksual kanak-kanak (CSAE), cara melaporkannya dan siapa yang perlu dihubungi.',
     intro: 'Niyyah ialah aplikasi perkahwinan untuk orang dewasa sahaja. Kami tidak bertolak ansur langsung dengan penderaan dan eksploitasi seksual kanak-kanak (CSAE) dan bahan penderaan seksual kanak-kanak (CSAM). Standard ini terpakai kepada semua perkara dalam aplikasi: profil, foto, mesej, mesej suara, hantaran komuniti, komen dan cerita.',
@@ -279,7 +279,7 @@ export const childSafety: Record<LegalLocale, ChildSafetyCopy> = {
     contactBody: 'Hubungan khas kami untuk keselamatan kanak-kanak, bagi ahli dan pihak berkuasa, ialah {email} (subjek “Keselamatan kanak-kanak”). Niyyah disediakan oleh Puzzles IT OÜ, Estonia, yang mematuhi undang-undang perlindungan kanak-kanak yang terpakai, termasuk undang-undang EU dan undang-undang negara tempat aplikasi ini ditawarkan.',
   },
   ar: {
-    footer: 'سلامة الأطفال',
+    footer: legalFooter.ar.childSafety,
     title: 'معايير حماية الأطفال',
     description: 'معايير Niyyah ضد الاعتداء الجنسي على الأطفال واستغلالهم (CSAE)، وكيفية الإبلاغ، وبمن تتصل.',
     intro: 'Niyyah تطبيق للزواج مخصص للبالغين فقط. لا نتسامح مطلقًا مع الاعتداء الجنسي على الأطفال واستغلالهم (CSAE) ومع مواد الاعتداء الجنسي على الأطفال (CSAM). تنطبق هذه المعايير على كل ما في التطبيق: الملفات الشخصية والصور والرسائل والرسائل الصوتية ومنشورات المجتمع والتعليقات والقصص.',
@@ -313,7 +313,7 @@ export const childSafety: Record<LegalLocale, ChildSafetyCopy> = {
     contactBody: 'جهة الاتصال المخصصة لدينا لسلامة الأطفال، للأعضاء وللسلطات، هي {email} (الموضوع: «سلامة الأطفال»). تقدّم Niyyah شركة Puzzles IT OÜ في إستونيا، وهي تلتزم بالقوانين السارية لحماية الأطفال، بما فيها قانون الاتحاد الأوروبي وقوانين البلدان التي يُتاح فيها التطبيق.',
   },
   ur: {
-    footer: 'بچوں کا تحفظ',
+    footer: legalFooter.ur.childSafety,
     title: 'بچوں کے تحفظ کے معیارات',
     description: 'بچوں کے جنسی استحصال اور زیادتی (CSAE) کے خلاف Niyyah کے معیارات، اس کی شکایت کیسے کریں اور کس سے رابطہ کریں۔',
     intro: 'Niyyah شادی کی ایپ ہے جو صرف بالغوں کے لیے ہے۔ بچوں کے ساتھ جنسی زیادتی اور استحصال (CSAE) اور بچوں سے جنسی زیادتی کے مواد (CSAM) کے لیے ہماری برداشت صفر ہے۔ یہ معیارات ایپ کی ہر چیز پر لاگو ہوتے ہیں: پروفائل، تصاویر، پیغامات، صوتی پیغامات، کمیونٹی پوسٹس، تبصرے اور اسٹوریز۔',

@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import { legalUi, type LegalLocale } from '~/legal/content'
+import { legalUi, type LegalLocale } from '~/legal/ui'
 import { childSafety } from '~/legal/childSafety'
-import { supportEmail } from '~/legal/deletion'
+import { supportEmail } from '~/legal/ui'
 import { support } from '~/legal/support'
 
 // Standardi zaštite djece (CSAE) — Google Play ih traži od aplikacija za

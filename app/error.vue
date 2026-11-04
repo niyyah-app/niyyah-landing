@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import type { NuxtError } from '#app'
-import { isLegalLocale, legalUi, type LegalLocale } from '~/legal/content'
-import { support } from '~/legal/support'
+// Samo natpisi (~/legal/ui): stranica greške ide uz svaku stranicu.
+import { isLegalLocale, legalFooter, legalUi, type LegalLocale } from '~/legal/ui'
 
 /**
  * Stranica greške, u ruhu sajta.
@@ -102,7 +102,7 @@ const copy: Record<LegalLocale, ErrorCopy> = {
 const legalLang = computed<LegalLocale>(() => (isLegalLocale(locale.value) ? locale.value : 'en'))
 const t = computed(() => copy[legalLang.value])
 const legal = computed(() => legalUi[legalLang.value])
-const supportLabel = computed(() => support[legalLang.value].footer)
+const supportLabel = computed(() => legalFooter[legalLang.value].support)
 
 const notFound = computed(() => (props.error?.statusCode ?? 404) === 404)
 const title = computed(() => (notFound.value ? t.value.notFound : t.value.failed))

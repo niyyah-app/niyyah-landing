@@ -911,19 +911,7 @@ export const terms: Record<string, LegalSection[]> = {
   ]
 }
 
-/** Jezici na kojima pravni tekst postoji (isti kao u aplikaciji). */
-export const legalLocales = ['bs', 'en', 'de', 'tr', 'fr', 'id', 'ms', 'ar', 'ur'] as const
-export type LegalLocale = (typeof legalLocales)[number]
-export const isLegalLocale = (l: string): l is LegalLocale => (legalLocales as readonly string[]).includes(l)
-
-export const legalUi: Record<LegalLocale, { privacy: string; terms: string; updated: string; home: string }> = {
-  bs: { privacy: 'Politika privatnosti', terms: 'Uslovi korištenja', updated: 'Ažurirano', home: 'Početna' },
-  en: { privacy: 'Privacy Policy', terms: 'Terms of Service', updated: 'Last updated', home: 'Home' },
-  de: { privacy: 'Datenschutzerklärung', terms: 'Nutzungsbedingungen', updated: 'Zuletzt aktualisiert', home: 'Startseite' },
-  tr: { privacy: 'Gizlilik Politikası', terms: 'Kullanım Şartları', updated: 'Son güncelleme', home: 'Ana sayfa' },
-  fr: { privacy: 'Politique de confidentialité', terms: 'Conditions d’utilisation', updated: 'Dernière mise à jour', home: 'Accueil' },
-  id: { privacy: 'Kebijakan Privasi', terms: 'Syarat Layanan', updated: 'Terakhir diperbarui', home: 'Beranda' },
-  ms: { privacy: 'Dasar Privasi', terms: 'Terma Perkhidmatan', updated: 'Kemas kini terakhir', home: 'Laman utama' },
-  ar: { privacy: 'سياسة الخصوصية', terms: 'شروط الاستخدام', updated: 'آخر تحديث', home: 'الرئيسية' },
-  ur: { privacy: 'پرائیویسی پالیسی', terms: 'شرائط استعمال', updated: 'آخری اپ ڈیٹ', home: 'ہوم' },
-}
+// Male konstante (jezici, natpisi) stoje u ./ui: podnožje i stranica greške
+// ih trebaju na svakoj stranici, a ovaj fajl (oko 230 KB pravnog teksta) samo
+// privatnost i uslovi. Ovdje se samo ponovo izvoze.
+export { legalLocales, isLegalLocale, legalUi, type LegalLocale } from './ui'

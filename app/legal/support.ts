@@ -1,4 +1,4 @@
-import type { LegalLocale } from './content'
+import { legalFooter, type LegalLocale } from './ui'
 
 // Podrška: javna stranica koju App Store Connect (Support URL) i Google Play
 // (kontakt) traže uz aplikaciju.
@@ -46,7 +46,7 @@ const { name: N, address: A, registryCode: R, vat: V } = company
 
 export const support: Record<LegalLocale, SupportCopy> = {
   bs: {
-    footer: 'Podrška',
+    footer: legalFooter.bs.support,
     title: 'Pomoć i podrška',
     description: 'Kako kontaktirati Niyyah podršku: u aplikaciji ili e-mailom, i kako prijaviti člana ili sadržaj.',
     intro: 'Pitanje o nalogu, problem u aplikaciji ili prijava drugog člana — tu smo. Na svaku poruku odgovara čovjek.',
@@ -71,7 +71,7 @@ export const support: Record<LegalLocale, SupportCopy> = {
     operator: `Niyyah pruža ${N}, ${A}, Estonija (registarski broj ${R}, PDV broj ${V}).`,
   },
   en: {
-    footer: 'Support',
+    footer: legalFooter.en.support,
     title: 'Help & support',
     description: 'How to contact Niyyah support in the app or by email, and how to report a member or content.',
     intro: 'A question about your account, a problem in the app, or a report about another member — we are here. Every message is answered by a person.',
@@ -96,7 +96,7 @@ export const support: Record<LegalLocale, SupportCopy> = {
     operator: `Niyyah is provided by ${N}, ${A}, Estonia (registry code ${R}, VAT number ${V}).`,
   },
   de: {
-    footer: 'Support',
+    footer: legalFooter.de.support,
     title: 'Hilfe & Support',
     description: 'So erreichst du den Niyyah-Support in der App oder per E-Mail und meldest ein Mitglied oder Inhalte.',
     intro: 'Eine Frage zu deinem Konto, ein Problem in der App oder eine Meldung über ein anderes Mitglied — wir sind da. Jede Nachricht beantwortet ein Mensch.',
@@ -121,7 +121,7 @@ export const support: Record<LegalLocale, SupportCopy> = {
     operator: `Niyyah wird bereitgestellt von der ${N}, ${A}, Estland (Registernummer ${R}, USt-IdNr. ${V}).`,
   },
   tr: {
-    footer: 'Destek',
+    footer: legalFooter.tr.support,
     title: 'Yardım ve destek',
     description: 'Niyyah desteğine uygulamada veya e-postayla nasıl ulaşılır, bir üye veya içerik nasıl şikâyet edilir.',
     intro: 'Hesabınla ilgili bir soru, uygulamada bir sorun ya da başka bir üye hakkında şikâyet — buradayız. Her mesaja bir insan cevap verir.',
@@ -146,7 +146,7 @@ export const support: Record<LegalLocale, SupportCopy> = {
     operator: `Niyyah, ${N} tarafından sunulur: ${A}, Estonya (sicil numarası ${R}, KDV numarası ${V}).`,
   },
   fr: {
-    footer: 'Assistance',
+    footer: legalFooter.fr.support,
     title: 'Aide et assistance',
     description: 'Comment contacter l’assistance Niyyah dans l’app ou par e-mail, et comment signaler un membre ou un contenu.',
     intro: 'Une question sur ton compte, un problème dans l’app ou un signalement concernant un autre membre — nous sommes là. Chaque message reçoit la réponse d’une personne.',
@@ -171,7 +171,7 @@ export const support: Record<LegalLocale, SupportCopy> = {
     operator: `Niyyah est fourni par ${N}, ${A}, Estonie (code registre ${R}, n° TVA ${V}).`,
   },
   id: {
-    footer: 'Dukungan',
+    footer: legalFooter.id.support,
     title: 'Bantuan & dukungan',
     description: 'Cara menghubungi dukungan Niyyah di aplikasi atau lewat email, dan cara melaporkan anggota atau konten.',
     intro: 'Pertanyaan tentang akunmu, masalah di aplikasi, atau laporan tentang anggota lain — kami di sini. Setiap pesan dijawab oleh manusia.',
@@ -196,7 +196,7 @@ export const support: Record<LegalLocale, SupportCopy> = {
     operator: `Niyyah disediakan oleh ${N}, ${A}, Estonia (nomor registrasi ${R}, nomor PPN ${V}).`,
   },
   ms: {
-    footer: 'Sokongan',
+    footer: legalFooter.ms.support,
     title: 'Bantuan & sokongan',
     description: 'Cara menghubungi sokongan Niyyah dalam aplikasi atau melalui e-mel, dan cara melaporkan ahli atau kandungan.',
     intro: 'Soalan tentang akaun awak, masalah dalam aplikasi, atau laporan tentang ahli lain — kami ada. Setiap mesej dijawab oleh manusia.',
@@ -221,7 +221,7 @@ export const support: Record<LegalLocale, SupportCopy> = {
     operator: `Niyyah disediakan oleh ${N}, ${A}, Estonia (nombor pendaftaran ${R}, nombor VAT ${V}).`,
   },
   ar: {
-    footer: 'الدعم',
+    footer: legalFooter.ar.support,
     title: 'المساعدة والدعم',
     description: 'كيف تتواصل مع دعم Niyyah داخل التطبيق أو عبر البريد الإلكتروني، وكيف تبلّغ عن عضو أو محتوى.',
     intro: 'سؤال عن حسابك، أو مشكلة في التطبيق، أو بلاغ عن عضو آخر — نحن هنا. يردّ على كل رسالة إنسان.',
@@ -246,7 +246,7 @@ export const support: Record<LegalLocale, SupportCopy> = {
     operator: `تقدّم Niyyah شركة ${N}، ${A}، إستونيا (رقم التسجيل: ${R}، رقم ضريبة القيمة المضافة: ${V}).`,
   },
   ur: {
-    footer: 'معاونت',
+    footer: legalFooter.ur.support,
     title: 'مدد اور معاونت',
     description: 'ایپ میں یا ای میل کے ذریعے Niyyah سپورٹ سے کیسے رابطہ کریں، اور کسی رکن یا مواد کی رپورٹ کیسے کریں۔',
     intro: 'آپ کے اکاؤنٹ کے بارے میں سوال، ایپ میں کوئی مسئلہ، یا کسی دوسرے رکن کی رپورٹ — ہم حاضر ہیں۔ ہر پیغام کا جواب ایک انسان دیتا ہے۔',

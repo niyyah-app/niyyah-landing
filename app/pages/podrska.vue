@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import { legalUi, type LegalLocale } from '~/legal/content'
-import { supportEmail } from '~/legal/deletion'
+import { legalUi, type LegalLocale } from '~/legal/ui'
+import { supportEmail } from '~/legal/ui'
 import { support } from '~/legal/support'
 
 // Javna stranica podrške — App Store Connect je traži kao „Support URL", a

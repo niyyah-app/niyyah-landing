@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { legalUi, type LegalLocale } from '~/legal/content'
+import { legalUi, type LegalLocale } from '~/legal/ui'
 import { deletion, supportEmail } from '~/legal/deletion'
 import { support } from '~/legal/support'
 

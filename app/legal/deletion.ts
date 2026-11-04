@@ -1,4 +1,4 @@
-import type { LegalLocale } from './content'
+import { legalFooter, type LegalLocale } from './ui'
 
 // Brisanje naloga: javna stranica koju Google Play traži uz aplikaciju.
 //
@@ -38,11 +38,11 @@ export type DeletionCopy = {
   link: string
 }
 
-export const supportEmail = 'support@niyyahmarriage.com'
+export { supportEmail } from './ui'
 
 export const deletion: Record<LegalLocale, DeletionCopy> = {
   bs: {
-    footer: 'Brisanje naloga',
+    footer: legalFooter.bs.deletion,
     title: 'Brisanje naloga',
     description: 'Kako obrisati Niyyah nalog u aplikaciji ili e-mailom, šta se briše, a šta ostaje i koliko dugo.',
     intro: 'Svoj Niyyah nalog možeš obrisati u aplikaciji, u bilo kojem trenutku. Ako aplikaciji više nemaš pristup, piši nam pa ćemo ga obrisati mi.',
@@ -83,7 +83,7 @@ export const deletion: Record<LegalLocale, DeletionCopy> = {
     link: 'Kako obrisati nalog, korak po korak',
   },
   en: {
-    footer: 'Delete account',
+    footer: legalFooter.en.deletion,
     title: 'Deleting your account',
     description: 'How to delete your Niyyah account in the app or by email, what is deleted, and what is kept and for how long.',
     intro: 'You can delete your Niyyah account yourself in the app at any time. If you can no longer get into the app, write to us and we will delete it for you.',
@@ -124,7 +124,7 @@ export const deletion: Record<LegalLocale, DeletionCopy> = {
     link: 'How to delete your account, step by step',
   },
   de: {
-    footer: 'Konto löschen',
+    footer: legalFooter.de.deletion,
     title: 'Konto löschen',
     description: 'So löschst du dein Niyyah-Konto in der App oder per E-Mail – was gelöscht wird und was wie lange bleibt.',
     intro: 'Du kannst dein Niyyah-Konto jederzeit selbst in der App löschen. Wenn du keinen Zugang mehr zur App hast, schreib uns, dann löschen wir es für dich.',
@@ -165,7 +165,7 @@ export const deletion: Record<LegalLocale, DeletionCopy> = {
     link: 'So löschst du dein Konto, Schritt für Schritt',
   },
   tr: {
-    footer: 'Hesap silme',
+    footer: legalFooter.tr.deletion,
     title: 'Hesap silme',
     description: 'Niyyah hesabını uygulamada veya e-postayla nasıl silebileceğin, nelerin silindiği, nelerin kaldığı ve ne kadar süre saklandığı.',
     intro: 'Niyyah hesabını istediğin zaman uygulamadan kendin silebilirsin. Uygulamaya artık erişemiyorsan bize yaz, hesabını biz silelim.',
@@ -206,7 +206,7 @@ export const deletion: Record<LegalLocale, DeletionCopy> = {
     link: 'Hesabını adım adım nasıl silersin',
   },
   fr: {
-    footer: 'Supprimer le compte',
+    footer: legalFooter.fr.deletion,
     title: 'Supprimer ton compte',
     description: 'Comment supprimer ton compte Niyyah dans l’app ou par e-mail, ce qui est supprimé, et ce qui est conservé et combien de temps.',
     intro: 'Tu peux supprimer toi-même ton compte Niyyah dans l’app, à tout moment. Si tu n’as plus accès à l’app, écris-nous et nous le supprimerons pour toi.',
@@ -247,7 +247,7 @@ export const deletion: Record<LegalLocale, DeletionCopy> = {
     link: 'Comment supprimer ton compte, étape par étape',
   },
   id: {
-    footer: 'Hapus akun',
+    footer: legalFooter.id.deletion,
     title: 'Menghapus akun',
     description: 'Cara menghapus akun Niyyah di aplikasi atau lewat email, apa yang dihapus, dan apa yang tetap disimpan serta berapa lama.',
     intro: 'Kamu bisa menghapus akun Niyyah sendiri di aplikasi kapan saja. Jika kamu tidak bisa lagi masuk ke aplikasi, kirimi kami email dan kami yang akan menghapusnya.',
@@ -288,7 +288,7 @@ export const deletion: Record<LegalLocale, DeletionCopy> = {
     link: 'Cara menghapus akunmu, langkah demi langkah',
   },
   ms: {
-    footer: 'Padam akaun',
+    footer: legalFooter.ms.deletion,
     title: 'Memadam akaun',
     description: 'Cara memadam akaun Niyyah dalam aplikasi atau melalui e-mel, apa yang dipadam, dan apa yang disimpan serta berapa lama.',
     intro: 'Anda boleh memadam akaun Niyyah sendiri dalam aplikasi pada bila-bila masa. Jika anda tidak lagi dapat masuk ke aplikasi, tulis kepada kami dan kami akan memadamnya untuk anda.',
@@ -329,7 +329,7 @@ export const deletion: Record<LegalLocale, DeletionCopy> = {
     link: 'Cara memadam akaun anda, langkah demi langkah',
   },
   ar: {
-    footer: 'حذف الحساب',
+    footer: legalFooter.ar.deletion,
     title: 'حذف الحساب',
     description: 'كيف تحذف حسابك في Niyyah من التطبيق أو عبر البريد الإلكتروني، وما الذي يُحذف، وما الذي يُحتفظ به ولأي مدة.',
     intro: 'يمكنك حذف حسابك في Niyyah بنفسك من التطبيق في أي وقت. وإن لم تعد تستطيع الدخول إلى التطبيق، فراسلنا وسنحذفه نحن.',
@@ -370,7 +370,7 @@ export const deletion: Record<LegalLocale, DeletionCopy> = {
     link: 'كيف تحذف حسابك خطوة بخطوة',
   },
   ur: {
-    footer: 'اکاؤنٹ حذف کریں',
+    footer: legalFooter.ur.deletion,
     title: 'اکاؤنٹ حذف کرنا',
     description: 'Niyyah اکاؤنٹ ایپ میں یا ای میل کے ذریعے کیسے حذف کریں، کیا حذف ہوتا ہے، اور کیا رکھا جاتا ہے اور کتنی دیر کے لیے۔',
     intro: 'آپ اپنا Niyyah اکاؤنٹ کسی بھی وقت خود ایپ میں حذف کر سکتے ہیں۔ اگر اب آپ ایپ تک نہیں پہنچ سکتے تو ہمیں لکھیں، ہم اسے آپ کے لیے حذف کر دیں گے۔',

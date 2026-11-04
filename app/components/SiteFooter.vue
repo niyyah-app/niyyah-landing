@@ -1,9 +1,7 @@
 <script setup lang="ts">
 import { guideUi, isGuideLocale } from '~/guide/registry'
-import { isLegalLocale, legalUi } from '~/legal/content'
-import { childSafety } from '~/legal/childSafety'
-import { deletion } from '~/legal/deletion'
-import { support } from '~/legal/support'
+// Samo natpisi (~/legal/ui): pravni tekstovi se ne smiju uvući u svaku stranicu.
+import { isLegalLocale, legalFooter, legalUi } from '~/legal/ui'
 
 const c = useCopy()
 const localePath = useLocalePath()
@@ -15,9 +13,9 @@ const guide = computed(() => (isGuideLocale(locale.value) ? guideUi[locale.value
 // Pravni tekst postoji na jezicima aplikacije; ostali jezici vode na engleski.
 const legalLang = computed(() => (isLegalLocale(locale.value) ? locale.value : 'en'))
 const legal = computed(() => legalUi[legalLang.value])
-const deletionLabel = computed(() => deletion[legalLang.value].footer)
-const supportLabel = computed(() => support[legalLang.value].footer)
-const childSafetyLabel = computed(() => childSafety[legalLang.value].footer)
+const deletionLabel = computed(() => legalFooter[legalLang.value].deletion)
+const supportLabel = computed(() => legalFooter[legalLang.value].support)
+const childSafetyLabel = computed(() => legalFooter[legalLang.value].childSafety)
 </script>
 
 <template>
