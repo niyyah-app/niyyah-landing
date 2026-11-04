@@ -245,6 +245,28 @@ export const articles: GuideArticle[] = [
     updated: '2026-11-04',
     aboutApp: true,
   },
+  {
+    key: 'izbor',
+    locale: 'bs',
+    slug: 'kako-izabrati-aplikaciju-za-brak',
+    title: 'Kako izabrati aplikaciju za brak: deset stvari koje treba provjeriti',
+    description:
+      'Na šta paziti kod aplikacije za brak za muslimane: ko ti može pisati, može li porodica biti uz tebe, provjera profila, slike, prijave, cijena i podaci.',
+    published: '2026-11-04',
+    updated: '2026-11-04',
+    aboutApp: true,
+  },
+  {
+    key: 'izbor',
+    locale: 'en',
+    slug: 'how-to-choose-a-muslim-marriage-app',
+    title: 'How to choose a Muslim marriage app: ten things to check',
+    description:
+      'What to look for in a Muslim marriage app: who can message you, whether family can be involved, verification, photo privacy, reports, pricing and your data.',
+    published: '2026-11-04',
+    updated: '2026-11-04',
+    aboutApp: true,
+  },
 ]
 
 export function articlesIn(locale: string) {
