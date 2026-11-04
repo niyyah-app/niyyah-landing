@@ -2,9 +2,9 @@ import type { Copy } from './bs'
 
 export const en: Copy = {
   meta: {
-    title: 'Niyyah — The halal app for finding a spouse',
+    title: 'Niyyah — Halal Muslim Marriage App for Finding a Spouse',
     description:
-      'Niyyah is an app for Muslims who are looking for marriage. Messages open only on mutual interest, a mahram can be in the conversation, and the community is moderated. Free, in English and 8 more languages.',
+      'A halal Muslim marriage app for finding a spouse: messages open only on mutual interest, a mahram can join the chat, and the community is moderated. Free.',
     ogAlt: 'Niyyah: Marriage, sought with intention.',
   },
 
@@ -42,7 +42,7 @@ export const en: Copy = {
     googlePlay: 'Google Play',
     getOn: 'Get it on',
     availableOn: 'Get it on',
-    eyebrow: 'HALAL MARRIAGE APP',
+    eyebrow: 'HALAL MUSLIM MARRIAGE APP',
     waiting: '{count} people are already waiting for Niyyah',
   },
 
@@ -51,7 +51,7 @@ export const en: Copy = {
     countdownUnits: ['days', 'hours', 'minutes', 'seconds'],
     title: 'Marriage, sought with intention.',
     lead:
-      'Niyyah is an app for Muslims who are seriously looking for a spouse. Messages open only on mutual interest, a mahram can be in the conversation, and the app keeps the boundaries, so you do not have to.',
+      'Niyyah is a halal marriage app for Muslims who are seriously looking for a spouse. Messages open only on mutual interest, a mahram can be in the conversation, and the app keeps the boundaries, so you do not have to.',
     secondary: 'How the mahram feature works',
     micro: 'Free. In English, Bosnian and 7 more languages.',
     imageAlt: 'A Niyyah profile card: prayer, madhhab, marriage plans and compatibility score.',
@@ -93,7 +93,7 @@ export const en: Copy = {
   },
 
   pillars: {
-    title: 'Built for marriage, from the first screen.',
+    title: 'Built for halal marriage, from the first screen.',
     items: [
       {
         word: 'Intention',
@@ -155,7 +155,7 @@ export const en: Copy = {
 
   how: {
     kicker: 'How it works',
-    title: 'From profile to conversation, in four steps.',
+    title: 'How the Niyyah marriage app works, in four steps.',
     steps: [
       { title: 'Create a profile with intention', body: 'Faith, prayer, marriage plans and your own words.' },
       {
@@ -354,7 +354,7 @@ export const en: Copy = {
   },
 
   faq: {
-    title: 'Questions people often ask us',
+    title: 'Questions about Niyyah, the Muslim marriage app',
     items: [
       {
         q: 'How is Niyyah different from other dating apps?',

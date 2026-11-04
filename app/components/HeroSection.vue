@@ -18,9 +18,12 @@ const title = computed(() => {
 
     <div class="wrap hero__grid">
       <div class="hero__text">
-        <p class="hero__eyebrow">{{ c.cta.eyebrow }}</p>
+        <!-- Natpis iznad naslova je dio H1 (SEO, 4.11.2026): „Halal Muslim
+             marriage app" je ono što ljudi traže, a slogan sam to ne kaže.
+             Izgleda isto kao dok je bio zaseban <p>. -->
         <h1 id="hero-title" class="display hero__title">
-          {{ title.a }} <span>{{ title.b }}</span>
+          <span class="hero__eyebrow">{{ c.cta.eyebrow }}</span>
+          {{ title.a }} <span class="hero__gold">{{ title.b }}</span>
         </h1>
         <svg class="hero__flourish" viewBox="0 0 320 14" aria-hidden="true">
           <path
@@ -102,7 +105,11 @@ const title = computed(() => {
    (1774 px) poklope tačno, a clamp ih drži čitljivim ispod toga.
    ─────────────────────────────────────────────────────────────────────── */
 .hero__eyebrow {
-  display: inline-block;
+  /* U H1, ali izgleda kao zaseban natpis: svoj red, svoje pismo i veličina. */
+  display: block;
+  width: fit-content;
+  font-family: var(--font-body);
+  line-height: normal;
   margin: 0 0 1.1rem;
   padding: 0.55rem 1.3rem;
   border: 1px solid var(--gold-glow);
@@ -119,7 +126,7 @@ const title = computed(() => {
   line-height: 1.02;
 }
 
-.hero__title span {
+.hero__title .hero__gold {
   color: var(--gold);
 }
 
