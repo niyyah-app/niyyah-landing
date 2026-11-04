@@ -386,7 +386,7 @@ export const ha: Copy = {
       },
       {
         q: 'Kuna raba bayanaina da wasu ko da kamfanonin AI?',
-        a: 'Ba ma sayar da bayanan sirri, kuma ba ma ba masu talla su. Muna amfani ne kawai da ayyukan da manhajar ba za ta iya aiki ba tare da su ba, kamar sabobi, sanarwa, sayayya, imel da duba fuska ta atomatik, kuma kowanne yana karɓar abin da ɓangarensa ke buƙata kaɗai. An ambaci sunayensu duka a cikin manufar sirri. Babu ɗayansu, har da kayan aikin AI da ƙungiyar ke amfani da shi a aikinta, da ke amfani da bayananka daga manhajar don horar da samfuransa.',
+        a: 'Ba ma sayar da bayanan sirri, kuma ba ma ba masu talla su. Muna amfani ne kawai da ayyukan da manhajar ba za ta iya aiki ba tare da su ba, kamar sabobi, sanarwa, sayayya, imel da duba fuska ta atomatik, kuma kowanne yana karɓar abin da ɓangarensa ke buƙata kaɗai. An ambaci sunayensu duka a cikin manufar sirri. Ba ma barin ko ɗayansu ya yi amfani da bayananka daga manhajar don horar da samfuran AI, kuma a kayan aikin AI da ƙungiyar ke amfani da shi a aikinta, an kashe wannan.',
       },
       {
         q: 'Wa a cikin ƙungiyar zai iya ganin bayanaina?',

@@ -385,7 +385,7 @@ export const bs = {
       },
       {
         q: 'Dijelite li moje podatke s drugima ili s AI kompanijama?',
-        a: 'Lične podatke ne prodajemo i ne dajemo oglašivačima. Koristimo samo usluge bez kojih aplikacija ne radi, poput servera, obavijesti, kupovina, e-maila i automatske provjere lica, i svaka dobija samo ono što joj treba. Sve su navedene po imenu u politici privatnosti. Nijedna od njih, uključujući AI alat koji tim koristi u radu, ne koristi tvoje podatke iz aplikacije za treniranje svojih modela.',
+        a: 'Lične podatke ne prodajemo i ne dajemo oglašivačima. Koristimo samo usluge bez kojih aplikacija ne radi, poput servera, obavijesti, kupovina, e-maila i automatske provjere lica, i svaka dobija samo ono što joj treba. Sve su navedene po imenu u politici privatnosti. Nijednoj od njih ne dozvoljavamo da tvoje podatke iz aplikacije koristi za treniranje AI modela, a AI alat koji tim koristi u radu to ima isključeno.',
       },
       {
         q: 'Ko u timu vidi moje podatke?',

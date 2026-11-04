@@ -387,7 +387,7 @@ export const sw: Copy = {
       },
       {
         q: 'Je, mnashiriki data zangu na wengine au na kampuni za AI?',
-        a: 'Hatuuzi data binafsi wala hatuwapi watangazaji. Tunatumia tu huduma ambazo programu haiwezi kufanya kazi bila hizo, kama seva, arifa, ununuzi, barua pepe na ukaguzi wa uso wa kiotomatiki, na kila moja hupokea tu kile ambacho sehemu yake inahitaji. Zote zimetajwa kwa majina katika sera ya faragha. Hakuna hata moja kati yake, ikiwemo zana ya AI ambayo timu inatumia katika kazi yake, inayotumia data zako kutoka kwenye programu kufunza modeli zake.',
+        a: 'Hatuuzi data binafsi wala hatuwapi watangazaji. Tunatumia tu huduma ambazo programu haiwezi kufanya kazi bila hizo, kama seva, arifa, ununuzi, barua pepe na ukaguzi wa uso wa kiotomatiki, na kila moja hupokea tu kile ambacho sehemu yake inahitaji. Zote zimetajwa kwa majina katika sera ya faragha. Hatumruhusu yeyote kati yao kutumia data zako kutoka kwenye programu kufunza modeli za AI, na katika zana ya AI ambayo timu inatumia katika kazi yake, jambo hili limezimwa.',
       },
       {
         q: 'Nani katika timu anaweza kuona data zangu?',

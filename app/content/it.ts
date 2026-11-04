@@ -387,7 +387,7 @@ export const it: Copy = {
       },
       {
         q: 'Condividete i miei dati con altri o con aziende di IA?',
-        a: 'Non vendiamo dati personali e non li diamo agli inserzionisti. Usiamo solo i servizi senza i quali l’app non può funzionare, come i server, le notifiche, gli acquisti, l’email e il controllo automatico del volto, e ognuno riceve solo ciò che serve alla sua parte. Sono tutti indicati per nome nell’informativa sulla privacy. Nessuno di loro, compreso lo strumento di IA che il team usa nel suo lavoro, usa i tuoi dati dell’app per addestrare i propri modelli.',
+        a: 'Non vendiamo dati personali e non li diamo agli inserzionisti. Usiamo solo i servizi senza i quali l’app non può funzionare, come i server, le notifiche, gli acquisti, l’email e il controllo automatico del volto, e ognuno riceve solo ciò che serve alla sua parte. Sono tutti indicati per nome nell’informativa sulla privacy. Non permettiamo a nessuno di loro di usare i tuoi dati dell’app per addestrare modelli di IA, e lo strumento di IA che il team usa nel suo lavoro ha questa funzione disattivata.',
       },
       {
         q: 'Chi nel team può vedere i miei dati?',

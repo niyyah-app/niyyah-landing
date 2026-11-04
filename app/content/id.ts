@@ -386,7 +386,7 @@ export const id: Copy = {
       },
       {
         q: 'Apakah kalian membagikan dataku kepada pihak lain atau kepada perusahaan AI?',
-        a: 'Kami tidak menjual data pribadi dan tidak memberikannya kepada pengiklan. Kami hanya memakai layanan yang tanpanya aplikasi tidak bisa berjalan, seperti server, notifikasi, pembelian, email, dan pemeriksaan wajah otomatis, dan masing-masing hanya menerima apa yang dibutuhkan bagiannya. Semuanya disebutkan namanya dalam kebijakan privasi. Tidak satu pun dari mereka, termasuk alat AI yang dipakai tim dalam pekerjaannya, menggunakan datamu dari aplikasi untuk melatih model-modelnya.',
+        a: 'Kami tidak menjual data pribadi dan tidak memberikannya kepada pengiklan. Kami hanya memakai layanan yang tanpanya aplikasi tidak bisa berjalan, seperti server, notifikasi, pembelian, email, dan pemeriksaan wajah otomatis, dan masing-masing hanya menerima apa yang dibutuhkan bagiannya. Semuanya disebutkan namanya dalam kebijakan privasi. Kami tidak mengizinkan satu pun dari mereka menggunakan datamu dari aplikasi untuk melatih model AI, dan pada alat AI yang dipakai tim dalam pekerjaannya, hal ini dimatikan.',
       },
       {
         q: 'Siapa di tim yang bisa melihat dataku?',

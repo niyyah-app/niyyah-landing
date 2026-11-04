@@ -387,7 +387,7 @@ export const sv: Copy = {
       },
       {
         q: 'Delar ni mina uppgifter med andra eller med AI-företag?',
-        a: 'Vi säljer inte personuppgifter och ger dem inte till annonsörer. Vi använder bara tjänster som appen inte kan fungera utan, som servrar, aviseringar, köp, e-post och den automatiska ansiktskontrollen, och var och en får bara det som dess del kräver. Alla nämns vid namn i integritetspolicyn. Ingen av dem, inklusive det AI-verktyg som teamet använder i sitt arbete, använder dina uppgifter från appen för att träna sina modeller.',
+        a: 'Vi säljer inte personuppgifter och ger dem inte till annonsörer. Vi använder bara tjänster som appen inte kan fungera utan, som servrar, aviseringar, köp, e-post och den automatiska ansiktskontrollen, och var och en får bara det som dess del kräver. Alla nämns vid namn i integritetspolicyn. Vi tillåter ingen av dem att använda dina uppgifter från appen för att träna AI-modeller, och i det AI-verktyg som teamet använder i sitt arbete är detta avstängt.',
       },
       {
         q: 'Vem i teamet kan se mina uppgifter?',

@@ -387,7 +387,7 @@ export const sq: Copy = {
       },
       {
         q: 'A i ndani të dhënat e mia me të tjerë apo me kompani të AI-së?',
-        a: 'Nuk i shesim të dhënat personale dhe nuk ua japim reklamuesve. Përdorim vetëm shërbimet pa të cilat aplikacioni nuk funksionon, si serverët, njoftimet, blerjet, emaili dhe kontrolli automatik i fytyrës, dhe secili merr vetëm atë që kërkon pjesa e tij. Të gjitha përmenden me emër në politikën e privatësisë. Asnjë prej tyre, përfshirë mjetin e AI-së që ekipi përdor në punën e vet, nuk i përdor të dhënat e tua nga aplikacioni për të trajnuar modelet e veta.',
+        a: 'Nuk i shesim të dhënat personale dhe nuk ua japim reklamuesve. Përdorim vetëm shërbimet pa të cilat aplikacioni nuk funksionon, si serverët, njoftimet, blerjet, emaili dhe kontrolli automatik i fytyrës, dhe secili merr vetëm atë që kërkon pjesa e tij. Të gjitha përmenden me emër në politikën e privatësisë. Asnjërit prej tyre nuk i lejojmë t’i përdorë të dhënat e tua nga aplikacioni për të trajnuar modele të AI-së, dhe mjeti i AI-së që ekipi përdor në punën e vet e ka këtë të çaktivizuar.',
       },
       {
         q: 'Kush në ekip mund t\'i shohë të dhënat e mia?',

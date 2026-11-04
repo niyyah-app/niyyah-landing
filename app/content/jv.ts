@@ -386,7 +386,7 @@ export const jv: Copy = {
       },
       {
         q: 'Apa dataku dibagi marang liyan utawa marang perusahaan AI?',
-        a: 'Awake dhewe ora ngedol data pribadi lan ora menehake marang pengiklan. Awake dhewe mung nganggo layanan sing tanpa kuwi aplikasi ora bisa mlaku, kayata server, notifikasi, tuku, email lan priksa rai otomatis, lan saben layanan mung nampa apa sing dibutuhake kanggo bagiane. Kabeh disebutake jenenge ing kawicaksanan privasi. Ora ana siji wae saka kuwi, kalebu piranti AI sing dienggo tim ing pakaryane, sing nganggo data sampeyan saka aplikasi kanggo nglatih model-modele.',
+        a: 'Awake dhewe ora ngedol data pribadi lan ora menehake marang pengiklan. Awake dhewe mung nganggo layanan sing tanpa kuwi aplikasi ora bisa mlaku, kayata server, notifikasi, tuku, email lan priksa rai otomatis, lan saben layanan mung nampa apa sing dibutuhake kanggo bagiane. Kabeh disebutake jenenge ing kawicaksanan privasi. Awake dhewe ora ngidini siji wae saka kuwi nganggo data sampeyan saka aplikasi kanggo nglatih model AI, lan ing piranti AI sing dienggo tim ing pakaryane bab iki dipateni.',
       },
       {
         q: 'Sapa ing tim sing bisa ndeleng dataku?',

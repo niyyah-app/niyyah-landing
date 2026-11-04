@@ -386,7 +386,7 @@ export const fr: Copy = {
       },
       {
         q: 'Partagez-vous mes données avec d’autres ou avec des entreprises d’IA ?',
-        a: 'Nous ne vendons pas de données personnelles et ne les donnons pas aux annonceurs. Nous utilisons uniquement les services sans lesquels l’application ne peut pas fonctionner, comme les serveurs, les notifications, les achats, l’e-mail et la vérification automatique du visage, et chacun ne reçoit que ce que sa part exige. Ils sont tous nommés dans la politique de confidentialité. Aucun d’eux, y compris l’outil d’IA que l’équipe utilise dans son travail, n’utilise tes données de l’application pour entraîner ses modèles.',
+        a: 'Nous ne vendons pas de données personnelles et ne les donnons pas aux annonceurs. Nous utilisons uniquement les services sans lesquels l’application ne peut pas fonctionner, comme les serveurs, les notifications, les achats, l’e-mail et la vérification automatique du visage, et chacun ne reçoit que ce que sa part exige. Ils sont tous nommés dans la politique de confidentialité. Nous n’autorisons aucun d’eux à utiliser tes données de l’application pour entraîner des modèles d’IA, et c’est désactivé dans l’outil d’IA que l’équipe utilise dans son travail.',
       },
       {
         q: 'Qui, dans l’équipe, peut voir mes données ?',

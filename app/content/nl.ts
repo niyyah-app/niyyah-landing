@@ -387,7 +387,7 @@ export const nl: Copy = {
       },
       {
         q: 'Delen jullie mijn gegevens met anderen of met AI-bedrijven?',
-        a: 'We verkopen geen persoonsgegevens en geven ze niet aan adverteerders. We gebruiken alleen diensten waarzonder de app niet kan werken, zoals servers, meldingen, aankopen, e-mail en de automatische gezichtscontrole, en elke dienst krijgt alleen wat zijn deel nodig heeft. Ze staan allemaal bij naam in het privacybeleid. Geen van hen, ook niet de AI-tool die het team bij zijn werk gebruikt, gebruikt je gegevens uit de app om zijn modellen te trainen.',
+        a: 'We verkopen geen persoonsgegevens en geven ze niet aan adverteerders. We gebruiken alleen diensten waarzonder de app niet kan werken, zoals servers, meldingen, aankopen, e-mail en de automatische gezichtscontrole, en elke dienst krijgt alleen wat zijn deel nodig heeft. Ze staan allemaal bij naam in het privacybeleid. We staan geen van hen toe je gegevens uit de app te gebruiken om AI-modellen te trainen, en bij de AI-tool die het team bij zijn werk gebruikt staat dit uit.',
       },
       {
         q: 'Wie in het team kan mijn gegevens zien?',

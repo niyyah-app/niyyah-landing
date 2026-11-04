@@ -387,7 +387,7 @@ export const es: Copy = {
       },
       {
         q: '¿Compartís mis datos con otros o con empresas de IA?',
-        a: 'No vendemos datos personales ni se los damos a anunciantes. Solo usamos servicios sin los que la app no puede funcionar, como servidores, notificaciones, compras, correo y la comprobación facial automática, y cada uno recibe solo lo que requiere su parte. Todos aparecen nombrados en la política de privacidad. Ninguno de ellos, incluida la herramienta de IA que el equipo usa en su trabajo, usa tus datos de la app para entrenar sus modelos.',
+        a: 'No vendemos datos personales ni se los damos a anunciantes. Solo usamos servicios sin los que la app no puede funcionar, como servidores, notificaciones, compras, correo y la comprobación facial automática, y cada uno recibe solo lo que requiere su parte. Todos aparecen nombrados en la política de privacidad. No permitimos que ninguno de ellos use tus datos de la app para entrenar modelos de IA, y la herramienta de IA que el equipo usa en su trabajo lo tiene desactivado.',
       },
       {
         q: '¿Quién del equipo puede ver mis datos?',

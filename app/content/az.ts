@@ -387,7 +387,7 @@ export const az: Copy = {
       },
       {
         q: 'Məlumatlarımı başqaları ilə və ya süni intellekt şirkətləri ilə paylaşırsınız?',
-        a: 'Şəxsi məlumatları satmırıq və reklamçılara vermirik. Yalnız tətbiqin onlarsız işləyə bilmədiyi xidmətlərdən istifadə edirik, məsələn serverlər, bildirişlər, alışlar, e-poçt və avtomatik üz yoxlaması, və hər biri yalnız öz hissəsinə lazım olanı alır. Onların hamısı məxfilik siyasətində adbaad göstərilib. Onların heç biri, o cümlədən komandanın işində istifadə etdiyi süni intellekt aləti, tətbiqdəki məlumatlarınızı öz modellərini öyrətmək üçün istifadə etmir.',
+        a: 'Şəxsi məlumatları satmırıq və reklamçılara vermirik. Yalnız tətbiqin onlarsız işləyə bilmədiyi xidmətlərdən istifadə edirik, məsələn serverlər, bildirişlər, alışlar, e-poçt və avtomatik üz yoxlaması, və hər biri yalnız öz hissəsinə lazım olanı alır. Onların hamısı məxfilik siyasətində adbaad göstərilib. Onların heç birinə tətbiqdəki məlumatlarınızı süni intellekt modellərini öyrətmək üçün istifadə etməyə icazə vermirik, komandanın işində istifadə etdiyi süni intellekt alətində isə bu söndürülüb.',
       },
       {
         q: 'Komandada kim məlumatlarımı görə bilər?',

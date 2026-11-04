@@ -387,7 +387,7 @@ export const uz: Copy = {
       },
       {
         q: 'Ma’lumotlarimni boshqalar yoki AI kompaniyalari bilan ulashasizmi?',
-        a: 'Shaxsiy ma’lumotlarni sotmaymiz va reklama beruvchilarga bermaymiz. Faqat ilova ularsiz ishlay olmaydigan xizmatlardan foydalanamiz, masalan serverlar, bildirishnomalar, xaridlar, e-pochta va avtomatik yuz tekshiruvi, va ularning har biri faqat o‘z qismi talab qiladigan narsanigina oladi. Ularning barchasi maxfiylik siyosatida nomma-nom ko‘rsatilgan. Ularning hech biri, jumladan jamoa o‘z ishida foydalanadigan AI vositasi ham, ilovadagi ma’lumotlaringizdan o‘z modellarini o‘qitish uchun foydalanmaydi.',
+        a: 'Shaxsiy ma’lumotlarni sotmaymiz va reklama beruvchilarga bermaymiz. Faqat ilova ularsiz ishlay olmaydigan xizmatlardan foydalanamiz, masalan serverlar, bildirishnomalar, xaridlar, e-pochta va avtomatik yuz tekshiruvi, va ularning har biri faqat o‘z qismi talab qiladigan narsanigina oladi. Ularning barchasi maxfiylik siyosatida nomma-nom ko‘rsatilgan. Ularning hech biriga ilovadagi ma’lumotlaringizdan AI modellarini o‘qitish uchun foydalanishga ruxsat bermaymiz, jamoa o‘z ishida foydalanadigan AI vositasida esa bu o‘chirib qo‘yilgan.',
       },
       {
         q: 'Jamoada kim mening ma’lumotlarimni ko‘ra oladi?',

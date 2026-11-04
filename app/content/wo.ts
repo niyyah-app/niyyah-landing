@@ -386,7 +386,7 @@ export const wo: Copy = {
       },
       {
         q: 'Ndax dangeen di séddoo sama xibaar ak yeneen nit walla ak kompaañi yu AI?',
-        a: 'Du ñu jaay xibaar yu sa bopp te du ñu leen jox ñiy def piblisite. Dañuy jëfandikoo rekk liggéey yi app bi mënul dox te amu leen, ni serwëer yi, yégle yi, jënd yi, email ak saytu kanam bu otomatik bi, te bu ci nekk dafay jot rekk li wàllam laaj. Ñoom ñépp ñu ngi leen tudd ci politig sutura bi. Kenn ci ñoom, ba ci jumtukaay AI bi ekip bi di jëfandikoo ci liggéeyam, du jëfandikoo say xibaar yu jóge ci app bi ngir jàngal ay modelam.',
+        a: 'Du ñu jaay xibaar yu sa bopp te du ñu leen jox ñiy def piblisite. Dañuy jëfandikoo rekk liggéey yi app bi mënul dox te amu leen, ni serwëer yi, yégle yi, jënd yi, email ak saytu kanam bu otomatik bi, te bu ci nekk dafay jot rekk li wàllam laaj. Ñoom ñépp ñu ngi leen tudd ci politig sutura bi. Nanguwuñu kenn ci ñoom mu jëfandikoo say xibaar yu jóge ci app bi ngir jàngal ay modelu AI, te ci jumtukaay AI bi ekip bi di jëfandikoo ci liggéeyam, lii dañu ko fay.',
       },
       {
         q: 'Kan ci ekip bi mën a gis sama xibaar?',

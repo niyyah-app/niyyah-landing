@@ -386,7 +386,7 @@ export const tl: Copy = {
       },
       {
         q: 'Ibinabahagi ba ninyo ang datos ko sa iba o sa mga kumpanya ng AI?',
-        a: 'Hindi kami nagbebenta ng personal na datos at hindi namin ito ibinibigay sa mga advertiser. Gumagamit lang kami ng mga serbisyong hindi gagana ang app kung wala ang mga ito, gaya ng mga server, notification, pagbili, email at ang awtomatikong pagsusuri ng mukha, at bawat isa ay tumatanggap lang ng kailangan ng bahagi nito. Nakapangalan silang lahat sa patakaran sa privacy. Wala sa kanila, kasama ang AI tool na ginagamit ng team sa trabaho nito, ang gumagamit ng datos mo mula sa app para sanayin ang mga model nito.',
+        a: 'Hindi kami nagbebenta ng personal na datos at hindi namin ito ibinibigay sa mga advertiser. Gumagamit lang kami ng mga serbisyong hindi gagana ang app kung wala ang mga ito, gaya ng mga server, notification, pagbili, email at ang awtomatikong pagsusuri ng mukha, at bawat isa ay tumatanggap lang ng kailangan ng bahagi nito. Nakapangalan silang lahat sa patakaran sa privacy. Hindi namin pinapayagan ang alinman sa kanila na gamitin ang datos mo mula sa app para sanayin ang mga AI model, at naka-off ito sa AI tool na ginagamit ng team sa trabaho nito.',
       },
       {
         q: 'Sino sa team ang puwedeng makakita ng datos ko?',

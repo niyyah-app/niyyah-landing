@@ -386,7 +386,7 @@ export const su: Copy = {
       },
       {
         q: 'Naha data kuring dibagikeun ka batur atawa ka pausahaan AI?',
-        a: 'Urang teu ngajual data pribadi sarta teu méré ka pangiklan. Urang ngan ngagunakeun layanan nu tanpa éta aplikasi teu bisa jalan, saperti server, béwara, pameseran, surélék jeung pamariksaan beungeut otomatis, sarta masing-masing ngan narima naon nu diperlukeun ku bagianana. Kabéh disebutkeun ngaranna dina kawijakan privasi. Taya hiji ogé ti éta, kaasup alat AI nu dipaké ku tim dina pagawéanana, nu ngagunakeun data anjeun ti aplikasi pikeun ngalatih modél-modélna.',
+        a: 'Urang teu ngajual data pribadi sarta teu méré ka pangiklan. Urang ngan ngagunakeun layanan nu tanpa éta aplikasi teu bisa jalan, saperti server, béwara, pameseran, surélék jeung pamariksaan beungeut otomatis, sarta masing-masing ngan narima naon nu diperlukeun ku bagianana. Kabéh disebutkeun ngaranna dina kawijakan privasi. Urang henteu ngidinan salah sahiji ti éta ngagunakeun data anjeun ti aplikasi pikeun ngalatih modél AI, sarta dina alat AI nu dipaké ku tim dina pagawéanana hal ieu dipareuman.',
       },
       {
         q: 'Saha di tim nu bisa ningali data kuring?',

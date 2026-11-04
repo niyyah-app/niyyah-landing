@@ -387,7 +387,7 @@ export const so: Copy = {
       },
       {
         q: 'Xogtayda ma la wadaagtaan dad kale ama shirkadaha AI?',
-        a: 'Xogta shakhsiga ah ma iibinno, xayeysiiyayaashana ma siinno. Waxaan isticmaalnaa oo kaliya adeegyada uusan abku shaqayn karin la’aantood, sida server-yada, ogeysiisyada, iibsashada, iimaylka iyo hubinta wajiga ee tooska ah, mid kastana wuxuu helaa oo kaliya waxa qaybtiisu u baahan tahay. Dhammaantood magacooda ayaa lagu sheegay siyaasadda asturnaanta. Midkoodna, oo ay ku jirto qalabka AI ee kooxdu ku isticmaasho shaqadeeda, uma isticmaalo xogtaada abka inuu ku tababaro moodeelladiisa.',
+        a: 'Xogta shakhsiga ah ma iibinno, xayeysiiyayaashana ma siinno. Waxaan isticmaalnaa oo kaliya adeegyada uusan abku shaqayn karin la’aantood, sida server-yada, ogeysiisyada, iibsashada, iimaylka iyo hubinta wajiga ee tooska ah, mid kastana wuxuu helaa oo kaliya waxa qaybtiisu u baahan tahay. Dhammaantood magacooda ayaa lagu sheegay siyaasadda asturnaanta. Midkoodna uma oggolaanno inuu xogtaada abka u isticmaalo tababarka moodeellada AI, qalabka AI ee kooxdu ku isticmaasho shaqadeedana arrintan waa ka damsan tahay.',
       },
       {
         q: 'Kooxda dhexdeeda yaa arki kara xogtayda?',

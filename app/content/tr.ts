@@ -386,7 +386,7 @@ export const tr: Copy = {
       },
       {
         q: 'Verilerimi başkalarıyla ya da yapay zekâ şirketleriyle paylaşıyor musunuz?',
-        a: 'Kişisel verileri satmayız ve reklamcılara vermeyiz. Yalnızca uygulamanın onlarsız çalışamayacağı hizmetleri kullanırız, örneğin sunucular, bildirimler, satın almalar, e-posta ve otomatik yüz denetimi, ve her biri yalnızca kendi kısmının gerektirdiğini alır. Hepsi gizlilik politikasında adıyla belirtilir. Ekibin işinde kullandığı yapay zekâ aracı dahil hiçbiri, uygulamadaki verilerini kendi modellerini eğitmek için kullanmaz.',
+        a: 'Kişisel verileri satmayız ve reklamcılara vermeyiz. Yalnızca uygulamanın onlarsız çalışamayacağı hizmetleri kullanırız, örneğin sunucular, bildirimler, satın almalar, e-posta ve otomatik yüz denetimi, ve her biri yalnızca kendi kısmının gerektirdiğini alır. Hepsi gizlilik politikasında adıyla belirtilir. Hiçbirinin uygulamadaki verilerini yapay zekâ modellerini eğitmek için kullanmasına izin vermeyiz; ekibin işinde kullandığı yapay zekâ aracında da bu kapalıdır.',
       },
       {
         q: 'Ekipte verilerimi kim görebilir?',

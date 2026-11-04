@@ -386,7 +386,7 @@ export const en: Copy = {
       },
       {
         q: 'Do you share my data with others or with AI companies?',
-        a: 'We do not sell personal data or give it to advertisers. We only use services the app cannot run without, such as servers, notifications, purchases, email and the automatic face check, and each one receives only what its part requires. They are all named in the privacy policy. None of them, including the AI tool the team uses in its work, uses your data from the app to train its models.',
+        a: 'We do not sell personal data or give it to advertisers. We only use services the app cannot run without, such as servers, notifications, purchases, email and the automatic face check, and each one receives only what its part requires. They are all named in the privacy policy. We do not allow any of them to use your data from the app to train AI models, and the AI tool the team uses in its work has this turned off.',
       },
       {
         q: 'Who on the team can see my data?',

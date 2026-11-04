@@ -386,7 +386,7 @@ export const ms: Copy = {
       },
       {
         q: 'Adakah anda berkongsi data saya dengan pihak lain atau dengan syarikat AI?',
-        a: 'Kami tidak menjual data peribadi atau memberikannya kepada pengiklan. Kami hanya menggunakan perkhidmatan yang tanpanya aplikasi tidak boleh berjalan, seperti pelayan, pemberitahuan, pembelian, e-mel dan pemeriksaan wajah automatik, dan setiap satu hanya menerima apa yang diperlukan untuk bahagiannya. Semuanya dinamakan dalam dasar privasi. Tiada satu pun daripadanya, termasuk alat AI yang digunakan pasukan dalam kerjanya, menggunakan data anda daripada aplikasi untuk melatih modelnya.',
+        a: 'Kami tidak menjual data peribadi atau memberikannya kepada pengiklan. Kami hanya menggunakan perkhidmatan yang tanpanya aplikasi tidak boleh berjalan, seperti pelayan, pemberitahuan, pembelian, e-mel dan pemeriksaan wajah automatik, dan setiap satu hanya menerima apa yang diperlukan untuk bahagiannya. Semuanya dinamakan dalam dasar privasi. Kami tidak membenarkan mana-mana daripadanya menggunakan data anda daripada aplikasi untuk melatih model AI, dan ciri ini dimatikan pada alat AI yang digunakan pasukan dalam kerjanya.',
       },
       {
         q: 'Siapa dalam pasukan boleh melihat data saya?',

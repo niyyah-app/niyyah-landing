@@ -386,7 +386,7 @@ export const de: Copy = {
       },
       {
         q: 'Teilt ihr meine Daten mit anderen oder mit KI-Unternehmen?',
-        a: 'Wir verkaufen keine personenbezogenen Daten und geben sie nicht an Werbetreibende weiter. Wir nutzen nur Dienste, ohne die die App nicht laufen kann, etwa Server, Benachrichtigungen, Käufe, E-Mail und die automatische Gesichtsprüfung, und jeder davon erhält nur, was sein Teil erfordert. Sie sind alle in der Datenschutzerklärung namentlich genannt. Keiner von ihnen, auch nicht das KI-Tool, das das Team bei seiner Arbeit nutzt, verwendet deine Daten aus der App, um seine Modelle zu trainieren.',
+        a: 'Wir verkaufen keine personenbezogenen Daten und geben sie nicht an Werbetreibende weiter. Wir nutzen nur Dienste, ohne die die App nicht laufen kann, etwa Server, Benachrichtigungen, Käufe, E-Mail und die automatische Gesichtsprüfung, und jeder davon erhält nur, was sein Teil erfordert. Sie sind alle in der Datenschutzerklärung namentlich genannt. Wir erlauben keinem von ihnen, deine Daten aus der App zum Trainieren von KI-Modellen zu verwenden, und beim KI-Tool, das das Team bei seiner Arbeit nutzt, ist das ausgeschaltet.',
       },
       {
         q: 'Wer im Team kann meine Daten sehen?',

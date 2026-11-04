@@ -386,7 +386,7 @@ export const ku: Copy = {
       },
       {
         q: 'Hûn daneyên min bi kesên din an bi şirketên AI re parve dikin?',
-        a: 'Em daneyên kesane nafiroşin û nadin reklamkeran. Em tenê wan xizmetan bi kar tînin ku sepan bêyî wan nikare bixebite, wek server, agahdarî, kirîn, e-name û kontrola rû ya otomatîk, û her yek tenê tiştê ku para wê hewce dike distîne. Hemû bi navê xwe di siyaseta nepeniyê de hatine nivîsîn. Tu yek ji wan, di nav de amûra AI ya ku tîm di karê xwe de bi kar tîne jî, daneyên te yên ji sepanê ji bo perwerdekirina modelên xwe bi kar naîne.',
+        a: 'Em daneyên kesane nafiroşin û nadin reklamkeran. Em tenê wan xizmetan bi kar tînin ku sepan bêyî wan nikare bixebite, wek server, agahdarî, kirîn, e-name û kontrola rû ya otomatîk, û her yek tenê tiştê ku para wê hewce dike distîne. Hemû bi navê xwe di siyaseta nepeniyê de hatine nivîsîn. Em destûrê nadin tu yekê ji wan ku daneyên te yên ji sepanê ji bo perwerdekirina modelên AI bi kar bîne, û di amûra AI ya ku tîm di karê xwe de bi kar tîne de ev girtî ye.',
       },
       {
         q: 'Di tîmê de kî dikare daneyên min bibîne?',
