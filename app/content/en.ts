@@ -51,7 +51,7 @@ export const en: Copy = {
     countdownUnits: ['days', 'hours', 'minutes', 'seconds'],
     title: 'Marriage, sought with intention.',
     lead:
-      'Niyyah is a halal marriage app for Muslims who are seriously looking for a spouse. Messages open only on mutual interest, a mahram can be in the conversation, and the app keeps the boundaries, so you do not have to.',
+      'Niyyah is a halal marriage app for Muslims who are seriously looking for a spouse. Messages open only on mutual interest, a mahram from her family can be in the conversation, and the app keeps the boundaries, so you do not have to.',
     secondary: 'How the mahram feature works',
     micro: 'Free. In English, Bosnian and 7 more languages.',
     imageAlt: 'A Niyyah profile card: prayer, madhhab, marriage plans and compatibility score.',
