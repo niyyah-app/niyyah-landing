@@ -172,7 +172,7 @@ useHead(() => ({
 
           <article class="art__body">
             <GuideBody :blocks="blocks ?? []" />
-            <p class="art__note">{{ ui.note }}</p>
+            <p v-if="!article.aboutApp" class="art__note">{{ ui.note }}</p>
           </article>
         </div>
 

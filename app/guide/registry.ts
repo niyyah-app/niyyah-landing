@@ -34,6 +34,11 @@ export interface GuideArticle {
   /** ISO datum. */
   published: string
   updated: string
+  /**
+   * Članak o tome kako aplikacija radi, ne o vjeri: bez napomene o fetvama
+   * na dnu, jer tu nema vjerske tvrdnje na koju bi se odnosila.
+   */
+  aboutApp?: true
 }
 
 export const articles: GuideArticle[] = [
@@ -193,6 +198,52 @@ export const articles: GuideArticle[] = [
       'Za oca, majku i staratelja: kako biti uz kćerku ili sina dok traže bračnog druga, a da odluka ostane njihova.',
     published: '2026-10-06',
     updated: '2026-10-06',
+  },
+
+  // ── kako aplikacija radi ─────────────────────────────────
+  {
+    key: 'provjera',
+    locale: 'bs',
+    slug: 'provjera-profila',
+    title: 'Provjera profila: kako Niyyah zna da je osoba stvarna',
+    description:
+      'Šta se provjerava kad se neko prijavi na Niyyah: selfie od tri sekunde, poređenje sa slikama, šta znači oznaka Verified i ko vidi tvoje slike.',
+    published: '2026-11-04',
+    updated: '2026-11-04',
+    aboutApp: true,
+  },
+  {
+    key: 'provjera',
+    locale: 'en',
+    slug: 'profile-verification',
+    title: 'Profile verification: how Niyyah checks that a member is real',
+    description:
+      'What is checked when someone joins Niyyah: a three-second selfie, a comparison with the profile photos, what the Verified badge means and who sees your photos.',
+    published: '2026-11-04',
+    updated: '2026-11-04',
+    aboutApp: true,
+  },
+  {
+    key: 'porodica',
+    locale: 'bs',
+    slug: 'porodica-i-mahrem-u-aplikaciji',
+    title: 'Porodica u razgovoru: kako mahrem prati upoznavanje u aplikaciji',
+    description:
+      'Kako sestra u Niyyah poziva oca, brata ili staratelja, šta mahrem vidi i odobrava, zašto ne može pisati bez dozvole i kako se porodice upoznaju.',
+    published: '2026-11-04',
+    updated: '2026-11-04',
+    aboutApp: true,
+  },
+  {
+    key: 'porodica',
+    locale: 'en',
+    slug: 'family-and-mahram-in-the-app',
+    title: 'Family in the conversation: how a mahram follows it in the app',
+    description:
+      'How a sister on Niyyah invites her father, brother or guardian, what a mahram sees and approves, why he cannot write without permission, and how families meet.',
+    published: '2026-11-04',
+    updated: '2026-11-04',
+    aboutApp: true,
   },
 ]
 

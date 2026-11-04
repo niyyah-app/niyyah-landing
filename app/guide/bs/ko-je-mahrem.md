@@ -70,7 +70,7 @@ U aplikaciji Niyyah to izgleda ovako:
 2. Pozove do tri osobe: oca, brata, amidžu, dajdžu, staratelja ili drugog mahrema. Pozivnica stiže e-mailom, a mahrem je prihvata u aplikaciji.
 3. Mahrem u **Mahrem portalu** vidi njene razgovore i podudaranja. Samo čita: ne može pisati iz portala i ne koristi funkcije za upoznavanje.
 
-Jedan mahrem može paziti na više osoba, na primjer otac na dvije kćerke. Funkcija je dostupna ženskim profilima i besplatna je. Aplikacija dopušta i staratelja, jer nema svaka sestra oca ili brata uz sebe; kad staratelj nije mahrem u fikhskom smislu, njegova uloga je ista — da razgovor ne bude skriven. Više o tome na [stranici o mahremu u Niyyah](/#mahrem).
+Jedan mahrem može paziti na više osoba, na primjer otac na dvije kćerke. Funkcija je dostupna ženskim profilima i besplatna je. Aplikacija dopušta i staratelja, jer nema svaka sestra oca ili brata uz sebe; kad staratelj nije mahrem u fikhskom smislu, njegova uloga je ista — da razgovor ne bude skriven. Više o tome na [stranici o mahremu u Niyyah](/#mahrem), a korak po korak u tekstu [Porodica u razgovoru](/vodic/porodica-i-mahrem-u-aplikaciji).
 
 ## Kratko
 

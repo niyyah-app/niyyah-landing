@@ -70,7 +70,7 @@ In Niyyah it works like this:
 2. She invites up to three people: her father, brother, paternal or maternal uncle, guardian, or another mahram. The invitation arrives by email, and the mahram accepts it in the app.
 3. In the **Mahram portal** the mahram sees her conversations and matches. He only reads: he cannot write from the portal and does not use the app to meet anyone.
 
-One mahram can look out for more than one person, for example a father for two daughters. The feature is available on women's profiles and is free. The app also allows a guardian, because not every sister has a father or brother beside her; where a guardian is not a mahram in the fiqh sense, his role is the same — that the conversation is not hidden. More on the [mahram section of the Niyyah page](/en#mahrem).
+One mahram can look out for more than one person, for example a father for two daughters. The feature is available on women's profiles and is free. The app also allows a guardian, because not every sister has a father or brother beside her; where a guardian is not a mahram in the fiqh sense, his role is the same — that the conversation is not hidden. More on the [mahram section of the Niyyah page](/en#mahrem), and step by step in [Family in the conversation](/en/guide/family-and-mahram-in-the-app).
 
 ## In short
 
