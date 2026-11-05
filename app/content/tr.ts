@@ -428,6 +428,16 @@ export const tr: Copy = {
     change: 'Ölçüm tercihi',
   },
 
+  // Mišljenja članova (vlasnik, 5.11.2026): samo odobrena, s pristankom,
+  // ime i zamućena slika. Izjava o 50 coinsa mora stajati uz njih.
+  testimonials: {
+    kicker: 'Üyeler',
+    title: 'Üyeler ne diyor',
+    disclosure: 'Gerçek Niyyah üyelerinin görüşleri. Görüş yazan üye, verdiği puandan bağımsız olarak 50 coin alır.',
+    rating: 'Puan: 5 üzerinden {n}',
+    photoAlt: 'Üyenin bulanık fotoğrafı',
+  },
+
   footer: {
     tagline: 'Niyetle aranan evlilik.',
     made: 'Bosna-Hersek’te özenle yapıldı.',

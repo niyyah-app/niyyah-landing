@@ -428,6 +428,16 @@ export const ms: Copy = {
     change: 'Pilihan pengukuran',
   },
 
+  // Mišljenja članova (vlasnik, 5.11.2026): samo odobrena, s pristankom,
+  // ime i zamućena slika. Izjava o 50 coinsa mora stajati uz njih.
+  testimonials: {
+    kicker: 'Ahli',
+    title: 'Kata ahli',
+    disclosure: 'Pendapat ahli Niyyah yang sebenar. Ahli menerima 50 coin kerana menulis pendapat, apa pun penilaiannya.',
+    rating: 'Penilaian: {n} daripada 5',
+    photoAlt: 'Foto ahli yang dikaburkan',
+  },
+
   footer: {
     tagline: 'Perkahwinan, dicari dengan niat.',
     made: 'Dibuat dengan teliti di Bosnia dan Herzegovina.',

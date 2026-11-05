@@ -106,6 +106,8 @@ useHead(() => ({
       <PricingSection />
       <AboutSection />
       <GuideSection />
+      <!-- Mišljenja članova (vlasnik, 5.11.2026): nema je dok nema odobrenih. -->
+      <TestimonialsSection />
       <FaqSection />
       <FinalCta />
     </main>

@@ -428,6 +428,16 @@ export const ar: Copy = {
     change: 'خيار القياس',
   },
 
+  // Mišljenja članova (vlasnik, 5.11.2026): samo odobrena, s pristankom,
+  // ime i zamućena slika. Izjava o 50 coinsa mora stajati uz njih.
+  testimonials: {
+    kicker: 'الأعضاء',
+    title: 'ماذا يقول الأعضاء',
+    disclosure: 'آراء أعضاء حقيقيين في Niyyah. يحصل العضو على 50 عملة مقابل كتابة رأيه، مهما كان تقييمه.',
+    rating: 'التقييم: {n} من 5',
+    photoAlt: 'صورة مموهة للعضو',
+  },
+
   footer: {
     tagline: 'زواج يُطلب بنيّة.',
     made: 'صُنع بعناية في البوسنة والهرسك.',

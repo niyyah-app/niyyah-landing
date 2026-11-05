@@ -428,6 +428,16 @@ export const ur: Copy = {
     change: 'پیمائش کا انتخاب',
   },
 
+  // Mišljenja članova (vlasnik, 5.11.2026): samo odobrena, s pristankom,
+  // ime i zamućena slika. Izjava o 50 coinsa mora stajati uz njih.
+  testimonials: {
+    kicker: 'ممبرز',
+    title: 'ممبرز کیا کہتے ہیں',
+    disclosure: 'Niyyah کے حقیقی ممبرز کی آراء۔ رائے لکھنے پر ممبر کو 50 کوائنز ملتے ہیں، ریٹنگ چاہے جو بھی ہو۔',
+    rating: 'ریٹنگ: 5 میں سے {n}',
+    photoAlt: 'ممبر کی دھندلی تصویر',
+  },
+
   footer: {
     tagline: 'نیّت سے کی گئی نکاح کی تلاش۔',
     made: 'بوسنیا و ہرزیگووینا میں توجہ سے بنایا گیا۔',

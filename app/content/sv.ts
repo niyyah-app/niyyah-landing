@@ -429,6 +429,16 @@ export const sv: Copy = {
     change: 'Val om mätning',
   },
 
+  // Mišljenja članova (vlasnik, 5.11.2026): samo odobrena, s pristankom,
+  // ime i zamućena slika. Izjava o 50 coinsa mora stajati uz njih.
+  testimonials: {
+    kicker: 'Medlemmar',
+    title: 'Vad medlemmar säger',
+    disclosure: 'Åsikter från riktiga Niyyah-medlemmar. En medlem får 50 coins för en skriven åsikt, oavsett betyg.',
+    rating: 'Betyg: {n} av 5',
+    photoAlt: 'Suddigt foto av medlemmen',
+  },
+
   footer: {
     tagline: 'Äktenskap, sökt med avsikt.',
     made: 'Gjord med omsorg i Bosnien och Hercegovina.',

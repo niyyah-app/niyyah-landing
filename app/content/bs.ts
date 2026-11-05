@@ -427,6 +427,16 @@ export const bs = {
     change: 'Izbor o mjerenju',
   },
 
+  // Mišljenja članova (vlasnik, 5.11.2026): samo odobrena, s pristankom,
+  // ime i zamućena slika. Izjava o 50 coinsa mora stajati uz njih.
+  testimonials: {
+    kicker: 'Članovi',
+    title: 'Šta kažu članovi',
+    disclosure: 'Mišljenja pravih članova Niyyah. Za napisano mišljenje član dobija 50 coinsa, bez obzira na ocjenu.',
+    rating: 'Ocjena: {n} od 5',
+    photoAlt: 'Zamućena slika člana',
+  },
+
   footer: {
     tagline: 'Brak, tražen s namjerom.',
     made: 'Napravljeno s pažnjom u Bosni i Hercegovini.',

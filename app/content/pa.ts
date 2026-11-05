@@ -428,6 +428,17 @@ export const pa: Copy = {
     change: 'ناپ دی چون',
   },
 
+  // Mišljenja članova (vlasnik, 5.11.2026): samo odobrena, s pristankom,
+  // ime i zamućena slika. Izjava o 50 coinsa mora stajati uz njih.
+  testimonials: {
+    // Engleski dok ne stigne prijevod (vlasnik, 5.11.2026).
+    kicker: 'Members',
+    title: 'What members say',
+    disclosure: 'Opinions of real Niyyah members. A member receives 50 coins for writing an opinion, whatever the rating.',
+    rating: 'Rating: {n} out of 5',
+    photoAlt: 'Blurred photo of the member',
+  },
+
   footer: {
     tagline: 'نیت نال لبھیا جان والا نکاح۔',
     made: 'بوسنیا تے ہرزیگووینا وچ دھیان نال بنائی گئی۔',

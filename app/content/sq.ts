@@ -429,6 +429,16 @@ export const sq: Copy = {
     change: 'Zgjedhja për matjen',
   },
 
+  // Mišljenja članova (vlasnik, 5.11.2026): samo odobrena, s pristankom,
+  // ime i zamućena slika. Izjava o 50 coinsa mora stajati uz njih.
+  testimonials: {
+    kicker: 'Anëtarët',
+    title: 'Çfarë thonë anëtarët',
+    disclosure: 'Mendime të anëtarëve të vërtetë të Niyyah. Për një mendim të shkruar anëtari merr 50 coins, pavarësisht vlerësimit.',
+    rating: 'Vlerësimi: {n} nga 5',
+    photoAlt: 'Foto e turbullt e anëtarit',
+  },
+
   footer: {
     tagline: 'Martesa, e kërkuar me nijet.',
     made: 'Bërë me kujdes në Bosnjë dhe Hercegovinë.',

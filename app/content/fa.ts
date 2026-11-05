@@ -429,6 +429,16 @@ export const fa: Copy = {
     change: 'انتخاب اندازه‌گیری',
   },
 
+  // Mišljenja članova (vlasnik, 5.11.2026): samo odobrena, s pristankom,
+  // ime i zamućena slika. Izjava o 50 coinsa mora stajati uz njih.
+  testimonials: {
+    kicker: 'اعضا',
+    title: 'اعضا چه می‌گویند',
+    disclosure: 'نظرات اعضای واقعی Niyyah. عضو برای نوشتن نظر، فارغ از امتیازی که می‌دهد، ۵۰ سکه دریافت می‌کند.',
+    rating: 'امتیاز: {n} از ۵',
+    photoAlt: 'عکس محوشدهٔ عضو',
+  },
+
   footer: {
     tagline: 'ازدواجی که با نیّت جُسته می‌شود.',
     made: 'با دقت در بوسنی و هرزگوین ساخته شده.',

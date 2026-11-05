@@ -429,6 +429,16 @@ export const hi: Copy = {
     change: 'नाप का चुनाव',
   },
 
+  // Mišljenja članova (vlasnik, 5.11.2026): samo odobrena, s pristankom,
+  // ime i zamućena slika. Izjava o 50 coinsa mora stajati uz njih.
+  testimonials: {
+    kicker: 'सदस्य',
+    title: 'सदस्य क्या कहते हैं',
+    disclosure: 'Niyyah के असली सदस्यों की राय। राय लिखने पर सदस्य को 50 कॉइन मिलते हैं, रेटिंग चाहे जो हो।',
+    rating: 'रेटिंग: 5 में से {n}',
+    photoAlt: 'सदस्य की धुंधली फ़ोटो',
+  },
+
   footer: {
     tagline: 'नीयत से ढूँढ़ा गया निकाह।',
     made: 'बोस्निया और हर्ज़ेगोविना में ध्यान से बनाया गया।',

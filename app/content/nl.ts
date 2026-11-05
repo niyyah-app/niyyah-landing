@@ -429,6 +429,16 @@ export const nl: Copy = {
     change: 'Keuze over meting',
   },
 
+  // Mišljenja članova (vlasnik, 5.11.2026): samo odobrena, s pristankom,
+  // ime i zamućena slika. Izjava o 50 coinsa mora stajati uz njih.
+  testimonials: {
+    kicker: 'Leden',
+    title: 'Wat leden zeggen',
+    disclosure: 'Meningen van echte Niyyah-leden. Voor een geschreven mening krijgt een lid 50 coins, ongeacht de beoordeling.',
+    rating: 'Beoordeling: {n} van 5',
+    photoAlt: 'Onscherpe foto van het lid',
+  },
+
   footer: {
     tagline: 'Een huwelijk, gezocht met intentie.',
     made: 'Met zorg gemaakt in Bosnië en Herzegovina.',

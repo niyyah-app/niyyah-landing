@@ -429,6 +429,16 @@ export const az: Copy = {
     change: 'Ölçmə seçimi',
   },
 
+  // Mišljenja članova (vlasnik, 5.11.2026): samo odobrena, s pristankom,
+  // ime i zamućena slika. Izjava o 50 coinsa mora stajati uz njih.
+  testimonials: {
+    kicker: 'Üzvlər',
+    title: 'Üzvlər nə deyir',
+    disclosure: 'Niyyah-ın real üzvlərinin fikirləri. Yazılmış fikir üçün üzv, verdiyi qiymətdən asılı olmayaraq, 50 coin alır.',
+    rating: 'Qiymət: 5-dən {n}',
+    photoAlt: 'Üzvün bulanıq şəkli',
+  },
+
   footer: {
     tagline: 'Niyyətlə axtarılan evlilik.',
     made: 'Bosniya və Herseqovinada diqqətlə hazırlanıb.',

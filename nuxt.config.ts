@@ -83,6 +83,9 @@ export default defineNuxtConfig({
       waitlistEndpoint: 'https://api.niyyahmarriage.com/api/waitlist',
       // Broj prijavljenih, za dokaz na stranici. Vraća samo { count }.
       waitlistCountEndpoint: 'https://api.niyyahmarriage.com/api/waitlist/count',
+      // Mišljenja članova (vlasnik, 5.11.2026): samo odobrena i s pristankom;
+      // ime, zamućena slika, ocjena, tekst, datum. Prazno isključuje sekciju.
+      testimonialsEndpoint: 'https://api.niyyahmarriage.com/api/public/testimonials',
       // Meta pixel za reklame na Facebooku i Instagramu. Nije tajna: svako
       // ko otvori izvor stranice ga vidi. Prazno ga potpuno isključuje.
       metaPixelId: '4603339379933380',

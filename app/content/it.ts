@@ -429,6 +429,16 @@ export const it: Copy = {
     change: 'Scelta sulla misurazione',
   },
 
+  // Mišljenja članova (vlasnik, 5.11.2026): samo odobrena, s pristankom,
+  // ime i zamućena slika. Izjava o 50 coinsa mora stajati uz njih.
+  testimonials: {
+    kicker: 'Membri',
+    title: 'Cosa dicono i membri',
+    disclosure: 'Opinioni di veri membri di Niyyah. Per un’opinione scritta il membro riceve 50 coin, qualunque sia il voto.',
+    rating: 'Voto: {n} su 5',
+    photoAlt: 'Foto sfocata del membro',
+  },
+
   footer: {
     tagline: 'Il matrimonio, cercato con intenzione.',
     made: 'Fatta con cura in Bosnia ed Erzegovina.',

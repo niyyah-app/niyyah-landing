@@ -429,6 +429,16 @@ export const ru: Copy = {
     change: 'Выбор об измерении',
   },
 
+  // Mišljenja članova (vlasnik, 5.11.2026): samo odobrena, s pristankom,
+  // ime i zamućena slika. Izjava o 50 coinsa mora stajati uz njih.
+  testimonials: {
+    kicker: 'Участники',
+    title: 'Что говорят участники',
+    disclosure: 'Мнения настоящих участников Niyyah. За написанное мнение участник получает 50 монет, независимо от оценки.',
+    rating: 'Оценка: {n} из 5',
+    photoAlt: 'Размытое фото участника',
+  },
+
   footer: {
     tagline: 'Брак, который ищут с намерением.',
     made: 'Сделано с вниманием в Боснии и Герцеговине.',
