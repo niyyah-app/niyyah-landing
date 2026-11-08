@@ -11,6 +11,14 @@ const home = computed(() => localePath('/'))
 const onHome = computed(() => route.path === home.value)
 const anchor = (href: string) => (onHome.value ? href : `${home.value}${href}`)
 
+// „Preporuke" vodi na mišljenja članova (vlasnik, 8.11.2026: klik nije radio,
+// sekcija nije imala oznaku). Na početnoj, dok mišljenja nema, link se ne
+// prikazuje — ne vodi nikud.
+const testimonials = useState<unknown[]>('testimonials', () => [])
+const links = computed(() =>
+  c.value.nav.links.filter((l) => l.href !== '#preporuke' || !onHome.value || testimonials.value.length > 0),
+)
+
 const scrolled = ref(false)
 const open = ref(false)
 
@@ -36,7 +44,7 @@ watch(open, (v) => document.documentElement.classList.toggle('menu-open', v))
       </NuxtLink>
 
       <nav class="hdr__nav" :aria-label="c.nav.label">
-        <a v-for="l in c.nav.links" :key="l.href" :href="anchor(l.href)">{{ l.label }}</a>
+        <a v-for="l in links" :key="l.href" :href="anchor(l.href)">{{ l.label }}</a>
       </nav>
 
       <!-- Na telefonu je ovo redom kojim se i vidi: dugme, meni, jezik. Na
@@ -63,7 +71,7 @@ watch(open, (v) => document.documentElement.classList.toggle('menu-open', v))
 
     <nav id="mob-nav" class="mob" :class="{ 'is-open': open }" :aria-label="c.nav.label" :inert="!open || undefined">
       <div class="mob__in">
-        <a v-for="l in c.nav.links" :key="l.href" :href="anchor(l.href)" @click="open = false">{{ l.label }}</a>
+        <a v-for="l in links" :key="l.href" :href="anchor(l.href)" @click="open = false">{{ l.label }}</a>
         <LanguageMenu variant="mobile" />
       </div>
     </nav>

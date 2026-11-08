@@ -30,7 +30,7 @@ const ratingLabel = (n: number) => c.value.testimonials.rating.replace('{n}', St
 </script>
 
 <template>
-  <section v-if="items.length" class="section tst" aria-labelledby="tst-title">
+  <section v-if="items.length" id="preporuke" class="section tst" aria-labelledby="tst-title">
     <div class="wrap">
       <p v-reveal class="kicker"><StarMark /> {{ c.testimonials.kicker }}</p>
       <h2 id="tst-title" v-reveal="60" class="h2 tst__title">{{ c.testimonials.title }}</h2>
