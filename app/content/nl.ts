@@ -47,6 +47,7 @@ export const nl: Copy = {
   },
 
   hero: {
+    members: 'leden in de Niyyah-gemeenschap',
     countdown: 'Niyyah komt over',
     countdownUnits: ['dagen', 'uur', 'minuten', 'seconden'],
     title: 'Een huwelijk, gezocht met intentie.',

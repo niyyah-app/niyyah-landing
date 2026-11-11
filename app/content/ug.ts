@@ -47,6 +47,7 @@ export const ug: Copy = {
   },
 
   hero: {
+    members: 'Niyyah جامائىتىدىكى ئەزا',
     countdown: 'Niyyah كېلىشىگە',
     countdownUnits: ['كۈن', 'سائەت', 'مىنۇت', 'سېكۇنت'],
     title: 'نىيەت بىلەن ئىزدەلگەن نىكاھ.',

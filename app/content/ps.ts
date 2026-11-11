@@ -47,6 +47,7 @@ export const ps: Copy = {
   },
 
   hero: {
+    members: 'غړي د Niyyah په ټولنه کې',
     countdown: 'Niyyah راځي په',
     countdownUnits: ['ورځې', 'ساعتونه', 'دقیقې', 'ثانیې'],
     title: 'نکاح چې په نیت سره لټول کیږي.',

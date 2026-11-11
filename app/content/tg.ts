@@ -47,6 +47,7 @@ export const tg: Copy = {
   },
 
   hero: {
+    members: 'аъзо дар ҷомеаи Niyyah',
     countdown: 'Niyyah меояд баъди',
     countdownUnits: ['рӯз', 'соат', 'дақиқа', 'сония'],
     title: 'Никоҳе, ки бо ният ҷустуҷӯ мешавад.',

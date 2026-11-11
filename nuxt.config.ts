@@ -86,6 +86,8 @@ export default defineNuxtConfig({
       // Mišljenja članova (vlasnik, 5.11.2026): samo odobrena i s pristankom;
       // ime, zamućena slika, ocjena, tekst, datum. Prazno isključuje sekciju.
       testimonialsEndpoint: 'https://api.niyyahmarriage.com/api/public/testimonials',
+      // Broj članova aktivnih u zadnja 24 sata (vlasnik, 11.11.2026). Samo { active_today }.
+      publicStatsEndpoint: 'https://api.niyyahmarriage.com/api/public/stats',
       // Meta pixel za reklame na Facebooku i Instagramu. Nije tajna: svako
       // ko otvori izvor stranice ga vidi. Prazno ga potpuno isključuje.
       metaPixelId: '4603339379933380',

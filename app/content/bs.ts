@@ -46,6 +46,9 @@ export const bs = {
   },
 
   hero: {
+    // Ispod krupnog broja članova (vlasnik, 11.11.2026). Broj je zaokružen
+    // na desetice s „+”, pa riječ ide u obliku koji stoji uz okrugao broj.
+    members: 'članova u Niyyah zajednici',
     countdown: 'Niyyah stiže za',
     countdownUnits: ['dana', 'sati', 'minuta', 'sekundi'],
     title: 'Brak, tražen s namjerom.',

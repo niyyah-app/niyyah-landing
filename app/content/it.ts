@@ -47,6 +47,7 @@ export const it: Copy = {
   },
 
   hero: {
+    members: 'membri nella comunità Niyyah',
     countdown: 'Niyyah arriva tra',
     countdownUnits: ['giorni', 'ore', 'minuti', 'secondi'],
     title: 'Il matrimonio, cercato con intenzione.',

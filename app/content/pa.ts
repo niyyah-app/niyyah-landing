@@ -47,6 +47,7 @@ export const pa: Copy = {
   },
 
   hero: {
+    members: 'ممبر Niyyah برادری وچ',
     countdown: 'Niyyah ਆਉਣ ਵਿੱਚ',
     countdownUnits: ['ਦਿਨ', 'ਘੰਟੇ', 'ਮਿੰਟ', 'ਸਕਿੰਟ'],
     title: 'نیت نال لبھیا جان والا نکاح۔',

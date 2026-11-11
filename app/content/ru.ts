@@ -47,6 +47,7 @@ export const ru: Copy = {
   },
 
   hero: {
+    members: 'участников в сообществе Niyyah',
     countdown: 'Niyyah появится через',
     countdownUnits: ['дней', 'часов', 'минут', 'секунд'],
     title: 'Брак, который ищут с намерением.',

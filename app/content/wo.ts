@@ -47,6 +47,7 @@ export const wo: Copy = {
   },
 
   hero: {
+    members: 'way-bokk ci mbooloom Niyyah',
     countdown: 'Niyyah dina ñëw ci',
     countdownUnits: ['fan', 'waxtu', 'simili', 'saa'],
     title: 'Takk, bi ñuy wut ak niyyat.',

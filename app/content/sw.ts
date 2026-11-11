@@ -47,6 +47,7 @@ export const sw: Copy = {
   },
 
   hero: {
+    members: 'wanachama katika jamii ya Niyyah',
     countdown: 'Niyyah inakuja baada ya',
     countdownUnits: ['siku', 'saa', 'dakika', 'sekunde'],
     title: 'Ndoa, inayotafutwa kwa nia.',

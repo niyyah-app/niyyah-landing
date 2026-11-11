@@ -47,6 +47,7 @@ export const ky: Copy = {
   },
 
   hero: {
+    members: 'Niyyah коомчулугундагы мүчө',
     countdown: 'Niyyah келишине',
     countdownUnits: ['күн', 'саат', 'мүнөт', 'секунд'],
     title: 'Ниет менен изделген нике.',

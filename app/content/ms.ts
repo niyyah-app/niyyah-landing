@@ -47,6 +47,7 @@ export const ms: Copy = {
   },
 
   hero: {
+    members: 'ahli dalam komuniti Niyyah',
     countdown: 'Niyyah tiba dalam',
     countdownUnits: ['hari', 'jam', 'minit', 'saat'],
     title: 'Perkahwinan, dicari dengan niat.',

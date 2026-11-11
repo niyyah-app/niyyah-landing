@@ -47,6 +47,7 @@ export const tl: Copy = {
   },
 
   hero: {
+    members: 'miyembro sa komunidad ng Niyyah',
     countdown: 'Darating ang Niyyah sa loob ng',
     countdownUnits: ['araw', 'oras', 'minuto', 'segundo'],
     title: 'Kasal, hinahanap nang may layunin.',

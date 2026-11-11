@@ -47,6 +47,7 @@ export const ku: Copy = {
   },
 
   hero: {
+    members: 'endam di civaka Niyyah de',
     countdown: 'Niyyah tê di nav',
     countdownUnits: ['roj', 'saet', 'deqe', 'çirke'],
     title: 'Zewac, ku bi niyetê tê gerîn.',

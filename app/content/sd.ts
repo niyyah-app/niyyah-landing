@@ -47,6 +47,7 @@ export const sd: Copy = {
   },
 
   hero: {
+    members: 'ميمبر Niyyah برادري ۾',
     countdown: 'Niyyah اچي ٿي',
     countdownUnits: ['ڏينهن', 'ڪلاڪ', 'منٽ', 'سيڪنڊ'],
     title: 'نيت سان ڳوليل نڪاح.',

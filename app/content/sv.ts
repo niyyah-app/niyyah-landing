@@ -47,6 +47,7 @@ export const sv: Copy = {
   },
 
   hero: {
+    members: 'medlemmar i Niyyah-gemenskapen',
     countdown: 'Niyyah kommer om',
     countdownUnits: ['dagar', 'timmar', 'minuter', 'sekunder'],
     title: 'Äktenskap, sökt med avsikt.',

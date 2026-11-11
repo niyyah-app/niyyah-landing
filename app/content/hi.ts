@@ -47,6 +47,7 @@ export const hi: Copy = {
   },
 
   hero: {
+    members: 'सदस्य Niyyah समुदाय में',
     countdown: 'Niyyah आने में बाकी',
     countdownUnits: ['दिन', 'घंटे', 'मिनट', 'सेकंड'],
     title: 'नीयत से ढूँढ़ा गया निकाह।',

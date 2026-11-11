@@ -47,6 +47,7 @@ export const sq: Copy = {
   },
 
   hero: {
+    members: 'anëtarë në komunitetin Niyyah',
     countdown: 'Niyyah vjen për',
     countdownUnits: ['ditë', 'orë', 'minuta', 'sekonda'],
     title: 'Martesa, e kërkuar me nijet.',

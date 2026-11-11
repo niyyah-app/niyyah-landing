@@ -47,6 +47,7 @@ export const tr: Copy = {
   },
 
   hero: {
+    members: 'Niyyah topluluğunda üye',
     countdown: 'Niyyah’a kalan süre',
     countdownUnits: ['gün', 'saat', 'dakika', 'saniye'],
     title: 'Niyetle aranan evlilik.',

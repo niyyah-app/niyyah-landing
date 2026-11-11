@@ -47,6 +47,7 @@ export const am: Copy = {
   },
 
   hero: {
+    members: 'አባላት በNiyyah ማህበረሰብ ውስጥ',
     countdown: 'Niyyah የሚመጣው በ',
     countdownUnits: ['ቀናት', 'ሰዓታት', 'ደቂቃዎች', 'ሰከንዶች'],
     title: 'በንየት የሚፈለግ ጋብቻ።',

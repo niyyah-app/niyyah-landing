@@ -3,6 +3,13 @@ import heroShot from '~/assets/images/hero-discover.webp'
 
 const c = useCopy()
 const { appLaunched } = useRuntimeConfig().public
+const { locale } = useI18n()
+
+// Ukupno članova, krupno (vlasnik, 11.11.2026); null dok ne stigne ili ispod praga.
+const members = useMemberCount()
+const membersText = computed(() =>
+  members.value === null ? null : `${new Intl.NumberFormat(locale.value).format(members.value)}+`,
+)
 
 // "Brak, tražen s namjerom." → drugi dio naslova u zlatu
 const title = computed(() => {
@@ -47,6 +54,13 @@ const title = computed(() => {
         <div class="hero__cta">
           <PrimaryCta tone="night" />
         </div>
+
+        <Transition name="hero-live">
+          <p v-if="membersText" class="hero__members">
+            <span class="hero__members-num">{{ membersText }}</span>
+            <span class="hero__members-label">{{ c.hero.members }}</span>
+          </p>
+        </Transition>
       </div>
 
       <div class="hero__visual">
@@ -76,6 +90,36 @@ const title = computed(() => {
 </template>
 
 <style scoped>
+/* ── Ukupno članova ────────────────────────────────────────────────────
+   Krupan zlatni broj u pismu naslova, pa riječ do njega. Odvojen tankom
+   zlatnom crtom od dugmadi trgovina. */
+.hero__members {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  width: fit-content;
+  margin: 1.8rem 0 0;
+  padding-top: 1.3rem;
+  border-top: 1px solid var(--gold-glow);
+}
+.hero__members-num {
+  font-family: var(--font-display);
+  font-size: clamp(2.6rem, 2rem + 2.4vw, 3.9rem);
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.01em;
+  color: var(--gold);
+  font-variant-numeric: lining-nums tabular-nums;
+}
+.hero__members-label {
+  max-width: 11rem;
+  font-size: clamp(0.92rem, 0.85rem + 0.3vw, 1.08rem);
+  line-height: 1.35;
+  color: var(--moon-2);
+}
+.hero-live-enter-active { transition: opacity 0.6s ease, transform 0.6s ease; }
+.hero-live-enter-from { opacity: 0; transform: translateY(6px); }
+
 .hero {
   position: relative;
   isolation: isolate;

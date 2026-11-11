@@ -47,6 +47,7 @@ export const ta: Copy = {
   },
 
   hero: {
+    members: 'உறுப்பினர்கள் Niyyah சமூகத்தில்',
     countdown: 'Niyyah வர இன்னும்',
     countdownUnits: ['நாட்கள்', 'மணி', 'நிமிடம்', 'விநாடி'],
     title: 'நிய்யத்துடன் தேடப்படும் திருமணம்.',

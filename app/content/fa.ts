@@ -47,6 +47,7 @@ export const fa: Copy = {
   },
 
   hero: {
+    members: 'عضو در جامعه Niyyah',
     countdown: 'Niyyah می\u200cآید تا',
     countdownUnits: ['روز', 'ساعت', 'دقیقه', 'ثانیه'],
     title: 'ازدواجی که با نیّت جُسته می‌شود.',

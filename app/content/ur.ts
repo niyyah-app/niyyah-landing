@@ -47,6 +47,7 @@ export const ur: Copy = {
   },
 
   hero: {
+    members: 'اراکین Niyyah کمیونٹی میں',
     countdown: 'Niyyah آ رہی ہے',
     countdownUnits: ['دن', 'گھنٹے', 'منٹ', 'سیکنڈ'],
     title: 'نیّت سے کی گئی نکاح کی تلاش۔',

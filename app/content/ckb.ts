@@ -47,6 +47,7 @@ export const ckb: Copy = {
   },
 
   hero: {
+    members: 'ئەندام لە کۆمەڵگەی Niyyah',
     countdown: 'Niyyah دێت لە ماوەی',
     countdownUnits: ['ڕۆژ', 'کاتژمێر', 'خولەک', 'چرکە'],
     title: 'هاوسەرگیری کە بە نیازەوە دەگەڕێدرێت.',

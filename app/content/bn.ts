@@ -47,6 +47,7 @@ export const bn: Copy = {
   },
 
   hero: {
+    members: 'জন সদস্য Niyyah কমিউনিটিতে',
     countdown: 'Niyyah আসছে',
     countdownUnits: ['দিন', 'ঘণ্টা', 'মিনিট', 'সেকেন্ড'],
     title: 'নিয়ত নিয়ে খোঁজা বিয়ে।',

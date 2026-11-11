@@ -47,6 +47,7 @@ export const so: Copy = {
   },
 
   hero: {
+    members: 'xubnood ee bulshada Niyyah',
     countdown: 'Niyyah waxay timaadaa',
     countdownUnits: ['maalmood', 'saacadood', 'daqiiqo', 'ilbiriqsi'],
     title: 'Guur, oo niyad lagu raadiyo.',

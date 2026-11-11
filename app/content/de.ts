@@ -47,6 +47,7 @@ export const de: Copy = {
   },
 
   hero: {
+    members: 'Mitglieder in der Niyyah-Gemeinschaft',
     countdown: 'Niyyah kommt in',
     countdownUnits: ['Tage', 'Stunden', 'Minuten', 'Sekunden'],
     title: 'Ehe, mit Absicht gesucht.',

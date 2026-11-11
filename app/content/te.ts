@@ -47,6 +47,7 @@ export const te: Copy = {
   },
 
   hero: {
+    members: 'సభ్యులు Niyyah సమాజంలో',
     countdown: 'Niyyah రావడానికి',
     countdownUnits: ['రోజులు', 'గంటలు', 'నిమిషాలు', 'సెకన్లు'],
     title: 'నియ్యత్‌తో వెతికే నికాహ్.',

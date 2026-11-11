@@ -47,6 +47,7 @@ export const ha: Copy = {
   },
 
   hero: {
+    members: 'mambobi a cikin al’ummar Niyyah',
     countdown: 'Niyyah zai iso cikin',
     countdownUnits: ['kwanaki', 'awanni', 'mintuna', 'daƙiƙoƙi'],
     title: 'Aure, da ake nema da niyya.',

@@ -47,6 +47,7 @@ export const ar: Copy = {
   },
 
   hero: {
+    members: 'عضو في مجتمع Niyyah',
     countdown: 'تصل Niyyah بعد',
     countdownUnits: ['أيام', 'ساعات', 'دقائق', 'ثوانٍ'],
     title: 'زواج يُطلب بنيّة.',

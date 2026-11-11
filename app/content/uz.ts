@@ -47,6 +47,7 @@ export const uz: Copy = {
   },
 
   hero: {
+    members: 'Niyyah hamjamiyatidagi a’zo',
     countdown: 'Niyyah kelishiga',
     countdownUnits: ['kun', 'soat', 'daqiqa', 'soniya'],
     title: 'Niyat bilan izlangan nikoh.',

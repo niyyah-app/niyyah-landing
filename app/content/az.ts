@@ -47,6 +47,7 @@ export const az: Copy = {
   },
 
   hero: {
+    members: 'Niyyah icmasında üzv',
     countdown: 'Niyyah gəlməsinə qalıb',
     countdownUnits: ['gün', 'saat', 'dəqiqə', 'saniyə'],
     title: 'Niyyətlə axtarılan evlilik.',

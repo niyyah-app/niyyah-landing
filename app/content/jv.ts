@@ -47,6 +47,7 @@ export const jv: Copy = {
   },
 
   hero: {
+    members: 'anggota ing komunitas Niyyah',
     countdown: 'Niyyah teka ing',
     countdownUnits: ['dina', 'jam', 'menit', 'detik'],
     title: 'Bebrayan, digoleki kanthi niyat.',

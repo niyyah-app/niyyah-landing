@@ -47,6 +47,7 @@ export const gu: Copy = {
   },
 
   hero: {
+    members: 'સભ્યો Niyyah સમુદાયમાં',
     countdown: 'Niyyah આવે છે',
     countdownUnits: ['દિવસ', 'કલાક', 'મિનિટ', 'સેકન્ડ'],
     title: 'નિયતથી શોધાતો નિકાહ.',

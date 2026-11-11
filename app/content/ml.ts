@@ -47,6 +47,7 @@ export const ml: Copy = {
   },
 
   hero: {
+    members: 'അംഗങ്ങൾ Niyyah കൂട്ടായ്മയിൽ',
     countdown: 'Niyyah എത്താൻ',
     countdownUnits: ['ദിവസം', 'മണിക്കൂർ', 'മിനിറ്റ്', 'സെക്കൻഡ്'],
     title: 'നിയ്യത്തോടെ തേടുന്ന വിവാഹം.',

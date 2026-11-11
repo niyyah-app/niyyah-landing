@@ -47,6 +47,7 @@ export const su: Copy = {
   },
 
   hero: {
+    members: 'anggota di komunitas Niyyah',
     countdown: 'Niyyah sumping dina',
     countdownUnits: ['poé', 'jam', 'menit', 'detik'],
     title: 'Nikah, ditéangan kalawan niat.',
