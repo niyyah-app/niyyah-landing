@@ -57,6 +57,7 @@ const title = computed(() => {
 
         <Transition name="hero-live">
           <p v-if="membersText" class="hero__members">
+            <span class="hero__members-dot" aria-hidden="true" />
             <span class="hero__members-num">{{ membersText }}</span>
             <span class="hero__members-label">{{ c.hero.members }}</span>
           </p>
@@ -91,30 +92,56 @@ const title = computed(() => {
 
 <style scoped>
 /* ── Ukupno članova ────────────────────────────────────────────────────
-   Krupan zlatni broj u pismu naslova, pa riječ do njega. Odvojen tankom
-   zlatnom crtom od dugmadi trgovina. */
+   „Uživo" izgled (vlasnik, 11.11.2026): pulsirajuća zelena tačka, krupan
+   podebljan broj u pismu teksta i riječ do njega, u tamnoj kapsuli. */
 .hero__members {
-  display: flex;
+  display: inline-flex;
   align-items: center;
-  gap: 0.9rem;
-  width: fit-content;
-  margin: 1.8rem 0 0;
-  padding-top: 1.3rem;
-  border-top: 1px solid var(--gold-glow);
+  gap: 0.75rem;
+  margin: 1.6rem 0 0;
+  padding: 0.7rem 1.25rem 0.7rem 1.05rem;
+  border: 1px solid rgb(74 196 140 / 0.28);
+  border-radius: 999px;
+  background: rgb(74 196 140 / 0.07);
+  box-shadow: 0 0 28px rgb(74 196 140 / 0.12);
+}
+.hero__members-dot {
+  position: relative;
+  width: 11px;
+  height: 11px;
+  flex-shrink: 0;
+  border-radius: 999px;
+  background: #4ac48c;
+  box-shadow: 0 0 10px rgb(74 196 140 / 0.9);
+}
+.hero__members-dot::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: inherit;
+  animation: hero-members-pulse 1.8s ease-out infinite;
+}
+@keyframes hero-members-pulse {
+  from { transform: scale(1); opacity: 0.75; }
+  to { transform: scale(3); opacity: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .hero__members-dot::after { animation: none; }
 }
 .hero__members-num {
-  font-family: var(--font-display);
-  font-size: clamp(2.6rem, 2rem + 2.4vw, 3.9rem);
-  font-weight: 400;
+  font-family: var(--font-body);
+  font-size: clamp(1.6rem, 1.3rem + 1.1vw, 2.2rem);
+  font-weight: 700;
   line-height: 1;
-  letter-spacing: -0.01em;
-  color: var(--gold);
-  font-variant-numeric: lining-nums tabular-nums;
+  letter-spacing: -0.02em;
+  color: #fff;
+  font-variant-numeric: tabular-nums;
 }
 .hero__members-label {
-  max-width: 11rem;
-  font-size: clamp(0.92rem, 0.85rem + 0.3vw, 1.08rem);
-  line-height: 1.35;
+  font-size: clamp(0.9rem, 0.84rem + 0.25vw, 1.04rem);
+  font-weight: 500;
+  line-height: 1.3;
   color: var(--moon-2);
 }
 .hero-live-enter-active { transition: opacity 0.6s ease, transform 0.6s ease; }
