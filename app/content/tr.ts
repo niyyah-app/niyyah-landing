@@ -2,9 +2,9 @@ import type { Copy } from './bs'
 
 export const tr: Copy = {
   meta: {
-    title: 'Niyyah — Eş bulmak için helal uygulama',
+    title: 'Niyyah — Helal evlilik uygulaması: Müslüman eş bul',
     description:
-      'Evlilik arayan Müslümanlar için helal uygulama: mesajlar karşılıklı ilgiyle açılır, sohbette mahrem bulunabilir, topluluk denetlenir. Ücretsiz.',
+      'Evlilik arayan Müslümanlar için helal uygulama: mesajlar karşılıklı ilgiyle açılır, sohbette mahrem bulunabilir, topluluk denetlenir. Ücretsiz kayıt.',
     ogAlt: 'Niyyah: Niyetle aranan evlilik.',
   },
 

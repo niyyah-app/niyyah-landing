@@ -173,11 +173,11 @@ export const articles: GuideArticle[] = [
     key: 'nikah',
     locale: 'bs',
     slug: 'nikah-uslovi',
-    title: 'Nikah: uslovi, veli, svjedoci i mehr',
+    title: 'Uslovi za brak u islamu: nikah, veli, svjedoci i mehr',
     description:
-      'Šta je potrebno da bi nikah bio valjan, ko je veli i šta kaže hanefijski mezheb, koliko svjedoka treba, šta je mehr i kojim redom ide vjenčanje u BiH.',
+      'Uslovi za brak u islamu: šta je potrebno da bi nikah bio valjan, ko je veli po hanefijskom mezhebu, koliko svjedoka treba, šta je mehr i redoslijed vjenčanja u BiH.',
     published: '2026-10-06',
-    updated: '2026-10-06',
+    updated: '2026-11-12',
   },
   {
     key: 'trazenje',
@@ -243,6 +243,17 @@ export const articles: GuideArticle[] = [
       'How a sister on Niyyah invites her father, brother or guardian, what a mahram sees and approves, why he cannot write without permission, and how families meet.',
     published: '2026-11-04',
     updated: '2026-11-04',
+    aboutApp: true,
+  },
+  {
+    key: 'upoznavanje',
+    locale: 'bs',
+    slug: 'upoznavanje-za-brak',
+    title: 'Upoznavanje za brak u BiH i dijaspori: gdje tražiti i na šta paziti',
+    description:
+      'Upoznavanje muslimana i muslimanki za brak u BiH i dijaspori: Facebook grupe, oglasi ili aplikacija, šta pitati rano i kako porodica može biti uz tebe.',
+    published: '2026-11-12',
+    updated: '2026-11-12',
     aboutApp: true,
   },
   {

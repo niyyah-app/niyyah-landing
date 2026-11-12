@@ -2,9 +2,9 @@ import type { Copy } from './bs'
 
 export const en: Copy = {
   meta: {
-    title: 'Niyyah — Halal Muslim Marriage App for Finding a Spouse',
+    title: 'Niyyah — Muslim Marriage App: Find a Spouse the Halal Way',
     description:
-      'A halal Muslim marriage app for finding a spouse: messages open only on mutual interest, a mahram can join the chat, and the community is moderated. Free.',
+      'A halal Muslim marriage app for finding a spouse: messages open only on mutual interest, a mahram can join the chat, and the community is moderated. Free to join.',
     ogAlt: 'Niyyah: Marriage, sought with intention.',
   },
 

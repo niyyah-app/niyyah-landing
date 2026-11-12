@@ -2,9 +2,9 @@ import type { Copy } from './bs'
 
 export const de: Copy = {
   meta: {
-    title: 'Niyyah — Die halal App für die Ehepartnersuche',
+    title: 'Niyyah — Muslimische Partnersuche für die Ehe, halal',
     description:
-      'Die halal App für Muslime, die heiraten möchten: Nachrichten erst bei gegenseitigem Interesse, ein Mahram kann dabei sein, moderierte Gemeinschaft. Kostenlos.',
+      'Die halal App für Muslime, die heiraten möchten: Nachrichten erst bei gegenseitigem Interesse, ein Mahram kann dabei sein, moderierte Gemeinschaft. Kostenlose Anmeldung.',
     ogAlt: 'Niyyah: Ehe, mit Absicht gesucht.',
   },
 

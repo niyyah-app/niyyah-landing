@@ -1,9 +1,9 @@
 // Izvor istine za tekst je CLAUDE.md. Ne dodavati tvrdnje koje tamo nisu provjerene.
 export const bs = {
   meta: {
-    title: 'Niyyah — Halal aplikacija za pronalazak bračnog druga',
+    title: 'Niyyah — Upoznavanje za brak za muslimane u BiH i dijaspori',
     description:
-      'Halal aplikacija za brak za muslimane: poruke tek na obostrani interes, mahrem može biti u razgovoru, a zajednica je moderirana. Besplatno.',
+      'Halal upoznavanje za brak za muslimane i muslimanke: poruke tek na obostrani interes, mahrem može biti u razgovoru, zajednica je moderirana. Besplatna registracija.',
     ogAlt: 'Niyyah: Brak, tražen s namjerom.',
   },
 
