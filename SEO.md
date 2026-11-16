@@ -26,10 +26,21 @@ kad se tamo nešto promijeni (cijene, izlazak u trgovine, opcija
 |---|---|---|---|---|
 | Ko je mahrem | ✓ | ✓ | ✓ | ✓ |
 | Da li je upoznavanje preko aplikacije halal | ✓ | ✓ | ✓ | ✓ |
-| Pitanja prije braka | ✓ | ✓ | ✓ | ✓ |
-| Nikah: uslovi, veli, svjedoci, mehr | ✓ | | | |
-| Kako tražiti bračnog druga u islamu | ✓ | | | |
-| Roditelji i traženje bračnog druga | ✓ | | | |
+| Pitanja prije braka (tr: i „evlilik görüşmesinde sorulacak sorular") | ✓ | ✓ | ✓ | ✓ |
+| Nikah: uslovi, veli, svjedoci, mehr | ✓ | ✓ | ✓ | ✓ |
+| Kako tražiti bračnog druga u islamu | ✓ | ✓ | ✓ | ✓ |
+| Roditelji i traženje bračnog druga | ✓ | ✓ | ✓ | ✓ |
+| Mehr: šta je, koliko i kada se daje | ✓ | ✓ | | |
+| Kako izabrati aplikaciju za brak | ✓ | ✓ | ✓ | |
+| Provjera profila | ✓ | ✓ | ✓ | |
+| Porodica i mahrem u aplikaciji | ✓ | ✓ | | |
+| Upoznavanje za brak u BiH i dijaspori | ✓ | | | |
+
+16.11.2026: dodani en/de/tr prijevodi nikaha, traženja i roditelja, de
+izbor aplikacije i provjera profila, mehr (bs, en), a turski članak s
+pitanjima pokriva i upite „evlilik yolunda / görüşmesinde sorulacak sorular"
+(Search Console: prikazi bez klikova). Turski nikah članak opisuje resmi i
+dini nikâh u Turskoj — to i hanefijski minimum mehra treba pročitati imam.
 
 Adrese: `/vodic`, `/en/guide`, `/de/ratgeber`, `/tr/rehber`. Landing ima
 sekciju „Vodič" prije FAQ-a, a podnožje link na vodič.

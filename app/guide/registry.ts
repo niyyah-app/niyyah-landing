@@ -161,14 +161,14 @@ export const articles: GuideArticle[] = [
     key: 'pitanja',
     locale: 'tr',
     slug: 'evlilik-oncesi-sorulacak-sorular',
-    title: 'Evlilik öncesi sorulacak sorular',
+    title: 'Evlilik öncesi ve görüşmede sorulacak sorular',
     description:
-      'Nikâhtan önce inanç, çocuk, taşınma, para ve aile hakkında sorulmaya değer sorular ve bunları sorguya çevirmeden nasıl soracağınız.',
+      'Evlilik görüşmesinde ve kız istemede sorulacak sorular; din, çocuk, taşınma, para ve aile hakkında evlilik yolunda konuşulması gerekenler.',
     published: '2026-10-06',
-    updated: '2026-10-06',
+    updated: '2026-11-16',
   },
 
-  // ── samo na bosanskom, zasad ─────────────────────────────
+  // ── nikah, traženje, roditelji, mehr ─────────────────────
   {
     key: 'nikah',
     locale: 'bs',
@@ -198,6 +198,119 @@ export const articles: GuideArticle[] = [
       'Za oca, majku i staratelja: kako biti uz kćerku ili sina dok traže bračnog druga, a da odluka ostane njihova.',
     published: '2026-10-06',
     updated: '2026-10-06',
+  },
+
+  {
+    key: 'nikah',
+    locale: 'tr',
+    slug: 'nikah-sartlari',
+    title: 'Nikâh şartları: veli, şahitler, mehir ve resmi nikâh',
+    description:
+      'Dini nikâhın geçerlilik şartları: icap ve kabul, Hanefî mezhebinde veli, iki şahit, mehir ve Türkiye’de resmi nikâh ile dini nikâhın sırası.',
+    published: '2026-11-16',
+    updated: '2026-11-16',
+  },
+  {
+    key: 'trazenje',
+    locale: 'tr',
+    slug: 'islamda-es-nasil-aranir',
+    title: 'İslam’da eş nasıl aranır, eş seçiminde nelere dikkat edilir',
+    description:
+      'Müstakbel eşte neye bakılır, hadisler din ve ahlak hakkında ne der, istihare namazı nasıl kılınır ve neden ilk adım niyettir.',
+    published: '2026-11-16',
+    updated: '2026-11-16',
+  },
+  {
+    key: 'roditelji',
+    locale: 'tr',
+    slug: 'aile-ve-es-secimi',
+    title: 'Aile ve eş seçimi: anne baba çocuğuna nasıl yardım eder',
+    description:
+      'Anne, baba ve veli için: kızınız ya da oğlunuz eş ararken yanında olmak, ama kararı onlara bırakmak. İslam’ın çizdiği çerçeve.',
+    published: '2026-11-16',
+    updated: '2026-11-16',
+  },
+
+  {
+    key: 'nikah',
+    locale: 'de',
+    slug: 'nikah-voraussetzungen',
+    title: 'Voraussetzungen der Nikah: Wali, Zeugen, Mahr und Standesamt',
+    description:
+      'Nikah Voraussetzungen: was eine islamische Ehe gültig macht, wer nach hanafitischer Schule Wali ist, wie viele Zeugen nötig sind und was die Mahr ist.',
+    published: '2026-11-16',
+    updated: '2026-11-16',
+  },
+  {
+    key: 'trazenje',
+    locale: 'de',
+    slug: 'ehepartner-finden-im-islam',
+    title: 'Ehepartner finden im Islam: Absicht, Charakter und Istichara',
+    description:
+      'Worauf man bei der muslimischen Partnersuche achtet, was Hadithe über Glauben und Charakter sagen, wie man Istichara betet und warum die Absicht zuerst kommt.',
+    published: '2026-11-16',
+    updated: '2026-11-16',
+  },
+  {
+    key: 'roditelji',
+    locale: 'de',
+    slug: 'eltern-und-partnersuche',
+    title: 'Eltern und Partnersuche: dem Kind beistehen, ohne zu entscheiden',
+    description:
+      'Für Vater, Mutter und Vormund: wie man Tochter oder Sohn bei der Suche nach einem Ehepartner begleitet, während die Entscheidung bei ihnen bleibt.',
+    published: '2026-11-16',
+    updated: '2026-11-16',
+  },
+
+  {
+    key: 'nikah',
+    locale: 'en',
+    slug: 'nikah-conditions',
+    title: 'Conditions of nikah in Islam: wali, witnesses and mahr',
+    description:
+      'What makes a nikah valid: offer and acceptance, consent, two witnesses, the wali in the Hanafi and other schools, mahr, and the wedding order in Bosnia.',
+    published: '2026-11-16',
+    updated: '2026-11-16',
+  },
+  {
+    key: 'trazenje',
+    locale: 'en',
+    slug: 'how-to-find-a-spouse-in-islam',
+    title: 'How to find a spouse in Islam: intention, character, istikhara',
+    description:
+      'What to look for in a future spouse, what the hadith say about faith and character, how to pray istikhara, and why intention comes first.',
+    published: '2026-11-16',
+    updated: '2026-11-16',
+  },
+  {
+    key: 'roditelji',
+    locale: 'en',
+    slug: 'parents-and-finding-a-spouse',
+    title: 'The role of parents in finding a spouse in Islam',
+    description:
+      'For fathers, mothers and guardians: how to stand beside a daughter or son looking for a spouse, while the decision stays theirs.',
+    published: '2026-11-16',
+    updated: '2026-11-16',
+  },
+  {
+    key: 'mehr',
+    locale: 'bs',
+    slug: 'mehr',
+    title: 'Mehr u islamu: šta je, koliko je i kada se daje',
+    description:
+      'Šta je mehr po Kur\'anu i sunnetu, kome pripada, mehr muadždžel i muedždžel, hanefijski minimum, umjerenost i kako se mehr imenuje pri nikahu.',
+    published: '2026-11-16',
+    updated: '2026-11-16',
+  },
+  {
+    key: 'mehr',
+    locale: 'en',
+    slug: 'mahr',
+    title: 'Mahr in Islam: what it is, how much, and when it is given',
+    description:
+      'What mahr is in the Qur\'an and Sunnah, who it belongs to, prompt and deferred mahr, the Hanafi minimum, moderation, and how it is named at the nikah.',
+    published: '2026-11-16',
+    updated: '2026-11-16',
   },
 
   // ── kako aplikacija radi ─────────────────────────────────
@@ -276,6 +389,28 @@ export const articles: GuideArticle[] = [
       'What to look for in a Muslim marriage app: who can message you, whether family can be involved, verification, photo privacy, reports, pricing and your data.',
     published: '2026-11-04',
     updated: '2026-11-04',
+    aboutApp: true,
+  },
+  {
+    key: 'izbor',
+    locale: 'de',
+    slug: 'muslimische-heirats-app-auswaehlen',
+    title: 'Muslimische Heirats-App auswählen: zehn Dinge zum Prüfen',
+    description:
+      'Worauf du bei einer muslimischen Heirats-App achten solltest: wer dir schreibt, Familie im Gespräch, Profilprüfung, Fotos, Meldungen, Preise und Daten.',
+    published: '2026-11-16',
+    updated: '2026-11-16',
+    aboutApp: true,
+  },
+  {
+    key: 'provjera',
+    locale: 'de',
+    slug: 'profilpruefung',
+    title: 'Profilprüfung: wie Niyyah prüft, ob ein Mitglied echt ist',
+    description:
+      'Was bei der Anmeldung in Niyyah geprüft wird: ein Selfie von drei Sekunden, der Vergleich mit den Fotos, was „verifiziert" bedeutet und wer deine Fotos sieht.',
+    published: '2026-11-16',
+    updated: '2026-11-16',
     aboutApp: true,
   },
 ]

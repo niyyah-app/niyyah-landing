@@ -1,10 +1,38 @@
 Birçok evlilik büyük ve beklenmedik bir şey yüzünden değil, nikâhtan önce konuşulabilecekken konuşulmamış bir şey yüzünden dağılır. Nerede yaşayacağız. Çocuk istiyor muyuz, ne zaman. Namaz kılmak ne demek ve ikimiz için aynı şeyi mi ifade ediyor. Bu sorular romantizmi bozmaz. „Evet" derken kime dediğini bilmenin yoludur.
 
+Bu yazı, evlilik yolunda sorulacak soruları konu konu toplar: ilk görüşmede neler konuşulur, kız isteme öncesinde ve sonrasında neler netleşmeli, ve evlilikte sonradan en çok sorun çıkaran konular hangileridir.
+
 ## Neden erken sormalı
 
 Peygamber Efendimiz (s.a.v.) evlenmeden önce müstakbel eşin görülmesini, „çünkü bu, aranızda sevginin oluşmasına daha uygundur" diyerek tavsiye etmiştir (Tirmizî, Nesâî). İslam'da evlilik öncesi tanışma bir formalite değildir; amacı, bu kişiyle bir hayat kurulup kurulamayacağını anlamaktır.
 
 Sorular ne kadar erken sorulursa, o kadar az zaman kaybedilir ve o kadar az insan incinir. Temel bir konuda anlaşamıyorsanız, bunu üç ay yazışıp aileler tanıştıktan sonra değil, ilk haftada öğrenmek daha iyidir.
+
+## Evlilik görüşmesinde sorulacak sorular
+
+Görücü usulüyle de, bir tanıdık aracılığıyla da, bir uygulamada tanışarak da olsa, ciddi konuşmalar genellikle ilk görüşmede başlar. İlk görüşme bir sınav değildir; amaç, ikinci bir görüşmeye değip değmeyeceğini anlamaktır. Bu yüzden ilk seferde her şeyi sormaya çalışma. Şunlar iyi bir başlangıçtır:
+
+- Neden şimdi evlenmek istiyorsun ve evlilikten ne bekliyorsun?
+- Senin için iyi bir eş nasıl biridir?
+- Günün nasıl geçiyor: iş, okul, aile, boş vakit?
+- Din hayatında nerede duruyor?
+- Evlilik için kendine bir zaman düşündün mü?
+- Ailen bu görüşmeden haberdar mı?
+
+İkinci ve üçüncü görüşmede aşağıdaki başlıklara geçilir: din, çocuklar, nerede yaşanacağı, para ve aile. İlk görüşmenin sorularına verilen cevaplar, hangi konunun daha derin konuşulması gerektiğini çoğu zaman kendiliğinden gösterir.
+
+### Kız isteme öncesi ve sonrası
+
+Kız isteme, iki ailenin tanıştığı ve niyetin resmîleştiği gündür. O gün sorulan sorular çoğunlukla ailelere aittir: iş, nerede oturulacağı, düğünün ve nikâhın ne zaman olacağı. Ama bu, iki kişinin kendi aralarında konuşması gerekenleri konuşmak için doğru gün değildir. Çocuk, taşınma, din ve para gibi temel konular kız istemeden önce netleşmiş olmalı. Aksi hâlde aileler söz verdikten sonra geri adım atmak herkes için çok daha zor olur.
+
+Kız istemeden sonra, söz ve nişan döneminde konuşmaya değer konular:
+
+- Nikâh ne zaman, nasıl ve kimlerle kıyılacak?
+- Düğün ve masraflar konusunda iki ailenin beklentisi ne?
+- Mehir ne olacak? (Bkz. [Nikâh şartları](/tr/rehber/nikah-sartlari).)
+- Evlendikten sonra ilk yıl nerede ve nasıl yaşanacak?
+
+Aşağıdaki sorular, evlilikte sonradan en çok sorulan, yani en çok tartışmaya yol açan konulardır. Hepsini nikâhtan önce sormak gerekmez; ama senin için önemli olanları sormadan „evet" deme.
 
 ## Din
 

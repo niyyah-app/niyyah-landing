@@ -32,7 +32,7 @@ Mehr je vjenčani dar koji muž daje ženi. On pripada njoj, ne njenoj porodici,
 - **Dio se može dati odmah, a dio odgoditi.** Odgođeni dio ostaje dug koji muž duguje.
 - **Ne treba ga pretjerivati.** Visina mehra nije mjera vrijednosti braka, a pretjeran mehr lako postane teret umjesto dara.
 
-O mehru je dobro razgovarati na vrijeme, mirno i iskreno, ne u zadnji čas pred imamom. Pomaže i tekst [Pitanja prije braka](/vodic/pitanja-prije-braka).
+O mehru je dobro razgovarati na vrijeme, mirno i iskreno, ne u zadnji čas pred imamom. Pomaže i tekst [Pitanja prije braka](/vodic/pitanja-prije-braka), a sve o mehru, od hanefijskog minimuma do mehra koji se daje kasnije, je u članku [Mehr u islamu](/vodic/mehr).
 
 ## Šta je sunnet
 
