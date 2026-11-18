@@ -35,12 +35,22 @@ kad se tamo nešto promijeni (cijene, izlazak u trgovine, opcija
 | Provjera profila | ✓ | ✓ | ✓ | |
 | Porodica i mahrem u aplikaciji | ✓ | ✓ | | |
 | Upoznavanje za brak u BiH i dijaspori | ✓ | | | |
+| Prvi susret prije braka | ✓ | | | |
+| Dopisivanje prije braka | ✓ | | | |
+| Brak nakon razvoda | ✓ | | | |
+| Lažni profili i prevare | ✓ | | | |
+| Kako napisati profil za brak | ✓ | | | |
+| Upoznavanje muslimana u Njemačkoj i Austriji | ✓ | | | |
 
 16.11.2026: dodani en/de/tr prijevodi nikaha, traženja i roditelja, de
 izbor aplikacije i provjera profila, mehr (bs, en), a turski članak s
 pitanjima pokriva i upite „evlilik yolunda / görüşmesinde sorulacak sorular"
 (Search Console: prikazi bez klikova). Turski nikah članak opisuje resmi i
 dini nikâh u Turskoj — to i hanefijski minimum mehra treba pročitati imam.
+
+18.11.2026: šest novih bosanskih članaka (prvi susret, dopisivanje, brak
+nakon razvoda, lažni profili, profil za brak, dijaspora u Njemačkoj i
+Austriji). Prva tri su vjerska i trebaju čitanje imama.
 
 Adrese: `/vodic`, `/en/guide`, `/de/ratgeber`, `/tr/rehber`. Landing ima
 sekciju „Vodič" prije FAQ-a, a podnožje link na vodič.

@@ -413,6 +413,70 @@ export const articles: GuideArticle[] = [
     updated: '2026-11-16',
     aboutApp: true,
   },
+  // ── bs, 18.11.2026 (vlasnik: „napravi članke na bosanskom") ──
+  {
+    key: 'prvi-susret',
+    locale: 'bs',
+    slug: 'prvi-susret-prije-braka',
+    title: 'Prvi susret prije braka: kako ga urediti uz porodicu i u granicama',
+    description:
+      'Prvi susret prije braka u islamu: zašto je viđanje sunnet, kako ga urediti uz mahrema i bez osamljivanja, šta dogovoriti, pitati i gledati.',
+    published: '2026-11-18',
+    updated: '2026-11-18',
+  },
+  {
+    key: 'dopisivanje',
+    locale: 'bs',
+    slug: 'dopisivanje-prije-braka',
+    title: 'Dopisivanje prije braka: šta je halal i gdje je granica',
+    description:
+      'Dopisivanje prije braka i halal granice: svrha braka, pristojan ton, bez udvaranja, porodica uz tebe, i kako od poruka doći do susreta porodica.',
+    published: '2026-11-18',
+    updated: '2026-11-18',
+  },
+  {
+    key: 'nakon-razvoda',
+    locale: 'bs',
+    slug: 'brak-nakon-razvoda',
+    title: 'Brak nakon razvoda u islamu: bez stida, s iskrenošću i porodicom',
+    description:
+      "Brak nakon razvoda u islamu: primjeri iz sire, iddet prema Kur'anu, djeca iz prethodnog braka, kada reći budućem supružniku i kako uključiti porodicu.",
+    published: '2026-11-18',
+    updated: '2026-11-18',
+  },
+  {
+    key: 'prevare',
+    locale: 'bs',
+    slug: 'lazni-profili-i-prevare',
+    title: 'Lažni profili i prevare pri upoznavanju: kako prepoznati prevaranta',
+    description:
+      'Kako prepoznati lažni profil i prevaru pri upoznavanju preko interneta: traženje novca, žurba, bijeg od videa i porodice. Šta nikad ne slati i šta uraditi.',
+    published: '2026-11-18',
+    updated: '2026-11-18',
+    aboutApp: true,
+  },
+  {
+    key: 'profil',
+    locale: 'bs',
+    slug: 'kako-napisati-profil-za-brak',
+    title: 'Kako napisati profil za brak: šta napisati o sebi i šta izbjegavati',
+    description:
+      'Kako napisati profil za brak: iskrene slike, kratak opis, jasno o namazu, djeci, selidbi i prethodnom braku. Šta napisati o sebi, a šta izbjeći u opisu.',
+    published: '2026-11-18',
+    updated: '2026-11-18',
+    aboutApp: true,
+  },
+  {
+    key: 'dijaspora',
+    locale: 'bs',
+    slug: 'upoznavanje-muslimana-u-njemackoj-i-austriji',
+    title: 'Upoznavanje muslimana u Njemačkoj i Austriji: brak u dijaspori',
+    description:
+      'Upoznavanje za brak za Bošnjake u Njemačkoj, Austriji i Švicarskoj: gdje tražiti, šta pitati prije braka, nikah i građanski brak, i kako uključiti porodicu.',
+    published: '2026-11-18',
+    updated: '2026-11-18',
+    aboutApp: true,
+  },
 ]
 
 export function articlesIn(locale: string) {
