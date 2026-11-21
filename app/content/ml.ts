@@ -438,6 +438,10 @@ export const ml: Copy = {
     disclosure: 'Opinions of real Niyyah members. A member receives 50 coins for writing an opinion, whatever the rating.',
     rating: 'Rating: {n} out of 5',
     photoAlt: 'Blurred photo of the member',
+    prev: 'മുമ്പത്തേത്',
+    next: 'അടുത്തത്',
+    more: 'കൂടുതൽ വായിക്കുക',
+    less: 'കുറച്ച് കാണിക്കുക',
   },
 
   footer: {

@@ -438,6 +438,10 @@ export const jv: Copy = {
     disclosure: 'Opinions of real Niyyah members. A member receives 50 coins for writing an opinion, whatever the rating.',
     rating: 'Rating: {n} out of 5',
     photoAlt: 'Blurred photo of the member',
+    prev: 'Sadurungé',
+    next: 'Sabanjuré',
+    more: 'Waca liyane',
+    less: 'Tampilaké luwih sithik',
   },
 
   footer: {

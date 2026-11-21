@@ -438,6 +438,10 @@ export const bs = {
     disclosure: 'Mišljenja pravih članova Niyyah. Za napisano mišljenje član dobija 50 coinsa, bez obzira na ocjenu.',
     rating: 'Ocjena: {n} od 5',
     photoAlt: 'Zamućena slika člana',
+    prev: 'Prethodno mišljenje',
+    next: 'Sljedeće mišljenje',
+    more: 'Pročitaj više',
+    less: 'Prikaži manje',
   },
 
   footer: {

@@ -438,6 +438,10 @@ export const sq: Copy = {
     disclosure: 'Mendime të anëtarëve të vërtetë të Niyyah. Për një mendim të shkruar anëtari merr 50 coins, pavarësisht vlerësimit.',
     rating: 'Vlerësimi: {n} nga 5',
     photoAlt: 'Foto e turbullt e anëtarit',
+    prev: 'E mëparshmja',
+    next: 'Tjetra',
+    more: 'Lexo më shumë',
+    less: 'Shfaq më pak',
   },
 
   footer: {

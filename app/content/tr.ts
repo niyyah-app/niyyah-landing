@@ -437,6 +437,10 @@ export const tr: Copy = {
     disclosure: 'Gerçek Niyyah üyelerinin görüşleri. Görüş yazan üye, verdiği puandan bağımsız olarak 50 coin alır.',
     rating: 'Puan: 5 üzerinden {n}',
     photoAlt: 'Üyenin bulanık fotoğrafı',
+    prev: 'Önceki',
+    next: 'Sonraki',
+    more: 'Devamını oku',
+    less: 'Daha az göster',
   },
 
   footer: {

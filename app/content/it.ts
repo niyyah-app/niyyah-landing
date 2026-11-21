@@ -438,6 +438,10 @@ export const it: Copy = {
     disclosure: 'Opinioni di veri membri di Niyyah. Per un’opinione scritta il membro riceve 50 coin, qualunque sia il voto.',
     rating: 'Voto: {n} su 5',
     photoAlt: 'Foto sfocata del membro',
+    prev: 'Precedente',
+    next: 'Successivo',
+    more: 'Leggi di più',
+    less: 'Mostra meno',
   },
 
   footer: {

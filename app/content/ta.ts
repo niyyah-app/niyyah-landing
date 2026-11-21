@@ -438,6 +438,10 @@ export const ta: Copy = {
     disclosure: 'Opinions of real Niyyah members. A member receives 50 coins for writing an opinion, whatever the rating.',
     rating: 'Rating: {n} out of 5',
     photoAlt: 'Blurred photo of the member',
+    prev: 'முந்தைய',
+    next: 'அடுத்த',
+    more: 'மேலும் படிக்க',
+    less: 'குறைவாகக் காட்டு',
   },
 
   footer: {

@@ -437,6 +437,10 @@ export const id: Copy = {
     disclosure: 'Pendapat anggota Niyyah yang sebenarnya. Anggota mendapat 50 koin untuk pendapat yang ditulis, apa pun nilainya.',
     rating: 'Nilai: {n} dari 5',
     photoAlt: 'Foto anggota yang diburamkan',
+    prev: 'Sebelumnya',
+    next: 'Berikutnya',
+    more: 'Baca selengkapnya',
+    less: 'Tampilkan lebih sedikit',
   },
 
   footer: {

@@ -437,6 +437,10 @@ export const ms: Copy = {
     disclosure: 'Pendapat ahli Niyyah yang sebenar. Ahli menerima 50 coin kerana menulis pendapat, apa pun penilaiannya.',
     rating: 'Penilaian: {n} daripada 5',
     photoAlt: 'Foto ahli yang dikaburkan',
+    prev: 'Sebelumnya',
+    next: 'Seterusnya',
+    more: 'Baca lagi',
+    less: 'Tunjuk kurang',
   },
 
   footer: {

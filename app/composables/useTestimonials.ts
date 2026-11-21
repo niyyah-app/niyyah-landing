@@ -16,8 +16,12 @@ export interface Testimonial {
   date: string | null
 }
 
-/** Koliko najviše kartica stoji na stranici. */
-const LIMIT = 6
+/**
+ * Koliko najviše kartica stoji na stranici. Sva odobrena mišljenja idu u
+ * karusel (vlasnik, 21.11.2026: „make sure da su svi prikazani"); granica
+ * je samo osigurač, server ionako šalje ograničen spisak.
+ */
+const LIMIT = 100
 
 export function useTestimonials() {
   const { testimonialsEndpoint } = useRuntimeConfig().public

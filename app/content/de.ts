@@ -437,6 +437,10 @@ export const de: Copy = {
     disclosure: 'Meinungen echter Niyyah-Mitglieder. Für eine geschriebene Meinung erhält ein Mitglied 50 Coins, unabhängig von der Bewertung.',
     rating: 'Bewertung: {n} von 5',
     photoAlt: 'Unscharfes Foto des Mitglieds',
+    prev: 'Vorherige Meinung',
+    next: 'Nächste Meinung',
+    more: 'Weiterlesen',
+    less: 'Weniger anzeigen',
   },
 
   footer: {

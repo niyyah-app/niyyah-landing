@@ -438,6 +438,10 @@ export const sv: Copy = {
     disclosure: 'Åsikter från riktiga Niyyah-medlemmar. En medlem får 50 coins för en skriven åsikt, oavsett betyg.',
     rating: 'Betyg: {n} av 5',
     photoAlt: 'Suddigt foto av medlemmen',
+    prev: 'Föregående',
+    next: 'Nästa',
+    more: 'Läs mer',
+    less: 'Visa mindre',
   },
 
   footer: {

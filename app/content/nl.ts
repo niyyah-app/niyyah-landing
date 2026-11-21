@@ -438,6 +438,10 @@ export const nl: Copy = {
     disclosure: 'Meningen van echte Niyyah-leden. Voor een geschreven mening krijgt een lid 50 coins, ongeacht de beoordeling.',
     rating: 'Beoordeling: {n} van 5',
     photoAlt: 'Onscherpe foto van het lid',
+    prev: 'Vorige',
+    next: 'Volgende',
+    more: 'Lees meer',
+    less: 'Minder tonen',
   },
 
   footer: {

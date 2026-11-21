@@ -438,6 +438,10 @@ export const az: Copy = {
     disclosure: 'Niyyah-ın real üzvlərinin fikirləri. Yazılmış fikir üçün üzv, verdiyi qiymətdən asılı olmayaraq, 50 coin alır.',
     rating: 'Qiymət: 5-dən {n}',
     photoAlt: 'Üzvün bulanıq şəkli',
+    prev: 'Əvvəlki',
+    next: 'Növbəti',
+    more: 'Daha çox oxu',
+    less: 'Daha az göstər',
   },
 
   footer: {

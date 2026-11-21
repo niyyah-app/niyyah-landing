@@ -438,6 +438,10 @@ export const gu: Copy = {
     disclosure: 'Opinions of real Niyyah members. A member receives 50 coins for writing an opinion, whatever the rating.',
     rating: 'Rating: {n} out of 5',
     photoAlt: 'Blurred photo of the member',
+    prev: 'પાછલું',
+    next: 'આગળનું',
+    more: 'વધુ વાંચો',
+    less: 'ઓછું બતાવો',
   },
 
   footer: {

@@ -437,6 +437,10 @@ export const fr: Copy = {
     disclosure: 'Avis de vrais membres de Niyyah. Un membre reçoit 50 coins pour avoir écrit un avis, quelle que soit sa note.',
     rating: 'Note : {n} sur 5',
     photoAlt: 'Photo floutée du membre',
+    prev: 'Précédent',
+    next: 'Suivant',
+    more: 'Lire la suite',
+    less: 'Voir moins',
   },
 
   footer: {

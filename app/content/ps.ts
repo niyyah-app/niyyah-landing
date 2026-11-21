@@ -438,6 +438,10 @@ export const ps: Copy = {
     disclosure: 'Opinions of real Niyyah members. A member receives 50 coins for writing an opinion, whatever the rating.',
     rating: 'Rating: {n} out of 5',
     photoAlt: 'Blurred photo of the member',
+    prev: 'مخکینی',
+    next: 'بل',
+    more: 'نور ولولئ',
+    less: 'لږ وښایاست',
   },
 
   footer: {
