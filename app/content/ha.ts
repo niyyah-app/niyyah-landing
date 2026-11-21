@@ -4,7 +4,7 @@ export const ha: Copy = {
   meta: {
     title: 'Niyyah — Manhajar halal don neman abokin aure',
     description:
-      'Niyyah manhaja ce ga Musulmin da ke neman aure. Saƙonni na buɗewa ne kawai idan bangarorin biyu suna sha’awa, mahram na iya kasancewa cikin tattaunawa, kuma masu kula suna duba al’umma. Kyauta, cikin harsuna tara.',
+      'Niyyah manhaja ce ga Musulmin da ke neman aure. Tattaunawa na buɗewa ne kawai idan bangarorin biyu suna sha’awa, mahram na iya kasancewa cikin tattaunawa, kuma masu kula suna duba al’umma. Kyauta, cikin harsuna tara.',
     ogAlt: 'Niyyah: Aure, da ake nema da niyya.',
   },
 
@@ -52,7 +52,7 @@ export const ha: Copy = {
     countdownUnits: ['kwanaki', 'awanni', 'mintuna', 'daƙiƙoƙi'],
     title: 'Aure, da ake nema da niyya.',
     lead:
-      'Niyyah manhaja ce ga Musulmin da suke neman abokin aure da gaske. Saƙonni na buɗewa ne kawai idan bangarorin biyu suna sha’awa, mahram na iya kasancewa cikin tattaunawa, kuma manhajar ce ke riƙe iyakoki — ba kai ba.',
+      'Niyyah manhaja ce ga Musulmin da suke neman abokin aure da gaske. Tattaunawa na buɗewa ne kawai idan bangarorin biyu suna sha’awa; tare da so kana iya aika gajeren saƙo ɗaya. Mahram na iya kasancewa cikin tattaunawa, kuma manhajar ce ke riƙe iyakoki — ba kai ba.',
     secondary: 'Yadda mahram yake aiki',
     micro: 'Kyauta. Manhajar tana cikin harsuna tara.',
     imageAlt: 'Katin bayanin martaba a Niyyah: sallah, mazhaba, shirye-shiryen aure da kaso na daidaito.',
@@ -109,7 +109,7 @@ export const ha: Copy = {
       {
         word: 'Iyakoki',
         title: 'Halal tun daga ƙira',
-        body: 'Jinsi na daban kaɗai. Saƙonni kawai idan bangarorin biyu suna sha’awa. Al’ummar da masu kula ke duba ta. Manhajar ce ke riƙe iyakoki, ba sai ka tsare su ba.',
+        body: 'Jinsi na daban kaɗai. Tattaunawa kawai idan bangarorin biyu suna sha’awa, gajeren saƙo ɗaya tare da so. Al’ummar da masu kula ke duba ta. Manhajar ce ke riƙe iyakoki, ba sai ka tsare su ba.',
       },
     ],
   },
@@ -165,7 +165,7 @@ export const ha: Copy = {
       },
       {
         title: 'Sha’awar bangarorin biyu ta buɗe tattaunawa',
-        body: 'Har sai ku duka kun so juna, tattaunawar tana kullewa. Tare da tambayoyinka kafin saƙon farko.',
+        body: 'Har sai ku duka kun so juna, tattaunawar tana kullewa; tare da so kana iya aika gajeren saƙo ɗaya. Da kuma tambayoyi kafin tattaunawa.',
       },
       { title: 'Iyali suna tare da kai', body: 'Mahram cikin tattaunawa, duk lokacin da kake so.' },
     ],
@@ -359,7 +359,7 @@ export const ha: Copy = {
     items: [
       {
         q: 'Me ya bambanta Niyyah da sauran manhajojin neman soyayya?',
-        a: 'An gina Niyyah don aure, ba don gungurawa ba. Bincike yana nuna jinsi na daban kaɗai, saƙonni suna buɗewa ne kawai idan ku duka kun so juna, kuma ’yar’uwa na iya shigar da mahram cikin tattaunawarta. Bayanin martaba yana ɗauke da abin da ke da muhimmanci kafin aure: sallah, mazhaba, shirye-shiryen aure, yara da ƙaura.',
+        a: 'An gina Niyyah don aure, ba don gungurawa ba. Bincike yana nuna jinsi na daban kaɗai, tattaunawa tana buɗewa ne kawai idan ku duka kun so juna (kafin haka, gajeren saƙo ɗaya kawai tare da so, wanda ake amsawa ne kawai ta hanyar mayar da so), kuma ’yar’uwa na iya shigar da mahram cikin tattaunawarta. Bayanin martaba yana ɗauke da abin da ke da muhimmanci kafin aure: sallah, mazhaba, shirye-shiryen aure, yara da ƙaura.',
       },
       {
         q: 'Menene mahram kuma yaya zan ƙara shi?',
@@ -367,7 +367,7 @@ export const ha: Copy = {
       },
       {
         q: 'Shin Niyyah halal ce?',
-        a: 'Ba ma ba da fatawa kuma ba ma da’awar cewa wata hukuma ta amince da mu. Abin da za mu iya nunawa shi ne iyakokin da aka gina a cikin manhajar: kana ganin jinsi na daban kaɗai, tattaunawa tana buɗewa ne kawai idan bangarorin biyu suna sha’awa, mahram na iya karanta tattaunawa, kuma masu kula suna duba al’umma. Da wace niyya kake amfani da ita, naka ne. Idan kana shakka, ka tambayi malamin da ka amince da shi.',
+        a: 'Ba ma ba da fatawa kuma ba ma da’awar cewa wata hukuma ta amince da mu. Abin da za mu iya nunawa shi ne iyakokin da aka gina a cikin manhajar: kana ganin jinsi na daban kaɗai, tattaunawa tana buɗewa ne kawai idan bangarorin biyu suna sha’awa (kafin haka, gajeren saƙo ɗaya kawai tare da so), mahram na iya karanta tattaunawa, kuma masu kula suna duba al’umma. Da wace niyya kake amfani da ita, naka ne. Idan kana shakka, ka tambayi malamin da ka amince da shi.',
       },
       {
         q: 'Menene tambayoyi kafin tattaunawa?',

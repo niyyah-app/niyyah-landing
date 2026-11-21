@@ -42,7 +42,7 @@ Bir uygulama evliliğe hizmet edecekse, sınırları kişinin o gün kendini ne 
 Niyyah bu beş nokta etrafında kurulmuştur ve bunlar birinin kapatabileceği ayarlar değildir:
 
 - **Keşfet sadece karşı cinsi gösterir.** Bu bir filtre değil, sunucu kuralıdır.
-- **Mesajlar ancak karşılıklı ilgiyle açılır.** İkiniz de birbirinizi beğenene kadar sohbet kilitlidir. Keşfet'ten kısa bir tanışma mesajı gönderebilirsin, ama bekler ve ancak eşleştiğinizde ulaşır.
+- **Sohbet ancak karşılıklı ilgiyle açılır.** İkiniz de birbirinizi beğenene kadar sohbet kilitlidir. Beğeniyle birlikte kısa bir mesaj gönderebilirsin; karşı taraf onu okuyabilir ve yalnızca geri beğenerek cevap verebilir. Telefon numarası, kullanıcı adı veya bağlantı içeren mesaj kabul edilmez; yeni insanlarla yalnızca mahremiyle konuşan bir kız kardeşe bu mesajlar hiç ulaşmaz.
 - **Sohbette mahrem.** Bir kız kardeş en çok üç kişiyi — babasını, kardeşini, amcasını, dayısını ya da velisini — davet edebilir; onlar sohbetlerini Mahrem portalında görür ama yazamaz.
 - **Sohbetten önce sorular.** En çok üç sorunu belirlersin; eşleşmeden sonra karşı taraf önce onları cevaplar, sen de sohbetin açılıp açılmayacağına karar verirsin. Daha fazlası için [Evlilik öncesi sorulacak sorular](/tr/rehber/evlilik-oncesi-sorulacak-sorular).
 - **Denetlenen bir topluluk.** Şikâyetleri gerçek moderatörler okur, topluluk gönderileri görünmeden önce incelenir ve engelleme iki yönlü işler.

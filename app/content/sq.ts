@@ -4,7 +4,7 @@ export const sq: Copy = {
   meta: {
     title: 'Niyyah — Aplikacioni hallall për të gjetur bashkëshortin',
     description:
-      'Niyyah është një aplikacion për muslimanët që kërkojnë martesë. Mesazhet hapen vetëm me interes të dyanshëm, mahremi mund të jetë në bisedë, dhe komuniteti moderohet. Falas, në nëntë gjuhë.',
+      'Niyyah është një aplikacion për muslimanët që kërkojnë martesë. Biseda hapet vetëm me interes të dyanshëm, mahremi mund të jetë në bisedë, dhe komuniteti moderohet. Falas, në nëntë gjuhë.',
     ogAlt: 'Niyyah: Martesa, e kërkuar me nijet.',
   },
 
@@ -52,7 +52,7 @@ export const sq: Copy = {
     countdownUnits: ['ditë', 'orë', 'minuta', 'sekonda'],
     title: 'Martesa, e kërkuar me nijet.',
     lead:
-      'Niyyah është një aplikacion për muslimanët që kërkojnë seriozisht bashkëshort. Mesazhet hapen vetëm me interes të dyanshëm, mahremi mund të jetë në bisedë, dhe kufijtë i mban aplikacioni, jo ti.',
+      'Niyyah është një aplikacion për muslimanët që kërkojnë seriozisht bashkëshort. Biseda hapet vetëm me interes të dyanshëm; me një pëlqim mund të dërgosh një mesazh të shkurtër. Mahremi mund të jetë në bisedë, dhe kufijtë i mban aplikacioni, jo ti.',
     secondary: 'Si funksionon mahremi',
     micro: 'Falas. Aplikacioni është në nëntë gjuhë.',
     imageAlt: 'Një kartë profili në Niyyah: namazi, medhhebi, planet për martesë dhe përqindja e përputhjes.',
@@ -109,7 +109,7 @@ export const sq: Copy = {
       {
         word: 'Kufijtë',
         title: 'Hallall nga ndërtimi',
-        body: 'Vetëm gjinia e kundërt. Mesazhe vetëm me interes të dyanshëm. Një komunitet që e shohin moderatorët. Kufijtë i mban aplikacioni, nuk ke pse t’i ruash ti.',
+        body: 'Vetëm gjinia e kundërt. Bisedë vetëm me interes të dyanshëm, një mesazh i shkurtër me pëlqim. Një komunitet që e shohin moderatorët. Kufijtë i mban aplikacioni, nuk ke pse t’i ruash ti.',
       },
     ],
   },
@@ -165,7 +165,7 @@ export const sq: Copy = {
       },
       {
         title: 'Interesi i dyanshëm hap bisedën',
-        body: 'Derisa të pëlqeni njëri-tjetrin, biseda mbetet e kyçur. Me pyetjet e tua para mesazhit të parë.',
+        body: 'Derisa të pëlqeni njëri-tjetrin, biseda mbetet e kyçur; me një pëlqim mund të dërgosh një mesazh të shkurtër. Plus pyetjet e tua para bisedës.',
       },
       { title: 'Familja është me ty', body: 'Mahrem në bisedë, kurdo që dëshiron.' },
     ],
@@ -360,7 +360,7 @@ export const sq: Copy = {
     items: [
       {
         q: 'Në çfarë dallon Niyyah nga aplikacionet e tjera të njohjeve?',
-        a: 'Niyyah është ndërtuar për martesë, jo për rrëshqitje. Zbulo shfaq vetëm gjininë e kundërt, mesazhet hapen vetëm kur të dy e pëlqeni njëri-tjetrin, dhe një motër mund të fusë mahremin në bisedat e saj. Profili mban atë që ka vlerë para nikahut: namazin, medhhebin, planet për martesë, fëmijët dhe zhvendosjen.',
+        a: 'Niyyah është ndërtuar për martesë, jo për rrëshqitje. Zbulo shfaq vetëm gjininë e kundërt, biseda hapet vetëm kur të dy e pëlqeni njëri-tjetrin (para kësaj, vetëm një mesazh i shkurtër me pëlqim, të cilit i përgjigjesh vetëm duke pëlqyer edhe ti), dhe një motër mund të fusë mahremin në bisedat e saj. Profili mban atë që ka vlerë para nikahut: namazin, medhhebin, planet për martesë, fëmijët dhe zhvendosjen.',
       },
       {
         q: 'Çfarë është mahremi dhe si e shtoj?',
@@ -368,7 +368,7 @@ export const sq: Copy = {
       },
       {
         q: 'A është Niyyah hallall?',
-        a: 'Nuk nxjerrim fetva dhe nuk pretendojmë miratim nga ndonjë institucion. Çfarë mund të tregojmë janë kufijtë e ndërtuar në aplikacion: shikon vetëm gjininë e kundërt, biseda hapet vetëm me interes të dyanshëm, mahremi mund të lexojë bisedat, dhe komunitetin e shohin moderatorët. Me çfarë nijeti e përdor, mbetet në ty. Nëse ke dyshim, pyet një imam që i besohet.',
+        a: 'Nuk nxjerrim fetva dhe nuk pretendojmë miratim nga ndonjë institucion. Çfarë mund të tregojmë janë kufijtë e ndërtuar në aplikacion: shikon vetëm gjininë e kundërt, biseda hapet vetëm me interes të dyanshëm (para kësaj, vetëm një mesazh i shkurtër me pëlqim), mahremi mund të lexojë bisedat, dhe komunitetin e shohin moderatorët. Me çfarë nijeti e përdor, mbetet në ty. Nëse ke dyshim, pyet një imam që i besohet.',
       },
       {
         q: 'Çfarë janë pyetjet para bisedës?',

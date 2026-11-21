@@ -42,7 +42,7 @@ If an app is meant to serve marriage, its limits should not depend on how strong
 Niyyah is built around those five points, and they are not settings someone can switch off:
 
 - **Discover shows only the opposite gender.** That is a server rule, not a filter.
-- **Messages open only on mutual interest.** Until you both like each other, the conversation is locked. From Discover you can send one short introductory message, but it waits and is delivered only once you match.
+- **The chat opens only on mutual interest.** Until you both like each other, the conversation is locked. With a like you can send one short message; the other person can read it and reply only by liking you back. A message with a phone number, a username or a link is refused, and a sister who talks to new people only with her mahram does not receive these messages at all.
 - **A mahram in the conversation.** A sister can invite up to three people — her father, brother, uncle or guardian — who see her conversations in the Mahram portal but cannot write.
 - **Questions before chatting.** You set up to three questions of your own; after a match, the other person answers them first, and you decide whether the conversation opens. More in [Questions to ask before marriage](/en/guide/questions-to-ask-before-marriage).
 - **A moderated community.** Reports are read by real moderators, community posts are reviewed before they appear, and blocking works both ways.

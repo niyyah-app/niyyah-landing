@@ -1,6 +1,6 @@
 # Niyyah
 
-> Niyyah is a mobile app for Muslims who are looking for a spouse, built around Islamic limits: only the opposite gender, messages open only on mutual interest, an optional mahram (family member) in the conversation, and a moderated community. Made in Bosnia and Herzegovina; operated by Puzzles IT OÜ (Estonia). Tagline: "Brak, tražen s namjerom." (Marriage, sought with intention.)
+> Niyyah is a mobile app for Muslims who are looking for a spouse, built around Islamic limits: only the opposite gender, a conversation that opens only on mutual interest (before that, at most one short message with a like), an optional mahram (family member) in the conversation, and a moderated community. Made in Bosnia and Herzegovina; operated by Puzzles IT OÜ (Estonia). Tagline: "Brak, tražen s namjerom." (Marriage, sought with intention.)
 
 Niyyah means "intention". The app is built for marriage, not for browsing. It is available for Android on Google Play (https://play.google.com/store/apps/details?id=com.niyyahmarriagehalal.app). The iOS version has been submitted to Apple and is not in the App Store yet.
 

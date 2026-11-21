@@ -50,7 +50,7 @@ export const childSafety: Record<LegalLocale, ChildSafetyCopy> = {
       'Samo za punoljetne. Niyyah je za osobe od 18 godina naviše. Datum rođenja je obavezan pri registraciji, a naš server odbija svakog mlađeg od 18. Nalog za koji utvrdimo da pripada osobi mlađoj od 18 zatvaramo.',
       'Zabranjeno bez izuzetka: svaka slika, video, snimak ili tekst koji seksualizira dijete; traženje takvog materijala; vrbovanje (grooming) i pokušaj da se stupi u kontakt ili sastane s maloljetnikom; seksualna iznuda; i svaki oblik trgovine ljudima. To zabranjuju naši uslovi korištenja i pravila ponašanja, koje svaki član prihvata prije korištenja aplikacije.',
       'Sprečavanje: objave u zajednici čita moderator prije nego što se pojave; priče novih i neprovjerenih naloga čekaju moderatora; provjera lica procjenjuje dob, pa svakog ko bi mogao biti mlađi od 18 pregleda čovjek.',
-      'Poruke se otvaraju tek kad oboje pokažu interes.',
+      'Razgovor se otvara tek kad oboje pokažu interes. Prije toga uz lajk ide najviše jedna kratka poruka, a broj telefona, korisničko ime ili link u njoj ne prolaze.',
     ],
     reportTitle: 'Kako prijaviti u aplikaciji',
     reportSteps: [
@@ -84,7 +84,7 @@ export const childSafety: Record<LegalLocale, ChildSafetyCopy> = {
       'Adults only. Niyyah is for people aged 18 and over. A date of birth is required at sign-up, and our server refuses anyone under 18. An account we find belongs to someone under 18 is closed.',
       'Forbidden without exception: any image, video, recording or text that sexualises a child; asking for such material; grooming, or trying to contact or meet a minor; sexual extortion; and any form of trafficking. Our terms of service and community guidelines forbid it, and every member accepts them before using the app.',
       'Prevention: community posts are read by a moderator before they appear; stories from new and unverified accounts wait for a moderator; and the face check estimates age, so anyone who may be under 18 is reviewed by a person.',
-      'Messages only open once both people have shown interest.',
+      'A conversation only opens once both people have shown interest. Before that, a like can carry at most one short message, and a phone number, username or link in it is refused.',
     ],
     reportTitle: 'How to report in the app',
     reportSteps: [
@@ -118,7 +118,7 @@ export const childSafety: Record<LegalLocale, ChildSafetyCopy> = {
       'Nur für Erwachsene. Niyyah ist für Menschen ab 18 Jahren. Bei der Registrierung ist das Geburtsdatum Pflicht, und unser Server lehnt alle unter 18 ab. Ein Konto, das nachweislich einer Person unter 18 gehört, schließen wir.',
       'Ausnahmslos verboten: jedes Bild, Video, jede Aufnahme oder jeder Text, der ein Kind sexualisiert; das Verlangen nach solchem Material; Grooming und der Versuch, mit Minderjährigen Kontakt aufzunehmen oder sie zu treffen; sexuelle Erpressung; und jede Form von Menschenhandel. Das verbieten unsere Nutzungsbedingungen und Verhaltensregeln, die jedes Mitglied vor der Nutzung der App akzeptiert.',
       'Vorbeugung: Beiträge in der Community liest ein Moderator, bevor sie erscheinen; Storys neuer und nicht verifizierter Konten warten auf einen Moderator; und die Gesichtsprüfung schätzt das Alter, sodass jeder, der unter 18 sein könnte, von einem Menschen geprüft wird.',
-      'Nachrichten öffnen sich erst, wenn beide Interesse gezeigt haben.',
+      'Ein Gespräch öffnet sich erst, wenn beide Interesse gezeigt haben. Vorher kann ein Like höchstens eine kurze Nachricht tragen, und eine Telefonnummer, ein Benutzername oder ein Link darin wird abgelehnt.',
     ],
     reportTitle: 'So meldest du in der App',
     reportSteps: [
@@ -152,7 +152,7 @@ export const childSafety: Record<LegalLocale, ChildSafetyCopy> = {
       'Yalnızca yetişkinler. Niyyah 18 yaş ve üzeri kişiler içindir. Kayıtta doğum tarihi zorunludur ve sunucumuz 18 yaşından küçük herkesi reddeder. 18 yaşından küçük birine ait olduğunu tespit ettiğimiz hesabı kapatırız.',
       'İstisnasız yasak: bir çocuğu cinselleştiren her türlü görüntü, video, kayıt veya metin; böyle bir materyal istemek; çocuğu kandırarak yaklaşma (grooming) ve bir reşit olmayanla iletişime geçmeye veya buluşmaya çalışmak; cinsel şantaj; ve her türlü insan ticareti. Bunu, her üyenin uygulamayı kullanmadan önce kabul ettiği kullanım şartlarımız ve davranış kurallarımız yasaklar.',
       'Önleme: topluluk gönderilerini yayınlanmadan önce bir moderatör okur; yeni ve doğrulanmamış hesapların hikâyeleri moderatörü bekler; yüz doğrulaması yaşı tahmin eder, böylece 18 yaşından küçük olabilecek herkesi bir insan inceler.',
-      'Mesajlaşma ancak iki taraf da ilgi gösterdikten sonra açılır.',
+      'Sohbet ancak iki taraf da ilgi gösterdikten sonra açılır. Öncesinde bir beğeniyle en fazla bir kısa mesaj gönderilebilir; içinde telefon numarası, kullanıcı adı veya bağlantı varsa kabul edilmez.',
     ],
     reportTitle: 'Uygulamada nasıl bildirilir',
     reportSteps: [
@@ -186,7 +186,7 @@ export const childSafety: Record<LegalLocale, ChildSafetyCopy> = {
       'Réservé aux adultes. Niyyah s’adresse aux personnes de 18 ans et plus. La date de naissance est obligatoire à l’inscription, et notre serveur refuse toute personne de moins de 18 ans. Un compte dont nous constatons qu’il appartient à une personne de moins de 18 ans est fermé.',
       'Interdit sans exception : toute image, vidéo, tout enregistrement ou texte qui sexualise un enfant ; le fait de demander un tel contenu ; la manipulation d’un mineur (grooming) et toute tentative de contacter ou de rencontrer un mineur ; l’extorsion sexuelle ; et toute forme de traite. Nos conditions d’utilisation et nos règles de conduite l’interdisent, et chaque membre les accepte avant d’utiliser l’application.',
       'Prévention : les publications de la communauté sont lues par un modérateur avant de paraître ; les stories des comptes nouveaux ou non vérifiés attendent un modérateur ; et la vérification du visage estime l’âge, de sorte que toute personne qui pourrait avoir moins de 18 ans est examinée par un humain.',
-      'Les messages ne s’ouvrent qu’une fois que les deux personnes ont montré de l’intérêt.',
+      'Une conversation ne s’ouvre qu’une fois que les deux personnes ont montré de l’intérêt. Avant cela, un like peut être accompagné d’un seul message court au plus, et un numéro de téléphone, un nom d’utilisateur ou un lien y sont refusés.',
     ],
     reportTitle: 'Comment signaler dans l’application',
     reportSteps: [
@@ -220,7 +220,7 @@ export const childSafety: Record<LegalLocale, ChildSafetyCopy> = {
       'Khusus dewasa. Niyyah untuk orang berusia 18 tahun ke atas. Tanggal lahir wajib diisi saat mendaftar, dan server kami menolak siapa pun yang berusia di bawah 18 tahun. Akun yang kami ketahui milik orang di bawah 18 tahun akan kami tutup.',
       'Dilarang tanpa kecuali: gambar, video, rekaman, atau teks apa pun yang menyeksualisasi anak; meminta materi seperti itu; grooming dan upaya menghubungi atau menemui anak di bawah umur; pemerasan seksual; dan segala bentuk perdagangan orang. Hal ini dilarang oleh syarat layanan dan pedoman perilaku kami, yang diterima setiap anggota sebelum memakai aplikasi.',
       'Pencegahan: postingan komunitas dibaca moderator sebelum tampil; story dari akun baru dan yang belum terverifikasi menunggu moderator; dan verifikasi wajah memperkirakan usia, sehingga siapa pun yang mungkin di bawah 18 tahun diperiksa oleh manusia.',
-      'Pesan baru terbuka setelah keduanya menunjukkan minat.',
+      'Percakapan baru terbuka setelah keduanya menunjukkan minat. Sebelum itu, sebuah suka hanya bisa disertai paling banyak satu pesan singkat, dan nomor telepon, nama pengguna, atau tautan di dalamnya ditolak.',
     ],
     reportTitle: 'Cara melapor di aplikasi',
     reportSteps: [
@@ -254,7 +254,7 @@ export const childSafety: Record<LegalLocale, ChildSafetyCopy> = {
       'Dewasa sahaja. Niyyah untuk mereka yang berumur 18 tahun ke atas. Tarikh lahir wajib semasa pendaftaran, dan pelayan kami menolak sesiapa yang berumur bawah 18 tahun. Akaun yang kami dapati milik seseorang di bawah 18 tahun akan ditutup.',
       'Dilarang tanpa kecuali: sebarang imej, video, rakaman atau teks yang menyeksualkan kanak-kanak; meminta bahan sedemikian; grooming dan cubaan menghubungi atau berjumpa dengan kanak-kanak bawah umur; peras ugut seksual; dan apa jua bentuk pemerdagangan. Terma perkhidmatan dan garis panduan tingkah laku kami melarangnya, dan setiap ahli menerimanya sebelum menggunakan aplikasi.',
       'Pencegahan: hantaran komuniti dibaca oleh moderator sebelum dipaparkan; cerita daripada akaun baharu dan yang belum disahkan menunggu moderator; dan semakan wajah menganggarkan umur, supaya sesiapa yang mungkin berumur bawah 18 tahun disemak oleh manusia.',
-      'Mesej hanya dibuka selepas kedua-duanya menunjukkan minat.',
+      'Perbualan hanya dibuka selepas kedua-duanya menunjukkan minat. Sebelum itu, suka hanya boleh disertakan paling banyak satu mesej pendek, dan nombor telefon, nama pengguna atau pautan di dalamnya ditolak.',
     ],
     reportTitle: 'Cara melaporkan dalam aplikasi',
     reportSteps: [
@@ -288,7 +288,7 @@ export const childSafety: Record<LegalLocale, ChildSafetyCopy> = {
       'للبالغين فقط. Niyyah لمن بلغوا 18 عامًا فأكثر. تاريخ الميلاد إلزامي عند التسجيل، ويرفض خادمنا كل من هو دون 18 عامًا. ونغلق أي حساب يتبين لنا أنه يعود لشخص دون 18 عامًا.',
       'محظور دون استثناء: أي صورة أو فيديو أو تسجيل أو نص يُضفي طابعًا جنسيًا على طفل؛ وطلب مثل هذه المواد؛ واستدراج القاصرين (grooming) ومحاولة التواصل مع قاصر أو لقائه؛ والابتزاز الجنسي؛ وأي شكل من أشكال الاتجار بالبشر. تحظر ذلك شروط الاستخدام وإرشادات السلوك لدينا، ويقبلها كل عضو قبل استخدام التطبيق.',
       'الوقاية: يقرأ مشرفٌ منشورات المجتمع قبل ظهورها؛ وتنتظر قصص الحسابات الجديدة وغير الموثقة مراجعة مشرف؛ ويقدّر التحقق من الوجه العمر، فيراجع إنسانٌ كل من قد يكون دون 18 عامًا.',
-      'لا تُفتح الرسائل إلا بعد أن يُبدي الطرفان اهتمامًا.',
+      'لا تُفتح المحادثة إلا بعد أن يُبدي الطرفان اهتمامًا. وقبل ذلك يمكن أن يرافق الإعجابَ رسالةٌ قصيرة واحدة على الأكثر، ويُرفض ما فيها من رقم هاتف أو اسم مستخدم أو رابط.',
     ],
     reportTitle: 'كيف تُبلغ داخل التطبيق',
     reportSteps: [
@@ -322,7 +322,7 @@ export const childSafety: Record<LegalLocale, ChildSafetyCopy> = {
       'صرف بالغوں کے لیے۔ Niyyah 18 سال اور اس سے زیادہ عمر کے لوگوں کے لیے ہے۔ رجسٹریشن پر تاریخِ پیدائش لازمی ہے، اور ہمارا سرور 18 سال سے کم عمر ہر شخص کو مسترد کر دیتا ہے۔ جو اکاؤنٹ ہمیں 18 سال سے کم عمر کسی فرد کا معلوم ہو، اسے ہم بند کر دیتے ہیں۔',
       'بغیر کسی استثنا کے ممنوع: کوئی بھی تصویر، ویڈیو، ریکارڈنگ یا تحریر جو کسی بچے کو جنسی رنگ دے؛ ایسا مواد مانگنا؛ گرومنگ اور کسی نابالغ سے رابطہ کرنے یا ملنے کی کوشش؛ جنسی بلیک میلنگ؛ اور انسانی اسمگلنگ کی ہر شکل۔ ہماری شرائطِ استعمال اور رویے کے اصول اس سے منع کرتے ہیں، اور ہر رکن ایپ استعمال کرنے سے پہلے انہیں قبول کرتا ہے۔',
       'روک تھام: کمیونٹی پوسٹس شائع ہونے سے پہلے ایک ماڈریٹر پڑھتا ہے؛ نئے اور غیر تصدیق شدہ اکاؤنٹس کی اسٹوریز ماڈریٹر کا انتظار کرتی ہیں؛ اور چہرے کی تصدیق عمر کا اندازہ لگاتی ہے، اس لیے جو بھی 18 سال سے کم ہو سکتا ہے اسے ایک انسان دیکھتا ہے۔',
-      'پیغامات تبھی کھلتے ہیں جب دونوں دلچسپی ظاہر کریں۔',
+      'گفتگو تبھی کھلتی ہے جب دونوں دلچسپی ظاہر کریں۔ اس سے پہلے پسند کے ساتھ زیادہ سے زیادہ ایک مختصر پیغام جا سکتا ہے، اور اس میں فون نمبر، یوزر نیم یا لنک قبول نہیں ہوتا۔',
     ],
     reportTitle: 'ایپ میں شکایت کیسے کریں',
     reportSteps: [

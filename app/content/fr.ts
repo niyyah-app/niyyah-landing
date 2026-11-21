@@ -4,7 +4,7 @@ export const fr: Copy = {
   meta: {
     title: 'Niyyah — Rencontre musulmane pour le mariage, halal',
     description:
-      'L’application halal pour les musulmans qui cherchent le mariage : messages sur intérêt mutuel, un mahram peut suivre, communauté modérée. Inscription gratuite.',
+      'L’application halal pour les musulmans qui cherchent le mariage : conversation sur intérêt mutuel, un mahram peut suivre, communauté modérée. Inscription gratuite.',
     ogAlt: 'Niyyah : le mariage, cherché avec intention.',
   },
 
@@ -52,7 +52,7 @@ export const fr: Copy = {
     countdownUnits: ['jours', 'heures', 'minutes', 'secondes'],
     title: 'Le mariage, cherché avec intention.',
     lead:
-      'Niyyah est une application pour les musulmans qui cherchent sérieusement un conjoint. Les messages ne s’ouvrent qu’en cas d’intérêt mutuel, un mahram peut suivre la conversation, et ce sont les limites de l’application qui tiennent, pas les tiennes.',
+      'Niyyah est une application pour les musulmans qui cherchent sérieusement un conjoint. La conversation ne s’ouvre qu’en cas d’intérêt mutuel ; avec un like, tu peux envoyer un court message. Un mahram peut suivre la conversation, et ce sont les limites de l’application qui tiennent, pas les tiennes.',
     secondary: 'Comment fonctionne le mahram',
     micro: 'Gratuite. L’application existe en neuf langues.',
     imageAlt: 'Une fiche de profil dans Niyyah : prière, madhhab, projets de mariage et taux de compatibilité.',
@@ -109,7 +109,7 @@ export const fr: Copy = {
       {
         word: 'Limites',
         title: 'Halal par conception',
-        body: 'Uniquement le sexe opposé. Des messages seulement en cas d’intérêt mutuel. Une communauté relue par des modérateurs. Les limites, c’est l’application qui les tient : tu n’as pas à les garder.',
+        body: 'Uniquement le sexe opposé. La conversation seulement en cas d’intérêt mutuel, un court message avec un like. Une communauté relue par des modérateurs. Les limites, c’est l’application qui les tient : tu n’as pas à les garder.',
       },
     ],
   },
@@ -165,7 +165,7 @@ export const fr: Copy = {
       },
       {
         title: 'L’intérêt mutuel ouvre la conversation',
-        body: 'Tant que vous ne vous êtes pas plu tous les deux, la conversation reste verrouillée. Avec tes questions avant le premier message.',
+        body: 'Tant que vous ne vous êtes pas plu tous les deux, la conversation reste verrouillée ; avec un like, tu peux envoyer un court message. Et tes questions avant la conversation.',
       },
       { title: 'La famille est avec toi', body: 'Un mahram dans la conversation, quand tu le veux.' },
     ],
@@ -359,7 +359,7 @@ export const fr: Copy = {
     items: [
       {
         q: 'En quoi Niyyah diffère-t-elle des autres applications de rencontre ?',
-        a: 'Niyyah est construite pour le mariage, pas pour le défilement. Découvrir ne montre que le sexe opposé, les messages ne s’ouvrent que lorsque vous vous êtes likés tous les deux, et une sœur peut associer un mahram à ses conversations. Le profil porte ce qui compte avant le nikah : la prière, le madhhab, les projets de mariage, les enfants et le déménagement.',
+        a: 'Niyyah est construite pour le mariage, pas pour le défilement. Découvrir ne montre que le sexe opposé, la conversation ne s’ouvre que lorsque vous vous êtes likés tous les deux (avant, juste un court message avec un like, auquel on ne répond qu’en likant en retour), et une sœur peut associer un mahram à ses conversations. Le profil porte ce qui compte avant le nikah : la prière, le madhhab, les projets de mariage, les enfants et le déménagement.',
       },
       {
         q: 'Qu’est-ce qu’un mahram et comment l’ajouter ?',
@@ -367,7 +367,7 @@ export const fr: Copy = {
       },
       {
         q: 'Niyyah est-elle halal ?',
-        a: 'Nous n’émettons pas de fatwas et ne prétendons pas être approuvés par une institution. Ce que nous pouvons montrer, ce sont les limites intégrées à l’application : tu ne vois que le sexe opposé, une conversation ne s’ouvre qu’en cas d’intérêt mutuel, un mahram peut lire les conversations, et des modérateurs relisent la communauté. L’intention avec laquelle tu l’utilises reste la tienne. En cas de doute, demande à un imam en qui tu as confiance.',
+        a: 'Nous n’émettons pas de fatwas et ne prétendons pas être approuvés par une institution. Ce que nous pouvons montrer, ce sont les limites intégrées à l’application : tu ne vois que le sexe opposé, une conversation ne s’ouvre qu’en cas d’intérêt mutuel (avant, juste un court message avec un like), un mahram peut lire les conversations, et des modérateurs relisent la communauté. L’intention avec laquelle tu l’utilises reste la tienne. En cas de doute, demande à un imam en qui tu as confiance.',
       },
       {
         q: 'Que sont les questions avant la conversation ?',

@@ -4,7 +4,7 @@ export const it: Copy = {
   meta: {
     title: 'Niyyah — L’app halal per trovare un coniuge',
     description:
-      'Niyyah è un’app per musulmani che cercano il matrimonio. I messaggi si aprono solo con interesse reciproco, un mahram può essere nella conversazione e la comunità è moderata. Gratis, in nove lingue.',
+      'Niyyah è un’app per musulmani che cercano il matrimonio. La conversazione si apre solo con interesse reciproco, un mahram può essere nella conversazione e la comunità è moderata. Gratis, in nove lingue.',
     ogAlt: 'Niyyah: il matrimonio, cercato con intenzione.',
   },
 
@@ -52,7 +52,7 @@ export const it: Copy = {
     countdownUnits: ['giorni', 'ore', 'minuti', 'secondi'],
     title: 'Il matrimonio, cercato con intenzione.',
     lead:
-      'Niyyah è un’app per musulmani che cercano seriamente un coniuge. I messaggi si aprono solo con interesse reciproco, un mahram può essere nella conversazione e i limiti li tiene l’app, non tu.',
+      'Niyyah è un’app per musulmani che cercano seriamente un coniuge. La conversazione si apre solo con interesse reciproco; con un «mi piace» puoi inviare un breve messaggio. Un mahram può essere nella conversazione e i limiti li tiene l’app, non tu.',
     secondary: 'Come funziona il mahram',
     micro: 'Gratis. L’app è in nove lingue.',
     imageAlt: 'Una scheda profilo in Niyyah: preghiera, madhhab, progetti di matrimonio e percentuale di affinità.',
@@ -109,7 +109,7 @@ export const it: Copy = {
       {
         word: 'Limiti',
         title: 'Halal per come è fatta',
-        body: 'Solo il sesso opposto. Messaggi solo con interesse reciproco. Una comunità rivista dai moderatori. I limiti li tiene l’app: non devi custodirli tu.',
+        body: 'Solo il sesso opposto. Conversazione solo con interesse reciproco, un breve messaggio con un «mi piace». Una comunità rivista dai moderatori. I limiti li tiene l’app: non devi custodirli tu.',
       },
     ],
   },
@@ -165,7 +165,7 @@ export const it: Copy = {
       },
       {
         title: 'L’interesse reciproco apre la conversazione',
-        body: 'Finché non vi piacete entrambi, la conversazione resta chiusa. Con le tue domande prima del primo messaggio.',
+        body: 'Finché non vi piacete entrambi, la conversazione resta chiusa; con un «mi piace» puoi inviare un breve messaggio. E le tue domande prima della conversazione.',
       },
       { title: 'La famiglia è con te', body: 'Un mahram nella conversazione, quando vuoi.' },
     ],
@@ -360,7 +360,7 @@ export const it: Copy = {
     items: [
       {
         q: 'In che cosa Niyyah è diversa dalle altre app di incontri?',
-        a: 'Niyyah è costruita per il matrimonio, non per lo scorrimento. Scopri mostra solo il sesso opposto, i messaggi si aprono solo quando vi siete piaciuti entrambi, e una sorella può inserire un mahram nelle sue conversazioni. Il profilo porta ciò che conta prima del nikah: la preghiera, il madhhab, i progetti di matrimonio, i figli e il trasferimento.',
+        a: 'Niyyah è costruita per il matrimonio, non per lo scorrimento. Scopri mostra solo il sesso opposto, la conversazione si apre solo quando vi siete piaciuti entrambi (prima, solo un breve messaggio con un «mi piace», a cui si risponde solo ricambiando il «mi piace»), e una sorella può inserire un mahram nelle sue conversazioni. Il profilo porta ciò che conta prima del nikah: la preghiera, il madhhab, i progetti di matrimonio, i figli e il trasferimento.',
       },
       {
         q: 'Che cos’è un mahram e come lo aggiungo?',
@@ -368,7 +368,7 @@ export const it: Copy = {
       },
       {
         q: 'Niyyah è halal?',
-        a: 'Non emettiamo fatwa e non sosteniamo di essere approvati da alcuna istituzione. Ciò che possiamo mostrare sono i limiti costruiti nell’app: vedi solo il sesso opposto, una conversazione si apre solo con interesse reciproco, un mahram può leggere le conversazioni e i moderatori rivedono la comunità. Con quale intenzione la usi resta a te. Se hai dubbi, chiedi a un imam di cui ti fidi.',
+        a: 'Non emettiamo fatwa e non sosteniamo di essere approvati da alcuna istituzione. Ciò che possiamo mostrare sono i limiti costruiti nell’app: vedi solo il sesso opposto, una conversazione si apre solo con interesse reciproco (prima, solo un breve messaggio con un «mi piace»), un mahram può leggere le conversazioni e i moderatori rivedono la comunità. Con quale intenzione la usi resta a te. Se hai dubbi, chiedi a un imam di cui ti fidi.',
       },
       {
         q: 'Che cosa sono le domande prima della conversazione?',

@@ -4,7 +4,7 @@ export const su: Copy = {
   meta: {
     title: 'Niyyah — Aplikasi halal pikeun milarian jodo',
     description:
-      'Niyyah téh aplikasi pikeun urang Islam anu milarian nikah. Pesen ngan muka lamun duanana resep, mahram tiasa aya dina obrolan, sarta komunitasna diawaskeun. Gratis, dina salapan basa.',
+      'Niyyah téh aplikasi pikeun urang Islam anu milarian nikah. Obrolan ngan muka lamun duanana resep, mahram tiasa aya dina obrolan, sarta komunitasna diawaskeun. Gratis, dina salapan basa.',
     ogAlt: 'Niyyah: Nikah, ditéangan kalawan niat.',
   },
 
@@ -52,7 +52,7 @@ export const su: Copy = {
     countdownUnits: ['poé', 'jam', 'menit', 'detik'],
     title: 'Nikah, ditéangan kalawan niat.',
     lead:
-      'Niyyah téh aplikasi pikeun urang Islam anu enya-enya milarian jodo. Pesen ngan muka lamun duanana resep, mahram tiasa aya dina obrolan, sarta wates-watesna dijaga ku aplikasi — lain ku anjeun.',
+      'Niyyah téh aplikasi pikeun urang Islam anu enya-enya milarian jodo. Obrolan ngan muka lamun duanana resep; dibarengan resep anjeun tiasa ngirim hiji pesen pondok. Mahram tiasa aya dina obrolan, sarta wates-watesna dijaga ku aplikasi — lain ku anjeun.',
     secondary: 'Kumaha mahram jalanna',
     micro: 'Gratis. Aplikasina aya dina salapan basa.',
     imageAlt: 'Kartu profil dina Niyyah: solat, madhhab, rencana nikah jeung persén cocogna.',
@@ -109,7 +109,7 @@ export const su: Copy = {
       {
         word: 'Wates',
         title: 'Halal ti rarancangna',
-        body: 'Ngan lawan jinis. Pesen ngan lamun duanana resep. Komunitas nu dipariksa moderator. Watesna dijaga ku aplikasi, anjeun teu kudu ngajaga.',
+        body: 'Ngan lawan jinis. Obrolan ngan lamun duanana resep, hiji pesen pondok dibarengan resep. Komunitas nu dipariksa moderator. Watesna dijaga ku aplikasi, anjeun teu kudu ngajaga.',
       },
     ],
   },
@@ -165,7 +165,7 @@ export const su: Copy = {
       },
       {
         title: 'Resep ti dua pihak muka obrolan',
-        body: 'Saméméh duanana silih resep, obrolanana tetep konci. Jeung patarosan anjeun saméméh pesen kahiji.',
+        body: 'Saméméh duanana silih resep, obrolanana tetep konci; dibarengan resep anjeun bisa ngirim hiji pesen pondok. Ditambah patarosan saméméh ngobrol.',
       },
       { title: 'Kulawarga nyarengan', body: 'Mahram dina obrolan, iraha waé anjeun hayang.' },
     ],
@@ -359,7 +359,7 @@ export const su: Copy = {
     items: [
       {
         q: 'Naon bédana Niyyah jeung aplikasi pacaran séjén?',
-        a: 'Niyyah diwangun pikeun nikah, lain pikeun ngagésér. Téangan ngan némbongkeun lawan jinis, pesen ngan muka lamun duanana geus silih resep, sarta hiji tétéh bisa ngasupkeun mahram kana obrolanana. Profil mawa hal nu penting saméméh nikah: solat, madhhab, rencana nikah, budak jeung pindah.',
+        a: 'Niyyah diwangun pikeun nikah, lain pikeun ngagésér. Téangan ngan némbongkeun lawan jinis, obrolan ngan muka lamun duanana geus silih resep (saméméhna ngan hiji pesen pondok dibarengan resep, nu ngan bisa dibales ku males resep), sarta hiji tétéh bisa ngasupkeun mahram kana obrolanana. Profil mawa hal nu penting saméméh nikah: solat, madhhab, rencana nikah, budak jeung pindah.',
       },
       {
         q: 'Naon éta mahram jeung kumaha nambahkeunana?',
@@ -367,7 +367,7 @@ export const su: Copy = {
       },
       {
         q: 'Naha Niyyah téh halal?',
-        a: 'Urang teu ngaluarkeun fatwa sarta teu ngaku disatujuan ku lembaga naon waé. Nu bisa dipintonkeun nyaéta wates-wates nu diwangun dina aplikasi: anjeun ngan ningali lawan jinis, obrolan ngan muka lamun dua pihak resep, mahram bisa maca obrolan, sarta moderator mariksa komunitas. Ku niat naon anjeun maké, éta urusan anjeun. Lamun asa-asa, tanyakeun ka imam nu dipercaya.',
+        a: 'Urang teu ngaluarkeun fatwa sarta teu ngaku disatujuan ku lembaga naon waé. Nu bisa dipintonkeun nyaéta wates-wates nu diwangun dina aplikasi: anjeun ngan ningali lawan jinis, obrolan ngan muka lamun dua pihak resep (saméméhna ngan hiji pesen pondok dibarengan resep), mahram bisa maca obrolan, sarta moderator mariksa komunitas. Ku niat naon anjeun maké, éta urusan anjeun. Lamun asa-asa, tanyakeun ka imam nu dipercaya.',
       },
       {
         q: 'Naon éta patarosan saméméh ngobrol?',

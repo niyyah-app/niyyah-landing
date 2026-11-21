@@ -4,7 +4,7 @@ export const de: Copy = {
   meta: {
     title: 'Niyyah — Muslimische Partnersuche für die Ehe, halal',
     description:
-      'Die halal App für Muslime, die heiraten möchten: Nachrichten erst bei gegenseitigem Interesse, ein Mahram kann dabei sein, moderierte Gemeinschaft. Kostenlose Anmeldung.',
+      'Die halal App für Muslime, die heiraten möchten: ein Gespräch erst bei gegenseitigem Interesse, ein Mahram kann dabei sein, moderierte Gemeinschaft. Kostenlose Anmeldung.',
     ogAlt: 'Niyyah: Ehe, mit Absicht gesucht.',
   },
 
@@ -52,7 +52,7 @@ export const de: Copy = {
     countdownUnits: ['Tage', 'Stunden', 'Minuten', 'Sekunden'],
     title: 'Ehe, mit Absicht gesucht.',
     lead:
-      'Niyyah ist eine App für Muslime, die ernsthaft einen Ehepartner suchen. Nachrichten öffnen sich erst bei gegenseitigem Interesse, ein Mahram kann im Gespräch sein, und die Grenzen hält die App — nicht du.',
+      'Niyyah ist eine App für Muslime, die ernsthaft einen Ehepartner suchen. Ein Gespräch öffnet sich erst bei gegenseitigem Interesse; mit einem Like kannst du eine kurze Nachricht senden. Ein Mahram kann im Gespräch sein, und die Grenzen hält die App — nicht du.',
     secondary: 'So funktioniert der Mahram',
     micro: 'Kostenlos. Die App gibt es in neun Sprachen.',
     imageAlt: 'Eine Profilkarte in Niyyah: Gebet, Madhhab, Heiratspläne und Übereinstimmung.',
@@ -109,7 +109,7 @@ export const de: Copy = {
       {
         word: 'Grenzen',
         title: 'Halal von Grund auf',
-        body: 'Nur das andere Geschlecht. Nachrichten erst bei gegenseitigem Interesse. Eine Gemeinschaft, die Moderatoren prüfen. Die Grenzen hält die App, du musst sie nicht hüten.',
+        body: 'Nur das andere Geschlecht. Gespräche erst bei gegenseitigem Interesse, mit einem Like eine kurze Nachricht. Eine Gemeinschaft, die Moderatoren prüfen. Die Grenzen hält die App, du musst sie nicht hüten.',
       },
     ],
   },
@@ -165,7 +165,7 @@ export const de: Copy = {
       },
       {
         title: 'Gegenseitiges Interesse öffnet das Gespräch',
-        body: 'Solange ihr euch nicht beide mögt, bleibt das Gespräch verschlossen. Mit deinen Fragen vor der ersten Nachricht.',
+        body: 'Solange ihr euch nicht beide mögt, bleibt das Gespräch verschlossen; mit einem Like kannst du eine kurze Nachricht senden. Dazu deine Fragen vor dem Gespräch.',
       },
       { title: 'Die Familie ist bei dir', body: 'Ein Mahram im Gespräch, wann du es willst.' },
     ],
@@ -359,7 +359,7 @@ export const de: Copy = {
     items: [
       {
         q: 'Wodurch unterscheidet sich Niyyah von anderen Dating-Apps?',
-        a: 'Niyyah ist für die Ehe gebaut, nicht zum Scrollen. Entdecken zeigt nur das andere Geschlecht, Nachrichten öffnen sich erst, wenn ihr euch beide geliked habt, und eine Schwester kann einen Mahram in ihre Gespräche einbeziehen. Das Profil trägt das, was vor dem Nikah wichtig ist: Gebet, Madhhab, Heiratspläne, Kinder und Umzug.',
+        a: 'Niyyah ist für die Ehe gebaut, nicht zum Scrollen. Entdecken zeigt nur das andere Geschlecht, ein Gespräch öffnet sich erst, wenn ihr euch beide geliked habt (davor nur eine kurze Nachricht mit einem Like, die man nur mit einem Like zurück beantworten kann), und eine Schwester kann einen Mahram in ihre Gespräche einbeziehen. Das Profil trägt das, was vor dem Nikah wichtig ist: Gebet, Madhhab, Heiratspläne, Kinder und Umzug.',
       },
       {
         q: 'Was ist ein Mahram und wie füge ich ihn hinzu?',
@@ -367,7 +367,7 @@ export const de: Copy = {
       },
       {
         q: 'Ist Niyyah halal?',
-        a: 'Wir geben keine Fatwas heraus und behaupten nicht, von einer Institution genehmigt zu sein. Zeigen können wir die Grenzen, die in die App eingebaut sind: du siehst nur das andere Geschlecht, ein Gespräch öffnet sich erst bei gegenseitigem Interesse, ein Mahram kann Gespräche lesen, und die Gemeinschaft prüfen Moderatoren. Mit welcher Absicht du sie nutzt, bleibt bei dir. Wenn du unsicher bist, frag einen Imam, dem du vertraust.',
+        a: 'Wir geben keine Fatwas heraus und behaupten nicht, von einer Institution genehmigt zu sein. Zeigen können wir die Grenzen, die in die App eingebaut sind: du siehst nur das andere Geschlecht, ein Gespräch öffnet sich erst bei gegenseitigem Interesse (davor nur eine kurze Nachricht mit einem Like), ein Mahram kann Gespräche lesen, und die Gemeinschaft prüfen Moderatoren. Mit welcher Absicht du sie nutzt, bleibt bei dir. Wenn du unsicher bist, frag einen Imam, dem du vertraust.',
       },
       {
         q: 'Was sind Fragen vor dem Gespräch?',

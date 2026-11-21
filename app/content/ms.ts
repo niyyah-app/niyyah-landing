@@ -4,7 +4,7 @@ export const ms: Copy = {
   meta: {
     title: 'Niyyah — Aplikasi perkahwinan halal untuk Muslim',
     description:
-      'Aplikasi perkahwinan halal untuk Muslim: mesej hanya terbuka apabila kedua-dua pihak berminat, mahram boleh menyertai perbualan, komuniti diselia. Percuma.',
+      'Aplikasi perkahwinan halal untuk Muslim: perbualan hanya terbuka apabila kedua-dua pihak berminat, mahram boleh menyertai perbualan, komuniti diselia. Percuma.',
     ogAlt: 'Niyyah: Perkahwinan, dicari dengan niat.',
   },
 
@@ -52,7 +52,7 @@ export const ms: Copy = {
     countdownUnits: ['hari', 'jam', 'minit', 'saat'],
     title: 'Perkahwinan, dicari dengan niat.',
     lead:
-      'Niyyah ialah aplikasi untuk Muslim yang serius mencari pasangan hidup. Mesej hanya terbuka apabila kedua-dua pihak berminat, mahram boleh berada dalam perbualan, dan batasnya dijaga oleh aplikasi, bukan oleh anda.',
+      'Niyyah ialah aplikasi untuk Muslim yang serius mencari pasangan hidup. Perbualan hanya terbuka apabila kedua-dua pihak berminat; bersama suka anda boleh menghantar satu mesej ringkas. Mahram boleh berada dalam perbualan, dan batasnya dijaga oleh aplikasi, bukan oleh anda.',
     secondary: 'Cara mahram berfungsi',
     micro: 'Percuma. Aplikasinya dalam sembilan bahasa.',
     imageAlt: 'Kad profil dalam Niyyah: solat, mazhab, rancangan perkahwinan dan peratus keserasian.',
@@ -109,7 +109,7 @@ export const ms: Copy = {
       {
         word: 'Batas',
         title: 'Halal pada reka bentuknya',
-        body: 'Hanya jantina berlainan. Mesej hanya apabila kedua-dua pihak berminat. Komuniti yang disemak moderator. Batasnya dijaga aplikasi, anda tidak perlu menjaganya.',
+        body: 'Hanya jantina berlainan. Perbualan hanya apabila kedua-dua pihak berminat, satu mesej ringkas bersama suka. Komuniti yang disemak moderator. Batasnya dijaga aplikasi, anda tidak perlu menjaganya.',
       },
     ],
   },
@@ -165,7 +165,7 @@ export const ms: Copy = {
       },
       {
         title: 'Minat dua hala membuka perbualan',
-        body: 'Sebelum kedua-dua pihak saling menyukai, perbualan tetap berkunci. Berserta soalan anda sebelum mesej pertama.',
+        body: 'Sebelum kedua-dua pihak saling menyukai, perbualan tetap berkunci; bersama suka anda boleh menghantar satu mesej ringkas. Ditambah soalan sebelum perbualan.',
       },
       { title: 'Keluarga bersama anda', body: 'Mahram dalam perbualan, bila-bila anda mahu.' },
     ],
@@ -359,7 +359,7 @@ export const ms: Copy = {
     items: [
       {
         q: 'Apa yang membezakan Niyyah daripada aplikasi pertemuan lain?',
-        a: 'Niyyah dibina untuk perkahwinan, bukan untuk menatal. Terokai hanya menunjukkan jantina berlainan, mesej hanya terbuka apabila kedua-dua pihak saling menyukai, dan seorang muslimah boleh membawa mahram ke dalam perbualannya. Profil membawa perkara yang penting sebelum nikah: solat, mazhab, rancangan perkahwinan, anak dan berpindah.',
+        a: 'Niyyah dibina untuk perkahwinan, bukan untuk menatal. Terokai hanya menunjukkan jantina berlainan, perbualan hanya terbuka apabila kedua-dua pihak saling menyukai (sebelum itu, hanya satu mesej ringkas bersama suka, yang dibalas hanya dengan menyukai kembali), dan seorang muslimah boleh membawa mahram ke dalam perbualannya. Profil membawa perkara yang penting sebelum nikah: solat, mazhab, rancangan perkahwinan, anak dan berpindah.',
       },
       {
         q: 'Apa itu mahram dan bagaimana saya menambahnya?',
@@ -367,7 +367,7 @@ export const ms: Copy = {
       },
       {
         q: 'Adakah Niyyah halal?',
-        a: 'Kami tidak mengeluarkan fatwa dan tidak mendakwa diluluskan oleh mana-mana institusi. Yang boleh kami tunjukkan ialah batas yang dibina di dalam aplikasi: anda hanya melihat jantina berlainan, perbualan terbuka hanya apabila kedua-dua pihak berminat, mahram boleh membaca perbualan, dan moderator menyemak komuniti. Dengan niat apa anda menggunakannya, itu terserah kepada anda. Jika ragu, tanyakan kepada imam yang anda percayai.',
+        a: 'Kami tidak mengeluarkan fatwa dan tidak mendakwa diluluskan oleh mana-mana institusi. Yang boleh kami tunjukkan ialah batas yang dibina di dalam aplikasi: anda hanya melihat jantina berlainan, perbualan terbuka hanya apabila kedua-dua pihak berminat (sebelum itu, hanya satu mesej ringkas bersama suka), mahram boleh membaca perbualan, dan moderator menyemak komuniti. Dengan niat apa anda menggunakannya, itu terserah kepada anda. Jika ragu, tanyakan kepada imam yang anda percayai.',
       },
       {
         q: 'Apa itu soalan sebelum perbualan?',

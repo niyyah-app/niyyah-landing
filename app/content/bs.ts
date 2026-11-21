@@ -3,7 +3,7 @@ export const bs = {
   meta: {
     title: 'Niyyah — Upoznavanje za brak za muslimane u BiH i dijaspori',
     description:
-      'Halal upoznavanje za brak za muslimane i muslimanke: poruke tek na obostrani interes, mahrem može biti u razgovoru, zajednica je moderirana. Besplatna registracija.',
+      'Halal upoznavanje za brak za muslimane i muslimanke: razgovor tek na obostrani interes, mahrem može biti u razgovoru, zajednica je moderirana. Besplatna registracija.',
     ogAlt: 'Niyyah: Brak, tražen s namjerom.',
   },
 
@@ -53,7 +53,7 @@ export const bs = {
     countdownUnits: ['dana', 'sati', 'minuta', 'sekundi'],
     title: 'Brak, tražen s namjerom.',
     lead:
-      'Niyyah je aplikacija za muslimane koji ozbiljno traže bračnog druga. Poruke se otvaraju tek na obostrani interes, mahrem može biti u razgovoru, a granice drži aplikacija, ne ti.',
+      'Niyyah je aplikacija za muslimane koji ozbiljno traže bračnog druga. Razgovor se otvara tek na obostrani interes; uz lajk možeš poslati jednu kratku poruku. Mahrem može biti u razgovoru, a granice drži aplikacija, ne ti.',
     secondary: 'Kako funkcioniše mahrem',
     micro: 'Besplatno. Na bosanskom i još 8 jezika.',
     imageAlt: 'Kartica profila u Niyyah: namaz, mezheb, planovi za brak i postotak usklađenosti.',
@@ -110,7 +110,7 @@ export const bs = {
       {
         word: 'Granice',
         title: 'Halal po dizajnu',
-        body: 'Samo suprotni spol. Poruke tek na obostrani interes. Zajednica koju pregledaju moderatori. Granice drži aplikacija, ne moraš ih ti čuvati.',
+        body: 'Samo suprotni spol. Razgovor tek na obostrani interes, uz lajk jedna kratka poruka. Zajednica koju pregledaju moderatori. Granice drži aplikacija, ne moraš ih ti čuvati.',
       },
     ],
   },
@@ -166,7 +166,7 @@ export const bs = {
       },
       {
         title: 'Obostrani interes otvara razgovor',
-        body: 'Dok se oboje ne lajkate, razgovor je zaključan. Uz tvoja pitanja prije prve poruke.',
+        body: 'Dok se oboje ne lajkate, razgovor je zaključan; uz lajk možeš poslati jednu kratku poruku. Uz to, tvoja pitanja prije razgovora.',
       },
       { title: 'Porodica je uz tebe', body: 'Mahrem u razgovoru, kad god to želiš.' },
     ],
@@ -360,7 +360,7 @@ export const bs = {
     items: [
       {
         q: 'Po čemu se Niyyah razlikuje od drugih aplikacija za upoznavanje?',
-        a: 'Niyyah je građen za brak, a ne za skrolanje. Otkrivaj prikazuje samo suprotni spol, poruke se otvaraju tek kad se oboje lajkate, a sestra može uključiti mahrema u svoje razgovore. Profil nosi ono što je važno prije nikaha: namaz, mezheb, planove za brak, djecu i selidbu.',
+        a: 'Niyyah je građen za brak, a ne za skrolanje. Otkrivaj prikazuje samo suprotni spol, razgovor se otvara tek kad se oboje lajkate (prije toga samo jedna kratka poruka uz lajk, a odgovara se lajkom), a sestra može uključiti mahrema u svoje razgovore. Profil nosi ono što je važno prije nikaha: namaz, mezheb, planove za brak, djecu i selidbu.',
       },
       {
         q: 'Šta je mahrem i kako ga dodajem?',
@@ -368,7 +368,7 @@ export const bs = {
       },
       {
         q: 'Da li je Niyyah halal?',
-        a: 'Ne izdajemo fetve i ne tvrdimo da nas je odobrila neka institucija. Ono što možemo pokazati su granice ugrađene u aplikaciju: vidiš samo suprotni spol, razgovor se otvara tek na obostrani interes, mahrem može čitati razgovore, a zajednicu pregledaju moderatori. S kojim nijjetom je koristiš, ostaje na tebi. Ako imaš dilemu, pitaj imama kojem vjeruješ.',
+        a: 'Ne izdajemo fetve i ne tvrdimo da nas je odobrila neka institucija. Ono što možemo pokazati su granice ugrađene u aplikaciju: vidiš samo suprotni spol, razgovor se otvara tek na obostrani interes (prije toga samo jedna kratka poruka uz lajk), mahrem može čitati razgovore, a zajednicu pregledaju moderatori. S kojim nijjetom je koristiš, ostaje na tebi. Ako imaš dilemu, pitaj imama kojem vjeruješ.',
       },
       {
         q: 'Šta su pitanja prije razgovora?',

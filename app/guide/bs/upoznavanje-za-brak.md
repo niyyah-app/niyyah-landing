@@ -27,7 +27,7 @@ Ta pitanja vrijedi postaviti rano. Više ideja je u tekstu [Pitanja prije braka]
 Niyyah je aplikacija za muslimane i muslimanke koji traže bračnog druga, napravljena u Bosni i Hercegovini za BiH, regiju i dijasporu.
 
 - **Samo s namjerom braka.** Profil nosi namaz, mezheb, planove za brak, djecu i selidbu, a Otkrij pokazuje samo suprotni spol.
-- **Razgovor tek na obostrani interes.** Razgovor se otvara kad se oboje lajkate, pa ti ne može pisati svako.
+- **Razgovor tek na obostrani interes.** Razgovor se otvara kad se oboje lajkate; prije toga uz lajk ide najviše jedna kratka poruka, a odgovara se samo lajkom.
 - **Porodica uz tebe.** Sestra može pozvati do troje mahrema, koji prate razgovor u Mahrem portalu. Kako to ide, piše u tekstu [Porodica u razgovoru](/vodic/porodica-i-mahrem-u-aplikaciji).
 - **Stvarni ljudi.** Kratak selfie se uporedi sa slikama na profilu, a prijave čitaju stvarni moderatori. Više u tekstu [Provjera profila](/vodic/provjera-profila).
 - **Pitanja prije prve poruke.** Možeš postaviti do tri svoja pitanja na koja druga osoba odgovori prije nego što se razgovor otvori.

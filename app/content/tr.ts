@@ -4,7 +4,7 @@ export const tr: Copy = {
   meta: {
     title: 'Niyyah — Helal evlilik uygulaması: Müslüman eş bul',
     description:
-      'Evlilik arayan Müslümanlar için helal uygulama: mesajlar karşılıklı ilgiyle açılır, sohbette mahrem bulunabilir, topluluk denetlenir. Ücretsiz kayıt.',
+      'Evlilik arayan Müslümanlar için helal uygulama: sohbet karşılıklı ilgiyle açılır, sohbette mahrem bulunabilir, topluluk denetlenir. Ücretsiz kayıt.',
     ogAlt: 'Niyyah: Niyetle aranan evlilik.',
   },
 
@@ -52,7 +52,7 @@ export const tr: Copy = {
     countdownUnits: ['gün', 'saat', 'dakika', 'saniye'],
     title: 'Niyetle aranan evlilik.',
     lead:
-      'Niyyah, ciddi olarak eş arayan Müslümanlar için bir uygulama. Mesajlar ancak karşılıklı ilgiyle açılır, sohbette mahrem bulunabilir, sınırları da sen değil uygulama korur.',
+      'Niyyah, ciddi olarak eş arayan Müslümanlar için bir uygulama. Sohbet ancak karşılıklı ilgiyle açılır; beğeniyle birlikte tek bir kısa mesaj gönderebilirsin. Sohbette mahrem bulunabilir, sınırları da sen değil uygulama korur.',
     secondary: 'Mahrem nasıl çalışır',
     micro: 'Ücretsiz. Uygulama dokuz dilde.',
     imageAlt: 'Niyyah’ta bir profil kartı: namaz, mezhep, evlilik planları ve uyum oranı.',
@@ -109,7 +109,7 @@ export const tr: Copy = {
       {
         word: 'Sınırlar',
         title: 'Tasarımı gereği helal',
-        body: 'Yalnızca karşı cins. Mesajlar ancak karşılıklı ilgiyle. Moderatörlerin denetlediği bir topluluk. Sınırları uygulama korur, senin korumana gerek yok.',
+        body: 'Yalnızca karşı cins. Sohbet ancak karşılıklı ilgiyle, beğeniyle tek bir kısa mesaj. Moderatörlerin denetlediği bir topluluk. Sınırları uygulama korur, senin korumana gerek yok.',
       },
     ],
   },
@@ -165,7 +165,7 @@ export const tr: Copy = {
       },
       {
         title: 'Karşılıklı ilgi sohbeti açar',
-        body: 'İkiniz de beğenmedikçe sohbet kilitli kalır. İlk mesajdan önce senin sorularınla.',
+        body: 'İkiniz de beğenmedikçe sohbet kilitli kalır; beğeniyle birlikte tek bir kısa mesaj gönderebilirsin. Bir de sohbetten önce soruların.',
       },
       { title: 'Aile yanında', body: 'İstediğin zaman sohbette bir mahrem.' },
     ],
@@ -359,7 +359,7 @@ export const tr: Copy = {
     items: [
       {
         q: 'Niyyah diğer tanışma uygulamalarından nasıl farklı?',
-        a: 'Niyyah kaydırmak için değil, evlilik için kuruldu. Keşfet yalnızca karşı cinsi gösterir, mesajlar ancak ikiniz de beğendiğinizde açılır, ve bir kız kardeş sohbetlerine mahrem katabilir. Profil, nikâhtan önce önemli olanı taşır: namaz, mezhep, evlilik planları, çocuk ve taşınma.',
+        a: 'Niyyah kaydırmak için değil, evlilik için kuruldu. Keşfet yalnızca karşı cinsi gösterir, sohbet ancak ikiniz de beğendiğinizde açılır (öncesinde yalnızca beğeniyle tek bir kısa mesaj; ona ancak geri beğenerek cevap verilir), ve bir kız kardeş sohbetlerine mahrem katabilir. Profil, nikâhtan önce önemli olanı taşır: namaz, mezhep, evlilik planları, çocuk ve taşınma.',
       },
       {
         q: 'Mahrem nedir ve nasıl eklerim?',
@@ -367,7 +367,7 @@ export const tr: Copy = {
       },
       {
         q: 'Niyyah helal mi?',
-        a: 'Fetva vermiyoruz ve herhangi bir kurumun onayladığını ileri sürmüyoruz. Gösterebildiğimiz şey, uygulamaya kurulu sınırlardır: yalnızca karşı cinsi görürsün, sohbet ancak karşılıklı ilgiyle açılır, mahrem sohbetleri okuyabilir, topluluğu moderatörler denetler. Hangi niyetle kullandığın sana kalır. Tereddüdün varsa güvendiğin bir imama sor.',
+        a: 'Fetva vermiyoruz ve herhangi bir kurumun onayladığını ileri sürmüyoruz. Gösterebildiğimiz şey, uygulamaya kurulu sınırlardır: yalnızca karşı cinsi görürsün, sohbet ancak karşılıklı ilgiyle açılır (öncesinde yalnızca beğeniyle tek bir kısa mesaj), mahrem sohbetleri okuyabilir, topluluğu moderatörler denetler. Hangi niyetle kullandığın sana kalır. Tereddüdün varsa güvendiğin bir imama sor.',
       },
       {
         q: 'Sohbetten önce sorular nedir?',

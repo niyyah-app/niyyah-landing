@@ -4,7 +4,7 @@ export const jv: Copy = {
   meta: {
     title: 'Niyyah — Aplikasi halal kanggo nggoleki garwa',
     description:
-      'Niyyah iku aplikasi kanggo wong Islam sing nggoleki bebrayan. Pesen mung mbukak yen loro-lorone padha seneng, mahram bisa melu ing pirembugan, lan komunitase diawasi. Gratis, ing sanga basa.',
+      'Niyyah iku aplikasi kanggo wong Islam sing nggoleki bebrayan. Pirembugan mung mbukak yen loro-lorone padha seneng, mahram bisa melu ing pirembugan, lan komunitase diawasi. Gratis, ing sanga basa.',
     ogAlt: 'Niyyah: Bebrayan, digoleki kanthi niyat.',
   },
 
@@ -52,7 +52,7 @@ export const jv: Copy = {
     countdownUnits: ['dina', 'jam', 'menit', 'detik'],
     title: 'Bebrayan, digoleki kanthi niyat.',
     lead:
-      'Niyyah iku aplikasi kanggo wong Islam sing temenan nggoleki garwa. Pesen mung mbukak yen loro-lorone padha seneng, mahram bisa melu ing pirembugan, lan wates-watese dijaga aplikasi — dudu sampeyan.',
+      'Niyyah iku aplikasi kanggo wong Islam sing temenan nggoleki garwa. Pirembugan mung mbukak yen loro-lorone padha seneng; bareng karo seneng sampeyan bisa ngirim siji pesen cekak. Mahram bisa melu ing pirembugan, lan wates-watese dijaga aplikasi — dudu sampeyan.',
     secondary: 'Carane mahram mlaku',
     micro: 'Gratis. Aplikasine ana ing sanga basa.',
     imageAlt: 'Kertu profil ing Niyyah: salat, madzhab, rencana bebrayan lan persen cocoke.',
@@ -109,7 +109,7 @@ export const jv: Copy = {
       {
         word: 'Wates',
         title: 'Halal wiwit rancangane',
-        body: 'Mung lawan jinis. Pesen mung yen loro-lorone seneng. Komunitas sing dipriksa moderator. Watese dijaga aplikasi, sampeyan ora perlu njaga.',
+        body: 'Mung lawan jinis. Pirembugan mung yen loro-lorone seneng, siji pesen cekak bareng seneng. Komunitas sing dipriksa moderator. Watese dijaga aplikasi, sampeyan ora perlu njaga.',
       },
     ],
   },
@@ -165,7 +165,7 @@ export const jv: Copy = {
       },
       {
         title: 'Seneng saka loro pihak mbukak pirembugan',
-        body: 'Sadurunge loro-lorone padha seneng, pirembugane tetep kakunci. Karo pitakonan sampeyan sadurunge pesen kapisan.',
+        body: 'Sadurunge loro-lorone padha seneng, pirembugane tetep kakunci; bareng karo seneng sampeyan bisa ngirim siji pesen cekak. Uga pitakonan sadurunge pirembugan.',
       },
       { title: 'Kulawarga ngancani', body: 'Mahram ing pirembugan, kapan wae sampeyan gelem.' },
     ],
@@ -359,7 +359,7 @@ export const jv: Copy = {
     items: [
       {
         q: 'Apa bedane Niyyah karo aplikasi pacaran liyane?',
-        a: 'Niyyah dibangun kanggo bebrayan, dudu kanggo nggeser. Golek mung nuduhake lawan jinis, pesen mung mbukak yen loro-lorone wis padha seneng, lan mbakyu bisa nglebokake mahram ing pirembugane. Profil nggawa sing penting sadurunge nikah: salat, madzhab, rencana bebrayan, anak lan pindhah.',
+        a: 'Niyyah dibangun kanggo bebrayan, dudu kanggo nggeser. Golek mung nuduhake lawan jinis, pirembugan mung mbukak yen loro-lorone wis padha seneng (sadurunge iku mung siji pesen cekak bareng seneng, sing mung bisa diwangsuli kanthi bales seneng), lan mbakyu bisa nglebokake mahram ing pirembugane. Profil nggawa sing penting sadurunge nikah: salat, madzhab, rencana bebrayan, anak lan pindhah.',
       },
       {
         q: 'Mahram kuwi apa lan carane nambahake?',
@@ -367,7 +367,7 @@ export const jv: Copy = {
       },
       {
         q: 'Apa Niyyah kuwi halal?',
-        a: 'Awake dhewe ora ngetokake fatwa lan ora ngaku disetujoni lembaga apa wae. Sing bisa dituduhake yaiku wates-wates sing dibangun ing aplikasi: sampeyan mung ndeleng lawan jinis, pirembugan mung mbukak yen loro pihak padha seneng, mahram bisa maca pirembugan, lan moderator mriksa komunitas. Nganggo niyat apa sampeyan nganggo, kuwi urusan sampeyan. Yen mangu-mangu, takokna marang imam sing sampeyan percaya.',
+        a: 'Awake dhewe ora ngetokake fatwa lan ora ngaku disetujoni lembaga apa wae. Sing bisa dituduhake yaiku wates-wates sing dibangun ing aplikasi: sampeyan mung ndeleng lawan jinis, pirembugan mung mbukak yen loro pihak padha seneng (sadurunge iku mung siji pesen cekak bareng seneng), mahram bisa maca pirembugan, lan moderator mriksa komunitas. Nganggo niyat apa sampeyan nganggo, kuwi urusan sampeyan. Yen mangu-mangu, takokna marang imam sing sampeyan percaya.',
       },
       {
         q: 'Pitakonan sadurunge pirembugan kuwi apa?',

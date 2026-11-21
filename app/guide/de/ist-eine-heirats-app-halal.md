@@ -42,7 +42,7 @@ Wenn eine App der Ehe dienen soll, dürfen ihre Grenzen nicht davon abhängen, w
 Niyyah ist um diese fünf Punkte gebaut, und sie sind keine Einstellungen, die man ausschalten kann:
 
 - **Entdecken zeigt nur das andere Geschlecht.** Das ist eine Regel des Servers, kein Filter.
-- **Nachrichten öffnen sich erst bei gegenseitigem Interesse.** Solange ihr euch nicht beide mögt, bleibt das Gespräch verschlossen. Aus Entdecken kannst du eine kurze Vorstellungsnachricht senden, aber sie wartet und kommt erst an, wenn ihr ein Match seid.
+- **Das Gespräch öffnet sich erst bei gegenseitigem Interesse.** Solange ihr euch nicht beide mögt, bleibt das Gespräch verschlossen. Mit einem Like kannst du eine kurze Nachricht senden; die andere Person kann sie lesen und nur mit einem Like zurück antworten. Eine Nachricht mit Telefonnummer, Benutzername oder Link wird abgelehnt, und eine Schwester, die neue Menschen nur mit ihrem Mahram kennenlernt, bekommt solche Nachrichten gar nicht.
 - **Ein Mahram im Gespräch.** Eine Schwester kann bis zu drei Menschen einladen — Vater, Bruder, Onkel oder Vormund —, die ihre Gespräche im Mahram-Portal sehen, aber nicht schreiben können.
 - **Fragen vor dem Gespräch.** Du stellst bis zu drei eigene Fragen; nach einem Match beantwortet die andere Person sie zuerst, und du entscheidest, ob sich das Gespräch öffnet. Mehr in [Fragen vor der Heirat im Islam](/de/ratgeber/fragen-vor-der-heirat).
 - **Eine moderierte Gemeinschaft.** Meldungen lesen echte Moderatoren, Beiträge in der Gemeinschaft werden vor dem Erscheinen geprüft, und Blockieren wirkt in beide Richtungen.

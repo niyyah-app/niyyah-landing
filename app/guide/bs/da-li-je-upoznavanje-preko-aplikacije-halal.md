@@ -42,7 +42,7 @@ Ako aplikacija treba služiti braku, granice ne bi smjele zavisiti samo od toga 
 Niyyah je građen oko tih pet tačaka, i one nisu stvar podešavanja koje neko može isključiti:
 
 - **Otkrivaj prikazuje samo suprotni spol.** To je pravilo servera, ne filter.
-- **Poruke se otvaraju tek na obostrani interes.** Dok se oboje ne lajkate, razgovor je zaključan. Iz Otkrivaj možeš poslati jednu kratku uvodnu poruku, ali ona čeka i stiže tek kad se spojite.
+- **Razgovor se otvara tek na obostrani interes.** Dok se oboje ne lajkate, razgovor je zaključan. Uz lajk možeš poslati jednu kratku poruku; druga osoba je može pročitati, a odgovoriti samo lajkom. Poruka s brojem telefona, korisničkim imenom ili linkom ne prolazi, a sestri koja razgovara samo uz mahrema takve poruke i ne stižu.
 - **Mahrem u razgovoru.** Sestra može pozvati do tri mahrema — oca, brata, amidžu, dajdžu ili staratelja — koji u Mahrem portalu vide njene razgovore, ali ne mogu pisati.
 - **Pitanja prije razgovora.** Postaviš do tri svoja pitanja; nakon podudaranja druga osoba prvo odgovori, a ti odlučiš hoće li se razgovor otvoriti. Više u tekstu [Pitanja prije braka](/vodic/pitanja-prije-braka).
 - **Moderirana zajednica.** Prijave čitaju stvarni moderatori, objave u zajednici prolaze pregled prije nego se pojave, a blokiranje djeluje u oba smjera.

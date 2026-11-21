@@ -4,7 +4,7 @@ export const tl: Copy = {
   meta: {
     title: 'Niyyah — Ang halal na app para makahanap ng mapapangasawa',
     description:
-      'Ang Niyyah ay app para sa mga Muslim na naghahanap ng kasal. Bumubukas lang ang mensahe kapag parehong interesado, puwedeng nasa usapan ang mahram, at binabantayan ng mga moderator ang komunidad. Libre, sa siyam na wika.',
+      'Ang Niyyah ay app para sa mga Muslim na naghahanap ng kasal. Bumubukas lang ang usapan kapag parehong interesado, puwedeng nasa usapan ang mahram, at binabantayan ng mga moderator ang komunidad. Libre, sa siyam na wika.',
     ogAlt: 'Niyyah: Kasal, hinahanap nang may layunin.',
   },
 
@@ -52,7 +52,7 @@ export const tl: Copy = {
     countdownUnits: ['araw', 'oras', 'minuto', 'segundo'],
     title: 'Kasal, hinahanap nang may layunin.',
     lead:
-      'Ang Niyyah ay app para sa mga Muslim na seryosong naghahanap ng mapapangasawa. Bumubukas lang ang mensahe kapag parehong interesado, puwedeng nasa usapan ang mahram, at ang app ang humahawak sa mga hangganan — hindi ikaw.',
+      'Ang Niyyah ay app para sa mga Muslim na seryosong naghahanap ng mapapangasawa. Bumubukas lang ang usapan kapag parehong interesado; kasabay ng like, puwede kang magpadala ng isang maikling mensahe. Puwedeng nasa usapan ang mahram, at ang app ang humahawak sa mga hangganan — hindi ikaw.',
     secondary: 'Paano gumagana ang mahram',
     micro: 'Libre. Nasa siyam na wika ang app.',
     imageAlt: 'Isang profile card sa Niyyah: pagdarasal, madhhab, mga plano sa kasal at porsiyento ng pagkakatugma.',
@@ -109,7 +109,7 @@ export const tl: Copy = {
       {
         word: 'Hangganan',
         title: 'Halal mismo sa disenyo',
-        body: 'Kasalungat na kasarian lamang. Mensahe lang kapag parehong interesado. Komunidad na sinusuri ng mga moderator. Ang app ang humahawak sa hangganan, hindi mo na kailangang bantayan.',
+        body: 'Kasalungat na kasarian lamang. Usapan lang kapag parehong interesado, isang maikling mensahe kasabay ng like. Komunidad na sinusuri ng mga moderator. Ang app ang humahawak sa hangganan, hindi mo na kailangang bantayan.',
       },
     ],
   },
@@ -165,7 +165,7 @@ export const tl: Copy = {
       },
       {
         title: 'Binubuksan ng dalawahang interes ang usapan',
-        body: 'Hangga’t hindi pa kayo parehong nagkagusto, nakakandado ang usapan. Kasama ang mga tanong mo bago ang unang mensahe.',
+        body: 'Hangga’t hindi pa kayo parehong nagkagusto, nakakandado ang usapan; kasabay ng like, puwede kang magpadala ng isang maikling mensahe. Dagdag pa ang mga tanong bago mag-usap.',
       },
       { title: 'Kasama mo ang pamilya', body: 'Mahram sa usapan, kahit kailan mo gusto.' },
     ],
@@ -359,7 +359,7 @@ export const tl: Copy = {
     items: [
       {
         q: 'Ano ang kaibhan ng Niyyah sa ibang dating app?',
-        a: 'Ginawa ang Niyyah para sa kasal, hindi para sa pag-scroll. Ipinapakita lang ng Tuklasin ang kasalungat na kasarian, bumubukas lang ang mensahe kapag parehong nagkagusto, at puwedeng isama ng kapatid na babae ang mahram sa kanyang mga usapan. Dala ng profile ang mahalaga bago ang nikah: pagdarasal, madhhab, mga plano sa kasal, mga anak at paglipat.',
+        a: 'Ginawa ang Niyyah para sa kasal, hindi para sa pag-scroll. Ipinapakita lang ng Tuklasin ang kasalungat na kasarian, bumubukas lang ang usapan kapag parehong nagkagusto (bago iyon, isang maikling mensahe lang kasabay ng like, na masasagot lang sa pag-like pabalik), at puwedeng isama ng kapatid na babae ang mahram sa kanyang mga usapan. Dala ng profile ang mahalaga bago ang nikah: pagdarasal, madhhab, mga plano sa kasal, mga anak at paglipat.',
       },
       {
         q: 'Ano ang mahram at paano ko siya idadagdag?',
@@ -367,7 +367,7 @@ export const tl: Copy = {
       },
       {
         q: 'Halal ba ang Niyyah?',
-        a: 'Hindi kami naglalabas ng fatwa at hindi kami nag-aangking inaprubahan ng kahit anong institusyon. Ang maipapakita namin ay ang mga hangganang nakabuo sa app: kasalungat na kasarian lang ang nakikita mo, bumubukas lang ang usapan kapag parehong interesado, puwedeng basahin ng mahram ang mga usapan, at sinusuri ng mga moderator ang komunidad. Nasa iyo kung anong layunin ang dala mo. Kung nag-aalinlangan ka, magtanong sa imam na pinagkakatiwalaan mo.',
+        a: 'Hindi kami naglalabas ng fatwa at hindi kami nag-aangking inaprubahan ng kahit anong institusyon. Ang maipapakita namin ay ang mga hangganang nakabuo sa app: kasalungat na kasarian lang ang nakikita mo, bumubukas lang ang usapan kapag parehong interesado (bago iyon, isang maikling mensahe lang kasabay ng like), puwedeng basahin ng mahram ang mga usapan, at sinusuri ng mga moderator ang komunidad. Nasa iyo kung anong layunin ang dala mo. Kung nag-aalinlangan ka, magtanong sa imam na pinagkakatiwalaan mo.',
       },
       {
         q: 'Ano ang mga tanong bago mag-usap?',

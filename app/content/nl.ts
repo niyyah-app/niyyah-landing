@@ -4,7 +4,7 @@ export const nl: Copy = {
   meta: {
     title: 'Niyyah — De halal app om een huwelijkspartner te vinden',
     description:
-      'Niyyah is een app voor moslims die op zoek zijn naar een huwelijk. Berichten gaan pas open bij wederzijdse interesse, een mahram kan meelezen in het gesprek, en de gemeenschap wordt gemodereerd. Gratis, in negen talen.',
+      'Niyyah is een app voor moslims die op zoek zijn naar een huwelijk. Een gesprek gaat pas open bij wederzijdse interesse, een mahram kan meelezen in het gesprek, en de gemeenschap wordt gemodereerd. Gratis, in negen talen.',
     ogAlt: 'Niyyah: een huwelijk, gezocht met intentie.',
   },
 
@@ -52,7 +52,7 @@ export const nl: Copy = {
     countdownUnits: ['dagen', 'uur', 'minuten', 'seconden'],
     title: 'Een huwelijk, gezocht met intentie.',
     lead:
-      'Niyyah is een app voor moslims die serieus een huwelijkspartner zoeken. Berichten gaan pas open bij wederzijdse interesse, een mahram kan meelezen in het gesprek, en de grenzen worden bewaakt door de app — niet door jou.',
+      'Niyyah is een app voor moslims die serieus een huwelijkspartner zoeken. Een gesprek gaat pas open bij wederzijdse interesse; met een like kun je één kort bericht sturen. Een mahram kan meelezen in het gesprek, en de grenzen worden bewaakt door de app — niet door jou.',
     secondary: 'Hoe de mahram werkt',
     micro: 'Gratis. De app is er in negen talen.',
     imageAlt: 'Een profielkaart in Niyyah: gebed, madhhab, huwelijksplannen en matchpercentage.',
@@ -109,7 +109,7 @@ export const nl: Copy = {
       {
         word: 'Grenzen',
         title: 'Halal door opzet',
-        body: 'Alleen het andere geslacht. Berichten pas bij wederzijdse interesse. Een gemeenschap die moderatoren nakijken. De grenzen worden bewaakt door de app; jij hoeft ze niet te bewaken.',
+        body: 'Alleen het andere geslacht. Een gesprek pas bij wederzijdse interesse, één kort bericht met een like. Een gemeenschap die moderatoren nakijken. De grenzen worden bewaakt door de app; jij hoeft ze niet te bewaken.',
       },
     ],
   },
@@ -165,7 +165,7 @@ export const nl: Copy = {
       },
       {
         title: 'Wederzijdse interesse opent het gesprek',
-        body: 'Zolang jullie elkaar niet beiden leuk vinden, blijft het gesprek op slot. Met jouw vragen voor het eerste bericht.',
+        body: 'Zolang jullie elkaar niet beiden leuk vinden, blijft het gesprek op slot; met een like kun je één kort bericht sturen. Plus jouw vragen voor het gesprek.',
       },
       { title: 'De familie is bij je', body: 'Een mahram in het gesprek, wanneer je dat wil.' },
     ],
@@ -360,7 +360,7 @@ export const nl: Copy = {
     items: [
       {
         q: 'Waarin verschilt Niyyah van andere datingapps?',
-        a: 'Niyyah is gebouwd voor het huwelijk, niet om te scrollen. Ontdekken laat alleen het andere geslacht zien, berichten gaan pas open als jullie elkaar beiden geliked hebben, en een zuster kan een mahram in haar gesprekken betrekken. Het profiel draagt wat van belang is voor de nikah: gebed, madhhab, huwelijksplannen, kinderen en verhuizen.',
+        a: 'Niyyah is gebouwd voor het huwelijk, niet om te scrollen. Ontdekken laat alleen het andere geslacht zien, een gesprek gaat pas open als jullie elkaar beiden geliked hebben (daarvoor alleen één kort bericht met een like, dat je alleen beantwoordt door terug te liken), en een zuster kan een mahram in haar gesprekken betrekken. Het profiel draagt wat van belang is voor de nikah: gebed, madhhab, huwelijksplannen, kinderen en verhuizen.',
       },
       {
         q: 'Wat is een mahram en hoe voeg ik die toe?',
@@ -368,7 +368,7 @@ export const nl: Copy = {
       },
       {
         q: 'Is Niyyah halal?',
-        a: 'We geven geen fatwa’s en beweren niet dat een instelling ons heeft goedgekeurd. Wat we kunnen laten zien zijn de grenzen die in de app zijn gebouwd: je ziet alleen het andere geslacht, een gesprek gaat alleen open bij wederzijdse interesse, een mahram kan gesprekken lezen, en moderatoren kijken de gemeenschap na. Met welke intentie je de app gebruikt blijft aan jou. Twijfel je, vraag een imam die je vertrouwt.',
+        a: 'We geven geen fatwa’s en beweren niet dat een instelling ons heeft goedgekeurd. Wat we kunnen laten zien zijn de grenzen die in de app zijn gebouwd: je ziet alleen het andere geslacht, een gesprek gaat alleen open bij wederzijdse interesse (daarvoor alleen één kort bericht met een like), een mahram kan gesprekken lezen, en moderatoren kijken de gemeenschap na. Met welke intentie je de app gebruikt blijft aan jou. Twijfel je, vraag een imam die je vertrouwt.',
       },
       {
         q: 'Wat zijn vragen voor het gesprek?',

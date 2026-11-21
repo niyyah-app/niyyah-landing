@@ -4,7 +4,7 @@ export const az: Copy = {
   meta: {
     title: 'Niyyah — Həyat yoldaşı tapmaq üçün halal tətbiq',
     description:
-      'Niyyah evlənmək istəyən müsəlmanlar üçün tətbiqdir. Mesajlar yalnız qarşılıqlı maraqla açılır, söhbətdə məhrəm ola bilər, icma isə nəzarət altındadır. Pulsuz, doqquz dildə.',
+      'Niyyah evlənmək istəyən müsəlmanlar üçün tətbiqdir. Söhbət yalnız qarşılıqlı maraqla açılır, söhbətdə məhrəm ola bilər, icma isə nəzarət altındadır. Pulsuz, doqquz dildə.',
     ogAlt: 'Niyyah: Niyyətlə axtarılan evlilik.',
   },
 
@@ -52,7 +52,7 @@ export const az: Copy = {
     countdownUnits: ['gün', 'saat', 'dəqiqə', 'saniyə'],
     title: 'Niyyətlə axtarılan evlilik.',
     lead:
-      'Niyyah ciddi şəkildə həyat yoldaşı axtaran müsəlmanlar üçün tətbiqdir. Mesajlar yalnız qarşılıqlı maraqla açılır, söhbətdə məhrəm ola bilər, hüdudları isə siz deyil, tətbiq saxlayır.',
+      'Niyyah ciddi şəkildə həyat yoldaşı axtaran müsəlmanlar üçün tətbiqdir. Söhbət yalnız qarşılıqlı maraqla açılır; bəyənmə ilə bir qısa mesaj göndərə bilərsiniz. Söhbətdə məhrəm ola bilər, hüdudları isə siz deyil, tətbiq saxlayır.',
     secondary: 'Məhrəm necə işləyir',
     micro: 'Pulsuz. Tətbiq doqquz dildədir.',
     imageAlt: 'Niyyah-da profil kartı: namaz, məzhəb, evlilik planları və uyğunluq faizi.',
@@ -109,7 +109,7 @@ export const az: Copy = {
       {
         word: 'Hüdudlar',
         title: 'Quruluşu etibarilə halal',
-        body: 'Yalnız əks cins. Mesajlar yalnız qarşılıqlı maraqla. Moderatorların baxdığı icma. Hüdudları tətbiq saxlayır, sizin qorumanıza ehtiyac yoxdur.',
+        body: 'Yalnız əks cins. Söhbət yalnız qarşılıqlı maraqla, bəyənmə ilə bir qısa mesaj. Moderatorların baxdığı icma. Hüdudları tətbiq saxlayır, sizin qorumanıza ehtiyac yoxdur.',
       },
     ],
   },
@@ -165,7 +165,7 @@ export const az: Copy = {
       },
       {
         title: 'Qarşılıqlı maraq söhbəti açır',
-        body: 'İkiniz bir-birinizi bəyənməyincə söhbət qapalı qalır. İlk mesajdan əvvəl sizin suallarınızla.',
+        body: 'İkiniz bir-birinizi bəyənməyincə söhbət qapalı qalır; bəyənmə ilə bir qısa mesaj göndərə bilərsiniz. Üstəlik söhbətdən əvvəl suallarınız.',
       },
       { title: 'Ailə yanınızdadır', body: 'İstədiyiniz vaxt söhbətdə bir məhrəm.' },
     ],
@@ -360,7 +360,7 @@ export const az: Copy = {
     items: [
       {
         q: 'Niyyah digər tanışlıq tətbiqlərindən nə ilə fərqlənir?',
-        a: 'Niyyah sürüşdürmək üçün deyil, evlilik üçün qurulub. Kəşf yalnız əks cinsi göstərir, mesajlar yalnız ikiniz bir-birinizi bəyəndikdə açılır, və bacı söhbətlərinə məhrəm qata bilər. Profil nikahdan əvvəl vacib olanı daşıyır: namazı, məzhəbi, evlilik planlarını, uşaqları və köçməyi.',
+        a: 'Niyyah sürüşdürmək üçün deyil, evlilik üçün qurulub. Kəşf yalnız əks cinsi göstərir, söhbət yalnız ikiniz bir-birinizi bəyəndikdə açılır (ondan əvvəl yalnız bəyənmə ilə bir qısa mesaj, ona yalnız qarşılıqlı bəyənmə ilə cavab vermək olar), və bacı söhbətlərinə məhrəm qata bilər. Profil nikahdan əvvəl vacib olanı daşıyır: namazı, məzhəbi, evlilik planlarını, uşaqları və köçməyi.',
       },
       {
         q: 'Məhrəm nədir və onu necə əlavə edirəm?',
@@ -368,7 +368,7 @@ export const az: Copy = {
       },
       {
         q: 'Niyyah halaldır?',
-        a: 'Fətva vermirik və heç bir qurumun təsdiqini iddia etmirik. Göstərə bildiyimiz tətbiqə qurulmuş hüdudlardır: yalnız əks cinsi görürsünüz, söhbət yalnız qarşılıqlı maraqla açılır, məhrəm söhbətləri oxuya bilir, icmaya isə moderatorlar baxır. Hansı niyyətlə işlətdiyiniz sizə qalır. Tərəddüd varsa, etibar etdiyiniz bir imamdan soruşun.',
+        a: 'Fətva vermirik və heç bir qurumun təsdiqini iddia etmirik. Göstərə bildiyimiz tətbiqə qurulmuş hüdudlardır: yalnız əks cinsi görürsünüz, söhbət yalnız qarşılıqlı maraqla açılır (ondan əvvəl yalnız bəyənmə ilə bir qısa mesaj), məhrəm söhbətləri oxuya bilir, icmaya isə moderatorlar baxır. Hansı niyyətlə işlətdiyiniz sizə qalır. Tərəddüd varsa, etibar etdiyiniz bir imamdan soruşun.',
       },
       {
         q: 'Söhbətdən əvvəl suallar nədir?',

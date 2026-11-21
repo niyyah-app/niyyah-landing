@@ -53,7 +53,7 @@ Nijedna aplikacija ne može obećati da prevaranata nema. Može im otežati posa
 
 - **Provjera lica.** Selfie od tri sekunde uporedi se sa slikama na profilu. Jasno podudaranje se odobrava odmah, a sve što nije jasno odlučuje osoba iz našeg tima. Profil koji prođe nosi oznaku **Provjeren profil**. Kako to ide, piše u tekstu [Provjera profila](/vodic/provjera-profila).
 - **Potvrđen broj telefona ili e-mail** prije ulaska u Otkrij.
-- **Razgovor tek na obostrani interes**, pa ti ne može pisati svako.
+- **Razgovor tek na obostrani interes.** Prije toga uz lajk ide najviše jedna kratka poruka, a broj telefona, korisničko ime ili link u njoj ne prolaze.
 - **Pitanja prije razgovora.** Postaviš do tri svoja pitanja, a druga osoba odgovori prije nego što se razgovor otvori.
 - **Prijave čitaju stvarni moderatori** koji mogu suspendovati i zabraniti profil, a zabranjen nalog se ne može jednostavno vratiti s novom adresom.
 - **Blokiranje djeluje u oba smjera.** Nestanete jedno drugom iz aplikacije.

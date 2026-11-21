@@ -4,7 +4,7 @@ export const ku: Copy = {
   meta: {
     title: 'Niyyah — Sepana helal ji bo dîtina hevjînê',
     description:
-      'Niyyah sepanek e ji bo misilmanên ku li zewacê digerin. Peyam tenê bi eleqeya herdu aliyan vedibin, mehrem dikare di axaftinê de be, û civak di bin çavdêriyê de ye. Belaş, bi neh zimanan.',
+      'Niyyah sepanek e ji bo misilmanên ku li zewacê digerin. Axaftin tenê bi eleqeya herdu aliyan vedibe, mehrem dikare di axaftinê de be, û civak di bin çavdêriyê de ye. Belaş, bi neh zimanan.',
     ogAlt: 'Niyyah: Zewac, ku bi niyetê tê gerîn.',
   },
 
@@ -52,7 +52,7 @@ export const ku: Copy = {
     countdownUnits: ['roj', 'saet', 'deqe', 'çirke'],
     title: 'Zewac, ku bi niyetê tê gerîn.',
     lead:
-      'Niyyah sepanek e ji bo misilmanên ku bi ciddî li hevjînê digerin. Peyam tenê bi eleqeya herdu aliyan vedibin, mehrem dikare di axaftinê de be, û sînoran sepan diparêze — ne tu.',
+      'Niyyah sepanek e ji bo misilmanên ku bi ciddî li hevjînê digerin. Axaftin tenê bi eleqeya herdu aliyan vedibe; bi ecibandinê re tu dikarî peyameke kurt bişînî. Mehrem dikare di axaftinê de be, û sînoran sepan diparêze — ne tu.',
     secondary: 'Mehrem çawa dixebite',
     micro: 'Belaş. Sepan bi neh zimanan e.',
     imageAlt: 'Qerta profîlê ya Niyyah: nimêj, mezheb, planên zewacê û rêjeya lihevhatinê.',
@@ -109,7 +109,7 @@ export const ku: Copy = {
       {
         word: 'Sînor',
         title: 'Bi avaniya xwe helal',
-        body: 'Tenê zayenda dijber. Peyam tenê bi eleqeya herdu aliyan. Civakeke ku çavdêr lê dinêrin. Sînoran sepan diparêze, ne hewce ye tu li wan binêrî.',
+        body: 'Tenê zayenda dijber. Axaftin tenê bi eleqeya herdu aliyan, peyameke kurt bi ecibandinê re. Civakeke ku çavdêr lê dinêrin. Sînoran sepan diparêze, ne hewce ye tu li wan binêrî.',
       },
     ],
   },
@@ -165,7 +165,7 @@ export const ku: Copy = {
       },
       {
         title: 'Eleqeya herdu aliyan axaftinê vedike',
-        body: 'Heta herdu hev hez nekin, axaftin girtî dimîne. Bi pirsên te berî peyama yekem.',
+        body: 'Heta herdu hev hez nekin, axaftin girtî dimîne; bi ecibandinê re tu dikarî peyameke kurt bişînî. Û pirs berî axaftinê.',
       },
       { title: 'Malbat bi te re ye', body: 'Mehremek di axaftinê de, kengî bixwazî.' },
     ],
@@ -359,7 +359,7 @@ export const ku: Copy = {
     items: [
       {
         q: 'Niyyah ji sepanên din ên nasînê bi çi cuda ye?',
-        a: 'Niyyah ji bo zewacê hatiye avakirin, ne ji bo şemitandinê. Keşf tenê zayenda dijber nîşan dide, peyam tenê dema herdu hev ecibandin vedibin, û xwişkek dikare mehremekê têxe nav axaftinên xwe. Profîl tiştê ku berî nikahê girîng e hildigire: nimêj, mezheb, planên zewacê, zarok û koçkirin.',
+        a: 'Niyyah ji bo zewacê hatiye avakirin, ne ji bo şemitandinê. Keşf tenê zayenda dijber nîşan dide, axaftin tenê dema herdu hev ecibandin vedibe (berî wê, tenê peyameke kurt bi ecibandinê re, ku bersiva wê tenê bi ecibandina li hember tê dayîn), û xwişkek dikare mehremekê têxe nav axaftinên xwe. Profîl tiştê ku berî nikahê girîng e hildigire: nimêj, mezheb, planên zewacê, zarok û koçkirin.',
       },
       {
         q: 'Mehrem çi ye û ez wî çawa lê zêde dikim?',
@@ -367,7 +367,7 @@ export const ku: Copy = {
       },
       {
         q: 'Ma Niyyah helal e?',
-        a: 'Em fetwayan dernaxin û em îdia nakin ku saziyekê em pejirandine. Tiştê ku em dikarin nîşan bidin sînorên ku di sepanê de hatine avakirin in: tu tenê zayenda dijber dibînî, axaftin tenê bi eleqeya herdu aliyan vedibe, mehrem dikare axaftinan bixwîne, û çavdêr li civakê dinêrin. Bi çi niyetê bikar tînî, ew ya te ye. Heke dudilî bî, ji îmamekî ku pê bawer dikî bipirse.',
+        a: 'Em fetwayan dernaxin û em îdia nakin ku saziyekê em pejirandine. Tiştê ku em dikarin nîşan bidin sînorên ku di sepanê de hatine avakirin in: tu tenê zayenda dijber dibînî, axaftin tenê bi eleqeya herdu aliyan vedibe (berî wê, tenê peyameke kurt bi ecibandinê re), mehrem dikare axaftinan bixwîne, û çavdêr li civakê dinêrin. Bi çi niyetê bikar tînî, ew ya te ye. Heke dudilî bî, ji îmamekî ku pê bawer dikî bipirse.',
       },
       {
         q: 'Pirsên berî axaftinê çi ne?',

@@ -4,7 +4,7 @@ export const so: Copy = {
   meta: {
     title: 'Niyyah — Abka xalaal ah oo lagu helo lamaane guur',
     description:
-      'Niyyah waa ab loogu talagalay Muslimiinta guur raadinaya. Fariimaha ma furma ilaa labada dhinac ay xiiseeyaan, maxram wuu ku jiri karaa wadahadalka, bulshadana waa la kormeeraa. Bilaash, sagaal luqad.',
+      'Niyyah waa ab loogu talagalay Muslimiinta guur raadinaya. Wadahadalku ma furmo ilaa labada dhinac ay xiiseeyaan, maxram wuu ku jiri karaa wadahadalka, bulshadana waa la kormeeraa. Bilaash, sagaal luqad.',
     ogAlt: 'Niyyah: Guur, oo niyad lagu raadiyo.',
   },
 
@@ -52,7 +52,7 @@ export const so: Copy = {
     countdownUnits: ['maalmood', 'saacadood', 'daqiiqo', 'ilbiriqsi'],
     title: 'Guur, oo niyad lagu raadiyo.',
     lead:
-      'Niyyah waa ab loogu talagalay Muslimiinta si dhab ah lamaane guur raadinaya. Fariimaha ma furma ilaa labada dhinac ay xiiseeyaan, maxram wuu ku jiri karaa wadahadalka, xadduudkana abka ayaa ilaaliya, adiga maaha.',
+      'Niyyah waa ab loogu talagalay Muslimiinta si dhab ah lamaane guur raadinaya. Wadahadalku ma furmo ilaa labada dhinac ay xiiseeyaan; jeclaysi waxaad la diri kartaa hal fariin oo gaaban. Maxram wuu ku jiri karaa wadahadalka, xadduudkana abka ayaa ilaaliya, adiga maaha.',
     secondary: 'Sida maxramku u shaqeeyo',
     micro: 'Bilaash. Abka waa sagaal luqad.',
     imageAlt: 'Kaadh profile ah Niyyah: salaadda, madhabta, qorshaha guurka iyo boqolkiiba isku-ekaanshaha.',
@@ -109,7 +109,7 @@ export const so: Copy = {
       {
         word: 'Xadduud',
         title: 'Xalaal naqshadda laftiisa',
-        body: 'Kaliya jinsiga ka duwan. Fariimo kaliya marka labada dhinac xiiseeyaan. Bulsho oo kormeerayaal eegaan. Xadduudka abka ayaa ilaaliya, adigu ma ilaalin.',
+        body: 'Kaliya jinsiga ka duwan. Wadahadal kaliya marka labada dhinac xiiseeyaan, hal fariin gaaban oo jeclaysi la socota. Bulsho oo kormeerayaal eegaan. Xadduudka abka ayaa ilaaliya, adigu ma ilaalin.',
       },
     ],
   },
@@ -165,7 +165,7 @@ export const so: Copy = {
       },
       {
         title: 'Xiiso labada dhinac ah ayaa wadahadalka furta',
-        body: 'Ilaa labadiinna is-jeclaataan, wadahadalku wuu xidhan yahay. Oo ay weheliso su’aalahaaga ka hor fariinta koowaad.',
+        body: 'Ilaa labadiinna is-jeclaataan, wadahadalku wuu xidhan yahay; jeclaysi waxaad la diri kartaa hal fariin oo gaaban. Iyo su’aalo wadahadalka ka hor.',
       },
       { title: 'Qoysku waa kula jiraa', body: 'Maxram wadahadalka ku jira, mar kasta oo aad doonto.' },
     ],
@@ -360,7 +360,7 @@ export const so: Copy = {
     items: [
       {
         q: 'Niyyah sidee ku kala duwan tahay abyada kale ee shukaansiga?',
-        a: 'Niyyah guur loo dhisay, wareejin maaha. Baadigoob wuxuu tusaa kaliya jinsiga ka duwan, fariimaha waxay furmaan kaliya marka labadiinna is jeclaataan, walaashuna waxay maxram ku darsan kartaa wadahadalladeeda. Profile wuxuu qaadaa waxa muhiim ah nikaaxa ka hor: salaadda, madhabta, qorshaha guurka, carruurta iyo u guurista.',
+        a: 'Niyyah guur loo dhisay, wareejin maaha. Baadigoob wuxuu tusaa kaliya jinsiga ka duwan, wadahadalku wuxuu furmaa kaliya marka labadiinna is jeclaataan (ka hor intaas, hal fariin gaaban oo jeclaysi la socota oo kaliya, oo looga jawaabo kaliya jeclaysi celin), walaashuna waxay maxram ku darsan kartaa wadahadalladeeda. Profile wuxuu qaadaa waxa muhiim ah nikaaxa ka hor: salaadda, madhabta, qorshaha guurka, carruurta iyo u guurista.',
       },
       {
         q: 'Maxram waa maxay oo sidee u darsadaa?',
@@ -368,7 +368,7 @@ export const so: Copy = {
       },
       {
         q: 'Niyyah ma xalaal baa?',
-        a: 'Fatwo ma soo saarno oo ma sheegayno in hay’ad ansixisay. Waxa aan tusi karno waa xadduudka ku dhex dhisan abka: waxaad aragtaa kaliya jinsiga ka duwan, wadahadalku wuxuu furmaa kaliya marka labada dhinac xiiseeyaan, maxramku wadahadallada wuu akhriyi karaa, kormeerayaalna bulshada way eegaan. Niyadda aad ku isticmaasho waa adiga iska leh. Haddii aad shakiyo, weydii imaam aad ku kalsoontahay.',
+        a: 'Fatwo ma soo saarno oo ma sheegayno in hay’ad ansixisay. Waxa aan tusi karno waa xadduudka ku dhex dhisan abka: waxaad aragtaa kaliya jinsiga ka duwan, wadahadalku wuxuu furmaa kaliya marka labada dhinac xiiseeyaan (ka hor intaas, hal fariin gaaban oo jeclaysi la socota oo kaliya), maxramku wadahadallada wuu akhriyi karaa, kormeerayaalna bulshada way eegaan. Niyadda aad ku isticmaasho waa adiga iska leh. Haddii aad shakiyo, weydii imaam aad ku kalsoontahay.',
       },
       {
         q: 'Su’aalaha wadahadalka ka hor waa maxay?',

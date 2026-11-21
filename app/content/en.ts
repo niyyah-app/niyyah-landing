@@ -4,7 +4,7 @@ export const en: Copy = {
   meta: {
     title: 'Niyyah — Muslim Marriage App: Find a Spouse the Halal Way',
     description:
-      'A halal Muslim marriage app for finding a spouse: messages open only on mutual interest, a mahram can join the chat, and the community is moderated. Free to join.',
+      'A halal Muslim marriage app for finding a spouse: a chat opens only on mutual interest, a mahram can join the chat, and the community is moderated. Free to join.',
     ogAlt: 'Niyyah: Marriage, sought with intention.',
   },
 
@@ -52,7 +52,7 @@ export const en: Copy = {
     countdownUnits: ['days', 'hours', 'minutes', 'seconds'],
     title: 'Marriage, sought with intention.',
     lead:
-      'Niyyah is a halal marriage app for Muslims who are seriously looking for a spouse. Messages open only on mutual interest, a mahram from her family can be in the conversation, and the app keeps the boundaries, so you do not have to.',
+      'Niyyah is a halal marriage app for Muslims who are seriously looking for a spouse. A chat opens only on mutual interest; with a like you can send one short message. A mahram from her family can be in the conversation, and the app keeps the boundaries, so you do not have to.',
     secondary: 'How the mahram feature works',
     micro: 'Free. In English, Bosnian and 7 more languages.',
     imageAlt: 'A Niyyah profile card: prayer, madhhab, marriage plans and compatibility score.',
@@ -109,7 +109,7 @@ export const en: Copy = {
       {
         word: 'Boundaries',
         title: 'Halal by design',
-        body: 'Opposite gender only. Messages only on mutual interest. A community reviewed by moderators. The app keeps the boundaries, you do not have to.',
+        body: 'Opposite gender only. Chat only on mutual interest, one short message with a like. A community reviewed by moderators. The app keeps the boundaries, you do not have to.',
       },
     ],
   },
@@ -165,7 +165,7 @@ export const en: Copy = {
       },
       {
         title: 'Mutual interest opens the chat',
-        body: 'Until you both like each other, the conversation stays locked. With your questions before the first message.',
+        body: 'Until you both like each other, the chat stays locked; with a like you can send one short message. Plus your questions before chatting.',
       },
       { title: 'Your family is with you', body: 'A mahram in the conversation, whenever you want.' },
     ],
@@ -359,7 +359,7 @@ export const en: Copy = {
     items: [
       {
         q: 'How is Niyyah different from other dating apps?',
-        a: 'Niyyah is built for marriage, not for scrolling. Discover shows only the opposite gender, messages open only when you both like each other, and a sister can bring a mahram into her conversations. A profile carries what matters before the nikah: prayer, madhhab, marriage plans, children and relocation.',
+        a: 'Niyyah is built for marriage, not for scrolling. Discover shows only the opposite gender, a chat opens only when you both like each other (before that, just one short message with a like, answered only by liking back), and a sister can bring a mahram into her conversations. A profile carries what matters before the nikah: prayer, madhhab, marriage plans, children and relocation.',
       },
       {
         q: 'What is a mahram and how do I add one?',
@@ -367,7 +367,7 @@ export const en: Copy = {
       },
       {
         q: 'Is Niyyah halal?',
-        a: 'We do not issue fatwas and we do not claim approval from any institution. What we can show you are the boundaries built into the app: you see only the opposite gender, a conversation opens only on mutual interest, a mahram can read conversations, and moderators review the community. The intention you bring to it is yours. If you are unsure, ask an imam you trust.',
+        a: 'We do not issue fatwas and we do not claim approval from any institution. What we can show you are the boundaries built into the app: you see only the opposite gender, a conversation opens only on mutual interest (before that, just one short message with a like), a mahram can read conversations, and moderators review the community. The intention you bring to it is yours. If you are unsure, ask an imam you trust.',
       },
       {
         q: 'What are questions before chatting?',

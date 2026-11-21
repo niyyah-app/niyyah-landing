@@ -4,7 +4,7 @@ export const wo: Copy = {
   meta: {
     title: 'Niyyah — App bu halal ngir gis sa jëkkër walla sa jabar',
     description:
-      'Niyyah ab app la ngir Jullit yi di wut takk. Bataaxal yi dañuy ubbiku rekk su ñaari wet yi bëggee, mahram mën na nekk ci waxtaan wi, te mbootaay gi dañu koy saytu. Dara du fay, ci juróom-ñeenti làkk.',
+      'Niyyah ab app la ngir Jullit yi di wut takk. Waxtaan wi dafay ubbiku rekk su ñaari wet yi bëggee, mahram mën na nekk ci waxtaan wi, te mbootaay gi dañu koy saytu. Dara du fay, ci juróom-ñeenti làkk.',
     ogAlt: 'Niyyah: Takk, bi ñuy wut ak niyyat.',
   },
 
@@ -52,7 +52,7 @@ export const wo: Copy = {
     countdownUnits: ['fan', 'waxtu', 'simili', 'saa'],
     title: 'Takk, bi ñuy wut ak niyyat.',
     lead:
-      'Niyyah ab app la ngir Jullit yi di wut ci lu wér kenn ku ñuy takk. Bataaxal yi dañuy ubbiku rekk su ñaari wet yi bëggee, mahram mën na nekk ci waxtaan wi, te app bi moo di sàmm digg yi, du yow.',
+      'Niyyah ab app la ngir Jullit yi di wut ci lu wér kenn ku ñuy takk. Waxtaan wi dafay ubbiku rekk su ñaari wet yi bëggee; ak sa bëgg mën nga yónne benn bataaxal bu gàtt. Mahram mën na nekk ci waxtaan wi, te app bi moo di sàmm digg yi, du yow.',
     secondary: 'Naka la mahram doxe',
     micro: 'Dara du fay. App bi ci juróom-ñeenti làkk la.',
     imageAlt: 'Kart bu profil ci Niyyah: julli, mazhab, xalaat yu takk ak limu màndargaayu.',
@@ -109,7 +109,7 @@ export const wo: Copy = {
       {
         word: 'Digg yi',
         title: 'Halal ci bopp tabaxam',
-        body: 'Lu bokkul ci sa xeet rekk. Bataaxal rekk su ñaari wet yi bëggee. Mbootaay gu ay saytukat di seet. App bi moo sàmm digg yi, war nga ko sàmm.',
+        body: 'Lu bokkul ci sa xeet rekk. Waxtaan rekk su ñaari wet yi bëggee, benn bataaxal bu gàtt ak bëgg. Mbootaay gu ay saytukat di seet. App bi moo sàmm digg yi, war nga ko sàmm.',
       },
     ],
   },
@@ -165,7 +165,7 @@ export const wo: Copy = {
       },
       {
         title: 'Bëgg-bëgg ci ñaari wet dafay ubbi waxtaan wi',
-        body: 'Ba ngeen di bëggante ñoom ñaar, waxtaan wi dafa tëdd. Ak say laaj laata bataaxal bu njëkk.',
+        body: 'Ba ngeen di bëggante ñoom ñaar, waxtaan wi dafa tëdd; ak sa bëgg mën nga yónne benn bataaxal bu gàtt. Ak laaj yi laata waxtaan.',
       },
       { title: 'Njaboot gi ànd ak yow', body: 'Mahram ci waxtaan wi, saa su nga ko bëggee.' },
     ],
@@ -359,7 +359,7 @@ export const wo: Copy = {
     items: [
       {
         q: 'Lan moo wuuteel Niyyah ak yeneen app yu xamante?',
-        a: 'Niyyah ñu ko tabax ngir takk, du ngir tegtale. Seetlu dafay won lu bokkul ci sa xeet rekk, bataaxal yi dañuy ubbiku rekk su ngeen bëggantee ñoom ñaar, te jigéen mën na dugal mahram ci ay waxtaanam. Profil bi dafay yóbbu li am solo laata nikaax: julli, mazhab, xalaat yu takk, doom ak toxu.',
+        a: 'Niyyah ñu ko tabax ngir takk, du ngir tegtale. Seetlu dafay won lu bokkul ci sa xeet rekk, waxtaan wi dafay ubbiku rekk su ngeen bëggantee ñoom ñaar (balaa loolu, benn bataaxal bu gàtt ak bëgg rekk, te mënees na ko tontu rekk ci delloo bëgg bi), te jigéen mën na dugal mahram ci ay waxtaanam. Profil bi dafay yóbbu li am solo laata nikaax: julli, mazhab, xalaat yu takk, doom ak toxu.',
       },
       {
         q: 'Lan mooy mahram te naka laa ko yokk?',
@@ -367,7 +367,7 @@ export const wo: Copy = {
       },
       {
         q: 'Ndax Niyyah halal la?',
-        a: 'Du ñu génne fatwa te du ñu wax ne am na kurél gu nu nangu. Li ñu mën won mooy digg yi ñu tabax ci app bi: gis nga lu bokkul ci sa xeet rekk, waxtaan dafay ubbiku rekk su ñaari wet yi bëggee, mahram mën na jàng waxtaan yi, te saytukat yi dañuy seet mbootaay gi. Ak ban niyyat ngay jëfandikoo, sa bopp la. Su nga amee werante, laajal benn imaam boo wóolu.',
+        a: 'Du ñu génne fatwa te du ñu wax ne am na kurél gu nu nangu. Li ñu mën won mooy digg yi ñu tabax ci app bi: gis nga lu bokkul ci sa xeet rekk, waxtaan dafay ubbiku rekk su ñaari wet yi bëggee (balaa loolu, benn bataaxal bu gàtt ak bëgg rekk), mahram mën na jàng waxtaan yi, te saytukat yi dañuy seet mbootaay gi. Ak ban niyyat ngay jëfandikoo, sa bopp la. Su nga amee werante, laajal benn imaam boo wóolu.',
       },
       {
         q: 'Lan mooy laaj yi laata waxtaan?',

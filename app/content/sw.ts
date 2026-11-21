@@ -4,7 +4,7 @@ export const sw: Copy = {
   meta: {
     title: 'Niyyah — Programu halali ya kutafuta mwenzi wa ndoa',
     description:
-      'Niyyah ni programu kwa Waislamu wanaotafuta ndoa. Ujumbe hufunguka tu pande zote mbili zikipendezwa, mahramu anaweza kuwa ndani ya mazungumzo, na jumuiya inasimamiwa. Bila malipo, kwa lugha tisa.',
+      'Niyyah ni programu kwa Waislamu wanaotafuta ndoa. Gumzo hufunguka tu pande zote mbili zikipendezwa, mahramu anaweza kuwa ndani ya mazungumzo, na jumuiya inasimamiwa. Bila malipo, kwa lugha tisa.',
     ogAlt: 'Niyyah: Ndoa, inayotafutwa kwa nia.',
   },
 
@@ -52,7 +52,7 @@ export const sw: Copy = {
     countdownUnits: ['siku', 'saa', 'dakika', 'sekunde'],
     title: 'Ndoa, inayotafutwa kwa nia.',
     lead:
-      'Niyyah ni programu kwa Waislamu wanaotafuta mwenzi wa ndoa kwa dhati. Ujumbe hufunguka tu pande zote mbili zikipendezwa, mahramu anaweza kuwa ndani ya mazungumzo, na mipaka inashikiliwa na programu, sio na wewe.',
+      'Niyyah ni programu kwa Waislamu wanaotafuta mwenzi wa ndoa kwa dhati. Gumzo hufunguka tu pande zote mbili zikipendezwa; pamoja na pendo unaweza kutuma ujumbe mmoja mfupi. Mahramu anaweza kuwa ndani ya mazungumzo, na mipaka inashikiliwa na programu, sio na wewe.',
     secondary: 'Jinsi mahramu hufanya kazi',
     micro: 'Bila malipo. Programu ipo kwa lugha tisa.',
     imageAlt: 'Kadi ya wasifu katika Niyyah: swala, madhehebu, mipango ya ndoa na asilimia ya kufanana.',
@@ -109,7 +109,7 @@ export const sw: Copy = {
       {
         word: 'Mipaka',
         title: 'Halali kwa muundo wenyewe',
-        body: 'Jinsia tofauti tu. Ujumbe tu pande zote mbili zikipendezwa. Jumuiya inayokaguliwa na wasimamizi. Mipaka inashikiliwa na programu, hulazimiki kuilinda.',
+        body: 'Jinsia tofauti tu. Gumzo tu pande zote mbili zikipendezwa, ujumbe mmoja mfupi pamoja na pendo. Jumuiya inayokaguliwa na wasimamizi. Mipaka inashikiliwa na programu, hulazimiki kuilinda.',
       },
     ],
   },
@@ -165,7 +165,7 @@ export const sw: Copy = {
       },
       {
         title: 'Kupendezwa kwa pande zote mbili hufungua mazungumzo',
-        body: 'Hadi mnapendana wote wawili, mazungumzo yanabaki yamefungwa. Pamoja na maswali yako kabla ya ujumbe wa kwanza.',
+        body: 'Hadi mnapendana wote wawili, mazungumzo yanabaki yamefungwa; pamoja na pendo unaweza kutuma ujumbe mmoja mfupi. Pia maswali kabla ya mazungumzo.',
       },
       { title: 'Familia iko nawe', body: 'Mahramu ndani ya mazungumzo, wakati wowote unapotaka.' },
     ],
@@ -360,7 +360,7 @@ export const sw: Copy = {
     items: [
       {
         q: 'Niyyah inatofautiana vipi na programu nyingine za uchumba?',
-        a: 'Niyyah imeundwa kwa ndoa, sio kwa kusogeza. Gundua inaonyesha jinsia tofauti pekee, ujumbe hufunguka tu mnapopendana wote wawili, na dada anaweza kumwingiza mahramu katika mazungumzo yake. Wasifu unabeba yenye maana kabla ya nikaa: swala, madhehebu, mipango ya ndoa, watoto na kuhamia.',
+        a: 'Niyyah imeundwa kwa ndoa, sio kwa kusogeza. Gundua inaonyesha jinsia tofauti pekee, gumzo hufunguka tu mnapopendana wote wawili (kabla ya hapo, ujumbe mmoja mfupi tu pamoja na pendo, unaojibiwa tu kwa kurudisha pendo), na dada anaweza kumwingiza mahramu katika mazungumzo yake. Wasifu unabeba yenye maana kabla ya nikaa: swala, madhehebu, mipango ya ndoa, watoto na kuhamia.',
       },
       {
         q: 'Mahramu ni nini na nimuongeze vipi?',
@@ -368,7 +368,7 @@ export const sw: Copy = {
       },
       {
         q: 'Niyyah ni halali?',
-        a: 'Hatutoi fatwa na hatudai kuidhinishwa na taasisi yoyote. Tunachoweza kuonyesha ni mipaka iliyojengwa ndani ya programu: unaona jinsia tofauti pekee, mazungumzo hufunguka tu pande zote mbili zikipendezwa, mahramu anaweza kusoma mazungumzo, na wasimamizi wanakagua jumuiya. Kwa nia gani unaitumia, hiyo ni juu yako. Ukiwa na shaka, muulize imamu unayemuamini.',
+        a: 'Hatutoi fatwa na hatudai kuidhinishwa na taasisi yoyote. Tunachoweza kuonyesha ni mipaka iliyojengwa ndani ya programu: unaona jinsia tofauti pekee, mazungumzo hufunguka tu pande zote mbili zikipendezwa (kabla ya hapo, ujumbe mmoja mfupi tu pamoja na pendo), mahramu anaweza kusoma mazungumzo, na wasimamizi wanakagua jumuiya. Kwa nia gani unaitumia, hiyo ni juu yako. Ukiwa na shaka, muulize imamu unayemuamini.',
       },
       {
         q: 'Maswali kabla ya mazungumzo ni nini?',

@@ -4,7 +4,7 @@ export const uz: Copy = {
   meta: {
     title: 'Niyyah — Turmush o‘rtog‘i topish uchun halol ilova',
     description:
-      'Niyyah nikohga intilgan musulmonlar uchun ilova. Xabarlar faqat ikki tomon qiziqsa ochiladi, suhbatda mahram bo‘lishi mumkin, jamoa esa nazorat ostida. Bepul, to‘qqiz tilda.',
+      'Niyyah nikohga intilgan musulmonlar uchun ilova. Suhbat faqat ikki tomon qiziqsa ochiladi, suhbatda mahram bo‘lishi mumkin, jamoa esa nazorat ostida. Bepul, to‘qqiz tilda.',
     ogAlt: 'Niyyah: Niyat bilan izlangan nikoh.',
   },
 
@@ -52,7 +52,7 @@ export const uz: Copy = {
     countdownUnits: ['kun', 'soat', 'daqiqa', 'soniya'],
     title: 'Niyat bilan izlangan nikoh.',
     lead:
-      'Niyyah jiddiy ravishda turmush o‘rtog‘i izlayotgan musulmonlar uchun ilova. Xabarlar faqat ikki tomon qiziqsa ochiladi, suhbatda mahram bo‘lishi mumkin, chegaralarni esa siz emas, ilova saqlaydi.',
+      'Niyyah jiddiy ravishda turmush o‘rtog‘i izlayotgan musulmonlar uchun ilova. Suhbat faqat ikki tomon qiziqsa ochiladi; yoqtirish bilan birga bitta qisqa xabar yuborishingiz mumkin. Suhbatda mahram bo‘lishi mumkin, chegaralarni esa siz emas, ilova saqlaydi.',
     secondary: 'Mahram qanday ishlaydi',
     micro: 'Bepul. Ilova to‘qqiz tilda.',
     imageAlt: 'Niyyah’dagi profil kartasi: namoz, mazhab, nikoh rejalari va moslik foizi.',
@@ -109,7 +109,7 @@ export const uz: Copy = {
       {
         word: 'Chegara',
         title: 'Tuzilishiga ko‘ra halol',
-        body: 'Faqat qarama-qarshi jins. Xabarlar faqat ikki tomon qiziqsa. Moderatorlar ko‘rib chiqadigan jamoa. Chegarani ilova saqlaydi, sizga qo‘riqlash shart emas.',
+        body: 'Faqat qarama-qarshi jins. Suhbat faqat ikki tomon qiziqsa, yoqtirish bilan bitta qisqa xabar. Moderatorlar ko‘rib chiqadigan jamoa. Chegarani ilova saqlaydi, sizga qo‘riqlash shart emas.',
       },
     ],
   },
@@ -165,7 +165,7 @@ export const uz: Copy = {
       },
       {
         title: 'O‘zaro qiziqish suhbatni ochadi',
-        body: 'Ikkovingiz bir-biringizni yoqtirmaguningizcha suhbat yopiq qoladi. Birinchi xabardan oldin savollaringiz bilan.',
+        body: 'Ikkovingiz bir-biringizni yoqtirmaguningizcha suhbat yopiq qoladi; yoqtirish bilan birga bitta qisqa xabar yuborishingiz mumkin. Yana suhbatdan oldin savollar.',
       },
       { title: 'Oila yoningizda', body: 'Xohlagan vaqtda suhbatda mahram.' },
     ],
@@ -360,7 +360,7 @@ export const uz: Copy = {
     items: [
       {
         q: 'Niyyah boshqa tanishuv ilovalaridan nimasi bilan farq qiladi?',
-        a: 'Niyyah surish uchun emas, nikoh uchun qurilgan. Kashf faqat qarama-qarshi jinsni ko‘rsatadi, xabarlar faqat ikkovingiz bir-biringizni yoqtirganda ochiladi, va singil suhbatlariga mahram qo‘shishi mumkin. Profil nikohdan oldin muhim bo‘lganini olib yuradi: namoz, mazhab, nikoh rejalari, farzandlar va ko‘chish.',
+        a: 'Niyyah surish uchun emas, nikoh uchun qurilgan. Kashf faqat qarama-qarshi jinsni ko‘rsatadi, suhbat faqat ikkovingiz bir-biringizni yoqtirganda ochiladi (undan oldin yoqtirish bilan faqat bitta qisqa xabar, unga faqat javoban yoqtirib javob berish mumkin), va singil suhbatlariga mahram qo‘shishi mumkin. Profil nikohdan oldin muhim bo‘lganini olib yuradi: namoz, mazhab, nikoh rejalari, farzandlar va ko‘chish.',
       },
       {
         q: 'Mahram nima va uni qanday qo‘shaman?',
@@ -368,7 +368,7 @@ export const uz: Copy = {
       },
       {
         q: 'Niyyah halolmi?',
-        a: 'Fatvo chiqarmaymiz va biror muassasa tasdiqini da’vo qilmaymiz. Ko‘rsatishimiz mumkin bo‘lgani — ilovaga qurilgan chegaralar: faqat qarama-qarshi jinsni ko‘rasiz, suhbat faqat o‘zaro qiziqishda ochiladi, mahram suhbatlarni o‘qiy oladi, jamoani esa moderatorlar ko‘rib chiqadi. Qanday niyat bilan foydalanishingiz o‘zingizga havola. Shubhangiz bo‘lsa, ishongan imomdan so‘rang.',
+        a: 'Fatvo chiqarmaymiz va biror muassasa tasdiqini da’vo qilmaymiz. Ko‘rsatishimiz mumkin bo‘lgani — ilovaga qurilgan chegaralar: faqat qarama-qarshi jinsni ko‘rasiz, suhbat faqat o‘zaro qiziqishda ochiladi (undan oldin yoqtirish bilan faqat bitta qisqa xabar), mahram suhbatlarni o‘qiy oladi, jamoani esa moderatorlar ko‘rib chiqadi. Qanday niyat bilan foydalanishingiz o‘zingizga havola. Shubhangiz bo‘lsa, ishongan imomdan so‘rang.',
       },
       {
         q: 'Suhbatdan oldin savollar nima?',

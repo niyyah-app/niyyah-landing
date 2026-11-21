@@ -39,7 +39,7 @@ Nema pravila koliko dugo treba dopisivanje da traje. Ali ako prođu mjeseci, a p
 
 Niyyah je napravljen tako da dopisivanje ostane u granicama bez da ih moraš stalno sam čuvati:
 
-- **Poruke se otvaraju tek na obostrani interes.** Dok se oboje ne lajkate, razgovor je zaključan, pa ti ne može pisati svako. Uvodna poruka čeka i stiže drugoj osobi tek kad se spojite.
+- **Razgovor se otvara tek na obostrani interes.** Dok se oboje ne lajkate, razgovor je zaključan. Prije toga uz lajk ide najviše jedna kratka poruka, bez broja telefona i linkova, a odgovara se samo lajkom.
 - **Pitanja prije razgovora.** Možeš postaviti do tri svoja pitanja na koja druga osoba odgovori prije nego što se razgovor otvori.
 - **Mahrem u razgovoru.** Sestra može pozvati do troje mahrema, koji razgovor prate u Mahrem portalu. U razgovoru jasno piše da ga njen mahrem čita, pa niko ne piše misleći da je sam.
 - **Korak ka porodicama.** Kad bilo ko od dvoje pritisne „Napravite sljedeći korak" i to kaže i druga strana, mahremi dobiju kontakt druge strane, da se porodice mogu čuti van aplikacije.

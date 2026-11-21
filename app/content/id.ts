@@ -4,7 +4,7 @@ export const id: Copy = {
   meta: {
     title: 'Niyyah — Aplikasi halal untuk mencari pasangan hidup',
     description:
-      'Aplikasi pernikahan halal untuk Muslim: pesan hanya terbuka bila kedua pihak tertarik, mahram bisa ikut dalam percakapan, komunitas dimoderasi. Gratis.',
+      'Aplikasi pernikahan halal untuk Muslim: percakapan hanya terbuka bila kedua pihak tertarik, mahram bisa ikut dalam percakapan, komunitas dimoderasi. Gratis.',
     ogAlt: 'Niyyah: Pernikahan, dicari dengan niat.',
   },
 
@@ -52,7 +52,7 @@ export const id: Copy = {
     countdownUnits: ['hari', 'jam', 'menit', 'detik'],
     title: 'Pernikahan, dicari dengan niat.',
     lead:
-      'Niyyah adalah aplikasi untuk Muslim yang serius mencari pasangan hidup. Pesan hanya terbuka bila kedua pihak tertarik, mahram bisa hadir dalam percakapan, dan batas-batasnya dijaga oleh aplikasi, bukan olehmu.',
+      'Niyyah adalah aplikasi untuk Muslim yang serius mencari pasangan hidup. Percakapan hanya terbuka bila kedua pihak tertarik; bersama suka kamu bisa mengirim satu pesan singkat. Mahram bisa hadir dalam percakapan, dan batas-batasnya dijaga oleh aplikasi, bukan olehmu.',
     secondary: 'Cara kerja mahram',
     micro: 'Gratis. Aplikasinya tersedia dalam sembilan bahasa.',
     imageAlt: 'Kartu profil di Niyyah: salat, mazhab, rencana pernikahan dan persentase kecocokan.',
@@ -109,7 +109,7 @@ export const id: Copy = {
       {
         word: 'Batas',
         title: 'Halal sejak rancangan',
-        body: 'Hanya lawan jenis. Pesan hanya bila kedua pihak tertarik. Komunitas yang ditinjau moderator. Batasnya dijaga aplikasi, kamu tak perlu menjaganya.',
+        body: 'Hanya lawan jenis. Percakapan hanya bila kedua pihak tertarik, satu pesan singkat bersama suka. Komunitas yang ditinjau moderator. Batasnya dijaga aplikasi, kamu tak perlu menjaganya.',
       },
     ],
   },
@@ -165,7 +165,7 @@ export const id: Copy = {
       },
       {
         title: 'Ketertarikan dua arah membuka percakapan',
-        body: 'Sebelum kalian saling menyukai, percakapan tetap terkunci. Disertai pertanyaanmu sebelum pesan pertama.',
+        body: 'Sebelum kalian saling menyukai, percakapan tetap terkunci; bersama suka kamu bisa mengirim satu pesan singkat. Ditambah pertanyaan sebelum percakapan.',
       },
       { title: 'Keluarga menyertaimu', body: 'Mahram dalam percakapan, kapan pun kamu mau.' },
     ],
@@ -359,7 +359,7 @@ export const id: Copy = {
     items: [
       {
         q: 'Apa yang membedakan Niyyah dari aplikasi pacaran lain?',
-        a: 'Niyyah dibangun untuk pernikahan, bukan untuk menggulir. Jelajahi hanya menampilkan lawan jenis, pesan baru terbuka bila kalian saling menyukai, dan seorang akhwat bisa menyertakan mahram dalam percakapannya. Profil memuat hal yang penting sebelum nikah: salat, mazhab, rencana pernikahan, anak dan kepindahan.',
+        a: 'Niyyah dibangun untuk pernikahan, bukan untuk menggulir. Jelajahi hanya menampilkan lawan jenis, percakapan baru terbuka bila kalian saling menyukai (sebelumnya hanya satu pesan singkat bersama suka, yang dibalas hanya dengan menyukai balik), dan seorang akhwat bisa menyertakan mahram dalam percakapannya. Profil memuat hal yang penting sebelum nikah: salat, mazhab, rencana pernikahan, anak dan kepindahan.',
       },
       {
         q: 'Apa itu mahram dan bagaimana menambahkannya?',
@@ -367,7 +367,7 @@ export const id: Copy = {
       },
       {
         q: 'Apakah Niyyah halal?',
-        a: 'Kami tidak mengeluarkan fatwa dan tidak mengaku disetujui lembaga mana pun. Yang bisa kami tunjukkan adalah batas-batas yang dibangun di dalam aplikasi: kamu hanya melihat lawan jenis, percakapan terbuka hanya bila kedua pihak tertarik, mahram bisa membaca percakapan, dan moderator meninjau komunitas. Dengan niat apa kamu memakainya, itu urusanmu. Bila ragu, tanyakan kepada imam yang kamu percayai.',
+        a: 'Kami tidak mengeluarkan fatwa dan tidak mengaku disetujui lembaga mana pun. Yang bisa kami tunjukkan adalah batas-batas yang dibangun di dalam aplikasi: kamu hanya melihat lawan jenis, percakapan terbuka hanya bila kedua pihak tertarik (sebelumnya hanya satu pesan singkat bersama suka), mahram bisa membaca percakapan, dan moderator meninjau komunitas. Dengan niat apa kamu memakainya, itu urusanmu. Bila ragu, tanyakan kepada imam yang kamu percayai.',
       },
       {
         q: 'Apa itu pertanyaan sebelum percakapan?',

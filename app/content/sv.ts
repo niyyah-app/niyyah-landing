@@ -4,7 +4,7 @@ export const sv: Copy = {
   meta: {
     title: 'Niyyah — Den halal appen för att hitta en livspartner',
     description:
-      'Niyyah är en app för muslimer som söker äktenskap. Meddelanden öppnas först vid ömsesidigt intresse, en mahram kan vara med i samtalet, och gemenskapen modereras. Gratis, på nio språk.',
+      'Niyyah är en app för muslimer som söker äktenskap. Ett samtal öppnas först vid ömsesidigt intresse, en mahram kan vara med i samtalet, och gemenskapen modereras. Gratis, på nio språk.',
     ogAlt: 'Niyyah: Äktenskap, sökt med avsikt.',
   },
 
@@ -52,7 +52,7 @@ export const sv: Copy = {
     countdownUnits: ['dagar', 'timmar', 'minuter', 'sekunder'],
     title: 'Äktenskap, sökt med avsikt.',
     lead:
-      'Niyyah är en app för muslimer som på allvar söker en livspartner. Meddelanden öppnas först vid ömsesidigt intresse, en mahram kan vara med i samtalet, och gränserna hålls av appen — inte av dig.',
+      'Niyyah är en app för muslimer som på allvar söker en livspartner. Ett samtal öppnas först vid ömsesidigt intresse; med ett gillande kan du skicka ett kort meddelande. En mahram kan vara med i samtalet, och gränserna hålls av appen — inte av dig.',
     secondary: 'Så fungerar mahram',
     micro: 'Gratis. Appen finns på nio språk.',
     imageAlt: 'Ett profilkort i Niyyah: bön, madhhab, planer för äktenskap och matchningsgrad.',
@@ -109,7 +109,7 @@ export const sv: Copy = {
       {
         word: 'Gränser',
         title: 'Halal i själva konstruktionen',
-        body: 'Bara motsatt kön. Meddelanden först vid ömsesidigt intresse. En gemenskap som moderatorer går igenom. Gränserna hålls av appen, du behöver inte vakta dem.',
+        body: 'Bara motsatt kön. Samtal först vid ömsesidigt intresse, ett kort meddelande med ett gillande. En gemenskap som moderatorer går igenom. Gränserna hålls av appen, du behöver inte vakta dem.',
       },
     ],
   },
@@ -165,7 +165,7 @@ export const sv: Copy = {
       },
       {
         title: 'Ömsesidigt intresse öppnar samtalet',
-        body: 'Så länge ni inte gillat varandra förblir samtalet låst. Med dina frågor före första meddelandet.',
+        body: 'Så länge ni inte gillat varandra förblir samtalet låst; med ett gillande kan du skicka ett kort meddelande. Plus dina frågor före samtalet.',
       },
       { title: 'Familjen är med dig', body: 'En mahram i samtalet, när du vill.' },
     ],
@@ -360,7 +360,7 @@ export const sv: Copy = {
     items: [
       {
         q: 'Vad skiljer Niyyah från andra dejtingappar?',
-        a: 'Niyyah är byggd för äktenskap, inte för svepande. Upptäck visar bara motsatt kön, meddelanden öppnas bara när ni båda gillat varandra, och en syster kan ta in en mahram i sina samtal. Profilen bär det som betyder något före nikah: bön, madhhab, planer för äktenskap, barn och flytt.',
+        a: 'Niyyah är byggd för äktenskap, inte för svepande. Upptäck visar bara motsatt kön, ett samtal öppnas bara när ni båda gillat varandra (innan dess bara ett kort meddelande med ett gillande, som bara kan besvaras genom att gilla tillbaka), och en syster kan ta in en mahram i sina samtal. Profilen bär det som betyder något före nikah: bön, madhhab, planer för äktenskap, barn och flytt.',
       },
       {
         q: 'Vad är en mahram och hur lägger jag till en?',
@@ -368,7 +368,7 @@ export const sv: Copy = {
       },
       {
         q: 'Är Niyyah halal?',
-        a: 'Vi utfärdar inga fatwor och hävdar inte att någon institution godkänt oss. Vad vi kan visa är gränserna som är byggda in i appen: du ser bara motsatt kön, ett samtal öppnas bara vid ömsesidigt intresse, en mahram kan läsa samtalen, och moderatorer går igenom gemenskapen. Med vilken avsikt du använder den är upp till dig. Är du osäker, fråga en imam du litar på.',
+        a: 'Vi utfärdar inga fatwor och hävdar inte att någon institution godkänt oss. Vad vi kan visa är gränserna som är byggda in i appen: du ser bara motsatt kön, ett samtal öppnas bara vid ömsesidigt intresse (innan dess bara ett kort meddelande med ett gillande), en mahram kan läsa samtalen, och moderatorer går igenom gemenskapen. Med vilken avsikt du använder den är upp till dig. Är du osäker, fråga en imam du litar på.',
       },
       {
         q: 'Vad är frågor före samtalet?',
