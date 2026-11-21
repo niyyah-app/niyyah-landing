@@ -53,7 +53,7 @@ jer oni često odlučuju hoće li sestra/kćerka uopće instalirati aplikaciju.
 
 | Prigovor | Odgovor (iz stvarnih funkcija) |
 |---|---|
-| "Aplikacija za upoznavanje je haram / nije za nas." | Halal po dizajnu: samo suprotni spol, poruke tek na obostrani interes, mahrem u razgovoru, moderirana zajednica. |
+| "Aplikacija za upoznavanje je haram / nije za nas." | Halal po dizajnu: samo suprotni spol, razgovor tek na obostrani interes (prije toga jedna kratka poruka uz lajk), mahrem u razgovoru, moderirana zajednica. |
 | "Šta će reći porodica?" | Porodica može biti *u* razgovoru — mahrem portal. |
 | "Bojim se lažnih profila i uznemiravanja." | Provjera fotografije, verifikacija telefona/emaila, Verified oznaka, prijave koje čitaju stvarni moderatori, obostrano blokiranje. |
 | "Bojim se za privatnost / lokaciju." | Tačna lokacija se nikad ne prikazuje; mapa se može isključiti; Discover se može pauzirati. |
@@ -105,10 +105,14 @@ Poređenje koje radi (koristiti oprezno, bez imenovanja konkurenata):
 ### 5.1 Halal po dizajnu
 - **Otkrivaj prikazuje samo suprotni spol.** Muškarci vide samo žene, žene samo
   muškarce — to je pravilo servera, ne filter koji se može isključiti.
-- **Poruke se otvaraju tek na obostrani interes.** Dok se oboje ne lajkate,
+- **Razgovor se otvara tek na obostrani interes.** Dok se oboje ne lajkate,
   razgovor je zaključan.
-- **Uvodna poruka s poštovanjem:** iz Otkrivaj možeš poslati jednu kratku
-  uvodnu poruku, ali ona *čeka* i stiže drugoj osobi tek kad se spojite.
+- **Jedna kratka poruka uz lajk** (ispravljeno 21.11.2026 — ranija verzija je
+  pogrešno tvrdila da poruka čeka do spoja): uz lajk se može poslati jedna
+  kratka poruka (coinsi ili kredit iz pozivnica); druga osoba je čita odmah i
+  besplatno, a odgovara samo lajkom. Broj, @korisničko ime ili link u njoj ne
+  prolaze; sestra koja s novima razgovara samo uz mahrema je ne dobija.
+  Na stranici nikad ne pisati „poruke tek na obostrani interes”.
 - Iz misije: "Nema prevlačenja radi zabave, nema anonimnog razgledanja suprotnog
   spola, nema funkcija koje imaju smisla samo izvan braka."
 
@@ -281,9 +285,9 @@ Primarni CTA: **preuzimanje aplikacije** (App Store / Google Play).
 - C: **Za one koji traže nikah, ne zabavu.** — polarizira, jasno filtrira publiku.
 
 **Podnaslov:**
-> Niyyah je aplikacija za muslimane koji ozbiljno traže bračnog druga. Poruke
-> se otvaraju tek na obostrani interes, mahrem može biti u razgovoru, a granice
-> drži aplikacija, ne ti.
+> Niyyah je aplikacija za muslimane koji ozbiljno traže bračnog druga. Razgovor
+> se otvara tek na obostrani interes; uz lajk možeš poslati jednu kratku poruku.
+> Mahrem može biti u razgovoru, a granice drži aplikacija, ne ti.
 
 **CTA:** "Preuzmi Niyyah" · sekundarni link: "Kako funkcioniše mahrem →"
 **Ispod CTA (mikrocopy):** "Besplatno. Na bosanskom i još 8 jezika."
@@ -301,7 +305,7 @@ postotak usklađenosti) — ne fotografija para koji se grli.
    Vremenski okvir za brak, djeca, selidba — prije prve poruke.
 2. **Porodica, ne sama** — Sestra može pozvati oca, brata ili staratelja da
    bude u njenim razgovorima.
-3. **Halal po dizajnu** — Samo suprotni spol. Poruke tek na obostrani interes.
+3. **Halal po dizajnu** — Samo suprotni spol. Razgovor tek na obostrani interes, uz lajk jedna kratka poruka.
    Zajednica koju pregledaju moderatori.
 
 ### 8.4 Spotlight: Mahrem (najveća sekcija)
@@ -383,7 +387,7 @@ Hercegovini." — kratko, iskreno, bez korporativnog tona.
 
 - **Title:** Niyyah — Halal aplikacija za pronalazak bračnog druga
 - **Meta description:** Niyyah je aplikacija za muslimane koji traže brak.
-  Poruke tek na obostrani interes, mahrem u razgovoru i moderirana zajednica.
+  Razgovor tek na obostrani interes (uz lajk jedna kratka poruka), mahrem u razgovoru i moderirana zajednica.
   Besplatno, na bosanskom i još 8 jezika.
 - **Ključne fraze:** halal upoznavanje, muslimanska aplikacija za brak, bračni
   drug musliman, upoznavanje za nikah, mahrem, muslimani BiH dijaspora.
