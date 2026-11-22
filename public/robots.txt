@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+# Cloudflare skriva e-mail adrese preko /cdn-cgi/l/email-protection; to nije stranica (Search Console 404, 22.11.2026).
+Disallow: /cdn-cgi/
 
 Sitemap: https://niyyahmarriage.com/sitemap_index.xml

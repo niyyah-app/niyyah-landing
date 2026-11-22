@@ -425,6 +425,16 @@ export const articles: GuideArticle[] = [
     updated: '2026-11-18',
   },
   {
+    key: 'prvi-susret',
+    locale: 'tr',
+    slug: 'evlilik-gorusmesi',
+    title: 'Evlilik görüşmesi: görücü usulü ilk görüşme nasıl yapılır',
+    description:
+      'Evlilik görüşmesi ve kız görme İslam\'da nasıl yapılır: görüşmek neden sünnettir, mahrem ve aileyle halvetsiz görüşme, nelere bakılır, ne konuşulur.',
+    published: '2026-11-22',
+    updated: '2026-11-22',
+  },
+  {
     key: 'dopisivanje',
     locale: 'bs',
     slug: 'dopisivanje-prije-braka',

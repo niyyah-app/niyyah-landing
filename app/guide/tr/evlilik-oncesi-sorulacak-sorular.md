@@ -19,6 +19,8 @@ Görücü usulüyle de, bir tanıdık aracılığıyla da, bir uygulamada tanı�
 - Evlilik için kendine bir zaman düşündün mü?
 - Ailen bu görüşmeden haberdar mı?
 
+Görüşmenin nasıl düzenleneceği, kimlerin geleceği ve nelere bakılacağı [Evlilik görüşmesi](/tr/rehber/evlilik-gorusmesi) yazısında anlatılıyor.
+
 İkinci ve üçüncü görüşmede aşağıdaki başlıklara geçilir: din, çocuklar, nerede yaşanacağı, para ve aile. İlk görüşmenin sorularına verilen cevaplar, hangi konunun daha derin konuşulması gerektiğini çoğu zaman kendiliğinden gösterir.
 
 ### Kız isteme öncesi ve sonrası
