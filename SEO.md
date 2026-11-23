@@ -52,7 +52,11 @@ dini nikâh u Turskoj — to i hanefijski minimum mehra treba pročitati imam.
 nakon razvoda, lažni profili, profil za brak, dijaspora u Njemačkoj i
 Austriji). Prva tri su vjerska i trebaju čitanje imama.
 
-Adrese: `/vodic`, `/en/guide`, `/de/ratgeber`, `/tr/rehber`. Landing ima
+23.11.2026: turski „Kız isteme" (tr/rehber/kiz-isteme) i prvi indonezijski
+članak „Ta'aruf" (id/panduan/taaruf). Indonezijski je time dobio vodič
+(`guideLocales`, `guideUi.id`, adresa `/id/panduan`); zasad samo taj članak.
+
+Adrese: `/vodic`, `/en/guide`, `/de/ratgeber`, `/tr/rehber`, `/id/panduan`. Landing ima
 sekciju „Vodič" prije FAQ-a, a podnožje link na vodič.
 
 ## Prije spajanja u `main` — važno

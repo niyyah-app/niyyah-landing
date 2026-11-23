@@ -16,7 +16,7 @@
  * fetvi. Vjerski članak navodi izvore i upućuje na imama.
  */
 
-export const guideLocales = ['bs', 'en', 'de', 'tr'] as const
+export const guideLocales = ['bs', 'en', 'de', 'tr', 'id'] as const
 export type GuideLocale = (typeof guideLocales)[number]
 
 export function isGuideLocale(code: string): code is GuideLocale {
@@ -435,6 +435,26 @@ export const articles: GuideArticle[] = [
     updated: '2026-11-22',
   },
   {
+    key: 'kiz-isteme',
+    locale: 'tr',
+    slug: 'kiz-isteme',
+    title: 'Kız isteme nasıl olur: hazırlık, neler konuşulur, söz ve nişan',
+    description:
+      'Kız isteme İslam\'da ve gelenekte nasıl yapılır: kızın rızası, hazırlık, o akşam neler konuşulur, mehir, söz ve nişanın nikâhtan farkı ve sınırlar.',
+    published: '2026-11-23',
+    updated: '2026-11-23',
+  },
+  {
+    key: 'taaruf',
+    locale: 'id',
+    slug: 'taaruf',
+    title: 'Ta\'aruf: arti, proses, dan pertanyaan sebelum menikah',
+    description:
+      'Panduan ta\'aruf dalam Islam: apa bedanya dengan pacaran, batasan syariat, proses langkah demi langkah sampai khitbah, dan pertanyaan yang perlu dibicarakan.',
+    published: '2026-11-23',
+    updated: '2026-11-23',
+  },
+  {
     key: 'dopisivanje',
     locale: 'bs',
     slug: 'dopisivanje-prije-braka',
@@ -596,5 +616,22 @@ export const guideUi: Record<
     sectionTitle: 'Nikâhtan önce gelen sorular.',
     sectionLead: 'Senin ve ailen için: İslam ne diyor ve bugün tanışırken bu nasıl görünüyor.',
     all: 'Tüm rehber',
+  },
+  id: {
+    name: 'Panduan',
+    title: 'Panduan menikah dengan niat',
+    lead: 'Pertanyaan yang muncul sebelum akad nikah: bagaimana ta\'aruf dijalankan, apa batasannya, apa yang ditanyakan sebelum menikah. Jawaban dengan sumber, bukan fatwa.',
+    metaDescription:
+      'Panduan bagi Muslim yang mencari pasangan hidup: ta\'aruf, khitbah, pertanyaan sebelum menikah, dan berkenalan dalam batas syariat. Jawaban dengan sumber.',
+    home: 'Beranda',
+    updated: 'Diperbarui',
+    minutes: 'menit baca',
+    contents: 'Dalam tulisan ini',
+    more: 'Lainnya dari panduan',
+    note: 'Kami tidak mengeluarkan fatwa. Tulisan ini menyebutkan sumbernya dan apa yang dikenal di kalangan ulama; untuk keadaanmu sendiri, tanyakan kepada ustadz atau imam yang kamu percaya.',
+    sectionKicker: 'Panduan',
+    sectionTitle: 'Pertanyaan sebelum akad nikah.',
+    sectionLead: 'Untukmu dan keluargamu: apa kata Islam, dan bagaimana praktiknya saat berkenalan hari ini.',
+    all: 'Semua panduan',
   },
 }

@@ -50,7 +50,7 @@ Görüntülü arama iyi bir başlangıçtır, ama nikâhtan önce mümkün olan 
 
 ## Görüşmeden sonra
 
-Cevap vermek için acele etme, ama uzatma da. Ailenle konuş ve kararı istihare ile Allah'a havale et. İstiharenin nasıl yapıldığı [İslam'da eş nasıl aranır](/tr/rehber/islamda-es-nasil-aranir) yazısında anlatılıyor. Olmayacaksa bunu güzelce ve zamanında söyle. Olacaksa bir sonraki adım ailelerin kız isteme ve nikâh hakkında konuşmasıdır; bkz. [Nikâh şartları](/tr/rehber/nikah-sartlari).
+Cevap vermek için acele etme, ama uzatma da. Ailenle konuş ve kararı istihare ile Allah'a havale et. İstiharenin nasıl yapıldığı [İslam'da eş nasıl aranır](/tr/rehber/islamda-es-nasil-aranir) yazısında anlatılıyor. Olmayacaksa bunu güzelce ve zamanında söyle. Olacaksa bir sonraki adım ailelerin kız isteme ve nikâh hakkında konuşmasıdır; bkz. [Kız isteme nasıl olur](/tr/rehber/kiz-isteme) ve [Nikâh şartları](/tr/rehber/nikah-sartlari).
 
 ## Niyyah'ta nasıl işliyor
 
