@@ -70,7 +70,7 @@ In Niyyah sieht das so aus:
 2. Sie lädt bis zu drei Menschen ein: Vater, Bruder, Onkel, Vormund oder einen anderen Mahram. Die Einladung kommt per E-Mail, und der Mahram nimmt sie in der App an.
 3. Im **Mahram-Portal** sieht der Mahram ihre Gespräche und Matches. Er liest nur: Er kann aus dem Portal nicht schreiben und nutzt die App nicht, um selbst jemanden kennenzulernen.
 
-Ein Mahram kann auf mehrere Personen achten, zum Beispiel ein Vater auf zwei Töchter. Die Funktion gibt es für Frauenprofile, und sie ist kostenlos. Die App erlaubt auch einen Vormund, weil nicht jede Schwester einen Vater oder Bruder an ihrer Seite hat; wo der Vormund im fiqh-Sinn kein Mahram ist, ist seine Rolle dieselbe — dass das Gespräch nicht verborgen bleibt. Mehr dazu im [Abschnitt über den Mahram auf der Niyyah-Seite](/de#mahrem).
+Ein Mahram kann auf mehrere Personen achten, zum Beispiel ein Vater auf zwei Töchter. Die Funktion gibt es für Frauenprofile, und sie ist kostenlos. Die App erlaubt auch einen Vormund, weil nicht jede Schwester einen Vater oder Bruder an ihrer Seite hat; wo der Vormund im fiqh-Sinn kein Mahram ist, ist seine Rolle dieselbe — dass das Gespräch nicht verborgen bleibt. Mehr dazu im [Abschnitt über den Mahram auf der Niyyah-Seite](/de#mahrem) und Schritt für Schritt in [Familie im Gespräch](/de/ratgeber/familie-und-mahram-in-der-app).
 
 ## Kurz gesagt
 

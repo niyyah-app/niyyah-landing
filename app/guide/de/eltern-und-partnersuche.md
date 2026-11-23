@@ -41,7 +41,7 @@ In der App Niyyah kann die Tochter in den Einstellungen „Mahram verlangen" ein
 - Ein Mahram kann auf mehrere Personen achten, zum Beispiel ein Vater auf zwei Töchter.
 - Die Funktion ist kostenlos und steht Frauenprofilen offen.
 
-So weißt du, mit wem sie schreibt und wie, ohne Geheimnisse — und sie steht nicht unter ständiger Aufsicht, mit jemandem, der ihr über die Schulter aufs Handy schaut. Für einen Kandidaten ist es ein klares Zeichen, dass sie es ernst meint und die Familie einbezogen ist. Mehr im [Abschnitt über den Mahram auf der Niyyah-Seite](/de#mahrem).
+So weißt du, mit wem sie schreibt und wie, ohne Geheimnisse — und sie steht nicht unter ständiger Aufsicht, mit jemandem, der ihr über die Schulter aufs Handy schaut. Für einen Kandidaten ist es ein klares Zeichen, dass sie es ernst meint und die Familie einbezogen ist. Mehr im [Abschnitt über den Mahram auf der Niyyah-Seite](/de#mahrem) und Schritt für Schritt in [Familie im Gespräch](/de/ratgeber/familie-und-mahram-in-der-app).
 
 Wenn du Mahram bist, ist der Rat einfach: Lies mit Vertrauen, nicht als Ermittler. Sprich mit ihr über das, was du siehst, und lass ihr den Raum, selbst zu entscheiden.
 

@@ -33,7 +33,7 @@ En büyük endişe genellikle kızın tanımadığı insanlarla yazışırken ya
 
 ## Niyyah'ta mahrem: anne baba için nasıl görünür
 
-Niyyah uygulamasında kızınız ayarlardan „Mahrem iste"yi açabilir ve en çok üç kişiyi davet edebilir: babasını, kardeşini, amcasını, dayısını, velisini ya da başka bir mahremini.
+Niyyah uygulamasında kızınız ayarlardan „Mahrem zorunlu kıl" seçeneğini açabilir ve en çok üç kişiyi davet edebilir: babasını, kardeşini, amcasını, dayısını, velisini ya da başka bir mahremini.
 
 - Davet e-postayla gelir, mahrem onu uygulamada kabul eder.
 - **Mahrem portalında** onun sohbetlerini ve eşleşmelerini görürsünüz.

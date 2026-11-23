@@ -2,13 +2,17 @@
 import { articlesIn, guideUi, type GuideLocale } from '~/guide/registry'
 
 defineI18nRoute({
-  locales: ['bs', 'en', 'de', 'tr', 'id'],
+  locales: ['bs', 'en', 'de', 'tr', 'id', 'fr', 'ms', 'ar', 'ur'],
   paths: {
     bs: '/vodic',
     en: '/guide',
     de: '/ratgeber',
     tr: '/rehber',
     id: '/panduan',
+    fr: '/guide-mariage',
+    ms: '/panduan-nikah',
+    ar: '/dalil',
+    ur: '/rehnumai',
   },
 })
 

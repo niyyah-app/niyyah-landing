@@ -5,13 +5,17 @@ import { parseMarkdown, plain } from '~/utils/markdown'
 // Vodič postoji samo na jezicima na kojima ima članaka. Ostalim jezicima ne
 // pravimo prazne adrese — to bi bile tanke stranice za tražilicu.
 defineI18nRoute({
-  locales: ['bs', 'en', 'de', 'tr', 'id'],
+  locales: ['bs', 'en', 'de', 'tr', 'id', 'fr', 'ms', 'ar', 'ur'],
   paths: {
     bs: '/vodic/[slug]',
     en: '/guide/[slug]',
     de: '/ratgeber/[slug]',
     tr: '/rehber/[slug]',
     id: '/panduan/[slug]',
+    fr: '/guide-mariage/[slug]',
+    ms: '/panduan-nikah/[slug]',
+    ar: '/dalil/[slug]',
+    ur: '/rehnumai/[slug]',
   },
 })
 

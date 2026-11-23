@@ -66,7 +66,7 @@ En basit cevap, ailesinden birinin mesajları görebilmesidir. Bazıları bunu b
 
 Niyyah'ta bu şöyle işler:
 
-1. Kadın ayarlardan „Mahrem iste"yi açar.
+1. Kadın ayarlardan „Mahrem zorunlu kıl" seçeneğini açar.
 2. En çok üç kişiyi davet eder: babası, kardeşi, amcası, dayısı, velisi ya da başka bir mahremi. Davet e-postayla gelir, mahrem onu uygulamada kabul eder.
 3. Mahrem, **Mahrem portalında** onun sohbetlerini ve eşleşmelerini görür. Sadece okur: portaldan yazamaz ve tanışma özelliklerini kullanmaz.
 

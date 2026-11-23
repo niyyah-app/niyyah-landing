@@ -42,6 +42,17 @@ export function plain(v: Inline[]): string {
 
 /** Sidro za naslov: „Ko je mahrem?" → „ko-je-mahrem". Radi i za ć, ş, ü… */
 export function slugify(s: string): string {
+  // Arapski i urdu naslovi (23.11.2026): latinično bi ostalo prazno (ili samo
+  // „niyyah"), pa sadržaj članka ne bi vodio nigdje. Slova pisma ostaju u id-u.
+  if (!/[\u0600-\u06FF]/.test(s)) return latinSlug(s)
+  return s
+    .normalize('NFC')
+    .toLowerCase()
+    .replace(/[^\p{L}\p{M}\p{N}]+/gu, '-')
+    .replace(/^-|-$/g, '')
+}
+
+function latinSlug(s: string): string {
   return s
     .normalize('NFKD')
     .replace(/[̀-ͯ]/g, '')

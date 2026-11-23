@@ -56,7 +56,20 @@ Austriji). Prva tri su vjerska i trebaju čitanje imama.
 članak „Ta'aruf" (id/panduan/taaruf). Indonezijski je time dobio vodič
 (`guideLocales`, `guideUi.id`, adresa `/id/panduan`); zasad samo taj članak.
 
-Adrese: `/vodic`, `/en/guide`, `/de/ratgeber`, `/tr/rehber`, `/id/panduan`. Landing ima
+23.11.2026 (vlasnik: „samo na one koje imamo u aplikaciji"): osnovnih 10
+članaka (mahrem, halal, pitanja, nikah, traženje, roditelji, mehr, provjera,
+porodica, izbor) na svih 9 jezika aplikacije. Novi jezici vodiča fr, ms, ar,
+ur; id dobio 10, tr 4, de 2. Pisano za svoju publiku, ne doslovno: ms i id
+šafijski (KHI, KUA, JAKIM), fr maliki uz hanefije i civilni brak u FR/BE/CH,
+ur hanefijski s nikah namom. Novi članci nemaju tvrdnji „besplatno" i brojeva
+dnevnih limita (stari bs/en/de ih još imaju — provjeriti prema coinsima).
+Kur'anski ajeti na arapskom u ar/ur provjereni prema tekstu mushafa (sve
+podudarno); hadisi na arapskom i dova istihare citirani su napamet — imam
+treba pročitati. `slugify` sad za arapsko pismo zadržava slova (inače prazni
+id-evi naslova).
+
+Adrese: `/vodic`, `/en/guide`, `/de/ratgeber`, `/tr/rehber`, `/id/panduan`,
+`/fr/guide-mariage`, `/ms/panduan-nikah`, `/ar/dalil`, `/ur/rehnumai`. Landing ima
 sekciju „Vodič" prije FAQ-a, a podnožje link na vodič.
 
 ## Prije spajanja u `main` — važno

@@ -84,7 +84,7 @@ Pada tahap ini keluarga biasanya membicarakan mahar, waktu akad, dan persiapan p
 
 ## Ta'aruf di Niyyah
 
-Niyyah adalah aplikasi pernikahan untuk Muslim yang dibuat agar proses berkenalan tetap dalam batas. Percakapan hanya terbuka jika kedua pihak tertarik. Perempuan bisa menyalakan **„Wajibkan mahram"** dan mengundang ayah, saudara laki-laki, atau wali; mereka melihat percakapan di portal mahram. Dengan **Pertanyaan sebelum percakapan**, kamu bisa menetapkan sampai tiga pertanyaan yang harus dijawab sebelum percakapan dibuka.
+Niyyah adalah aplikasi pernikahan untuk Muslim yang dibuat agar proses berkenalan tetap dalam batas. Percakapan hanya terbuka jika kedua pihak tertarik. Perempuan bisa menyalakan **„Wajibkan Mahram"** dan mengundang ayah, saudara laki-laki, atau wali; mereka melihat percakapan di portal mahram. Dengan **Pertanyaan sebelum mengobrol**, kamu bisa menetapkan sampai tiga pertanyaan yang harus dijawab sebelum percakapan dibuka.
 
 Ketika kalian merasa cocok, salah satu dari kalian bisa memilih **„Lanjut lebih jauh"**. Pihak lain tidak melihatnya sampai kalian berdua mengatakannya. Setelah itu, mahram masing-masing menerima nama dan kontak pihak lain lewat email, supaya keluarga bisa berbicara dan mengatur pertemuan. Jika belum punya mahram di Niyyah, kamu sendiri yang menerima kontak pihak lain. [Lihat cara kerja Niyyah](/id#kako).
 

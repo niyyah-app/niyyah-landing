@@ -32,7 +32,7 @@ Die Mahr, bei Bosniern Mehr und bei Türken Mehir genannt, ist die Brautgabe, di
 - **Ein Teil kann sofort gegeben und ein Teil aufgeschoben werden.** Der aufgeschobene Teil bleibt eine Schuld, die der Mann ihr schuldet.
 - **Man soll sie nicht übertreiben.** Die Höhe der Mahr ist kein Maß für den Wert der Ehe, und eine übertriebene Mahr wird schnell zur Last statt zum Geschenk.
 
-Über die Mahr spricht man am besten rechtzeitig, ruhig und ehrlich, nicht in letzter Minute vor dem Imam. Dabei hilft auch der Text [Fragen vor der Heirat im Islam](/de/ratgeber/fragen-vor-der-heirat).
+Über die Mahr spricht man am besten rechtzeitig, ruhig und ehrlich, nicht in letzter Minute vor dem Imam. Mehr dazu in [Mahr im Islam](/de/ratgeber/mahr-im-islam), und für das größere Gespräch [Fragen vor der Heirat im Islam](/de/ratgeber/fragen-vor-der-heirat).
 
 ## Was Sunna ist
 
